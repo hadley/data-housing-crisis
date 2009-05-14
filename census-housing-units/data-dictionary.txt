@@ -1,0 +1,36 @@
+HU-EST2007-[ST_FIPS]: Housing Unit Estimates for Counties of [State]: 
+April 1/2000 to July 1/2007
+
+
+File:   7/1/2007 Housing Unit Estimates File
+
+Source: Population Division, U.S. Census Bureau 
+Release Date:   August 21, 2008
+
+Sort order of observations: Counties in FIPS code sort within States
+
+Data fields (in order of which they appear):
+
+VARIABLE	DESCRIPTION
+
+SUMLEV		Geographic Summary Level
+STATE		State FIPS code
+COUNTY		County FIPS code
+CTYNAME		County Name
+HUCENSUS2000	Census 2000 housing units 
+HUESTBASE2000	April 1, 2000 housing unit estimates base			
+HUEST_2000	July 1, 2000 housing unit estimate
+HUEST_2001	July 1, 2001 housing unit estimate
+HUEST_2002	July 1, 2002 housing unit estimate
+HUEST_2003	July 1, 2003 housing unit estimate
+HUEST_2004	July 1, 2004 housing unit estimate
+HUEST_2005	July 1, 2005 housing unit estimate
+HUEST_2006	July 1, 2006 housing unit estimate
+HUEST_2007	July 1, 2007 housing unit estimate
+
+The key for SUMLEV is as follows:
+
+040 = State
+050 = County
+
+An "X" in the HUCENSUS2000 field indicates a locality that was formed or incorporated after Census 2000.
