@@ -1,0 +1,85 @@
+Data_Item                                             Item_Description                                            UnitDecimal US_Total   Minimum     Maximum     Source
+
+STATECOU  ANSI State and County code
+PST045208 Resident total population estimate (July 1) 2008                                                        ABS    0    304059724          42   304059724  CENSUS
+PST040200 Resident total population estimates base (April 1) 2000                                                 ABS    0    281424602          67   281424602  CENSUS
+PST120208 Resident total population estimate, percent change - April 1, 2000 to July 1, 2008                      PCT    1          8.0       -43.9        89.6  CENSUS
+PST110208 Resident total population estimate, net change - April 1, 2000 to July 1, 2008                          ABS    0     22635122     -172821    22635122  CENSUS
+POP010200 Resident population (April 1) 2000 (complete count)                                                     ABS    0    281421906          67   281421906  CENSUS
+AGE130207 Resident population under 5 years (July 1 - estimate) 2007                                              ABS    0     20724125           0    20724125  CENSUS
+AGE135207 Resident population under 5 years, percent (July 1 - estimate) 2007                                     PCT    1          6.9         0.0        13.3  CENSUS
+AGE290207 Resident population under 18 years (July 1 - estimate) 2007                                             ABS    0     73901733           1    73901733  CENSUS
+AGE295207 Resident population under 18 years, percent (July 1 - estimate) 2007                                    PCT    1         24.5         0.8        41.1  CENSUS
+AGE775207 Resident population 65 years and over, percent (July 1 - estimate) 2007                                 PCT    1         12.6         3.2        36.4  CENSUS
+AGE770207 Resident population 65 years and over (July 1 - estimate) 2007                                          ABS    0     37887958           9    37887958  CENSUS
+SEX255207 Resident population: total females, percent (July 1 - estimate) 2007                                    PCT    1         50.7        25.4        61.8  CENSUS
+RHI120207 Resident population: White alone (July 1 - estimate) 2007                                               ABS    0    241166890          49   241166890  CENSUS
+RHI220207 Resident population: Black alone (July 1 - estimate) 2007                                               ABS    0     38756452           0    38756452  CENSUS
+RHI320207 Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2007                   ABS    0      2938436           0     2938436  CENSUS
+RHI420207 Resident population: Asian alone (July 1 - estimate) 2007                                               ABS    0     13366154           0    13366154  CENSUS
+RHI520207 Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2007          ABS    0       537089           0      537089  CENSUS
+RHI620207 Resident population: Two or more races (July 1 - estimate) 2007                                         ABS    0      4856136           0     4856136  CENSUS
+RHI720207 Resident population: Hispanic or Latino Origin (July 1 - estimate) 2007                                 ABS    0     45504311           1    45504311  CENSUS
+RHI820207 Resident population: Not Hispanic, White alone (July 1 - estimate) 2007                                 ABS    0    199091567          43   199091567  CENSUS
+RHI125207 Resident population: White alone, percent (July 1 - estimate) 2007                                      PCT    1         80.0         5.8       100.0  CENSUS
+RHI225207 Resident population: Black alone, percent (July 1 - estimate) 2007                                      PCT    1         12.8         0.0        85.8  CENSUS
+RHI325207 Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2007          PCT    1          1.0         0.0        91.9  CENSUS
+RHI425207 Resident population: Asian alone, percent (July 1 - estimate) 2007                                      PCT    1          4.4         0.0        45.0  CENSUS
+RHI525207 Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2007 PCT    1          0.2         0.0        40.3  CENSUS
+RHI625207 Resident population: Two or more races, percent (July 1 - estimate) 2007                                PCT    1          1.6         0.0        25.7  CENSUS
+RHI725207 Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2007                        PCT    1         15.1         0.1        97.3  CENSUS
+RHI825207 Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2007                        PCT    1         66.0         2.1        99.4  CENSUS
+VST010205 Births 2005                                                                                             ABS    0      4138349           0     4138349  NCHS
+VST210205 Deaths 2005                                                                                             ABS    0      2448017           1     2448017  NCHS
+VST410205 Infant deaths under one year 2005                                                                       ABS    0        24833           2       24833  NCHS
+POP715200 Population 5 years and over by residence in 1995 - percent in same house 2000 (sample)                  PCT    1         54.1        15.4        90.5  CENSUS
+POP645200 Percent foreign born population 2000 (sample)                                                           PCT    1         11.1           0        50.9  CENSUS
+POP815200 Population 5 years and over, percent speaking language other than English at home 2000 (sample)         PCT    1         17.9         0.4        92.1  CENSUS
+EDU635200 Educational attainment - persons 25 years and over - percent high school graduate or higher 2000        PCT    1         80.4        34.7        97.0  CENSUS
+EDU685200 Educational attainment - persons 25 years and over - percent bachelor's degree or higher 2000           PCT    1         24.4         4.9        63.7  CENSUS
+POP905200 Civilian noninstitutionalized population, 5 years and over, with a disability 2000 (sample)             ABS    0     49746248          22    49746248  CENSUS
+LFE305200 Average travel time to work for workers 16 years and over not working at home 2000                      MIN    1         25.5        48.7           7  CENSUS
+HSG010207 Housing unit estimates as of July 1, 2007                                                               ABS    0    127901934          73   127901934  CENSUS
+HSG020207 Housing unit estimates - net change, April 1, 2000 (base) to July 1, 2007                               ABS    0     11997460     -103339    11997460  CENSUS
+HSG025207 Housing unit estimates - percent change, April 1, 2000 (base) to July 1, 2007                           PCT    1         10.4       -68.7        98.2  CENSUS
+HSG445200 Owner-occupied housing units - percent of total occupied housing units 2000 (complete count)            PCT    1         66.2         0.0        89.9  CENSUS
+HSG495200 Median value of specified owner-occupied housing units 2000 (sample)                                    DOL    0       119600           0     1000001  CENSUS
+HSG096200 Housing units by units in structure - multiple units 2000 (sample)                                      PCT    1         26.4         0.0        99.1  CENSUS
+HSD010200 Households 2000 (complete count)                                                                        ABS    0    105480101          31   105480101  CENSUS
+HSD310200 Persons per household 2000 (complete count)                                                             AVG    2         2.59        1.28        4.38  CENSUS
+INC910199 Per capita income in 1999                                                                               DOL    0        21587        5213       44962  CENSUS
+IPE010207 Median household income 2007                                                                            DOL    0        50740           0      107200  CENSUS
+IPE120207 People of all ages in poverty - percent 2007                                                            PCT    1         13.0         0.0        55.9  CENSUS
+PEN010206 Personal income 2006                                                                                    ML$    0     10968393           0    10968393  BEA
+PEN020206 Per capita personal income 2006                                                                         DOL    0        36714           0      110292  BEA
+CLF010207 Civilian labor force 2007                                                                               ABS    0    153124000           0   153124000  BLS
+CLF030207 Civilian labor force unemployment 2007                                                                  ABS    0      7078000           0     7078000  BLS
+CLF040207 Civilian labor force unemployment rate 2007                                                             RTE    1          4.6         0.0        20.3  BLS
+EMN010206 Employment in all industries (NAICS, no code) 2006                                                      ABS    0    178332900           0   178332900  BEA
+EMN012206 Employment in all industries, net change 2000 - 2006                                                    ABS    0     11574100     -161536    11574100  BEA
+GEN020206 Employment in government (NAICS 92) 2006                                                                ABS    0     24011000           0    24011000  BEA
+EAN010206 Earnings in all industries (NAICS, no code) 2006                                                        TH$    0   8432719000       -1265  8432719000  BEA
+EAN012206 Earnings in all industries (NAICS, no code), average earnings per job 2006                              TH$    0        47286       -3543      110941  BEA
+BZA010206 Private nonfarm establishments 2006                                                                     ABS    0      7601160           0     7601160  CENSUS
+BZA110206 Private nonfarm employment for pay period including March 12, 2006                                      ABS    0    119917165           0   119917165  CENSUS
+BZA115206 Private nonfarm employment for pay period including March 12, 2006, percent change 2000-2006            PCT    1          5.1       -65.1       213.0  CENSUS
+NES010206 Nonemployer: total (NAICS 00) - establishments, 2006                                                    ABS    0     20768555          13    20768555  CENSUS
+AFN120202 Accommodation and Food Services: total (NAICS 72) - sales of establishments with payroll 2002           TH$    0    449498718           0   449498718  CENSUS
+SBO001202 Total number of firms 2002                                                                              ABS    0     22974655          15    22974655  CENSUS
+SBO315202 Total Black-owned firms, percent 2002                                                                   PCT    1          5.2         0.1        70.8  CENSUS
+SBO115202 Total American Indian-and Alaska Native-owned firms, percent 2002                                       PCT    1          0.9         0.2        81.7  CENSUS
+SBO215202 Total Asian-owned firms, percent 2002                                                                   PCT    1          4.8         0.4        55.3  CENSUS
+SBO415202 Total Hispanic-owned firms, percent 2002                                                                PCT    1          6.8         0.4        86.1  CENSUS
+SBO515202 Total Native Hawaiian-and Other Pacific Islander-owned firms, percent 2002                              PCT    1          0.1         0.0        10.5  CENSUS
+SBO015202 Total women-owned firms, percent 2002                                                                   PCT    1         28.2         6.8        71.7  CENSUS
+MAN450202 Manufacturing: total (NAICS 31-33) - value of shipments 2002                                            TH$    0   3916136712       36391  3916136712  CENSUS
+WTN120202 Wholesale trade: total (NAICS 42) - sales of establishments with payroll 2002                           TH$    0   4634755112         668  4634755112  CENSUS
+RTN130202 Retail trade: total (NAICS 44-45) - sales of establishments with payroll 2002                           TH$    0   3056421997           0  3056421997  CENSUS
+RTN131202 Retail trade: total (NAICS 44-45) - sales of establishments with payroll per capita 2002                DOL    0        10615         171       79313  CENSUS
+BPS030207 New private housing units authorized by building permits - total 2007 (20,000-place universe)           ABS    0      1398414           0     1398414  CENSUS
+BPS130207 Valuation of new private housing units authorized by building permits 2007 (20,000-place universe)      TH$    0    225236613           0   225236613  CENSUS
+AGN050202 Land in farms (NAICS) 2002(acres)(not adjusted)                                                         ACR    0    938279056           0   938279056  NASS
+FED110207 Federal Government expenditure - total FY 2007                                                          TH$    0   2536629405         797  2536629405  CENSUS
+FED112207 Federal Government expenditure per capita FY 2007                                                       DOL    0         8410         656      170924  CENSUS
+LND110200 Land area in square miles 2000                                                                          SQM    2   3537438.44        1.99  3537438.44  CENSUS
+POP060200 Population per square mile 2000                                                                         RTE    1         79.6         0.0     66834.6  CENSUS
