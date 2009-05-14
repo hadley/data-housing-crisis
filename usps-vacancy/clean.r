@@ -1,6 +1,10 @@
 # source: http://www.huduser.org/datasets/usps.html
 # see download.r for script to get all
 
+# This is a good strategy to follow when the data are large (so keeping in git
+# is a pain), and there is little connection between the file name and name 
+# with a sensible naming convention
+
 library(foreign)
 vac <- read.dbf("vacancy-2009-01.dbf")
 names(vac) <- tolower(names(vac))
