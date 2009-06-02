@@ -65,12 +65,12 @@ BZA115206;employ_private_change;Private nonfarm employment for pay period includ
 NES010206;nonemployer;Nonemployer: total (NAICS 00) - establishments, 2006                                                   
 AFN120202;hospitality;Accommodation and Food Services: total (NAICS 72) - sales of establishments with payroll 2002          
 SBO001202;firms;Total number of firms 2002                                                                             
-SBO315202;firms_black;Total Black-owned firms, percent 2002                                                                  
-SBO115202;firms_indian;Total American Indian-and Alaska Native-owned firms, percent 2002                                      
-SBO215202;firms_asian;Total Asian-owned firms, percent 2002                                                                  
-SBO415202;firms_hispanic;Total Hispanic-owned firms, percent 2002                                                               
-SBO515202;firms_pi;Total Native Hawaiian-and Other Pacific Islander-owned firms, percent 2002                             
-SBO015202;firms_female;Total women-owned firms, percent 2002                                                                  
+SBO315202;firms_black_perc;Total Black-owned firms, percent 2002                                                                  
+SBO115202;firms_indian_perc;Total American Indian-and Alaska Native-owned firms, percent 2002                                      
+SBO215202;firms_asian_perc;Total Asian-owned firms, percent 2002                                                                  
+SBO415202;firms_hispanic_perc;Total Hispanic-owned firms, percent 2002                                                               
+SBO515202;firms_pi_perc;Total Native Hawaiian-and Other Pacific Islander-owned firms, percent 2002                             
+SBO015202;firms_female_perc;Total women-owned firms, percent 2002                                                                  
 MAN450202;manufact;Manufacturing: total (NAICS 31-33) - value of shipments 2002                                           
 WTN120202;trade_wholesale;Wholesale trade: total (NAICS 42) - sales of establishments with payroll 2002                          
 RTN130202;trade_retail;Retail trade: total (NAICS 44-45) - sales of establishments with payroll 2002                          
