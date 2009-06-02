@@ -1,5 +1,4 @@
 Data_Item                                             Item_Description                                            UnitDecimal US_Total   Minimum     Maximum     Source
-
 STATECOU  ANSI State and County code
 PST045208 Resident total population estimate (July 1) 2008                                                        ABS    0    304059724          42   304059724  CENSUS
 PST040200 Resident total population estimates base (April 1) 2000                                                 ABS    0    281424602          67   281424602  CENSUS

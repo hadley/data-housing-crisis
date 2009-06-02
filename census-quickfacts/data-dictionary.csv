@@ -1,0 +1,84 @@
+field;abbr;description
+ANSI;statecounty;ANSI State and County code
+PST045208;pop08;Resident total population estimate (July 1) 2008                                                       
+PST040200;pop00_est;Resident total population estimates base (April 1) 2000                                                
+PST120208;pop_change_perc;Resident total population estimate, percent change - April 1, 2000 to July 1, 2008                     
+PST110208;pop_change;Resident total population estimate, net change - April 1, 2000 to July 1, 2008                         
+POP010200;pop00;Resident population (April 1) 2000 (complete count)                                                    
+AGE130207;pop_under5;Resident population under 5 years (July 1 - estimate) 2007                                             
+AGE135207;pop_under5_perc;Resident population under 5 years, percent (July 1 - estimate) 2007                                    
+AGE290207;pop_under18;Resident population under 18 years (July 1 - estimate) 2007                                            
+AGE295207;pop_under18_perc;Resident population under 18 years, percent (July 1 - estimate) 2007                                   
+AGE775207;pop_over65;Resident population 65 years and over, percent (July 1 - estimate) 2007                                
+AGE770207;pop_over65_perc;Resident population 65 years and over (July 1 - estimate) 2007                                         
+SEX255207;pop_female;Resident population: total females, percent (July 1 - estimate) 2007                                   
+RHI120207;pop_white;Resident population: White alone (July 1 - estimate) 2007                                              
+RHI220207;pop_black;Resident population: Black alone (July 1 - estimate) 2007                                              
+RHI320207;pop_indian;Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2007                  
+RHI420207;pop_asian;Resident population: Asian alone (July 1 - estimate) 2007                                              
+RHI520207;pop_pi;Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2007         
+RHI620207;pop_multiracial;Resident population: Two or more races (July 1 - estimate) 2007                                        
+RHI720207;pop_hispanic;Resident population: Hispanic or Latino Origin (July 1 - estimate) 2007                                
+RHI820207;pop_nonhispanic;Resident population: Not Hispanic, White alone (July 1 - estimate) 2007                                
+RHI125207;pop_white_perc;Resident population: White alone, percent (July 1 - estimate) 2007                                     
+RHI225207;pop_black_perc;Resident population: Black alone, percent (July 1 - estimate) 2007                                     
+RHI325207;pop_indian_perc;Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2007         
+RHI425207;pop_asian_perc;Resident population: Asian alone, percent (July 1 - estimate) 2007                                     
+RHI525207;pop_pi_perc;Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2007
+RHI625207;pop_multiracial_perc;Resident population: Two or more races, percent (July 1 - estimate) 2007                               
+RHI725207;pop_hispanic_perc;Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2007                       
+RHI825207;pop_nothispanic_perc;Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2007                       
+VST010205;births;Births 2005                                                                                            
+VST210205;deaths;Deaths 2005                                                                                            
+VST410205;deaths_infact;Infant deaths under one year 2005                                                                      
+POP715200;same_house_perc;Population 5 years and over by residence in 1995 - percent in same house 2000 (sample)                 
+POP645200;foreign_born_perc;Percent foreign born population 2000 (sample)                                                          
+POP815200;foreign_lang_perc;Population 5 years and over, percent speaking language other than English at home 2000 (sample)        
+EDU635200;gse_perc;Educational attainment - persons 25 years and over - percent high school graduate or higher 2000       
+EDU685200;bachelor_perc;Educational attainment - persons 25 years and over - percent bachelor's degree or higher 2000          
+POP905200;disabled;Civilian noninstitutionalized population, 5 years and over, with a disability 2000 (sample)            
+LFE305200;travel_time;Average travel time to work for workers 16 years and over not working at home 2000                     
+HSG010207;houses07;Housing unit estimates as of July 1, 2007                                                              
+HSG020207;houses_change;Housing unit estimates - net change, April 1, 2000 (base) to July 1, 2007                              
+HSG025207;houses_change_perc;Housing unit estimates - percent change, April 1, 2000 (base) to July 1, 2007                          
+HSG445200;owner_occupied;Owner-occupied housing units - percent of total occupied housing units 2000 (complete count)           
+HSG495200;value00;Median value of specified owner-occupied housing units 2000 (sample)                                   
+HSG096200;units_in_structure;Housing units by units in structure - multiple units 2000 (sample)                                     
+HSD010200;household;Households 2000 (complete count)                                                                       
+HSD310200;household_size;Persons per household 2000 (complete count)                                                            
+INC910199;income_percap_99;Per capita income in 1999                                                                              
+IPE010207;income_hhold_07;Median household income 2007                                                                           
+IPE120207;poverty_perc;People of all ages in poverty - percent 2007                                                           
+PEN010206;income_personal_06;Personal income 2006                                                                                   
+PEN020206;income_percap_06;Per capita personal income 2006                                                                        
+CLF010207;laborforce;Civilian labor force 2007                                                                              
+CLF030207;unemploy;Civilian labor force unemployment 2007                                                                 
+CLF040207;unemploy_rate;Civilian labor force unemployment rate 2007                                                            
+EMN010206;employ_all;Employment in all industries (NAICS, no code) 2006                                                     
+EMN012206;employ_change;Employment in all industries, net change 2000 - 2006                                                   
+GEN020206;employ_govt;Employment in government (NAICS 92) 2006                                                               
+EAN010206;earnings;Earnings in all industries (NAICS, no code) 2006                                                       
+EAN012206;earnings_job;Earnings in all industries (NAICS, no code), average earnings per job 2006                             
+BZA010206;employers;Private nonfarm establishments 2006                                                                    
+BZA110206;employ_private;Private nonfarm employment for pay period including March 12, 2006                                     
+BZA115206;employ_private_change;Private nonfarm employment for pay period including March 12, 2006, percent change 2000-2006           
+NES010206;nonemployer;Nonemployer: total (NAICS 00) - establishments, 2006                                                   
+AFN120202;hospitality;Accommodation and Food Services: total (NAICS 72) - sales of establishments with payroll 2002          
+SBO001202;firms;Total number of firms 2002                                                                             
+SBO315202;firms_black;Total Black-owned firms, percent 2002                                                                  
+SBO115202;firms_indian;Total American Indian-and Alaska Native-owned firms, percent 2002                                      
+SBO215202;firms_asian;Total Asian-owned firms, percent 2002                                                                  
+SBO415202;firms_hispanic;Total Hispanic-owned firms, percent 2002                                                               
+SBO515202;firms_pi;Total Native Hawaiian-and Other Pacific Islander-owned firms, percent 2002                             
+SBO015202;firms_female;Total women-owned firms, percent 2002                                                                  
+MAN450202;manufact;Manufacturing: total (NAICS 31-33) - value of shipments 2002                                           
+WTN120202;trade_wholesale;Wholesale trade: total (NAICS 42) - sales of establishments with payroll 2002                          
+RTN130202;trade_retail;Retail trade: total (NAICS 44-45) - sales of establishments with payroll 2002                          
+RTN131202;trade_retail_percap;Retail trade: total (NAICS 44-45) - sales of establishments with payroll per capita 2002               
+BPS030207;houses_new;New private housing units authorized by building permits - total 2007 (20,000-place universe)          
+BPS130207;houses_new_value;Valuation of new private housing units authorized by building permits 2007 (20,000-place universe)     
+AGN050202;farms;Land in farms (NAICS) 2002(acres)(not adjusted)                                                        
+FED110207;govt_exp;Federal Government expenditure - total FY 2007                                                         
+FED112207;govt_exp_percap;Federal Government expenditure per capita FY 2007                                                      
+LND110200;area;Land area in square miles 2000                                                                         
+POP060200;popdens;Population per square mile 2000                                                                        
