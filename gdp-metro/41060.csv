@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"41060","St. Cloud, MN (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),5105,5414,5883,6540,6777,7035
+"41060","St. Cloud, MN (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),4473,4743,5189,5810,5993,6200
+"41060","St. Cloud, MN (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",210,"(D)",163
+"41060","St. Cloud, MN (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),81,97,110,200,174,155
+"41060","St. Cloud, MN (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",10,"(D)",9
+"41060","St. Cloud, MN (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),8,9,9,14,21,25
+"41060","St. Cloud, MN (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"41060","St. Cloud, MN (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),8,9,9,14,"(D)","(D)"
+"41060","St. Cloud, MN (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,"(D)","(D)"
+"41060","St. Cloud, MN (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",20,21,30
+"41060","St. Cloud, MN (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),338,369,381,409,420,434
+"41060","St. Cloud, MN (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1087,1055,1121,1308,1348,1377
+"41060","St. Cloud, MN (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),620,594,"(D)",705,682,"(D)"
+"41060","St. Cloud, MN (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",26,34,24,26
+"41060","St. Cloud, MN (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),97,104,98,115,108,103
+"41060","St. Cloud, MN (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),129,113,102,108,115,123
+"41060","St. Cloud, MN (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",46,56,77,91
+"41060","St. Cloud, MN (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),56,61,75,73,80,89
+"41060","St. Cloud, MN (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),45,42,48,51,52,45
+"41060","St. Cloud, MN (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),466,460,"(D)",603,667,"(D)"
+"41060","St. Cloud, MN (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),15,16,19,21,22,21
+"41060","St. Cloud, MN (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),345,356,360,404,381,394
+"41060","St. Cloud, MN (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),558,557,522,564,559,585
+"41060","St. Cloud, MN (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",188,191,209
+"41060","St. Cloud, MN (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),13,11,10,12,15,17
+"41060","St. Cloud, MN (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),1,1,4,5,4,3
+"41060","St. Cloud, MN (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),76,85,91,99,104,117
+"41060","St. Cloud, MN (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),1,1,1,"(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),142,205,219,233,271,261
+"41060","St. Cloud, MN (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",26,"(D)"
+"41060","St. Cloud, MN (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)",4,5,4,"(D)",3
+"41060","St. Cloud, MN (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),288,328,323,342,389,432
+"41060","St. Cloud, MN (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),204,211,205,"(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",57,"(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",61,"(D)",65,63
+"41060","St. Cloud, MN (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,"(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),285,322,597,679,717,693
+"41060","St. Cloud, MN (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",552,641,"(D)",663
+"41060","St. Cloud, MN (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",45,38,"(D)",30
+"41060","St. Cloud, MN (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",183
+"41060","St. Cloud, MN (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",49
+"41060","St. Cloud, MN (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),112,115,133,148,151,158
+"41060","St. Cloud, MN (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),105,107,125,138,140,146
+"41060","St. Cloud, MN (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),7,8,7,11,11,12
+"41060","St. Cloud, MN (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",101,108
+"41060","St. Cloud, MN (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",654,718
+"41060","St. Cloud, MN (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",325,"(D)"
+"41060","St. Cloud, MN (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),189,214,223,256,272,305
+"41060","St. Cloud, MN (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)",53,55,57,57,"(D)"
+"41060","St. Cloud, MN (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),22,25,26,30,31,34
+"41060","St. Cloud, MN (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",5,6,5,5
+"41060","St. Cloud, MN (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",21,24,26,29
+"41060","St. Cloud, MN (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),125,129,134,145,154,160
+"41060","St. Cloud, MN (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),31,28,29,31,29,30
+"41060","St. Cloud, MN (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),94,101,105,114,126,129
+"41060","St. Cloud, MN (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),157,170,171,174,176,186
+"41060","St. Cloud, MN (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),632,671,694,730,784,835
+"41060","St. Cloud, MN (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),137,142,146,162,177,193
+"41060","St. Cloud, MN (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),15,20,26,30,37,34
+"41060","St. Cloud, MN (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),480,510,521,539,570,607
+"41060","St. Cloud, MN (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",224,"(D)",189
+"41060","St. Cloud, MN (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),903,914,882,968,940,979
+"41060","St. Cloud, MN (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",208,212,239
+"41060","St. Cloud, MN (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),573,650,920,1020,1106,1125
+"41060","St. Cloud, MN (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",366,"(D)",390
+"41060","St. Cloud, MN (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",724,756,826
+"41060","St. Cloud, MN (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),147,154,160,175,185,193
+"41060","St. Cloud, MN (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),47,60,57,60,57,67
+"41060","St. Cloud, MN (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",1932,"(D)",1991
+"41060","St. Cloud, MN (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",3878,"(D)",4209
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"41060","St. Cloud, MN (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.292,110.826,119.376,120.032,120.842
+"41060","St. Cloud, MN (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.700,112.394,122.194,122.526,123.155
+"41060","St. Cloud, MN (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,130.860,129.115,196.217,205.803,193.535
+"41060","St. Cloud, MN (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.180,103.188,156.226,197.138,213.012
+"41060","St. Cloud, MN (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,143.742,65.757,71.655,28.435,33.514
+"41060","St. Cloud, MN (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.177,103.191,156.233,"(D)","(D)"
+"41060","St. Cloud, MN (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,"(D)","(D)"
+"41060","St. Cloud, MN (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.197,102.486,101.554,94.995,88.914
+"41060","St. Cloud, MN (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.949,104.462,121.305,117.316,115.433
+"41060","St. Cloud, MN (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.132,"(D)",114.533,108.302,"(D)"
+"41060","St. Cloud, MN (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.953,100.448,115.425,100.117,84.746
+"41060","St. Cloud, MN (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.194,79.364,81.710,83.422,88.114
+"41060","St. Cloud, MN (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.069,131.176,132.054,140.489,152.179
+"41060","St. Cloud, MN (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.826,104.103,112.636,114.795,100.799
+"41060","St. Cloud, MN (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.769,"(D)",130.348,129.218,"(D)"
+"41060","St. Cloud, MN (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.936,128.487,150.248,153.723,132.343
+"41060","St. Cloud, MN (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.841,102.705,109.056,99.193,99.216
+"41060","St. Cloud, MN (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.189,91.454,98.032,98.617,103.782
+"41060","St. Cloud, MN (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,78.147,74.074,79.583,90.119,117.334
+"41060","St. Cloud, MN (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.259,272.873,375.575,310.205,270.912
+"41060","St. Cloud, MN (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.474,114.334,120.721,122.971,135.093
+"41060","St. Cloud, MN (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.833,85.789,"(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,147.148,159.122,174.602,213.880,212.414
+"41060","St. Cloud, MN (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.070,106.895,109.291,122.045,132.036
+"41060","St. Cloud, MN (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.310,93.371,"(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,"(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.540,198.860,220.768,227.972,214.462
+"41060","St. Cloud, MN (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.747,115.159,124.270,122.078,122.117
+"41060","St. Cloud, MN (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.804,116.576,124.179,121.321,120.986
+"41060","St. Cloud, MN (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.937,95.512,124.794,131.669,136.890
+"41060","St. Cloud, MN (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.059,106.607,116.521,118.578,127.897
+"41060","St. Cloud, MN (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.598,112.822,124.948,126.665,133.511
+"41060","St. Cloud, MN (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.716,101.684,107.095,109.932,109.131
+"41060","St. Cloud, MN (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.875,92.795,95.164,82.570,85.057
+"41060","St. Cloud, MN (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.219,104.515,110.892,118.741,116.871
+"41060","St. Cloud, MN (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.351,101.131,99.883,95.254,96.375
+"41060","St. Cloud, MN (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.448,100.146,100.426,103.178,105.139
+"41060","St. Cloud, MN (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.087,95.161,97.925,103.042,107.977
+"41060","St. Cloud, MN (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,120.396,150.211,157.730,181.513,159.427
+"41060","St. Cloud, MN (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.104,99.954,99.242,100.537,102.471
+"41060","St. Cloud, MN (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.960,95.731,102.217,98.651,101.707
+"41060","St. Cloud, MN (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.302,152.545,164.635,174.636,172.953
+"41060","St. Cloud, MN (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.485,103.342,109.756,112.426,112.753
+"41060","St. Cloud, MN (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,129.650,125.106,136.988,130.327,153.759
+"41060","St. Cloud, MN (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"41060","St. Cloud, MN (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5105,5324,5658,6094,6128,6169
+"41060","St. Cloud, MN (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4473,4683,5027,5466,5481,5509
+"41060","St. Cloud, MN (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",169,"(D)",166
+"41060","St. Cloud, MN (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),81,107,105,160,168,158
+"41060","St. Cloud, MN (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",9,"(D)",8
+"41060","St. Cloud, MN (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,8,8,12,15,16
+"41060","St. Cloud, MN (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"41060","St. Cloud, MN (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,8,8,12,"(D)","(D)"
+"41060","St. Cloud, MN (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,"(D)","(D)"
+"41060","St. Cloud, MN (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",20,20,25
+"41060","St. Cloud, MN (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),338,352,346,343,321,300
+"41060","St. Cloud, MN (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1087,1075,1135,1318,1275,1255
+"41060","St. Cloud, MN (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),620,596,"(D)",711,672,"(D)"
+"41060","St. Cloud, MN (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",25,28,21,23
+"41060","St. Cloud, MN (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),97,102,98,112,97,82
+"41060","St. Cloud, MN (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),129,113,103,106,108,114
+"41060","St. Cloud, MN (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",46,57,78,91
+"41060","St. Cloud, MN (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),56,60,73,74,79,85
+"41060","St. Cloud, MN (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),45,41,47,51,52,45
+"41060","St. Cloud, MN (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),466,479,"(D)",608,603,"(D)"
+"41060","St. Cloud, MN (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15,16,19,22,23,20
+"41060","St. Cloud, MN (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),345,355,354,376,342,342
+"41060","St. Cloud, MN (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),558,547,510,547,550,579
+"41060","St. Cloud, MN (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",174,173,187
+"41060","St. Cloud, MN (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,10,10,11,12,16
+"41060","St. Cloud, MN (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,2,3,3,2
+"41060","St. Cloud, MN (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),76,83,87,92,94,103
+"41060","St. Cloud, MN (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,1,"(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),142,209,226,248,304,301
+"41060","St. Cloud, MN (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",28,"(D)"
+"41060","St. Cloud, MN (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",4,5,3,"(D)",3
+"41060","St. Cloud, MN (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),288,317,308,315,352,380
+"41060","St. Cloud, MN (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),204,201,191,"(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",64,"(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",55,"(D)",53,50
+"41060","St. Cloud, MN (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,"(D)","(D)","(D)"
+"41060","St. Cloud, MN (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),285,315,566,628,649,610
+"41060","St. Cloud, MN (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",519,588,"(D)",579
+"41060","St. Cloud, MN (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",43,35,"(D)",27
+"41060","St. Cloud, MN (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",168
+"41060","St. Cloud, MN (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",35
+"41060","St. Cloud, MN (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),112,112,130,140,137,137
+"41060","St. Cloud, MN (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),105,105,123,131,128,127
+"41060","St. Cloud, MN (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,7,7,9,10,10
+"41060","St. Cloud, MN (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",82,83
+"41060","St. Cloud, MN (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",582,624
+"41060","St. Cloud, MN (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",302,"(D)"
+"41060","St. Cloud, MN (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),189,201,202,221,225,242
+"41060","St. Cloud, MN (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",52,54,56,56,"(D)"
+"41060","St. Cloud, MN (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),22,24,25,27,28,29
+"41060","St. Cloud, MN (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",4,5,4,4
+"41060","St. Cloud, MN (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",20,23,24,25
+"41060","St. Cloud, MN (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),125,124,127,134,138,137
+"41060","St. Cloud, MN (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),31,28,29,29,25,26
+"41060","St. Cloud, MN (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),94,95,99,105,112,110
+"41060","St. Cloud, MN (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),157,163,159,157,150,152
+"41060","St. Cloud, MN (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),632,641,633,635,652,665
+"41060","St. Cloud, MN (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),137,133,130,134,141,148
+"41060","St. Cloud, MN (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15,18,22,24,27,24
+"41060","St. Cloud, MN (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),480,490,480,476,483,492
+"41060","St. Cloud, MN (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",181,"(D)",183
+"41060","St. Cloud, MN (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),903,902,864,923,890,918
+"41060","St. Cloud, MN (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",194,192,212
+"41060","St. Cloud, MN (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),573,632,873,943,1000,990
+"41060","St. Cloud, MN (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",345,"(D)",339
+"41060","St. Cloud, MN (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",656,663,706
+"41060","St. Cloud, MN (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),147,148,152,162,165,166
+"41060","St. Cloud, MN (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),47,61,58,64,61,72
+"41060","St. Cloud, MN (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",1829,"(D)",1722
+"41060","St. Cloud, MN (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",3636,"(D)",3788
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"41060","St. Cloud, MN (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),29736,30402,31785,33960,33769,33645
+"41060","St. Cloud, MN (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"41060","St. Cloud, MN (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

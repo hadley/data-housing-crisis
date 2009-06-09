@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),48445,50791,54106,57405,58878,62546
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),42649,44591,47541,50609,51795,55131
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),52,56,62,71,63,67
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),0,"(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),2335,"(D)",2624,2787,3100,3138
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),6962,7004,"(D)",7153,6345,"(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),5048,"(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",68,"(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),758,817,582,"(D)",753,"(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),335,247,252,268,287,316
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),480,"(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),65,100,"(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",1878,1938,1979,1544,1638
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),1913,"(D)",2031,"(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",3335,3445,"(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),3567,3855,3984,4110,4236,4274
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),12,10,14,9,5,"(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)",272,283,304,304,311
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",5,6,"(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),1695,1752,1922,2138,2275,2394
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),5401,5441,5777,6164,5980,6718
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",4194,4044,4562
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),1505,1380,1327,1446,1373,1502
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),5586,5969,6679,7254,7624,7996
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),"(D)",5613,6300,6881,7246,7637
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),"(D)",356,379,373,379,358
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",2513,2728,2857,3229
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",994,978,1216,1305
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",1217,1343,1450,1522
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",1160,"(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",183,"(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),805,878,932,1021,1093,1151
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),4368,4810,5133,5417,5668,5950
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),376,405,439,461,479,510
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),1343,1454,1526,1609,1678,1746
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",358
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",1388
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),1132,1226,1302,1334,1392,1429
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),5796,6200,6565,6796,7083,7415
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),860,924,967,1022,1040,1106
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),501,544,596,603,620,609
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),4435,4733,5002,5171,5423,5700
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)",359,380,435,480,467
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",7445,7680,"(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)",1933,2141,2342,2477,2805
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),10987,11410,12456,13418,13604,14714
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",4247,4724,5049,5522,6056
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),5174,5688,6066,6438,6762,7101
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),1719,1859,1965,2070,2157,2256
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),1523,1551,1719,1830,1827,1938
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),9372,9495,9565,10040,9540,10209
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),33277,35096,37975,40569,42255,44922
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.240,106.943,110.185,109.785,112.811
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.254,107.500,111.398,111.006,114.473
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,119.389,114.641,109.363,116.886,132.717
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,"(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",102.128,100.084,101.388,93.082
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.748,"(D)",104.598,91.185,"(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.322,77.345,"(D)",92.977,"(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,73.208,75.144,82.497,86.265,94.284
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,150.572,"(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",107.138,"(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.142,109.130,111.747,116.816,118.612
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,82.861,117.959,69.355,34.843,"(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.425,116.138,133.610,147.777,159.498
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.048,100.587,103.507,98.202,107.476
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.910,79.511,80.565,73.808,79.889
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.437,112.510,119.382,122.594,125.152
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.017,104.539,107.919,109.575,109.839
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.136,110.287,112.665,114.568,117.186
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.234,110.250,112.645,113.834,117.258
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.558,107.738,110.370,111.312,111.280
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.890,107.079,106.429,104.948,102.768
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.137,103.007,101.742,101.285,101.379
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.920,100.230,98.725,96.378,98.563
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.127,101.184,96.120,91.040,84.530
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.607,103.766,103.020,103.542,104.070
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.293,106.641,111.564,110.561,116.443
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.487,109.377,111.919,113.782,116.002
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.706,108.286,110.866,111.862,112.582
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.412,123.134,139.070,143.541,156.657
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.273,100.796,103.333,94.406,96.293
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.808,109.354,113.624,115.572,119.478
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),48445,49530,51808,53379,53185,54651
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),42649,43610,45847,47510,47343,48821
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),52,62,59,57,61,69
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,"(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2335,"(D)",2384,2337,2367,2173
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6962,7014,"(D)",7282,6348,"(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5048,"(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",65,"(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),758,813,586,"(D)",704,"(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),335,245,251,276,289,315
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),480,"(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),65,98,"(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",1827,1885,1964,1546,1655
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1913,"(D)",2050,"(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",3103,3096,"(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3567,3786,3892,3986,4166,4231
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),12,10,14,8,4,"(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",264,271,282,276,274
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",6,8,"(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1695,1770,1969,2265,2505,2704
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5401,5242,5433,5591,5304,5805
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",3809,3590,3888
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1505,1338,1196,1212,1110,1202
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5586,5778,6284,6668,6848,6991
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",5418,5918,6318,6508,6675
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",360,365,348,337,313
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",2449,2647,2689,2961
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",957,833,930,945
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",1183,1258,1317,1320
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",1098,"(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",159,"(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),805,822,842,869,882,885
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4368,4636,4818,4922,5005,5119
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),376,392,415,424,428,441
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1343,1391,1447,1482,1495,1494
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",310
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",1183
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1132,1177,1213,1205,1188,1164
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5796,5920,5970,5897,5870,5876
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),860,868,862,849,829,847
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),501,501,507,481,456,423
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4435,4551,4602,4569,4592,4616
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",368,377,404,454,426
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",7088,7255,"(D)"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",1942,2139,2284,2322,2423
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10987,11019,11717,12258,12147,12794
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",4158,4588,4726,4935,5212
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5174,5458,5659,5790,5887,6002
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1719,1783,1861,1906,1923,1935
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1523,1606,1876,2118,2186,2386
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9372,9398,9447,9684,8848,9025
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),33277,34211,36390,37811,38459,39759
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),30337,30771,32028,32993,33025,34065
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"39300","Providence-New Bedford-Fall River, RI-MA (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

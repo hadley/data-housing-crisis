@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"45060","Syracuse, NY (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),20232,20984,21606,22554,23381,24362
+"45060","Syracuse, NY (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),17845,18356,18819,19562,20211,21071
+"45060","Syracuse, NY (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",96,"(D)",91
+"45060","Syracuse, NY (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),90,52,63,83,82,76
+"45060","Syracuse, NY (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",13,"(D)",15
+"45060","Syracuse, NY (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",33,"(D)",46
+"45060","Syracuse, NY (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(L)","(L)","(L)","(L)"
+"45060","Syracuse, NY (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),2043,"(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),812,821,845,857,934,968
+"45060","Syracuse, NY (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),3091,3280,3098,2963,3014,3150
+"45060","Syracuse, NY (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),2107,2152,"(D)",1939,"(D)",1994
+"45060","Syracuse, NY (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),69,60,57,66,54,"(D)"
+"45060","Syracuse, NY (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),261,255,"(D)","(D)","(D)",325
+"45060","Syracuse, NY (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),235,227,218,242,233,238
+"45060","Syracuse, NY (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",386,"(D)","(D)"
+"45060","Syracuse, NY (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),271,309,265,"(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),145,"(D)",164,186,206,"(D)"
+"45060","Syracuse, NY (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),983,1128,"(D)",1023,"(D)",1156
+"45060","Syracuse, NY (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),144,153,"(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),94,81,80,83,81,91
+"45060","Syracuse, NY (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(L)","(D)"
+"45060","Syracuse, NY (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",123,116,106,108,119
+"45060","Syracuse, NY (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),1476,1454,1515,1598,1610,1667
+"45060","Syracuse, NY (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),1397,1478,1542,1605,1640,1620
+"45060","Syracuse, NY (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),482,"(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),53,37,"(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),12,6,7,5,10,15
+"45060","Syracuse, NY (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),1,"(L)",1,1,1,1
+"45060","Syracuse, NY (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),205,196,197,228,254,269
+"45060","Syracuse, NY (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),46,52,51,57,58,55
+"45060","Syracuse, NY (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",0,"(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),887,885,747,768,733,719
+"45060","Syracuse, NY (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),1443,1440,1477,1515,1508,1774
+"45060","Syracuse, NY (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),363,439,461,489,509,674
+"45060","Syracuse, NY (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),953,871,903,900,851,914
+"45060","Syracuse, NY (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),1253,1301,1504,1571,1731,1748
+"45060","Syracuse, NY (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),1064,1121,1320,1401,1547,1570
+"45060","Syracuse, NY (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),189,180,185,170,184,179
+"45060","Syracuse, NY (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",1089,1183,1303,1376,1423
+"45060","Syracuse, NY (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),"(D)",360,445,443,448,460
+"45060","Syracuse, NY (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",389,526,579,608,641
+"45060","Syracuse, NY (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),337,"(D)",444,496,521,550
+"45060","Syracuse, NY (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",81,83,86,91
+"45060","Syracuse, NY (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),897,985,1055,1080,1150,1216
+"45060","Syracuse, NY (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),97,106,108,111,114,121
+"45060","Syracuse, NY (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),38,41,42,41,38,39
+"45060","Syracuse, NY (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),59,66,66,71,76,83
+"45060","Syracuse, NY (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),500,516,528,563,579,596
+"45060","Syracuse, NY (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),128,132,128,143,133,129
+"45060","Syracuse, NY (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),372,384,400,420,447,467
+"45060","Syracuse, NY (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),477,489,523,527,550,574
+"45060","Syracuse, NY (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),2387,2627,2787,2992,3171,3291
+"45060","Syracuse, NY (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),334,340,360,377,374,389
+"45060","Syracuse, NY (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),54,63,74,72,81,74
+"45060","Syracuse, NY (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),1999,2225,2354,2542,2715,2828
+"45060","Syracuse, NY (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),129,88,104,129,134,137
+"45060","Syracuse, NY (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),2872,2933,3057,3203,3250,3287
+"45060","Syracuse, NY (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),2525,2462,2312,2534,2571,2711
+"45060","Syracuse, NY (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),2697,2741,2982,3086,3240,3522
+"45060","Syracuse, NY (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),1760,1838,2154,2325,2431,2523
+"45060","Syracuse, NY (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),2000,2197,2362,2497,2662,2763
+"45060","Syracuse, NY (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),597,622,635,674,694,717
+"45060","Syracuse, NY (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),638,842,604,606,625,641
+"45060","Syracuse, NY (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),4017,4175,4033,3936,4068,4239
+"45060","Syracuse, NY (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),13829,14181,14786,15626,16143,16832
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"45060","Syracuse, NY (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.969,103.455,104.880,105.528,106.184
+"45060","Syracuse, NY (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.504,103.004,104.231,104.736,105.606
+"45060","Syracuse, NY (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,63.643,66.813,73.944,87.882,86.068
+"45060","Syracuse, NY (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.511,94.627,88.518,87.861,82.599
+"45060","Syracuse, NY (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.193,103.622,99.733,100.265,103.659
+"45060","Syracuse, NY (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.543,"(D)",98.155,"(D)",100.757
+"45060","Syracuse, NY (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,85.283,82.234,93.605,70.242,"(D)"
+"45060","Syracuse, NY (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.854,"(D)","(D)","(D)",76.987
+"45060","Syracuse, NY (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.216,93.576,101.222,92.649,94.138
+"45060","Syracuse, NY (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,128.208,127.096,"(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",109.689,127.068,142.366,"(D)"
+"45060","Syracuse, NY (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.761,"(D)",103.111,"(D)",109.594
+"45060","Syracuse, NY (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.491,"(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,84.992,84.629,89.258,86.927,96.534
+"45060","Syracuse, NY (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.180,100.919,100.729,98.035,98.033
+"45060","Syracuse, NY (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.948,107.839,111.445,115.488,114.783
+"45060","Syracuse, NY (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,80.722,"(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,47.759,54.402,39.681,62.835,111.071
+"45060","Syracuse, NY (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,28.418,66.604,98.383,81.055,71.059
+"45060","Syracuse, NY (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.831,92.049,103.234,112.063,115.330
+"45060","Syracuse, NY (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.558,103.350,114.366,114.054,103.708
+"45060","Syracuse, NY (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.718,86.038,91.369,91.142,91.758
+"45060","Syracuse, NY (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.779,95.003,92.366,89.514,103.613
+"45060","Syracuse, NY (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.959,118.511,122.326,124.690,158.323
+"45060","Syracuse, NY (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.558,85.424,79.091,72.178,76.707
+"45060","Syracuse, NY (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.853,113.187,115.395,124.100,122.054
+"45060","Syracuse, NY (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.699,116.489,120.871,130.579,128.917
+"45060","Syracuse, NY (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.988,94.010,83.729,86.713,82.531
+"45060","Syracuse, NY (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",128.949,139.612,140.833,142.377
+"45060","Syracuse, NY (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.188,113.765,113.939,118.922,124.407
+"45060","Syracuse, NY (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.113,104.623,105.290,104.893,107.597
+"45060","Syracuse, NY (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.197,102.092,95.378,85.789,83.509
+"45060","Syracuse, NY (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.993,106.252,111.815,117.656,123.787
+"45060","Syracuse, NY (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.025,100.421,103.874,103.294,102.154
+"45060","Syracuse, NY (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.791,98.489,104.009,92.220,87.467
+"45060","Syracuse, NY (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.761,101.024,103.787,107.039,107.138
+"45060","Syracuse, NY (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.302,102.147,99.798,98.409,98.098
+"45060","Syracuse, NY (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.391,106.781,109.580,111.207,110.424
+"45060","Syracuse, NY (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.505,95.993,93.775,89.314,89.164
+"45060","Syracuse, NY (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.280,115.377,106.169,109.781,95.026
+"45060","Syracuse, NY (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.039,108.360,112.395,115.042,114.587
+"45060","Syracuse, NY (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,70.087,74.774,81.015,89.965,89.387
+"45060","Syracuse, NY (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.995,104.297,105.937,106.408,106.083
+"45060","Syracuse, NY (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.726,92.873,98.863,95.482,91.628
+"45060","Syracuse, NY (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.672,103.424,103.001,105.391,112.166
+"45060","Syracuse, NY (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.119,118.917,124.322,124.466,124.941
+"45060","Syracuse, NY (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.810,110.834,113.181,116.983,118.151
+"45060","Syracuse, NY (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.174,101.100,104.097,103.547,103.031
+"45060","Syracuse, NY (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,137.614,105.544,114.430,125.334,136.378
+"45060","Syracuse, NY (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.855,100.885,96.889,97.435,98.421
+"45060","Syracuse, NY (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.826,103.590,106.269,106.762,107.600
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"45060","Syracuse, NY (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),20232,20631,20932,21220,21351,21484
+"45060","Syracuse, NY (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17845,18114,18381,18600,18691,18846
+"45060","Syracuse, NY (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",79,"(D)",92
+"45060","Syracuse, NY (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),90,57,60,66,79,77
+"45060","Syracuse, NY (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",12,"(D)",14
+"45060","Syracuse, NY (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",24,"(D)",23
+"45060","Syracuse, NY (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(L)","(L)","(L)","(L)"
+"45060","Syracuse, NY (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2043,"(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),812,783,768,718,713,670
+"45060","Syracuse, NY (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3091,3313,3203,3083,3099,3204
+"45060","Syracuse, NY (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2107,2203,"(D)",2069,"(D)",2123
+"45060","Syracuse, NY (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),69,59,57,64,48,"(D)"
+"45060","Syracuse, NY (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),261,256,"(D)","(D)","(D)",201
+"45060","Syracuse, NY (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),235,226,220,238,218,221
+"45060","Syracuse, NY (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",397,"(D)","(D)"
+"45060","Syracuse, NY (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),271,348,345,"(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),145,"(D)",159,184,207,"(D)"
+"45060","Syracuse, NY (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),983,1109,"(D)",1014,"(D)",1078
+"45060","Syracuse, NY (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),144,155,"(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),94,80,80,84,82,91
+"45060","Syracuse, NY (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(L)","(D)"
+"45060","Syracuse, NY (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",122,118,111,111,110
+"45060","Syracuse, NY (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1476,1449,1489,1487,1447,1447
+"45060","Syracuse, NY (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1397,1452,1506,1556,1613,1603
+"45060","Syracuse, NY (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),482,"(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),53,43,"(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),12,6,7,5,8,14
+"45060","Syracuse, NY (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,"(L)",1,1,1,1
+"45060","Syracuse, NY (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),205,190,189,212,230,237
+"45060","Syracuse, NY (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),46,51,47,52,52,47
+"45060","Syracuse, NY (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",0,"(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),887,893,763,810,808,814
+"45060","Syracuse, NY (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1443,1397,1371,1333,1292,1495
+"45060","Syracuse, NY (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),363,417,430,444,452,574
+"45060","Syracuse, NY (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),953,844,814,754,688,731
+"45060","Syracuse, NY (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1253,1264,1419,1446,1556,1530
+"45060","Syracuse, NY (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1064,1082,1240,1286,1390,1372
+"45060","Syracuse, NY (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),189,182,178,158,164,156
+"45060","Syracuse, NY (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",1060,1155,1275,1309,1326
+"45060","Syracuse, NY (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",358,428,377,343,333
+"45060","Syracuse, NY (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",380,510,541,551,554
+"45060","Syracuse, NY (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),337,"(D)",434,470,474,479
+"45060","Syracuse, NY (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",76,72,77,76
+"45060","Syracuse, NY (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),897,970,1020,1022,1066,1116
+"45060","Syracuse, NY (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"45060","Syracuse, NY (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),97,103,102,102,102,104
+"45060","Syracuse, NY (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),38,39,39,36,33,32
+"45060","Syracuse, NY (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),59,64,63,66,69,73
+"45060","Syracuse, NY (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),500,495,502,519,516,510
+"45060","Syracuse, NY (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),128,132,126,133,118,112
+"45060","Syracuse, NY (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),372,363,375,386,398,398
+"45060","Syracuse, NY (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),477,469,487,476,469,468
+"45060","Syracuse, NY (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2387,2516,2549,2616,2655,2636
+"45060","Syracuse, NY (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),334,319,321,313,298,298
+"45060","Syracuse, NY (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),54,58,63,58,60,52
+"45060","Syracuse, NY (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1999,2139,2166,2246,2299,2290
+"45060","Syracuse, NY (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),129,90,96,104,116,115
+"45060","Syracuse, NY (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2872,2901,2996,3043,3056,3047
+"45060","Syracuse, NY (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2525,2493,2345,2496,2411,2314
+"45060","Syracuse, NY (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2697,2661,2789,2777,2842,3025
+"45060","Syracuse, NY (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1760,1797,2093,2188,2191,2199
+"45060","Syracuse, NY (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2000,2116,2217,2264,2340,2363
+"45060","Syracuse, NY (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),597,598,603,621,618,615
+"45060","Syracuse, NY (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),638,879,674,731,800,871
+"45060","Syracuse, NY (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4017,4172,4052,3892,3914,3953
+"45060","Syracuse, NY (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13829,13943,14325,14696,14764,14880
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"45060","Syracuse, NY (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),31147,31754,32164,32620,32953,33227
+"45060","Syracuse, NY (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"45060","Syracuse, NY (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

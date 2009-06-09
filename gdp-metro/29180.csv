@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"29180","Lafayette, LA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),10135,9346,10284,11158,12417,15385
+"29180","Lafayette, LA (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),9499,8650,9532,10363,11597,14483
+"29180","Lafayette, LA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),24,22,26,26,22,"(D)"
+"29180","Lafayette, LA (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),15,14,16,15,13,13
+"29180","Lafayette, LA (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),9,8,10,10,10,"(D)"
+"29180","Lafayette, LA (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),3007,2200,2906,3301,3893,5811
+"29180","Lafayette, LA (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",2079,"(D)"
+"29180","Lafayette, LA (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",6,"(D)"
+"29180","Lafayette, LA (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),1296,1128,1454,1494,1809,3388
+"29180","Lafayette, LA (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),49,50,41,50,56,64
+"29180","Lafayette, LA (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),369,367,399,400,453,479
+"29180","Lafayette, LA (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),427,452,439,504,606,748
+"29180","Lafayette, LA (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",493
+"29180","Lafayette, LA (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),10,12,"(D)",13,11,13
+"29180","Lafayette, LA (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(L)","(L)","(D)"
+"29180","Lafayette, LA (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),80,74,78,75,94,134
+"29180","Lafayette, LA (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",118,"(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),5,9,7,5,4,6
+"29180","Lafayette, LA (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,"(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",3,3,4,"(D)","(D)"
+"29180","Lafayette, LA (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),5,6,6,10,11,13
+"29180","Lafayette, LA (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",255
+"29180","Lafayette, LA (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",6,5,4
+"29180","Lafayette, LA (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),6,7,7,8,7,"(D)"
+"29180","Lafayette, LA (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),8,8,22,"(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),16,15,12,20,30,26
+"29180","Lafayette, LA (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),13,13,"(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),593,596,582,611,704,746
+"29180","Lafayette, LA (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),713,776,796,789,871,940
+"29180","Lafayette, LA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),283,263,303,290,286,334
+"29180","Lafayette, LA (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),34,39,71,73,50,56
+"29180","Lafayette, LA (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",22,24
+"29180","Lafayette, LA (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),73,88,93,110,121,138
+"29180","Lafayette, LA (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),5,5,"(D)","(D)",9,9
+"29180","Lafayette, LA (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),17,13,"(D)",11,14,18
+"29180","Lafayette, LA (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)",40,"(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),"(D)",23,20,17,17,15
+"29180","Lafayette, LA (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),187,226,243,295,338,357
+"29180","Lafayette, LA (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),2,2,2,2,4,6
+"29180","Lafayette, LA (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",11,13,15,18
+"29180","Lafayette, LA (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),265,319,332,362,375,407
+"29180","Lafayette, LA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),119,168,174,188,192,215
+"29180","Lafayette, LA (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),31,"(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),115,"(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(D)",8,10,14,17
+"29180","Lafayette, LA (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),1516,1199,1141,1239,1225,1413
+"29180","Lafayette, LA (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),997,"(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),519,"(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),477,495,534,591,675,"(D)"
+"29180","Lafayette, LA (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",296
+"29180","Lafayette, LA (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),200,189,192,180,214,260
+"29180","Lafayette, LA (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",36
+"29180","Lafayette, LA (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),36,"(D)",40,42,44,47
+"29180","Lafayette, LA (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),668,"(D)",793,865,936,1010
+"29180","Lafayette, LA (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",455,"(D)",541,607,646
+"29180","Lafayette, LA (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",270,269,285
+"29180","Lafayette, LA (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),38,41,48,54,60,80
+"29180","Lafayette, LA (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),53,62,"(D)",67,69,79
+"29180","Lafayette, LA (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),224,245,"(D)",275,315,379
+"29180","Lafayette, LA (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),41,52,"(D)",54,60,72
+"29180","Lafayette, LA (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),183,193,205,221,255,307
+"29180","Lafayette, LA (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),190,203,215,226,233,264
+"29180","Lafayette, LA (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),636,697,752,795,820,902
+"29180","Lafayette, LA (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),74,80,83,90,69,100
+"29180","Lafayette, LA (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),27,33,45,50,52,46
+"29180","Lafayette, LA (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),536,584,624,654,698,755
+"29180","Lafayette, LA (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),3031,2222,2931,3327,3915,"(D)"
+"29180","Lafayette, LA (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),1305,1373,1378,1400,1575,1686
+"29180","Lafayette, LA (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),333,313,345,340,342,399
+"29180","Lafayette, LA (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),1781,1518,1473,1602,1600,1820
+"29180","Lafayette, LA (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),895,910,954,1020,1170,"(D)"
+"29180","Lafayette, LA (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),704,758,833,907,980,1057
+"29180","Lafayette, LA (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),277,307,321,343,384,458
+"29180","Lafayette, LA (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),49,68,"(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),3818,3033,3759,4221,4965,"(D)"
+"29180","Lafayette, LA (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),5681,5617,5773,6142,6632,"(D)"
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"29180","Lafayette, LA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.698,89.020,91.567,90.938,105.093
+"29180","Lafayette, LA (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.621,87.757,90.398,89.825,104.459
+"29180","Lafayette, LA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.384,103.291,91.316,86.868,"(D)"
+"29180","Lafayette, LA (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.905,101.298,82.218,79.942,90.114
+"29180","Lafayette, LA (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,86.356,106.701,107.602,99.296,"(D)"
+"29180","Lafayette, LA (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,67.515,66.783,67.730,58.893,75.818
+"29180","Lafayette, LA (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,58.922,66.370,69.100,65.507,95.243
+"29180","Lafayette, LA (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.881,85.969,100.984,105.068,108.599
+"29180","Lafayette, LA (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.765,98.135,90.867,93.715,89.710
+"29180","Lafayette, LA (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.765,102.299,118.206,135.399,164.268
+"29180","Lafayette, LA (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,122.101,"(D)",137.108,100.207,105.914
+"29180","Lafayette, LA (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.746,97.824,92.412,110.402,155.318
+"29180","Lafayette, LA (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,210.991,203.947,163.093,160.371,260.873
+"29180","Lafayette, LA (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,"(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.453,121.896,198.204,225.490,255.887
+"29180","Lafayette, LA (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,124.438,109.880,134.481,128.086,"(D)"
+"29180","Lafayette, LA (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,176.374,304.329,"(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.032,75.799,117.729,164.620,135.108
+"29180","Lafayette, LA (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.203,"(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.240,96.512,95.916,106.746,109.259
+"29180","Lafayette, LA (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.936,109.137,107.335,120.274,130.518
+"29180","Lafayette, LA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.847,100.506,98.516,98.962,112.084
+"29180","Lafayette, LA (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,129.471,234.951,287.508,227.084,236.585
+"29180","Lafayette, LA (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,116.814,121.922,139.764,150.029,167.004
+"29180","Lafayette, LA (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.041,"(D)","(D)",163.732,161.755
+"29180","Lafayette, LA (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,67.547,"(D)",72.299,108.206,114.321
+"29180","Lafayette, LA (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,122.813,134.254,167.728,203.233,220.956
+"29180","Lafayette, LA (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,118.362,109.592,106.897,204.074,293.790
+"29180","Lafayette, LA (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,116.489,118.151,123.712,125.435,133.948
+"29180","Lafayette, LA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,134.546,136.649,144.049,143.701,154.007
+"29180","Lafayette, LA (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",1681.737,2029.881,2962.804,3789.367
+"29180","Lafayette, LA (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,77.683,71.343,75.495,72.268,81.402
+"29180","Lafayette, LA (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.715,107.979,118.158,130.060,"(D)"
+"29180","Lafayette, LA (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.553,93.659,85.446,97.127,113.344
+"29180","Lafayette, LA (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",99.203,98.954,99.227,100.436
+"29180","Lafayette, LA (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",112.669,119.362,125.894,133.167
+"29180","Lafayette, LA (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.209,124.920,141.277,155.915,202.756
+"29180","Lafayette, LA (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.957,"(D)",116.309,115.645,128.296
+"29180","Lafayette, LA (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.736,"(D)",113.097,125.040,144.565
+"29180","Lafayette, LA (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,126.595,"(D)",122.577,129.849,151.722
+"29180","Lafayette, LA (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.942,105.228,110.982,123.968,142.969
+"29180","Lafayette, LA (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.817,105.501,107.375,104.827,113.306
+"29180","Lafayette, LA (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.797,107.962,109.024,107.498,113.072
+"29180","Lafayette, LA (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.374,100.267,101.678,75.024,103.930
+"29180","Lafayette, LA (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.817,144.609,150.375,143.473,121.067
+"29180","Lafayette, LA (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.816,107.128,107.883,110.339,114.125
+"29180","Lafayette, LA (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,67.730,67.045,67.918,59.093,"(D)"
+"29180","Lafayette, LA (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.908,103.431,102.182,114.154,120.697
+"29180","Lafayette, LA (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.600,98.528,98.941,99.932,111.516
+"29180","Lafayette, LA (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,83.494,78.359,82.720,80.241,89.286
+"29180","Lafayette, LA (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.260,102.896,105.651,115.305,"(D)"
+"29180","Lafayette, LA (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.427,111.962,118.279,124.464,131.394
+"29180","Lafayette, LA (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.303,109.707,113.709,123.237,141.450
+"29180","Lafayette, LA (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,141.095,"(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,74.336,73.671,75.122,68.649,"(D)"
+"29180","Lafayette, LA (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.841,97.627,101.253,106.900,"(D)"
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"29180","Lafayette, LA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10135,8990,9023,9281,9217,10652
+"29180","Lafayette, LA (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9499,8323,8336,8587,8533,9923
+"29180","Lafayette, LA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),24,24,25,22,21,"(D)"
+"29180","Lafayette, LA (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15,15,15,12,12,14
+"29180","Lafayette, LA (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9,8,10,10,9,"(D)"
+"29180","Lafayette, LA (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3007,2030,2008,2036,1771,2280
+"29180","Lafayette, LA (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",898,"(D)"
+"29180","Lafayette, LA (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",4,"(D)"
+"29180","Lafayette, LA (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1296,763,860,895,849,1234
+"29180","Lafayette, LA (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),49,51,43,50,52,54
+"29180","Lafayette, LA (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),369,350,362,336,346,331
+"29180","Lafayette, LA (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),427,451,437,504,578,701
+"29180","Lafayette, LA (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",488
+"29180","Lafayette, LA (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,12,"(D)",13,10,10
+"29180","Lafayette, LA (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(L)","(L)","(D)"
+"29180","Lafayette, LA (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),80,73,78,74,88,124
+"29180","Lafayette, LA (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",117,"(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,10,10,8,8,12
+"29180","Lafayette, LA (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,"(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",3,3,3,"(D)","(D)"
+"29180","Lafayette, LA (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,6,6,10,11,13
+"29180","Lafayette, LA (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",218
+"29180","Lafayette, LA (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",6,5,4
+"29180","Lafayette, LA (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,7,7,8,8,"(D)"
+"29180","Lafayette, LA (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,14,24,"(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),16,15,12,19,26,21
+"29180","Lafayette, LA (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,13,"(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),593,594,572,569,633,648
+"29180","Lafayette, LA (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),713,762,778,765,857,930
+"29180","Lafayette, LA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),283,258,285,279,281,318
+"29180","Lafayette, LA (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),34,44,80,98,78,81
+"29180","Lafayette, LA (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",17,22
+"29180","Lafayette, LA (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),73,85,89,102,109,122
+"29180","Lafayette, LA (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,5,"(D)","(D)",8,8
+"29180","Lafayette, LA (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17,12,"(D)",12,19,20
+"29180","Lafayette, LA (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",40,"(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",23,20,16,16,13
+"29180","Lafayette, LA (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),187,230,251,314,381,414
+"29180","Lafayette, LA (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,2,2,2,4,6
+"29180","Lafayette, LA (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",11,13,16,20
+"29180","Lafayette, LA (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),265,309,313,328,333,355
+"29180","Lafayette, LA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),119,160,162,171,171,183
+"29180","Lafayette, LA (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),31,"(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),115,"(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(D)",8,10,15,19
+"29180","Lafayette, LA (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1516,1177,1081,1144,1095,1234
+"29180","Lafayette, LA (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),997,"(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),519,"(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),477,480,515,563,620,"(D)"
+"29180","Lafayette, LA (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",256
+"29180","Lafayette, LA (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),200,185,187,171,194,227
+"29180","Lafayette, LA (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",30
+"29180","Lafayette, LA (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),36,"(D)",36,36,36,36
+"29180","Lafayette, LA (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),668,"(D)",752,797,840,889
+"29180","Lafayette, LA (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",449,"(D)",512,563,592
+"29180","Lafayette, LA (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",233,222,226
+"29180","Lafayette, LA (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),38,40,47,53,59,76
+"29180","Lafayette, LA (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),53,60,"(D)",62,61,68
+"29180","Lafayette, LA (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),224,235,"(D)",254,280,324
+"29180","Lafayette, LA (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),41,52,"(D)",50,53,62
+"29180","Lafayette, LA (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),183,183,193,203,227,262
+"29180","Lafayette, LA (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),190,195,200,204,199,215
+"29180","Lafayette, LA (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),636,667,687,694,684,719
+"29180","Lafayette, LA (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),74,75,74,75,55,77
+"29180","Lafayette, LA (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),27,30,39,40,38,32
+"29180","Lafayette, LA (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),536,562,574,578,591,611
+"29180","Lafayette, LA (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3031,2053,2032,2059,1791,"(D)"
+"29180","Lafayette, LA (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1305,1356,1350,1334,1490,1576
+"29180","Lafayette, LA (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),333,308,328,329,333,371
+"29180","Lafayette, LA (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1781,1487,1395,1473,1429,1590
+"29180","Lafayette, LA (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),895,888,921,945,1032,"(D)"
+"29180","Lafayette, LA (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),704,735,788,832,876,925
+"29180","Lafayette, LA (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),277,295,304,315,342,392
+"29180","Lafayette, LA (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),49,69,"(D)","(D)","(D)","(D)"
+"29180","Lafayette, LA (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3818,2838,2813,2868,2621,"(D)"
+"29180","Lafayette, LA (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5681,5502,5547,5753,6074,"(D)"
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"29180","Lafayette, LA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),42250,37127,37048,37791,37246,41824
+"29180","Lafayette, LA (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"29180","Lafayette, LA (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

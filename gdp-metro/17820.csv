@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"17820","Colorado Springs, CO (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),17554,17558,18649,19632,21269,22296
+"17820","Colorado Springs, CO (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),13760,13324,14139,14824,15804,16593
+"17820","Colorado Springs, CO (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",8,"(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)",2,5,2,2
+"17820","Colorado Springs, CO (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",3,"(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",200
+"17820","Colorado Springs, CO (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),186,166,167,"(D)",192,190
+"17820","Colorado Springs, CO (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),1023,1061,1052,1143,1304,1406
+"17820","Colorado Springs, CO (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),87,59,"(D)",59,56,65
+"17820","Colorado Springs, CO (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),7,"(D)",12,"(D)",16,21
+"17820","Colorado Springs, CO (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),43,48,36,37,29,33
+"17820","Colorado Springs, CO (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",560,699
+"17820","Colorado Springs, CO (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",29,"(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",156,156,160
+"17820","Colorado Springs, CO (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",199,"(D)","(D)",258
+"17820","Colorado Springs, CO (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),42,38,"(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",2,2,3,"(D)"
+"17820","Colorado Springs, CO (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),18,8,"(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),6,6,10,10,9,9
+"17820","Colorado Springs, CO (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),97,"(D)","(D)","(D)",77,"(D)"
+"17820","Colorado Springs, CO (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",31,"(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),36,24,29,25,39,44
+"17820","Colorado Springs, CO (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),550,535,548,565,596,613
+"17820","Colorado Springs, CO (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),1473,1410,1461,1521,1558,1603
+"17820","Colorado Springs, CO (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),214,215,227,284,321,349
+"17820","Colorado Springs, CO (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),19,20,19,19,28,37
+"17820","Colorado Springs, CO (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),6,8,7,7,8,9
+"17820","Colorado Springs, CO (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"17820","Colorado Springs, CO (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",119,129,138
+"17820","Colorado Springs, CO (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",0
+"17820","Colorado Springs, CO (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),17,14,10,33,34,37
+"17820","Colorado Springs, CO (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),1400,1168,1062,1110,1176,1107
+"17820","Colorado Springs, CO (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",349,"(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),927,740,"(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",81,"(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),997,1080,1101,1034,1135,1182
+"17820","Colorado Springs, CO (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),492,586,557,533,549,571
+"17820","Colorado Springs, CO (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),113,72,76,82,94,112
+"17820","Colorado Springs, CO (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),389,390,427,386,439,449
+"17820","Colorado Springs, CO (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),4,33,41,33,54,50
+"17820","Colorado Springs, CO (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),1558,1126,1771,1865,1877,1949
+"17820","Colorado Springs, CO (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),1426,"(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),132,"(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),1703,1692,1755,1932,2086,2256
+"17820","Colorado Springs, CO (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),95,83,86,77,84,87
+"17820","Colorado Springs, CO (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),582,611,688,735,799,871
+"17820","Colorado Springs, CO (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),120,131,145,161,180,194
+"17820","Colorado Springs, CO (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),1005,1105,1160,1211,1282,1355
+"17820","Colorado Springs, CO (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),662,750,790,822,874,924
+"17820","Colorado Springs, CO (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),220,225,180,188,192,195
+"17820","Colorado Springs, CO (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),80,57,53,52,55,57
+"17820","Colorado Springs, CO (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),140,168,128,136,137,139
+"17820","Colorado Springs, CO (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),556,568,631,677,706,752
+"17820","Colorado Springs, CO (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),202,195,241,260,270,288
+"17820","Colorado Springs, CO (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),354,372,391,417,436,464
+"17820","Colorado Springs, CO (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),467,497,527,556,586,612
+"17820","Colorado Springs, CO (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),3794,4233,4510,4808,5465,5703
+"17820","Colorado Springs, CO (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),627,667,706,752,817,898
+"17820","Colorado Springs, CO (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),1780,2037,2182,2371,2859,2915
+"17820","Colorado Springs, CO (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),1387,1529,1622,1685,1789,1891
+"17820","Colorado Springs, CO (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),2023,1945,2009,2086,2154,2216
+"17820","Colorado Springs, CO (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),400,382,394,"(D)",513,539
+"17820","Colorado Springs, CO (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),2555,2206,2872,2899,3013,3131
+"17820","Colorado Springs, CO (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),2380,2385,2529,2744,2969,3214
+"17820","Colorado Springs, CO (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),1125,1236,1305,1372,1462,1549
+"17820","Colorado Springs, CO (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),776,792,812,866,899,948
+"17820","Colorado Springs, CO (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),1800,1805,1665,1750,1810,2011
+"17820","Colorado Springs, CO (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),2631,2711,2626,"(D)",3028,3273
+"17820","Colorado Springs, CO (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),11129,10614,11513,"(D)",12776,13320
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"17820","Colorado Springs, CO (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.667,101.549,104.091,109.060,111.020
+"17820","Colorado Springs, CO (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.654,100.715,103.790,108.049,110.935
+"17820","Colorado Springs, CO (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,15037.881,43859.402,108446.000,49945.405,50468.603
+"17820","Colorado Springs, CO (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.913,91.860,"(D)",96.237,85.202
+"17820","Colorado Springs, CO (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.963,93.442,93.680,97.306,95.168
+"17820","Colorado Springs, CO (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,67.162,"(D)",66.301,58.515,59.683
+"17820","Colorado Springs, CO (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",167.523,"(D)",157.954,170.168
+"17820","Colorado Springs, CO (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.267,85.085,88.727,67.536,76.714
+"17820","Colorado Springs, CO (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,86.451,"(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,42.951,"(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.133,178.144,187.019,163.000,148.058
+"17820","Colorado Springs, CO (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)",81.092,"(D)"
+"17820","Colorado Springs, CO (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,67.096,83.148,74.468,112.825,114.069
+"17820","Colorado Springs, CO (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.905,98.047,95.604,97.468,96.838
+"17820","Colorado Springs, CO (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.011,96.873,100.143,104.006,107.689
+"17820","Colorado Springs, CO (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.985,103.089,127.165,142.460,150.614
+"17820","Colorado Springs, CO (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,119.209,112.991,133.536,220.248,272.447
+"17820","Colorado Springs, CO (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,131.105,122.346,116.600,108.881,138.807
+"17820","Colorado Springs, CO (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,398.230,101.501,96.347,98.514,80.932
+"17820","Colorado Springs, CO (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,80.729,57.342,178.901,186.616,196.633
+"17820","Colorado Springs, CO (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,84.500,78.238,84.517,92.764,88.664
+"17820","Colorado Springs, CO (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,81.761,"(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.514,103.811,93.346,100.068,102.547
+"17820","Colorado Springs, CO (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.161,105.566,98.444,99.039,99.003
+"17820","Colorado Springs, CO (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,66.651,75.202,80.367,92.992,114.993
+"17820","Colorado Springs, CO (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.324,99.151,83.263,91.458,92.574
+"17820","Colorado Springs, CO (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,794.457,1216.534,935.395,1521.629,1562.784
+"17820","Colorado Springs, CO (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,70.385,107.325,110.432,108.603,109.741
+"17820","Colorado Springs, CO (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.981,102.626,114.187,120.872,128.442
+"17820","Colorado Springs, CO (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.133,87.428,69.159,67.719,66.403
+"17820","Colorado Springs, CO (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.382,114.790,118.285,124.670,129.722
+"17820","Colorado Springs, CO (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.361,109.170,114.664,121.334,124.176
+"17820","Colorado Springs, CO (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.222,110.165,112.090,116.127,120.568
+"17820","Colorado Springs, CO (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.600,115.302,117.406,122.366,127.949
+"17820","Colorado Springs, CO (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.835,77.480,78.774,78.221,76.999
+"17820","Colorado Springs, CO (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,69.127,61.756,59.002,59.429,58.703
+"17820","Colorado Springs, CO (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.698,86.360,90.015,88.879,87.368
+"17820","Colorado Springs, CO (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.497,108.476,112.413,113.005,115.899
+"17820","Colorado Springs, CO (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.338,117.229,119.946,118.981,123.276
+"17820","Colorado Springs, CO (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.701,103.742,108.359,109.835,111.940
+"17820","Colorado Springs, CO (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.080,105.255,107.692,107.209,106.888
+"17820","Colorado Springs, CO (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.786,104.733,105.581,112.760,111.975
+"17820","Colorado Springs, CO (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.962,100.286,99.676,103.857,109.673
+"17820","Colorado Springs, CO (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.554,104.144,106.281,118.099,113.875
+"17820","Colorado Springs, CO (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.985,107.608,107.336,109.225,110.389
+"17820","Colorado Springs, CO (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.794,97.191,98.888,102.183,104.599
+"17820","Colorado Springs, CO (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.791,97.910,"(D)",121.305,120.240
+"17820","Colorado Springs, CO (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,83.707,105.884,103.648,105.207,106.874
+"17820","Colorado Springs, CO (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.634,105.028,113.260,119.490,125.974
+"17820","Colorado Springs, CO (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.695,110.068,112.399,116.744,120.993
+"17820","Colorado Springs, CO (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.593,99.665,102.850,103.117,104.851
+"17820","Colorado Springs, CO (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.556,104.670,117.962,127.676,147.821
+"17820","Colorado Springs, CO (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.489,101.547,"(D)",109.209,114.630
+"17820","Colorado Springs, CO (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.593,100.469,"(D)",107.719,110.006
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"17820","Colorado Springs, CO (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17554,17145,17826,18272,19145,19489
+"17820","Colorado Springs, CO (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13760,13162,13858,14282,14868,15265
+"17820","Colorado Springs, CO (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",7,"(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)",2,4,2,2
+"17820","Colorado Springs, CO (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",3,"(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",84
+"17820","Colorado Springs, CO (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),186,169,171,"(D)",179,159
+"17820","Colorado Springs, CO (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1023,1012,956,958,996,974
+"17820","Colorado Springs, CO (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),87,58,"(D)",58,51,52
+"17820","Colorado Springs, CO (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,"(D)",13,"(D)",12,13
+"17820","Colorado Springs, CO (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),43,48,36,38,29,33
+"17820","Colorado Springs, CO (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",957,1378
+"17820","Colorado Springs, CO (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",29,"(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",155,157,162
+"17820","Colorado Springs, CO (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",196,"(D)","(D)",215
+"17820","Colorado Springs, CO (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),42,37,"(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",2,3,3,"(D)"
+"17820","Colorado Springs, CO (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),18,8,"(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,6,10,11,9,9
+"17820","Colorado Springs, CO (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),97,"(D)","(D)","(D)",78,"(D)"
+"17820","Colorado Springs, CO (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",31,"(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),36,24,30,27,40,41
+"17820","Colorado Springs, CO (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),550,533,539,526,536,532
+"17820","Colorado Springs, CO (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1473,1385,1427,1475,1532,1586
+"17820","Colorado Springs, CO (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),214,214,220,272,304,322
+"17820","Colorado Springs, CO (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),19,23,22,26,43,53
+"17820","Colorado Springs, CO (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,7,7,6,6,8
+"17820","Colorado Springs, CO (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"17820","Colorado Springs, CO (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",111,117,121
+"17820","Colorado Springs, CO (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",0
+"17820","Colorado Springs, CO (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17,14,10,31,32,34
+"17820","Colorado Springs, CO (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1400,1183,1096,1183,1299,1242
+"17820","Colorado Springs, CO (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",359,"(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),927,758,"(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",82,"(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),997,1042,1035,930,997,1022
+"17820","Colorado Springs, CO (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),492,556,519,484,487,487
+"17820","Colorado Springs, CO (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),113,75,85,91,105,130
+"17820","Colorado Springs, CO (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),389,378,385,324,355,360
+"17820","Colorado Springs, CO (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,29,44,34,55,56
+"17820","Colorado Springs, CO (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1558,1097,1672,1721,1692,1710
+"17820","Colorado Springs, CO (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1426,"(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),132,"(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1703,1669,1748,1944,2058,2187
+"17820","Colorado Springs, CO (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),95,82,83,65,64,63
+"17820","Colorado Springs, CO (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),582,596,668,689,726,755
+"17820","Colorado Springs, CO (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),120,123,131,137,145,149
+"17820","Colorado Springs, CO (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1005,1078,1107,1127,1167,1212
+"17820","Colorado Springs, CO (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),662,739,764,778,811,847
+"17820","Colorado Springs, CO (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),220,217,170,173,172,169
+"17820","Colorado Springs, CO (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),80,55,49,47,47,47
+"17820","Colorado Springs, CO (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),140,162,121,126,125,123
+"17820","Colorado Springs, CO (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),556,547,603,625,628,644
+"17820","Colorado Springs, CO (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),202,195,237,243,241,249
+"17820","Colorado Springs, CO (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),354,353,367,383,388,396
+"17820","Colorado Springs, CO (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),467,476,491,503,500,499
+"17820","Colorado Springs, CO (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3794,3976,3974,4006,4278,4249
+"17820","Colorado Springs, CO (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),627,627,629,625,651,688
+"17820","Colorado Springs, CO (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1780,1879,1854,1892,2102,2027
+"17820","Colorado Springs, CO (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1387,1470,1493,1489,1515,1531
+"17820","Colorado Springs, CO (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"17820","Colorado Springs, CO (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2023,1918,1966,2000,2067,2116
+"17820","Colorado Springs, CO (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),400,383,392,"(D)",485,481
+"17820","Colorado Springs, CO (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2555,2139,2705,2648,2688,2730
+"17820","Colorado Springs, CO (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2380,2347,2499,2695,2843,2998
+"17820","Colorado Springs, CO (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1125,1200,1238,1264,1313,1361
+"17820","Colorado Springs, CO (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),776,765,773,798,800,813
+"17820","Colorado Springs, CO (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1800,1900,1884,2123,2298,2661
+"17820","Colorado Springs, CO (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2631,2749,2672,"(D)",2874,3016
+"17820","Colorado Springs, CO (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),11129,10416,11181,"(D)",11988,12242
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"17820","Colorado Springs, CO (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),31532,30276,31125,31477,32480,32346
+"17820","Colorado Springs, CO (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"17820","Colorado Springs, CO (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

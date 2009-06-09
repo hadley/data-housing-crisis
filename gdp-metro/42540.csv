@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),14728,14990,15553,16485,17016,17794
+"42540","Scranton-Wilkes-Barre, PA (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),13124,13316,13769,14635,15111,15826
+"42540","Scranton-Wilkes-Barre, PA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),42,47,36,48,42,54
+"42540","Scranton-Wilkes-Barre, PA (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),28,31,19,24,20,32
+"42540","Scranton-Wilkes-Barre, PA (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),15,16,17,24,22,23
+"42540","Scranton-Wilkes-Barre, PA (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),46,44,"(D)",49,63,70
+"42540","Scranton-Wilkes-Barre, PA (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),1,"(D)",1,1,2,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)",37,"(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),767,736,750,886,789,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),585,595,618,646,692,708
+"42540","Scranton-Wilkes-Barre, PA (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),2810,2676,2688,2599,2612,2746
+"42540","Scranton-Wilkes-Barre, PA (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),61,68,72,71,73,82
+"42540","Scranton-Wilkes-Barre, PA (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),246,"(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",74,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",361,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),84,60,57,57,"(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),187,120,"(D)","(D)",123,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),79,69,"(D)",63,61,60
+"42540","Scranton-Wilkes-Barre, PA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",38,41,"(D)","(D)",31
+"42540","Scranton-Wilkes-Barre, PA (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",137,"(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),285,344,409,"(D)",364,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",62,63,"(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",124,95,92
+"42540","Scranton-Wilkes-Barre, PA (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),299,276,256,286,312,337
+"42540","Scranton-Wilkes-Barre, PA (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),813,929,1027,1162,1201,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),1211,1258,1323,1352,1383,1423
+"42540","Scranton-Wilkes-Barre, PA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),569,581,561,657,713,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",7,8,5
+"42540","Scranton-Wilkes-Barre, PA (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),12,14,14,17,18,20
+"42540","Scranton-Wilkes-Barre, PA (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(L)","(L)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),329,317,304,310,318,311
+"42540","Scranton-Wilkes-Barre, PA (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",53,52,49
+"42540","Scranton-Wilkes-Barre, PA (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",3,"(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),661,701,"(D)",841,947,991
+"42540","Scranton-Wilkes-Barre, PA (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",634,710,746
+"42540","Scranton-Wilkes-Barre, PA (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),1121,1073,1046,1151,1168,1211
+"42540","Scranton-Wilkes-Barre, PA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),629,593,549,"(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)",409,"(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),786,858,947,1007,940,982
+"42540","Scranton-Wilkes-Barre, PA (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",830,"(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",117,"(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),586,546,550,602,"(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),98,99,76,82,"(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),381,378,418,449,480,510
+"42540","Scranton-Wilkes-Barre, PA (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),239,259,265,"(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),1581,1661,1779,"(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),785,811,870,908,978,1009
+"42540","Scranton-Wilkes-Barre, PA (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",157,168,184
+"42540","Scranton-Wilkes-Barre, PA (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),56,59,62,67,70,82
+"42540","Scranton-Wilkes-Barre, PA (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),355,377,397,431,457,468
+"42540","Scranton-Wilkes-Barre, PA (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),80,82,68,"(D)",96,90
+"42540","Scranton-Wilkes-Barre, PA (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),275,295,329,"(D)",361,377
+"42540","Scranton-Wilkes-Barre, PA (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),417,437,443,455,475,486
+"42540","Scranton-Wilkes-Barre, PA (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),1604,1675,1784,1851,1906,1968
+"42540","Scranton-Wilkes-Barre, PA (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),379,404,415,435,450,464
+"42540","Scranton-Wilkes-Barre, PA (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),41,52,70,74,78,74
+"42540","Scranton-Wilkes-Barre, PA (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),1184,1218,1299,1342,1378,1430
+"42540","Scranton-Wilkes-Barre, PA (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),89,91,"(D)",96,105,124
+"42540","Scranton-Wilkes-Barre, PA (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),2024,2187,2350,2514,2584,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),1336,1317,1311,1543,1502,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),1908,1931,1993,2158,2108,2193
+"42540","Scranton-Wilkes-Barre, PA (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),1065,1023,1044,1133,1307,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),1820,1920,2044,2149,2252,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),411,436,459,499,528,550
+"42540","Scranton-Wilkes-Barre, PA (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),385,332,338,364,408,421
+"42540","Scranton-Wilkes-Barre, PA (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),3469,3347,"(D)",3317,3387,3556
+"42540","Scranton-Wilkes-Barre, PA (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),9655,9969,"(D)",11317,11724,12270
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.703,101.773,104.992,105.416,106.671
+"42540","Scranton-Wilkes-Barre, PA (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.704,101.838,105.634,106.309,107.892
+"42540","Scranton-Wilkes-Barre, PA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,119.616,82.346,98.877,94.437,124.446
+"42540","Scranton-Wilkes-Barre, PA (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,123.635,65.338,68.281,68.331,116.536
+"42540","Scranton-Wilkes-Barre, PA (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.410,113.724,158.023,144.479,143.019
+"42540","Scranton-Wilkes-Barre, PA (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,85.663,"(D)",82.869,92.589,88.907
+"42540","Scranton-Wilkes-Barre, PA (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",112.395,119.478,163.762,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.641,100.249,114.725,96.113,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.170,95.998,92.523,90.398,83.849
+"42540","Scranton-Wilkes-Barre, PA (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.632,96.920,94.079,92.340,94.353
+"42540","Scranton-Wilkes-Barre, PA (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.260,112.630,96.531,100.057,119.364
+"42540","Scranton-Wilkes-Barre, PA (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,70.479,67.853,69.551,"(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,72.318,"(D)","(D)",112.596,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.198,"(D)",82.562,78.493,71.534
+"42540","Scranton-Wilkes-Barre, PA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.149,138.991,"(D)",125.443,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.379,86.970,100.254,107.430,103.467
+"42540","Scranton-Wilkes-Barre, PA (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.819,124.180,133.016,132.746,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.004,106.722,108.266,112.374,116.347
+"42540","Scranton-Wilkes-Barre, PA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.773,94.555,107.355,114.763,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.535,114.360,126.944,124.865,152.462
+"42540","Scranton-Wilkes-Barre, PA (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.709,88.727,87.444,87.710,83.398
+"42540","Scranton-Wilkes-Barre, PA (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.930,"(D)",135.754,160.182,172.006
+"42540","Scranton-Wilkes-Barre, PA (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.226,86.953,91.523,90.592,91.909
+"42540","Scranton-Wilkes-Barre, PA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,89.729,81.423,"(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.152,113.699,118.040,107.458,109.324
+"42540","Scranton-Wilkes-Barre, PA (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.538,90.770,98.255,"(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.561,74.020,70.869,"(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.747,106.388,109.989,114.257,115.703
+"42540","Scranton-Wilkes-Barre, PA (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.526,100.242,"(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.526,105.965,"(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.768,107.182,109.330,115.503,117.942
+"42540","Scranton-Wilkes-Barre, PA (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.548,104.275,110.245,112.249,127.210
+"42540","Scranton-Wilkes-Barre, PA (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.753,106.184,112.140,114.939,112.900
+"42540","Scranton-Wilkes-Barre, PA (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.439,83.605,"(D)",105.945,97.127
+"42540","Scranton-Wilkes-Barre, PA (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.843,112.485,"(D)",117.278,117.216
+"42540","Scranton-Wilkes-Barre, PA (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.467,99.045,98.591,97.229,95.003
+"42540","Scranton-Wilkes-Barre, PA (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.691,101.267,100.106,98.661,97.516
+"42540","Scranton-Wilkes-Barre, PA (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.151,97.380,95.218,94.545,93.809
+"42540","Scranton-Wilkes-Barre, PA (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.771,143.917,142.933,137.915,123.914
+"42540","Scranton-Wilkes-Barre, PA (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.967,100.989,100.158,98.589,97.825
+"42540","Scranton-Wilkes-Barre, PA (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.136,"(D)",90.501,94.295,103.395
+"42540","Scranton-Wilkes-Barre, PA (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.730,113.702,118.202,120.473,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.560,97.731,111.466,104.214,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.949,97.925,102.406,97.566,99.108
+"42540","Scranton-Wilkes-Barre, PA (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.671,94.814,99.880,110.607,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.526,105.191,106.780,108.463,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.725,105.924,111.882,114.572,114.841
+"42540","Scranton-Wilkes-Barre, PA (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.605,98.616,114.046,133.793,143.884
+"42540","Scranton-Wilkes-Barre, PA (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.969,"(D)",93.425,91.826,92.248
+"42540","Scranton-Wilkes-Barre, PA (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.035,"(D)",109.916,111.384,113.377
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),14728,14684,14989,15463,15526,15711
+"42540","Scranton-Wilkes-Barre, PA (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13124,13085,13365,13863,13952,14160
+"42540","Scranton-Wilkes-Barre, PA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),42,51,35,42,40,53
+"42540","Scranton-Wilkes-Barre, PA (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),28,34,18,19,19,32
+"42540","Scranton-Wilkes-Barre, PA (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15,17,17,23,21,21
+"42540","Scranton-Wilkes-Barre, PA (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),46,40,"(D)",39,43,41
+"42540","Scranton-Wilkes-Barre, PA (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,"(D)",1,1,1,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",35,"(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),767,749,769,880,737,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),585,568,561,541,529,490
+"42540","Scranton-Wilkes-Barre, PA (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2810,2687,2723,2643,2594,2651
+"42540","Scranton-Wilkes-Barre, PA (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),61,69,69,59,61,73
+"42540","Scranton-Wilkes-Barre, PA (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),246,"(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",55,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",337,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),84,59,57,58,"(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),187,135,"(D)","(D)",210,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),79,70,"(D)",65,62,57
+"42540","Scranton-Wilkes-Barre, PA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",37,40,"(D)","(D)",30
+"42540","Scranton-Wilkes-Barre, PA (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",133,"(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),285,328,396,"(D)",357,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",66,66,"(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",117,83,76
+"42540","Scranton-Wilkes-Barre, PA (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),299,273,260,300,321,309
+"42540","Scranton-Wilkes-Barre, PA (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),813,925,1010,1081,1079,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1211,1235,1292,1311,1361,1409
+"42540","Scranton-Wilkes-Barre, PA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),569,567,538,611,653,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",10,12,7
+"42540","Scranton-Wilkes-Barre, PA (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),12,13,13,15,15,18
+"42540","Scranton-Wilkes-Barre, PA (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(L)","(L)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),329,308,292,287,288,274
+"42540","Scranton-Wilkes-Barre, PA (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",48,47,43
+"42540","Scranton-Wilkes-Barre, PA (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",3,"(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),661,713,"(D)",897,1058,1136
+"42540","Scranton-Wilkes-Barre, PA (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",679,808,879
+"42540","Scranton-Wilkes-Barre, PA (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1121,1034,975,1026,1016,1031
+"42540","Scranton-Wilkes-Barre, PA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),629,564,512,"(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",396,"(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),786,835,894,928,845,860
+"42540","Scranton-Wilkes-Barre, PA (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",780,"(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",113,"(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),586,531,532,576,"(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),98,99,73,70,"(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),381,368,405,419,435,440
+"42540","Scranton-Wilkes-Barre, PA (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),239,242,239,"(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1581,1605,1675,"(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),785,799,842,858,907,926
+"42540","Scranton-Wilkes-Barre, PA (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",154,164,177
+"42540","Scranton-Wilkes-Barre, PA (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),56,57,59,62,63,72
+"42540","Scranton-Wilkes-Barre, PA (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),355,361,377,398,408,401
+"42540","Scranton-Wilkes-Barre, PA (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),80,82,67,"(D)",85,78
+"42540","Scranton-Wilkes-Barre, PA (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),275,280,309,"(D)",322,322
+"42540","Scranton-Wilkes-Barre, PA (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),417,419,413,411,405,396
+"42540","Scranton-Wilkes-Barre, PA (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1604,1599,1625,1606,1583,1564
+"42540","Scranton-Wilkes-Barre, PA (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),379,380,369,361,359,356
+"42540","Scranton-Wilkes-Barre, PA (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),41,48,60,59,57,51
+"42540","Scranton-Wilkes-Barre, PA (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1184,1172,1195,1186,1167,1158
+"42540","Scranton-Wilkes-Barre, PA (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),89,90,"(D)",80,84,92
+"42540","Scranton-Wilkes-Barre, PA (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2024,2160,2301,2392,2438,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1336,1316,1305,1489,1392,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1908,1869,1868,1954,1861,1891
+"42540","Scranton-Wilkes-Barre, PA (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1065,998,1010,1064,1178,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1820,1847,1914,1943,1974,"(D)"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),411,418,436,460,471,472
+"42540","Scranton-Wilkes-Barre, PA (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),385,348,379,439,515,553
+"42540","Scranton-Wilkes-Barre, PA (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3469,3329,"(D)",3241,3185,3200
+"42540","Scranton-Wilkes-Barre, PA (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9655,9755,"(D)",10613,10754,10947
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),26503,26574,27222,28155,28293,28636
+"42540","Scranton-Wilkes-Barre, PA (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42540","Scranton-Wilkes-Barre, PA (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"36500","Olympia, WA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),5810,6049,6334,6720,7103,7623
+"36500","Olympia, WA (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),3834,3995,4230,4528,4779,5187
+"36500","Olympia, WA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),106,95,126,152,123,118
+"36500","Olympia, WA (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),61,53,70,88,56,42
+"36500","Olympia, WA (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),44,42,55,64,67,76
+"36500","Olympia, WA (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),3,5,6,7,6,7
+"36500","Olympia, WA (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),0,"(L)","(L)",0,0,0
+"36500","Olympia, WA (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",7
+"36500","Olympia, WA (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(L)"
+"36500","Olympia, WA (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),60,56,54,77,90,102
+"36500","Olympia, WA (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),237,252,278,302,347,390
+"36500","Olympia, WA (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),207,233,247,227,235,252
+"36500","Olympia, WA (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),87,97,107,116,119,139
+"36500","Olympia, WA (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),15,16,19,24,24,14
+"36500","Olympia, WA (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),17,19,22,23,27,41
+"36500","Olympia, WA (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(L)",0,0,0,"(D)","(D)"
+"36500","Olympia, WA (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),20,22,23,27,26,30
+"36500","Olympia, WA (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),6,3,5,4,3,6
+"36500","Olympia, WA (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(L)","(L)","(L)",1,2
+"36500","Olympia, WA (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),3,4,1,1,"(D)","(D)"
+"36500","Olympia, WA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),8,12,15,14,14,14
+"36500","Olympia, WA (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),10,13,15,14,13,18
+"36500","Olympia, WA (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),120,136,139,112,116,112
+"36500","Olympia, WA (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),46,57,41,24,26,29
+"36500","Olympia, WA (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(L)"
+"36500","Olympia, WA (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),6,8,7,8,8,10
+"36500","Olympia, WA (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"36500","Olympia, WA (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),3,5,5,3,4,4
+"36500","Olympia, WA (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),41,44,51,47,50,43
+"36500","Olympia, WA (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),147,154,173,330,385,491
+"36500","Olympia, WA (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),568,592,656,577,595,615
+"36500","Olympia, WA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),66,67,88,101,112,122
+"36500","Olympia, WA (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",5,"(D)"
+"36500","Olympia, WA (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),1,2,2,2,2,3
+"36500","Olympia, WA (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)",1,"(L)","(L)"
+"36500","Olympia, WA (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),30,31,34,36,40,46
+"36500","Olympia, WA (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),4,3,4,4,4,5
+"36500","Olympia, WA (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),0,1,1,1,1,1
+"36500","Olympia, WA (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",29,"(D)"
+"36500","Olympia, WA (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),6,4,19,22,30,30
+"36500","Olympia, WA (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),154,171,141,144,134,154
+"36500","Olympia, WA (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),2,2,2,3,3,2
+"36500","Olympia, WA (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),133,143,106,82,62,65
+"36500","Olympia, WA (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),246,272,292,306,348,362
+"36500","Olympia, WA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),123,185,203,208,241,255
+"36500","Olympia, WA (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),16,17,17,22,25,20
+"36500","Olympia, WA (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),85,64,67,72,76,79
+"36500","Olympia, WA (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),22,5,4,5,5,8
+"36500","Olympia, WA (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),780,761,738,783,776,815
+"36500","Olympia, WA (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),749,740,713,757,744,781
+"36500","Olympia, WA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),31,22,25,27,32,34
+"36500","Olympia, WA (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),222,204,216,253,272,292
+"36500","Olympia, WA (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),27,27,30,31,41,43
+"36500","Olympia, WA (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),97,131,144,139,143,152
+"36500","Olympia, WA (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),86,118,128,122,124,134
+"36500","Olympia, WA (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),11,13,16,17,19,18
+"36500","Olympia, WA (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),49,54,57,66,71,75
+"36500","Olympia, WA (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),494,526,566,592,631,680
+"36500","Olympia, WA (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),286,300,320,333,359,394
+"36500","Olympia, WA (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),164,177,194,"(D)",214,223
+"36500","Olympia, WA (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),45,49,52,"(D)",58,63
+"36500","Olympia, WA (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),44,44,42,43,45,46
+"36500","Olympia, WA (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),14,12,11,10,12,12
+"36500","Olympia, WA (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),30,32,32,32,33,34
+"36500","Olympia, WA (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),136,153,158,170,186,211
+"36500","Olympia, WA (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),23,26,23,25,27,32
+"36500","Olympia, WA (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),113,127,136,145,159,179
+"36500","Olympia, WA (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),191,201,217,227,241,259
+"36500","Olympia, WA (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),1976,2054,2105,2192,2324,2435
+"36500","Olympia, WA (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),81,87,90,93,90,99
+"36500","Olympia, WA (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),20,25,33,35,38,35
+"36500","Olympia, WA (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),1876,1942,1982,2064,2196,2301
+"36500","Olympia, WA (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),109,100,132,160,129,125
+"36500","Olympia, WA (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),715,746,830,908,980,1106
+"36500","Olympia, WA (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),126,123,142,178,202,224
+"36500","Olympia, WA (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),1026,1033,1031,1089,1123,1177
+"36500","Olympia, WA (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),346,362,390,423,456,488
+"36500","Olympia, WA (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),543,580,623,658,702,756
+"36500","Olympia, WA (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),179,197,200,213,230,258
+"36500","Olympia, WA (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),73,76,72,100,110,130
+"36500","Olympia, WA (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),508,542,601,626,644,690
+"36500","Olympia, WA (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),3325,3453,3628,3903,4136,4497
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"36500","Olympia, WA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.038,102.944,105.606,108.356,112.275
+"36500","Olympia, WA (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.685,105.671,109.852,113.290,119.262
+"36500","Olympia, WA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.638,116.820,125.402,111.690,106.833
+"36500","Olympia, WA (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.004,109.991,114.811,88.099,69.991
+"36500","Olympia, WA (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.483,126.136,140.521,146.955,159.570
+"36500","Olympia, WA (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,135.612,156.906,189.047,121.776,126.269
+"36500","Olympia, WA (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"36500","Olympia, WA (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.045,91.434,127.834,140.611,141.059
+"36500","Olympia, WA (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.477,106.814,107.126,111.958,114.033
+"36500","Olympia, WA (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.910,118.762,109.591,111.181,115.235
+"36500","Olympia, WA (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.726,123.006,128.864,130.041,149.643
+"36500","Olympia, WA (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.136,124.242,132.975,134.601,84.136
+"36500","Olympia, WA (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.443,123.966,128.834,140.154,189.773
+"36500","Olympia, WA (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,0.000,0.000,0.000,"(D)","(D)"
+"36500","Olympia, WA (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.546,114.231,132.636,123.326,140.405
+"36500","Olympia, WA (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,56.337,76.476,74.728,56.787,100.279
+"36500","Olympia, WA (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,126.248,49.792,30.622,"(D)","(D)"
+"36500","Olympia, WA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,159.736,188.312,193.272,177.511,179.401
+"36500","Olympia, WA (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,126.058,143.393,132.956,131.338,176.646
+"36500","Olympia, WA (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.043,115.714,95.336,97.252,89.596
+"36500","Olympia, WA (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,117.155,86.556,52.437,55.142,63.578
+"36500","Olympia, WA (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,124.813,119.645,133.630,137.131,169.321
+"36500","Olympia, WA (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"36500","Olympia, WA (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,172.488,160.840,112.677,112.736,115.186
+"36500","Olympia, WA (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.141,126.751,120.023,125.974,95.548
+"36500","Olympia, WA (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.029,115.926,208.882,235.075,289.668
+"36500","Olympia, WA (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.401,112.916,98.565,103.048,107.243
+"36500","Olympia, WA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.782,128.837,144.542,158.776,169.109
+"36500","Olympia, WA (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.688,133.628,128.491,131.597,166.163
+"36500","Olympia, WA (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,37.748,64.408,96.427,51.049,45.510
+"36500","Olympia, WA (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.872,105.534,110.086,118.025,132.732
+"36500","Olympia, WA (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,85.425,88.537,93.793,99.662,111.507
+"36500","Olympia, WA (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"36500","Olympia, WA (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,73.624,309.452,352.739,479.773,462.875
+"36500","Olympia, WA (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.627,94.470,100.022,96.286,113.938
+"36500","Olympia, WA (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,116.933,109.789,117.767,143.019,102.821
+"36500","Olympia, WA (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.157,82.529,65.818,53.290,57.244
+"36500","Olympia, WA (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.806,111.237,112.152,124.663,126.461
+"36500","Olympia, WA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,142.572,153.746,152.846,173.547,176.466
+"36500","Olympia, WA (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.371,121.829,149.872,176.370,145.030
+"36500","Olympia, WA (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,73.675,71.597,70.769,72.492,74.441
+"36500","Olympia, WA (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,21.966,20.491,22.654,24.907,40.901
+"36500","Olympia, WA (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.342,88.998,92.268,89.293,91.317
+"36500","Olympia, WA (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.306,89.455,92.755,89.235,91.159
+"36500","Olympia, WA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,70.535,77.868,80.405,90.625,95.061
+"36500","Olympia, WA (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.028,95.456,111.559,116.416,122.195
+"36500","Olympia, WA (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.694,107.068,95.437,115.181,115.189
+"36500","Olympia, WA (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,131.839,144.166,134.466,134.367,136.308
+"36500","Olympia, WA (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,133.943,145.237,133.590,131.220,135.667
+"36500","Olympia, WA (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.176,135.504,140.477,157.686,140.093
+"36500","Olympia, WA (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.212,105.002,113.849,115.935,117.483
+"36500","Olympia, WA (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.276,108.454,110.167,114.466,120.782
+"36500","Olympia, WA (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.490,108.443,110.448,116.581,126.755
+"36500","Olympia, WA (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.648,107.091,"(D)",108.140,107.944
+"36500","Olympia, WA (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.032,113.610,"(D)",126.809,135.752
+"36500","Olympia, WA (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.154,91.374,89.764,91.362,91.801
+"36500","Olympia, WA (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.331,72.838,68.681,74.593,75.813
+"36500","Olympia, WA (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.005,99.721,99.290,98.846,98.906
+"36500","Olympia, WA (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.426,110.354,115.482,122.124,133.336
+"36500","Olympia, WA (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.556,97.800,101.439,105.593,122.401
+"36500","Olympia, WA (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.424,112.727,118.140,125.270,135.354
+"36500","Olympia, WA (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.726,105.518,107.067,107.805,110.457
+"36500","Olympia, WA (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.792,97.780,97.631,99.126,99.361
+"36500","Olympia, WA (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.844,98.903,95.850,88.398,94.055
+"36500","Olympia, WA (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.686,140.134,141.115,140.317,124.446
+"36500","Olympia, WA (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.585,97.263,97.232,99.165,99.349
+"36500","Olympia, WA (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.920,118.089,127.442,111.781,107.340
+"36500","Olympia, WA (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.734,113.531,121.569,130.689,145.965
+"36500","Olympia, WA (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.548,111.424,136.684,150.234,155.753
+"36500","Olympia, WA (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.102,94.355,97.055,97.843,99.811
+"36500","Olympia, WA (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.371,110.049,116.494,121.300,125.424
+"36500","Olympia, WA (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.178,108.132,110.528,114.610,120.445
+"36500","Olympia, WA (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.175,105.744,109.227,114.642,123.243
+"36500","Olympia, WA (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.549,101.844,146.913,163.441,195.370
+"36500","Olympia, WA (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.795,112.341,109.880,109.163,109.895
+"36500","Olympia, WA (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.212,104.654,109.880,113.988,120.828
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"36500","Olympia, WA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5810,5870,5981,6135,6295,6523
+"36500","Olympia, WA (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3834,3898,4051,4211,4343,4572
+"36500","Olympia, WA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),106,101,123,132,118,113
+"36500","Olympia, WA (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),61,58,68,70,54,43
+"36500","Olympia, WA (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),44,43,56,62,65,71
+"36500","Olympia, WA (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3,4,5,6,4,4
+"36500","Olympia, WA (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,"(L)","(L)",0,0,0
+"36500","Olympia, WA (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",4
+"36500","Olympia, WA (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(L)"
+"36500","Olympia, WA (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),60,57,55,77,84,85
+"36500","Olympia, WA (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),237,240,253,254,265,270
+"36500","Olympia, WA (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),207,229,246,227,230,238
+"36500","Olympia, WA (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),87,96,107,112,113,130
+"36500","Olympia, WA (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15,16,19,20,20,13
+"36500","Olympia, WA (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17,19,22,22,24,33
+"36500","Olympia, WA (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)",0,0,0,"(D)","(D)"
+"36500","Olympia, WA (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),20,22,23,26,25,28
+"36500","Olympia, WA (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,3,5,5,3,6
+"36500","Olympia, WA (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(L)","(L)","(L)",2,4
+"36500","Olympia, WA (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3,4,1,1,"(D)","(D)"
+"36500","Olympia, WA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,12,14,15,13,14
+"36500","Olympia, WA (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,13,15,13,13,18
+"36500","Olympia, WA (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),120,133,139,114,117,108
+"36500","Olympia, WA (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),46,54,40,24,25,29
+"36500","Olympia, WA (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(L)"
+"36500","Olympia, WA (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,8,7,8,8,10
+"36500","Olympia, WA (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"36500","Olympia, WA (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3,5,5,3,3,3
+"36500","Olympia, WA (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),41,43,52,49,52,39
+"36500","Olympia, WA (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),147,153,171,307,346,426
+"36500","Olympia, WA (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),568,582,641,560,585,609
+"36500","Olympia, WA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),66,66,85,96,105,112
+"36500","Olympia, WA (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",8,"(D)"
+"36500","Olympia, WA (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,2,2,2,2,2
+"36500","Olympia, WA (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)",0,"(L)","(L)"
+"36500","Olympia, WA (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),30,30,32,34,36,40
+"36500","Olympia, WA (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,3,3,3,4,4
+"36500","Olympia, WA (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,1,1,2,2,2
+"36500","Olympia, WA (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",26,"(D)"
+"36500","Olympia, WA (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,4,18,21,28,27
+"36500","Olympia, WA (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),154,174,146,154,149,176
+"36500","Olympia, WA (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,2,2,2,3,2
+"36500","Olympia, WA (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),133,146,110,87,71,76
+"36500","Olympia, WA (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"36500","Olympia, WA (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),246,260,274,276,307,311
+"36500","Olympia, WA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),123,176,190,189,214,218
+"36500","Olympia, WA (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),16,18,19,24,28,23
+"36500","Olympia, WA (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),85,62,61,60,61,63
+"36500","Olympia, WA (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),22,5,4,5,5,9
+"36500","Olympia, WA (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),780,736,694,720,697,712
+"36500","Olympia, WA (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),749,714,670,695,668,683
+"36500","Olympia, WA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),31,22,24,25,28,29
+"36500","Olympia, WA (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),222,200,212,247,258,271
+"36500","Olympia, WA (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),27,27,29,26,31,31
+"36500","Olympia, WA (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),97,128,140,130,130,132
+"36500","Olympia, WA (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),86,115,125,115,113,117
+"36500","Olympia, WA (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),11,12,15,15,17,15
+"36500","Olympia, WA (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),49,50,52,56,57,58
+"36500","Olympia, WA (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),494,510,536,544,565,597
+"36500","Olympia, WA (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),286,296,310,315,333,362
+"36500","Olympia, WA (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),164,167,175,"(D)",177,177
+"36500","Olympia, WA (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),45,48,51,"(D)",57,61
+"36500","Olympia, WA (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),44,43,40,39,40,40
+"36500","Olympia, WA (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),14,12,10,9,10,10
+"36500","Olympia, WA (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),30,31,30,30,30,30
+"36500","Olympia, WA (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),136,146,150,157,166,181
+"36500","Olympia, WA (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,26,22,23,24,28
+"36500","Olympia, WA (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),113,120,127,133,141,153
+"36500","Olympia, WA (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),191,193,202,205,206,211
+"36500","Olympia, WA (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1976,1972,1932,1929,1959,1963
+"36500","Olympia, WA (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),81,81,80,77,71,76
+"36500","Olympia, WA (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),20,23,28,28,28,25
+"36500","Olympia, WA (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1876,1868,1824,1824,1860,1863
+"36500","Olympia, WA (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),109,106,129,139,122,117
+"36500","Olympia, WA (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),715,735,812,869,935,1044
+"36500","Olympia, WA (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),126,123,141,172,190,197
+"36500","Olympia, WA (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1026,996,968,996,1004,1024
+"36500","Olympia, WA (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),346,354,381,403,420,434
+"36500","Olympia, WA (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),543,560,587,600,623,654
+"36500","Olympia, WA (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),179,189,190,196,206,221
+"36500","Olympia, WA (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),73,77,74,107,119,142
+"36500","Olympia, WA (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),508,532,571,558,555,558
+"36500","Olympia, WA (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3325,3366,3480,3654,3791,4018
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"36500","Olympia, WA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),27337,27101,27177,27447,27657,27975
+"36500","Olympia, WA (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"36500","Olympia, WA (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

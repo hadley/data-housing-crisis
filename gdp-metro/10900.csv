@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),22548,23577,23674,24507,25829,27199
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),20720,21655,21588,22299,23505,24762
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),24,28,50,41,28,36
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),1579,1418,"(D)","(D)",949,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),1079,1081,1120,1208,1400,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),5323,5614,4150,3736,3817,3912
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)",1895,1704,1799,"(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",39,"(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),211,204,170,198,211,234
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),259,225,232,222,257,293
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),220,188,185,217,260,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),210,223,"(D)",216,"(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),57,54,61,53,53,54
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",258,"(D)","(D)",255
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)",3719,2447,1937,"(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",51,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1882,2177,933,527,546,545
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),1089,1143,1179,1292,1408,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),1615,1683,1792,1854,1896,1970
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),786,879,931,1008,1131,1256
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),40,"(D)","(D)","(D)",55,59
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),1,"(D)","(D)","(D)",2,2
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),234,359,328,349,416,473
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),65,77,76,73,70,69
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),931,785,902,1017,1139,1171
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),1158,1229,1329,1324,1410,1549
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),429,"(D)","(D)",564,640,687
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),648,636,"(D)",668,"(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",3
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),1556,1854,2028,2043,2219,2191
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),1300,1602,1773,1790,1974,1967
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),255,253,256,252,245,224
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",845,849,982,"(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",867,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),570,601,622,679,737,810
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",131,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),313,339,354,381,402,419
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),2109,2246,2430,2638,2750,2963
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),1044,1096,1165,1242,1334,1446
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),171,170,170,186,183,190
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),45,40,39,40,43,46
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),126,129,131,146,140,144
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),459,507,542,575,592,618
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),85,97,97,100,108,106
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),374,410,445,475,485,512
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),659,693,690,707,751,789
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),1828,1923,2086,2208,2324,2437
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),204,218,222,235,234,245
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),50,65,92,93,103,99
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),1573,1641,1772,1880,1987,2092
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),88,89,"(D)","(D)",97,111
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),2704,2827,2971,3146,3305,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),2365,2297,"(D)","(D)",2080,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),2713,3084,3358,3367,3629,3740
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),1806,1923,"(D)","(D)",3360,3585
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),2423,2585,2784,3020,3152,3382
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),629,677,712,761,775,809
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),735,839,659,649,686,721
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),6481,6776,5375,5044,5306,5410
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),14239,14878,16213,17255,18199,19353
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.751,101.450,101.684,103.607,105.381
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.927,101.177,101.310,103.347,105.263
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,125.791,197.125,135.596,110.165,152.383
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.385,"(D)","(D)",56.162,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.654,94.321,93.874,99.087,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.956,78.543,70.354,69.511,69.053
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.433,80.196,91.473,90.613,88.828
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,86.346,89.945,83.885,92.500,105.023
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,84.950,83.818,101.670,119.262,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.660,"(D)",106.754,"(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.647,103.554,94.476,90.242,90.085
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,116.190,48.110,26.427,25.488,24.045
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.632,106.500,110.394,116.246,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.341,108.367,111.323,115.485,120.706
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.476,114.718,120.998,134.814,145.992
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)",109.685,134.075
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)",87.924,76.296
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,149.161,134.621,138.563,161.418,178.366
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,116.496,109.318,102.901,96.849,93.001
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,85.142,99.434,115.894,135.019,142.267
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.628,106.626,101.145,104.909,112.921
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)",119.317,132.234,136.316
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.055,"(D)",86.345,"(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.859,122.993,120.952,128.135,123.251
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,118.870,128.045,126.415,136.354,132.197
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.152,96.522,92.348,85.386,76.853
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.184,106.595,112.851,117.495,123.830
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.220,102.001,103.560,103.594,102.769
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.776,108.265,113.785,115.256,121.134
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.446,107.936,112.556,118.607,127.096
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.290,94.264,100.654,96.153,97.039
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,86.748,80.767,80.453,81.810,84.775
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.708,99.115,107.968,101.271,101.356
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.692,111.841,115.444,115.057,115.303
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.682,112.142,109.838,112.493,108.066
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.918,111.732,116.637,115.563,116.867
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.773,97.455,96.916,97.310,97.492
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.779,104.351,105.654,106.386,106.688
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.135,96.915,95.702,91.209,92.132
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,118.756,155.162,147.955,151.465,137.124
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.277,103.643,105.586,106.939,107.697
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.941,"(D)","(D)",89.065,95.273
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.260,107.622,110.960,115.830,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.473,"(D)","(D)",82.831,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.204,115.992,112.457,118.154,118.898
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.336,"(D)","(D)",159.126,162.727
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.572,107.433,112.417,113.690,118.623
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.155,107.097,111.456,109.958,110.376
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,119.118,99.515,103.660,112.530,120.971
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.153,81.952,75.031,75.218,73.011
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.372,109.749,112.997,115.858,119.640
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),22548,23168,22874,22927,23361,23761
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),20720,21326,20964,20991,21414,21810
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),24,30,48,33,27,37
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1579,1443,"(D)","(D)",887,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1079,1032,1018,1013,1069,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5323,5640,4180,3745,3700,3675
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",1930,1793,1864,"(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",33,"(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),211,201,169,193,191,187
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),259,224,233,218,240,273
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),220,187,184,224,262,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),210,226,"(D)",224,"(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),57,53,59,54,52,52
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",251,"(D)","(D)",257
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",3708,2404,1911,"(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",55,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1882,2187,905,497,480,453
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1089,1139,1160,1202,1266,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1615,1653,1750,1798,1865,1950
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),786,860,902,951,1060,1147
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),40,"(D)","(D)","(D)",44,54
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,"(D)","(D)","(D)",1,1
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),234,349,315,324,377,417
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),65,75,71,66,63,60
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),931,793,926,1079,1257,1325
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1158,1188,1235,1171,1215,1308
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),429,"(D)","(D)",512,568,585
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),648,616,"(D)",560,"(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",3
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1556,1802,1913,1881,1993,1917
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1300,1546,1665,1644,1773,1719
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),255,256,246,236,218,196
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",825,831,962,"(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",787,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),570,588,607,643,670,706
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",118,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),313,317,320,325,325,322
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2109,2168,2284,2400,2431,2555
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1044,1080,1126,1175,1238,1326
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),171,164,161,172,164,166
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),45,39,36,36,37,38
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),126,125,125,136,127,127
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),459,485,513,530,528,529
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),85,97,96,94,96,92
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),374,388,418,436,432,437
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),659,665,643,639,642,643
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1828,1842,1907,1931,1944,1950
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),204,204,198,195,186,188
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),50,60,78,74,76,69
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1573,1578,1631,1661,1682,1694
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),88,89,"(D)","(D)",78,83
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2704,2792,2910,3000,3132,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2365,2305,"(D)","(D)",1959,"(D)"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2713,2990,3147,3051,3206,3226
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1806,1884,"(D)","(D)",2873,2938
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2423,2485,2603,2724,2755,2874
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),629,649,674,702,692,695
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),735,876,732,762,827,889
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6481,6750,5311,4863,4875,4732
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),14239,14577,15627,16090,16497,17036
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),30115,30632,29867,29548,29731,29876
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"10900","Allentown-Bethlehem-Easton, PA-NJ (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),10336,10434,10394,10785,11114,11732
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),9365,9449,9374,9693,9973,10527
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),126,84,96,142,138,162
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)",0,0,"(L)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",216,227,247,269
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),372,341,316,321,376,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),4156,3994,3808,3821,3670,3761
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),2628,"(D)","(D)",2234,2097,2221
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),105,89,89,103,96,95
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),120,125,113,130,139,159
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),111,104,"(D)","(D)",98,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",442,467,459
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",16,"(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1136,1153,1271,1194,1028,1004
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),1528,"(D)","(D)",1587,1572,1540
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",0,0,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),208,279,262,226,265,241
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),576,569,588,653,674,689
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),714,754,801,804,828,829
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",337,390,417,448
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(L)","(D)","(L)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),2,2,3,3,3,3
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),231,246,266,309,329,352
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),86,81,84,90,100,106
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),392,417,372,404,450,580
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",300,325,364,492
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",60,"(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),757,858,859,863,982,987
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),650,816,816,"(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),107,42,43,"(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",245
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",328
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",201,231,271
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",29,"(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",736,"(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),356,391,406,411,426,477
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),57,42,45,50,49,65
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),224,211,216,223,227,240
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),30,25,25,24,26,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),194,185,191,198,201,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),223,230,243,243,249,265
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),971,985,1021,1092,1141,1205
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),53,56,58,61,61,64
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),19,24,34,34,36,36
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),899,906,929,997,1044,1105
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),145,100,112,159,157,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),1290,1323,1389,1457,1502,1519
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),503,518,553,616,664,717
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),1149,1274,1231,1267,1433,1567
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),490,622,613,653,714,844
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),670,713,765,794,831,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),281,252,260,273,277,305
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),68,67,61,74,77,116
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),4662,4426,4227,4292,4193,4323
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),4703,5023,5147,5401,5780,6205
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.218,97.695,99.407,99.911,102.293
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.413,97.833,99.465,100.022,102.576
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,73.259,73.155,89.774,105.100,131.306
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,2304.636,189.418,0.000,0.000,130.655
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.691,77.203,72.450,77.360,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.734,92.179,93.678,88.296,88.361
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)",86.596,79.477,82.338
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,84.889,80.967,80.922,76.647,79.889
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.481,94.814,105.700,107.733,123.157
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.841,"(D)","(D)",88.662,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.064,109.132,106.522,88.588,84.562
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)",105.846,103.473,98.694
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,134.415,122.111,102.329,111.810,96.052
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.475,100.433,105.611,105.303,103.969
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.672,109.521,109.123,114.029,114.920
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.545,102.419,113.300,101.290,127.354
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.559,110.333,124.188,129.252,134.066
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.497,100.950,111.465,128.983,140.074
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.544,88.437,92.995,101.220,126.110
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.800,106.916,104.925,116.722,114.108
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,121.133,117.854,"(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,39.411,38.985,"(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.165,110.210,109.309,110.972,123.036
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,70.253,73.694,79.690,76.888,97.968
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,89.697,91.050,91.562,90.404,91.617
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,83.688,81.315,75.544,77.807,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.612,92.518,93.981,92.293,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.953,101.343,98.524,95.377,96.553
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.364,96.360,98.799,98.826,99.737
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.594,96.275,95.591,91.784,92.635
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,116.827,154.795,145.899,142.971,132.655
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.877,95.093,97.985,98.324,99.510
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,74.951,74.378,88.895,102.674,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.362,105.484,107.600,110.097,109.933
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.091,108.307,116.805,121.390,123.379
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.968,100.569,100.835,111.400,118.318
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,124.531,121.135,122.185,126.100,143.022
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.910,107.579,108.219,110.272,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,85.756,87.532,89.165,87.670,92.920
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.096,98.451,127.397,140.287,227.924
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.469,90.413,91.818,88.065,88.302
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.265,105.070,106.919,111.452,116.145
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10336,10255,10098,10275,10327,10573
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9365,9310,9162,9315,9367,9606
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),126,92,92,113,132,165
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)",0,0,"(L)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",221,225,231,224
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),372,326,287,269,287,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4156,3979,3831,3893,3669,3672
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2628,"(D)","(D)",2275,2088,2163
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),105,89,85,85,81,84
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),120,125,114,127,130,148
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),111,103,"(D)","(D)",98,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",458,472,436
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",15,"(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1136,1126,1240,1211,1007,961
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1528,"(D)","(D)",1618,1581,1508
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",0,0,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),208,280,254,213,233,200
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),576,567,578,608,606,598
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),714,740,782,779,814,821
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",324,362,379,396
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(L)","(D)","(L)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,2,3,3,2,3
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),231,239,255,287,299,310
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),86,82,86,95,110,120
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),392,398,347,365,397,494
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",280,295,323,419
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",54,"(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),757,831,810,794,884,864
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),650,787,766,"(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),107,42,42,"(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",225
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",237
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",189,210,235
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",26,"(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",695,"(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),356,385,392,389,395,438
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),57,40,42,46,44,56
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),224,201,204,205,202,205
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),30,25,25,23,24,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),194,175,179,182,179,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),223,221,226,220,213,216
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),971,945,936,959,959,968
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),53,53,51,51,49,49
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),19,22,29,27,27,25
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),899,871,855,881,884,894
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),145,109,108,129,149,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1290,1307,1360,1388,1420,1418
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),503,514,545,588,611,621
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1149,1229,1156,1159,1280,1360
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),490,610,594,599,618,701
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),670,690,721,725,739,"(D)"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),281,241,246,251,247,261
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),68,69,67,87,96,156
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4662,4404,4215,4280,4106,4117
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4703,4904,4941,5028,5242,5462
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),29803,29441,28919,29251,29163,29613
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25860","Hickory-Lenoir-Morganton, NC (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"15380","Buffalo-Niagara Falls, NY (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),32930,35022,36220,37623,38320,40561
+"15380","Buffalo-Niagara Falls, NY (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),28421,30362,31269,32121,32579,34619
+"15380","Buffalo-Niagara Falls, NY (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),69,69,90,102,96,102
+"15380","Buffalo-Niagara Falls, NY (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),1,1,1,2,4,4
+"15380","Buffalo-Niagara Falls, NY (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)",15,19,21,38,61
+"15380","Buffalo-Niagara Falls, NY (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),639,690,672,722,717,762
+"15380","Buffalo-Niagara Falls, NY (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),1252,1330,1278,1379,1449,1473
+"15380","Buffalo-Niagara Falls, NY (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),6597,7195,6862,6588,6781,7161
+"15380","Buffalo-Niagara Falls, NY (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),3745,4106,3775,3428,3547,3619
+"15380","Buffalo-Niagara Falls, NY (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),68,59,65,66,72,79
+"15380","Buffalo-Niagara Falls, NY (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),265,276,239,255,224,214
+"15380","Buffalo-Niagara Falls, NY (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),231,233,215,290,326,334
+"15380","Buffalo-Niagara Falls, NY (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),691,652,652,675,703,721
+"15380","Buffalo-Niagara Falls, NY (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),486,466,353,404,474,530
+"15380","Buffalo-Niagara Falls, NY (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),136,146,146,143,152,140
+"15380","Buffalo-Niagara Falls, NY (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),282,332,298,278,259,276
+"15380","Buffalo-Niagara Falls, NY (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),44,45,50,42,40,44
+"15380","Buffalo-Niagara Falls, NY (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),295,267,285,314,335,341
+"15380","Buffalo-Niagara Falls, NY (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),2853,3089,3087,3159,3234,3542
+"15380","Buffalo-Niagara Falls, NY (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",700,792,739
+"15380","Buffalo-Niagara Falls, NY (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),143,157,144,147,184,190
+"15380","Buffalo-Niagara Falls, NY (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),243,232,233,250,236,215
+"15380","Buffalo-Niagara Falls, NY (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),113,69,"(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),971,1247,1300,1407,1392,1747
+"15380","Buffalo-Niagara Falls, NY (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),429,471,456,477,461,474
+"15380","Buffalo-Niagara Falls, NY (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),1941,1962,2021,2200,2305,2345
+"15380","Buffalo-Niagara Falls, NY (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),2400,2457,2552,2642,2676,2709
+"15380","Buffalo-Niagara Falls, NY (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),908,894,902,914,944,1014
+"15380","Buffalo-Niagara Falls, NY (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)",22,24,18,33,"(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),50,49,58,61,63,81
+"15380","Buffalo-Niagara Falls, NY (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),336,345,323,372,369,383
+"15380","Buffalo-Niagara Falls, NY (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),86,91,90,98,90,83
+"15380","Buffalo-Niagara Falls, NY (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),92,93,99,51,55,59
+"15380","Buffalo-Niagara Falls, NY (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),1021,979,1026,1048,1041,1096
+"15380","Buffalo-Niagara Falls, NY (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",270,279
+"15380","Buffalo-Niagara Falls, NY (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),15,24,"(D)",15,17,15
+"15380","Buffalo-Niagara Falls, NY (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),92,93,106,117,"(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),2668,3350,3472,3608,3387,4088
+"15380","Buffalo-Niagara Falls, NY (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",224,"(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),820,922,999,1107,1058,1140
+"15380","Buffalo-Niagara Falls, NY (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),2257,2380,2629,2652,2658,2728
+"15380","Buffalo-Niagara Falls, NY (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),2029,2187,2412,2434,2453,2529
+"15380","Buffalo-Niagara Falls, NY (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),228,193,217,219,206,198
+"15380","Buffalo-Niagara Falls, NY (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),1811,1859,2046,2129,2132,2263
+"15380","Buffalo-Niagara Falls, NY (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),629,767,797,817,887,1010
+"15380","Buffalo-Niagara Falls, NY (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),1076,1071,1209,1280,1326,1341
+"15380","Buffalo-Niagara Falls, NY (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),902,913,1049,1092,1164,1168
+"15380","Buffalo-Niagara Falls, NY (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),174,158,160,187,162,174
+"15380","Buffalo-Niagara Falls, NY (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),299,342,388,469,468,447
+"15380","Buffalo-Niagara Falls, NY (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),2864,2946,3170,3322,3398,3568
+"15380","Buffalo-Niagara Falls, NY (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),1394,1460,1591,1656,1758,1855
+"15380","Buffalo-Niagara Falls, NY (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),1132,1122,1203,1277,1263,1335
+"15380","Buffalo-Niagara Falls, NY (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),337,365,375,388,377,378
+"15380","Buffalo-Niagara Falls, NY (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),334,356,375,409,405,472
+"15380","Buffalo-Niagara Falls, NY (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),229,241,258,269,261,325
+"15380","Buffalo-Niagara Falls, NY (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),105,115,117,140,144,147
+"15380","Buffalo-Niagara Falls, NY (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),823,873,907,941,966,1033
+"15380","Buffalo-Niagara Falls, NY (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),186,174,171,176,179,192
+"15380","Buffalo-Niagara Falls, NY (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),637,699,736,765,787,841
+"15380","Buffalo-Niagara Falls, NY (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),789,796,826,847,870,905
+"15380","Buffalo-Niagara Falls, NY (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),4508,4660,4951,5502,5741,5943
+"15380","Buffalo-Niagara Falls, NY (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),715,783,822,891,892,901
+"15380","Buffalo-Niagara Falls, NY (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),71,84,106,112,121,96
+"15380","Buffalo-Niagara Falls, NY (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),3723,3793,4023,4499,4727,4946
+"15380","Buffalo-Niagara Falls, NY (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),114,113,137,154,169,202
+"15380","Buffalo-Niagara Falls, NY (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),4341,4420,4573,4842,4980,5054
+"15380","Buffalo-Niagara Falls, NY (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),1547,1584,1574,1637,1661,1776
+"15380","Buffalo-Niagara Falls, NY (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),4925,5730,6101,6260,6045,6816
+"15380","Buffalo-Niagara Falls, NY (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),3515,3696,4053,4226,4345,4615
+"15380","Buffalo-Niagara Falls, NY (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),3163,3288,3559,3791,3866,4015
+"15380","Buffalo-Niagara Falls, NY (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),1157,1230,1283,1350,1370,1505
+"15380","Buffalo-Niagara Falls, NY (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),7954,8628,8267,8111,8391,8829
+"15380","Buffalo-Niagara Falls, NY (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),20467,21733,23002,24009,24187,25790
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"15380","Buffalo-Niagara Falls, NY (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.263,105.934,107.038,105.883,108.724
+"15380","Buffalo-Niagara Falls, NY (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.116,106.829,107.068,105.726,109.246
+"15380","Buffalo-Niagara Falls, NY (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.854,124.895,116.744,132.715,149.900
+"15380","Buffalo-Niagara Falls, NY (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.210,171.006,233.934,323.251,312.033
+"15380","Buffalo-Niagara Falls, NY (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.868,107.746,112.183,104.885,99.374
+"15380","Buffalo-Niagara Falls, NY (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.367,92.733,92.338,88.361,81.472
+"15380","Buffalo-Niagara Falls, NY (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.605,106.131,102.193,102.994,107.005
+"15380","Buffalo-Niagara Falls, NY (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.125,105.503,96.386,100.070,102.752
+"15380","Buffalo-Niagara Falls, NY (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.582,91.771,81.116,90.097,103.194
+"15380","Buffalo-Niagara Falls, NY (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.364,89.638,93.531,76.239,64.749
+"15380","Buffalo-Niagara Falls, NY (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.703,97.654,106.762,104.938,89.325
+"15380","Buffalo-Niagara Falls, NY (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.977,95.077,95.860,95.146,97.033
+"15380","Buffalo-Niagara Falls, NY (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.372,72.628,85.602,98.191,108.934
+"15380","Buffalo-Niagara Falls, NY (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,121.104,139.749,157.165,190.988,202.643
+"15380","Buffalo-Niagara Falls, NY (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,119.378,109.866,102.074,92.658,92.839
+"15380","Buffalo-Niagara Falls, NY (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.681,109.321,96.431,88.659,95.202
+"15380","Buffalo-Niagara Falls, NY (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.136,94.053,105.468,113.835,116.588
+"15380","Buffalo-Niagara Falls, NY (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.626,106.868,109.315,106.661,112.200
+"15380","Buffalo-Niagara Falls, NY (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.095,104.953,109.886,136.300,133.215
+"15380","Buffalo-Niagara Falls, NY (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.084,95.382,103.946,98.325,88.503
+"15380","Buffalo-Niagara Falls, NY (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.496,"(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,128.978,129.976,136.792,125.970,149.509
+"15380","Buffalo-Niagara Falls, NY (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.650,107.891,116.415,110.488,101.432
+"15380","Buffalo-Niagara Falls, NY (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.731,102.349,105.470,106.706,104.844
+"15380","Buffalo-Niagara Falls, NY (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.545,103.895,106.743,109.672,111.713
+"15380","Buffalo-Niagara Falls, NY (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.179,93.875,93.320,95.222,100.096
+"15380","Buffalo-Niagara Falls, NY (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,86.763,76.967,85.042,91.328,116.170
+"15380","Buffalo-Niagara Falls, NY (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.827,92.329,102.656,99.621,100.390
+"15380","Buffalo-Niagara Falls, NY (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.988,98.197,104.909,94.098,84.000
+"15380","Buffalo-Niagara Falls, NY (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.862,105.905,51.630,55.904,59.120
+"15380","Buffalo-Niagara Falls, NY (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.102,103.327,109.073,112.891,121.739
+"15380","Buffalo-Niagara Falls, NY (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,158.576,"(D)",100.096,107.410,95.980
+"15380","Buffalo-Niagara Falls, NY (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.102,111.593,127.957,"(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,120.913,121.926,121.786,111.637,131.378
+"15380","Buffalo-Niagara Falls, NY (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.938,109.753,113.090,104.340,111.236
+"15380","Buffalo-Niagara Falls, NY (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.201,109.690,108.083,105.763,105.663
+"15380","Buffalo-Niagara Falls, NY (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.034,111.673,110.117,108.576,108.958
+"15380","Buffalo-Niagara Falls, NY (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,85.517,91.643,89.575,80.301,75.929
+"15380","Buffalo-Niagara Falls, NY (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.909,110.162,114.692,111.617,115.909
+"15380","Buffalo-Niagara Falls, NY (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,121.442,122.036,110.758,107.915,116.335
+"15380","Buffalo-Niagara Falls, NY (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.098,109.151,111.336,111.779,108.020
+"15380","Buffalo-Niagara Falls, NY (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.036,113.564,114.719,117.331,112.823
+"15380","Buffalo-Niagara Falls, NY (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.145,86.701,93.894,83.608,83.640
+"15380","Buffalo-Niagara Falls, NY (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.888,117.153,133.464,126.141,114.807
+"15380","Buffalo-Niagara Falls, NY (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.552,104.519,106.318,105.966,108.742
+"15380","Buffalo-Niagara Falls, NY (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.131,110.376,112.330,116.967,122.039
+"15380","Buffalo-Niagara Falls, NY (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.163,96.140,97.243,92.158,93.519
+"15380","Buffalo-Niagara Falls, NY (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.705,109.267,112.980,109.501,107.878
+"15380","Buffalo-Niagara Falls, NY (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.149,105.337,110.863,105.738,119.061
+"15380","Buffalo-Niagara Falls, NY (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.774,105.129,105.022,97.439,116.732
+"15380","Buffalo-Niagara Falls, NY (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.142,105.761,123.900,124.424,123.749
+"15380","Buffalo-Niagara Falls, NY (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.585,104.575,105.409,104.628,107.490
+"15380","Buffalo-Niagara Falls, NY (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.591,90.716,88.632,85.583,89.647
+"15380","Buffalo-Niagara Falls, NY (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.854,108.470,110.127,110.002,112.512
+"15380","Buffalo-Niagara Falls, NY (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.844,97.488,96.964,94.196,93.403
+"15380","Buffalo-Niagara Falls, NY (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.956,100.372,106.548,106.475,105.461
+"15380","Buffalo-Niagara Falls, NY (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.872,102.385,103.554,99.467,96.543
+"15380","Buffalo-Niagara Falls, NY (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.931,127.247,125.809,125.897,94.049
+"15380","Buffalo-Niagara Falls, NY (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.982,99.453,106.799,107.542,107.594
+"15380","Buffalo-Niagara Falls, NY (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.966,107.661,105.491,121.606,137.968
+"15380","Buffalo-Niagara Falls, NY (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.628,103.208,106.179,108.324,108.513
+"15380","Buffalo-Niagara Falls, NY (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.767,99.532,100.951,99.149,99.670
+"15380","Buffalo-Niagara Falls, NY (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.352,116.323,115.515,108.917,119.658
+"15380","Buffalo-Niagara Falls, NY (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.863,111.946,112.772,110.818,113.534
+"15380","Buffalo-Niagara Falls, NY (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.256,105.742,108.988,107.924,109.218
+"15380","Buffalo-Niagara Falls, NY (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.035,104.793,106.996,104.944,110.865
+"15380","Buffalo-Niagara Falls, NY (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.971,103.971,100.692,100.866,102.896
+"15380","Buffalo-Niagara Falls, NY (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.636,107.868,109.408,107.507,111.578
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"15380","Buffalo-Niagara Falls, NY (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),32930,34333,34884,35247,34867,35803
+"15380","Buffalo-Niagara Falls, NY (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),28421,29875,30362,30430,30049,31049
+"15380","Buffalo-Niagara Falls, NY (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),69,76,87,81,92,104
+"15380","Buffalo-Niagara Falls, NY (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,1,1,2,2
+"15380","Buffalo-Niagara Falls, NY (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",10,11,12,18,22
+"15380","Buffalo-Niagara Falls, NY (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),639,702,689,717,670,635
+"15380","Buffalo-Niagara Falls, NY (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1252,1269,1161,1156,1107,1020
+"15380","Buffalo-Niagara Falls, NY (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6597,7297,7002,6742,6795,7060
+"15380","Buffalo-Niagara Falls, NY (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3745,4199,3951,3609,3747,3848
+"15380","Buffalo-Niagara Falls, NY (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),68,59,62,55,61,70
+"15380","Buffalo-Niagara Falls, NY (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),265,271,238,248,202,172
+"15380","Buffalo-Niagara Falls, NY (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),231,233,226,247,243,207
+"15380","Buffalo-Niagara Falls, NY (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),691,649,657,662,657,670
+"15380","Buffalo-Niagara Falls, NY (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),486,463,353,416,477,529
+"15380","Buffalo-Niagara Falls, NY (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),136,165,190,214,260,276
+"15380","Buffalo-Niagara Falls, NY (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),282,337,310,288,261,262
+"15380","Buffalo-Niagara Falls, NY (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),44,44,49,43,39,42
+"15380","Buffalo-Niagara Falls, NY (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),295,260,278,311,336,344
+"15380","Buffalo-Niagara Falls, NY (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2853,3099,3049,3118,3043,3201
+"15380","Buffalo-Niagara Falls, NY (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",696,777,755
+"15380","Buffalo-Niagara Falls, NY (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),143,159,150,157,195,190
+"15380","Buffalo-Niagara Falls, NY (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),243,229,232,253,239,215
+"15380","Buffalo-Niagara Falls, NY (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),113,119,"(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),971,1252,1262,1328,1223,1451
+"15380","Buffalo-Niagara Falls, NY (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),429,466,463,500,474,435
+"15380","Buffalo-Niagara Falls, NY (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1941,1955,1987,2047,2071,2035
+"15380","Buffalo-Niagara Falls, NY (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2400,2413,2493,2562,2632,2681
+"15380","Buffalo-Niagara Falls, NY (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),908,873,852,847,865,909
+"15380","Buffalo-Niagara Falls, NY (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",21,23,17,27,"(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),50,43,38,42,45,58
+"15380","Buffalo-Niagara Falls, NY (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),336,335,310,345,335,337
+"15380","Buffalo-Niagara Falls, NY (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),86,88,84,90,80,72
+"15380","Buffalo-Niagara Falls, NY (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),92,92,97,47,51,54
+"15380","Buffalo-Niagara Falls, NY (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1021,992,1055,1114,1153,1243
+"15380","Buffalo-Niagara Falls, NY (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",289,295
+"15380","Buffalo-Niagara Falls, NY (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15,23,"(D)",15,16,14
+"15380","Buffalo-Niagara Falls, NY (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),92,91,103,118,"(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2668,3226,3253,3249,2978,3505
+"15380","Buffalo-Niagara Falls, NY (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",246,"(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),820,894,900,928,856,913
+"15380","Buffalo-Niagara Falls, NY (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2257,2307,2476,2440,2387,2385
+"15380","Buffalo-Niagara Falls, NY (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2029,2111,2266,2234,2203,2211
+"15380","Buffalo-Niagara Falls, NY (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),228,195,209,204,183,173
+"15380","Buffalo-Niagara Falls, NY (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1811,1809,1995,2077,2021,2099
+"15380","Buffalo-Niagara Falls, NY (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),629,763,767,696,678,731
+"15380","Buffalo-Niagara Falls, NY (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1076,1044,1174,1197,1202,1162
+"15380","Buffalo-Niagara Falls, NY (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),902,893,1024,1034,1058,1017
+"15380","Buffalo-Niagara Falls, NY (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),174,152,151,163,145,145
+"15380","Buffalo-Niagara Falls, NY (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),299,320,351,399,378,344
+"15380","Buffalo-Niagara Falls, NY (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2864,2851,2993,3045,3035,3114
+"15380","Buffalo-Niagara Falls, NY (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1394,1438,1539,1566,1631,1702
+"15380","Buffalo-Niagara Falls, NY (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1132,1055,1088,1101,1043,1059
+"15380","Buffalo-Niagara Falls, NY (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),337,360,369,381,369,364
+"15380","Buffalo-Niagara Falls, NY (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),334,345,352,370,353,398
+"15380","Buffalo-Niagara Falls, NY (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),229,233,241,240,223,267
+"15380","Buffalo-Niagara Falls, NY (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),105,112,111,130,131,130
+"15380","Buffalo-Niagara Falls, NY (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),823,836,861,868,861,885
+"15380","Buffalo-Niagara Falls, NY (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),186,174,168,164,159,166
+"15380","Buffalo-Niagara Falls, NY (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),637,662,691,702,701,717
+"15380","Buffalo-Niagara Falls, NY (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),789,764,769,765,743,737
+"15380","Buffalo-Niagara Falls, NY (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4508,4461,4525,4804,4800,4755
+"15380","Buffalo-Niagara Falls, NY (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),715,735,732,740,711,690
+"15380","Buffalo-Niagara Falls, NY (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),71,78,90,89,89,67
+"15380","Buffalo-Niagara Falls, NY (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3723,3648,3702,3976,4003,4005
+"15380","Buffalo-Niagara Falls, NY (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),114,114,123,120,138,157
+"15380","Buffalo-Niagara Falls, NY (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4341,4368,4480,4609,4702,4710
+"15380","Buffalo-Niagara Falls, NY (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1547,1574,1540,1562,1534,1542
+"15380","Buffalo-Niagara Falls, NY (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4925,5533,5729,5689,5364,5893
+"15380","Buffalo-Niagara Falls, NY (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3515,3615,3934,3964,3895,3990
+"15380","Buffalo-Niagara Falls, NY (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3163,3171,3345,3447,3414,3455
+"15380","Buffalo-Niagara Falls, NY (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1157,1181,1213,1238,1214,1283
+"15380","Buffalo-Niagara Falls, NY (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15380","Buffalo-Niagara Falls, NY (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7954,8668,8270,8009,8023,8185
+"15380","Buffalo-Niagara Falls, NY (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),20467,21211,22077,22393,22004,22837
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"15380","Buffalo-Niagara Falls, NY (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),28302,29628,30201,30645,30550,31590
+"15380","Buffalo-Niagara Falls, NY (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15380","Buffalo-Niagara Falls, NY (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce
