@@ -1,11 +1,7 @@
 # set up
 library(ggplot2)
-# MAKE SURE to set this to where you unpack the data
-setwd("C:/Users/Administrator/Downloads/GDPMetro/")
-
-# finalized single loop to compile from source files
-
-n <- c()
+library(plyr)
+source(file.choose('c:/Users/Administrator/housing-crisis/gdp-metro/GDP.R'), chwd=T)
 
 path <- dir(pattern = "\\.csv") 
 
