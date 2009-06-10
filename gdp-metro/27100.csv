@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"27100","Jackson, MI (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),3960,4168,4213,4424,4700,4712
+"27100","Jackson, MI (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),3424,3629,3683,3874,4103,4082
+"27100","Jackson, MI (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",19,19,26
+"27100","Jackson, MI (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),9,7,10,16,15,21
+"27100","Jackson, MI (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",3,4,5
+"27100","Jackson, MI (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),8,8,6,7,8,10
+"27100","Jackson, MI (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),2,1,1,1,1,1
+"27100","Jackson, MI (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),182,175,162,170,180,159
+"27100","Jackson, MI (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),724,793,807,757,786,774
+"27100","Jackson, MI (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),589,638,631,605,641,615
+"27100","Jackson, MI (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),2,1,1,1,1,1
+"27100","Jackson, MI (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),3,4,5,6,6,6
+"27100","Jackson, MI (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),48,47,43,55,63,68
+"27100","Jackson, MI (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),171,161,164,172,180,185
+"27100","Jackson, MI (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),88,93,93,90,97,90
+"27100","Jackson, MI (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),12,8,"(D)","(D)",6,6
+"27100","Jackson, MI (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",9,4,"(D)",5
+"27100","Jackson, MI (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1,1,1,2,2,2
+"27100","Jackson, MI (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),34,35,26,25,28,24
+"27100","Jackson, MI (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),135,155,176,152,146,159
+"27100","Jackson, MI (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),74,85,110,91,95,109
+"27100","Jackson, MI (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",3,3,2
+"27100","Jackson, MI (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),10,9,8,7,6,6
+"27100","Jackson, MI (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"27100","Jackson, MI (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),25,25,25,22,17,15
+"27100","Jackson, MI (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),175,177,178,191,191,203
+"27100","Jackson, MI (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),387,405,368,373,366,360
+"27100","Jackson, MI (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),9,11,10,10,12,13
+"27100","Jackson, MI (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"27100","Jackson, MI (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),51,58,51,54,58,59
+"27100","Jackson, MI (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),7,"(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),5,6,7,7,"(D)","(D)"
+"27100","Jackson, MI (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),47,47,45,45,45,47
+"27100","Jackson, MI (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",27
+"27100","Jackson, MI (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),1,1,1,1,1,1
+"27100","Jackson, MI (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),192,225,206,201,212,152
+"27100","Jackson, MI (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),145,175,152,145,153,83
+"27100","Jackson, MI (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",10,10,11,13
+"27100","Jackson, MI (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),37,41,43,46,47,55
+"27100","Jackson, MI (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(L)",1,1,1
+"27100","Jackson, MI (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),284,283,318,293,362,359
+"27100","Jackson, MI (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),266,260,294,272,341,342
+"27100","Jackson, MI (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),18,23,24,20,20,17
+"27100","Jackson, MI (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),102,96,96,102,117,125
+"27100","Jackson, MI (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),24,25,27,38,44,46
+"27100","Jackson, MI (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),97,92,98,102,106,104
+"27100","Jackson, MI (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),73,67,70,74,76,75
+"27100","Jackson, MI (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),24,25,28,28,30,29
+"27100","Jackson, MI (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),25,33,36,42,45,47
+"27100","Jackson, MI (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),328,363,397,424,429,432
+"27100","Jackson, MI (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),165,184,201,205,211,201
+"27100","Jackson, MI (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),19,20,21,20,21,23
+"27100","Jackson, MI (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),4,3,5,4,6,6
+"27100","Jackson, MI (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),15,16,16,16,15,17
+"27100","Jackson, MI (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),97,102,106,106,109,110
+"27100","Jackson, MI (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),10,11,11,11,12,11
+"27100","Jackson, MI (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),87,92,94,94,97,99
+"27100","Jackson, MI (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),125,125,126,127,132,132
+"27100","Jackson, MI (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),536,539,530,550,597,630
+"27100","Jackson, MI (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),26,27,27,28,28,29
+"27100","Jackson, MI (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),7,9,12,13,13,12
+"27100","Jackson, MI (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),503,504,491,509,556,588
+"27100","Jackson, MI (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",26,27,36
+"27100","Jackson, MI (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),562,582,546,564,557,562
+"27100","Jackson, MI (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",857,932,974
+"27100","Jackson, MI (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),476,508,523,494,573,510
+"27100","Jackson, MI (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),223,213,221,242,266,276
+"27100","Jackson, MI (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),353,396,433,466,473,479
+"27100","Jackson, MI (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),116,122,127,126,130,133
+"27100","Jackson, MI (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",30,27,"(D)","(D)"
+"27100","Jackson, MI (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",950,989,964
+"27100","Jackson, MI (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",2924,3114,3118
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"27100","Jackson, MI (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.450,103.294,105.654,109.088,105.251
+"27100","Jackson, MI (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.546,105.341,108.169,111.569,106.939
+"27100","Jackson, MI (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,79.486,97.314,135.178,148.858,224.565
+"27100","Jackson, MI (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.208,60.324,60.704,63.049,66.497
+"27100","Jackson, MI (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,59.896,35.847,22.728,17.514,29.768
+"27100","Jackson, MI (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.359,80.778,78.138,75.355,60.363
+"27100","Jackson, MI (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.889,114.994,108.997,114.126,114.717
+"27100","Jackson, MI (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.797,111.967,108.156,116.226,114.409
+"27100","Jackson, MI (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,86.649,73.830,65.594,70.407,60.458
+"27100","Jackson, MI (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,123.224,147.475,155.813,155.262,143.890
+"27100","Jackson, MI (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.144,93.593,97.787,96.886,87.652
+"27100","Jackson, MI (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.586,96.665,98.880,98.857,100.643
+"27100","Jackson, MI (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.476,105.757,105.677,111.568,102.570
+"27100","Jackson, MI (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,81.362,"(D)","(D)",91.230,105.166
+"27100","Jackson, MI (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,116.598,122.074,175.094,155.725,146.057
+"27100","Jackson, MI (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.637,74.244,72.299,82.281,70.839
+"27100","Jackson, MI (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.280,127.471,112.476,105.619,115.736
+"27100","Jackson, MI (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.299,144.844,122.819,126.133,151.496
+"27100","Jackson, MI (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,82.455,78.480,71.782,55.704,53.674
+"27100","Jackson, MI (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"27100","Jackson, MI (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.405,101.622,91.789,68.516,56.645
+"27100","Jackson, MI (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.635,100.181,101.604,97.962,100.530
+"27100","Jackson, MI (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.631,92.792,93.451,93.059,91.936
+"27100","Jackson, MI (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.818,98.581,99.017,99.678,126.255
+"27100","Jackson, MI (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,46.485,75.589,102.948,172.267,152.848
+"27100","Jackson, MI (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.613,95.463,98.145,102.725,102.070
+"27100","Jackson, MI (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.668,132.692,122.604,"(D)","(D)"
+"27100","Jackson, MI (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.639,99.056,101.531,104.484,111.179
+"27100","Jackson, MI (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,129.384,137.802,164.204,134.801,135.707
+"27100","Jackson, MI (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.009,100.038,94.447,96.984,67.707
+"27100","Jackson, MI (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.779,97.924,90.799,93.870,48.858
+"27100","Jackson, MI (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.131,104.257,102.355,100.686,116.873
+"27100","Jackson, MI (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.616,105.344,94.783,114.439,110.521
+"27100","Jackson, MI (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.335,103.899,94.201,115.480,112.595
+"27100","Jackson, MI (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,130.895,126.861,103.382,99.093,80.088
+"27100","Jackson, MI (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.717,90.969,97.053,107.478,113.305
+"27100","Jackson, MI (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.240,107.937,134.174,139.179,137.569
+"27100","Jackson, MI (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.939,98.239,97.680,99.186,92.796
+"27100","Jackson, MI (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.287,94.242,95.648,95.083,90.275
+"27100","Jackson, MI (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.981,110.290,104.068,111.626,100.508
+"27100","Jackson, MI (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,124.926,132.129,144.693,145.140,145.198
+"27100","Jackson, MI (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.661,113.479,117.135,114.997,113.066
+"27100","Jackson, MI (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.071,118.062,117.298,118.658,111.852
+"27100","Jackson, MI (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.592,106.977,98.824,100.548,105.699
+"27100","Jackson, MI (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,80.641,127.489,90.140,126.376,121.663
+"27100","Jackson, MI (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.778,101.533,101.185,93.468,101.370
+"27100","Jackson, MI (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.803,102.500,99.752,100.025,96.183
+"27100","Jackson, MI (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.771,111.533,107.659,108.664,96.414
+"27100","Jackson, MI (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.144,101.510,98.886,99.076,96.180
+"27100","Jackson, MI (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.768,93.619,91.484,90.271,86.022
+"27100","Jackson, MI (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.547,90.590,90.167,93.769,94.533
+"27100","Jackson, MI (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.804,92.269,89.416,84.367,85.669
+"27100","Jackson, MI (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,119.166,148.234,148.843,145.064,128.594
+"27100","Jackson, MI (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.224,89.689,89.385,93.580,94.583
+"27100","Jackson, MI (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.013,95.074,95.973,94.525,94.640
+"27100","Jackson, MI (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.849,103.172,94.636,107.294,93.005
+"27100","Jackson, MI (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.133,95.946,101.429,107.273,106.832
+"27100","Jackson, MI (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.962,114.806,119.116,117.174,115.399
+"27100","Jackson, MI (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.930,103.222,99.598,100.105,97.710
+"27100","Jackson, MI (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"27100","Jackson, MI (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3960,4097,4091,4184,4320,4168
+"27100","Jackson, MI (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3424,3579,3607,3704,3820,3661
+"27100","Jackson, MI (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",16,19,26
+"27100","Jackson, MI (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9,8,9,13,14,21
+"27100","Jackson, MI (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",3,4,4
+"27100","Jackson, MI (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,7,5,5,5,6
+"27100","Jackson, MI (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,1,1,0,0,0
+"27100","Jackson, MI (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),182,167,147,142,137,110
+"27100","Jackson, MI (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),724,803,833,789,827,831
+"27100","Jackson, MI (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),589,653,660,637,685,674
+"27100","Jackson, MI (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,1,1,1,1,1
+"27100","Jackson, MI (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3,4,5,5,5,5
+"27100","Jackson, MI (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),48,47,45,47,47,42
+"27100","Jackson, MI (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),171,160,165,169,169,172
+"27100","Jackson, MI (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),88,92,93,93,98,90
+"27100","Jackson, MI (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),12,9,"(D)","(D)",11,12
+"27100","Jackson, MI (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",9,4,"(D)",5
+"27100","Jackson, MI (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,1,2,2,2
+"27100","Jackson, MI (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),34,34,25,24,28,24
+"27100","Jackson, MI (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),135,150,172,152,143,156
+"27100","Jackson, MI (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),74,81,107,90,93,111
+"27100","Jackson, MI (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",3,3,2
+"27100","Jackson, MI (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,9,8,7,6,6
+"27100","Jackson, MI (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"27100","Jackson, MI (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),25,25,26,23,17,14
+"27100","Jackson, MI (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),175,176,175,178,171,176
+"27100","Jackson, MI (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),387,397,359,362,360,356
+"27100","Jackson, MI (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9,10,9,9,9,12
+"27100","Jackson, MI (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"27100","Jackson, MI (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),51,56,49,50,53,52
+"27100","Jackson, MI (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,"(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,6,7,6,"(D)","(D)"
+"27100","Jackson, MI (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),47,47,47,48,49,52
+"27100","Jackson, MI (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",32
+"27100","Jackson, MI (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,1,1,1,1
+"27100","Jackson, MI (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),192,215,192,181,186,130
+"27100","Jackson, MI (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),145,166,142,131,136,71
+"27100","Jackson, MI (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",11,11,13,16
+"27100","Jackson, MI (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),37,40,39,38,38,44
+"27100","Jackson, MI (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(L)",1,1,1
+"27100","Jackson, MI (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),284,274,299,269,325,314
+"27100","Jackson, MI (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),266,251,276,250,307,299
+"27100","Jackson, MI (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),18,24,23,19,18,14
+"27100","Jackson, MI (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),102,93,93,99,110,116
+"27100","Jackson, MI (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),24,25,26,33,34,33
+"27100","Jackson, MI (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),97,90,95,94,96,90
+"27100","Jackson, MI (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),73,66,69,70,69,66
+"27100","Jackson, MI (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),24,24,26,25,27,24
+"27100","Jackson, MI (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),25,31,33,36,36,36
+"27100","Jackson, MI (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),328,350,372,384,377,371
+"27100","Jackson, MI (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),165,182,195,194,196,185
+"27100","Jackson, MI (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"27100","Jackson, MI (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),19,19,20,19,19,20
+"27100","Jackson, MI (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,3,5,4,5,5
+"27100","Jackson, MI (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15,16,15,15,14,15
+"27100","Jackson, MI (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),97,97,100,97,97,94
+"27100","Jackson, MI (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,10,11,11,11,10
+"27100","Jackson, MI (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),87,87,89,86,87,84
+"27100","Jackson, MI (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),125,120,117,114,113,108
+"27100","Jackson, MI (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),536,518,486,484,503,507
+"27100","Jackson, MI (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),26,25,24,23,22,23
+"27100","Jackson, MI (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,8,10,10,10,9
+"27100","Jackson, MI (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),503,484,451,450,471,476
+"27100","Jackson, MI (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",21,23,30
+"27100","Jackson, MI (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),562,574,535,540,531,532
+"27100","Jackson, MI (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",843,868,819
+"27100","Jackson, MI (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),476,489,491,450,510,442
+"27100","Jackson, MI (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),223,208,214,226,239,238
+"27100","Jackson, MI (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),353,381,405,421,414,407
+"27100","Jackson, MI (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),116,116,120,116,116,114
+"27100","Jackson, MI (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",33,32,"(D)","(D)"
+"27100","Jackson, MI (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",948,979,953
+"27100","Jackson, MI (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",2752,2838,2706
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"27100","Jackson, MI (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),24787,25470,25265,25846,26552,25557
+"27100","Jackson, MI (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"27100","Jackson, MI (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

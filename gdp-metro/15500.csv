@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"15500","Burlington, NC (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),3645,3832,3728,3866,4038,4308
+"15500","Burlington, NC (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),3381,3550,3436,3562,3717,3968
+"15500","Burlington, NC (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),10,1,"(L)",2,2,3
+"15500","Burlington, NC (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)",0,0,"(L)"
+"15500","Burlington, NC (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"15500","Burlington, NC (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),35,36,40,43,46,45
+"15500","Burlington, NC (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),200,210,217,242,247,248
+"15500","Burlington, NC (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),929,1011,944,959,968,1030
+"15500","Burlington, NC (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)",305,297,337,361,420
+"15500","Burlington, NC (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),22,21,29,28,19,25
+"15500","Burlington, NC (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),23,18,16,19,19,21
+"15500","Burlington, NC (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),46,42,56,68,62,71
+"15500","Burlington, NC (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),37,34,41,61,64,72
+"15500","Burlington, NC (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),11,"(D)","(D)",16,23,46
+"15500","Burlington, NC (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),79,56,35,35,33,33
+"15500","Burlington, NC (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),60,69,"(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"15500","Burlington, NC (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),16,18,22,22,22,24
+"15500","Burlington, NC (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),37,34,31,32,42,40
+"15500","Burlington, NC (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)",706,647,622,607,610
+"15500","Burlington, NC (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),256,248,245,217,160,109
+"15500","Burlington, NC (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),13,16,32,32,32,34
+"15500","Burlington, NC (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),29,27,28,25,28,23
+"15500","Burlington, NC (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"15500","Burlington, NC (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),28,31,30,24,22,6
+"15500","Burlington, NC (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),74,76,76,79,77,78
+"15500","Burlington, NC (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),193,191,195,208,213,241
+"15500","Burlington, NC (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),288,300,302,295,324,346
+"15500","Burlington, NC (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),74,64,63,68,83,80
+"15500","Burlington, NC (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",1,1,"(L)",1
+"15500","Burlington, NC (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"15500","Burlington, NC (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),56,47,42,44,48,55
+"15500","Burlington, NC (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),2,"(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"15500","Burlington, NC (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)",6,"(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),8,8,9,4,12,14
+"15500","Burlington, NC (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),49,74,52,52,52,52
+"15500","Burlington, NC (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),22,24,18,19,"(D)","(D)"
+"15500","Burlington, NC (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",1,1,2
+"15500","Burlington, NC (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),25,47,31,29,"(D)","(D)"
+"15500","Burlington, NC (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",2,"(D)",4
+"15500","Burlington, NC (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),293,310,283,307,285,361
+"15500","Burlington, NC (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),173,200,165,177,175,241
+"15500","Burlington, NC (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),113,107,114,125,104,113
+"15500","Burlington, NC (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),335,324,296,287,335,330
+"15500","Burlington, NC (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),307,294,258,"(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),28,30,38,"(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),135,131,120,118,113,122
+"15500","Burlington, NC (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),182,198,186,211,229,226
+"15500","Burlington, NC (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),108,118,110,111,115,132
+"15500","Burlington, NC (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),101,111,100,101,107,123
+"15500","Burlington, NC (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),7,7,10,10,8,8
+"15500","Burlington, NC (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),44,53,59,67,73,79
+"15500","Burlington, NC (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),273,302,329,342,366,390
+"15500","Burlington, NC (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),163,183,202,203,222,240
+"15500","Burlington, NC (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),31,16,16,15,19,20
+"15500","Burlington, NC (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)",2,3,3,6,6
+"15500","Burlington, NC (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),"(D)",13,13,12,13,14
+"15500","Burlington, NC (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),87,97,103,111,120,131
+"15500","Burlington, NC (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),14,14,16,16,17,19
+"15500","Burlington, NC (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),74,83,88,95,103,111
+"15500","Burlington, NC (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),103,105,110,111,116,121
+"15500","Burlington, NC (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),264,282,292,304,321,340
+"15500","Burlington, NC (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),17,18,18,20,20,20
+"15500","Burlington, NC (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),7,9,13,13,14,14
+"15500","Burlington, NC (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),239,255,260,271,287,305
+"15500","Burlington, NC (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),22,12,10,14,13,14
+"15500","Burlington, NC (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),481,490,497,503,537,587
+"15500","Burlington, NC (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),109,101,103,111,129,125
+"15500","Burlington, NC (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),627,634,580,594,620,691
+"15500","Burlington, NC (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),425,446,416,441,457,479
+"15500","Burlington, NC (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),317,355,389,409,438,470
+"15500","Burlington, NC (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),119,112,119,126,139,151
+"15500","Burlington, NC (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),"(D)",48,40,"(D)",55,"(D)"
+"15500","Burlington, NC (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),1145,1228,1165,1209,1221,1284
+"15500","Burlington, NC (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),2236,2322,2271,2353,2496,2684
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"15500","Burlington, NC (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.025,98.944,99.636,101.013,104.622
+"15500","Burlington, NC (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.064,98.744,99.519,100.925,104.744
+"15500","Burlington, NC (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,12.978,0.751,19.534,20.250,31.830
+"15500","Burlington, NC (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,1.897,0.126,0.000,0.000,0.115
+"15500","Burlington, NC (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"15500","Burlington, NC (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.839,116.546,122.007,122.847,107.496
+"15500","Burlington, NC (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.469,98.541,101.530,94.627,85.991
+"15500","Burlington, NC (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.133,104.035,106.165,106.647,112.421
+"15500","Burlington, NC (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.821,129.807,106.118,75.238,101.983
+"15500","Burlington, NC (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,75.321,67.874,80.441,73.294,73.527
+"15500","Burlington, NC (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.731,123.911,146.725,128.318,144.218
+"15500","Burlington, NC (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.799,110.172,169.521,175.134,192.774
+"15500","Burlington, NC (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)",217.901,354.492,824.962
+"15500","Burlington, NC (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,72.611,46.314,45.720,41.968,39.771
+"15500","Burlington, NC (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,122.456,"(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,172.917,176.885,138.481,145.752,132.178
+"15500","Burlington, NC (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.016,132.823,137.860,133.900,144.358
+"15500","Burlington, NC (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.199,80.340,85.672,111.518,108.683
+"15500","Burlington, NC (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.521,102.849,89.716,66.702,43.719
+"15500","Burlington, NC (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,127.153,257.509,265.712,260.232,262.145
+"15500","Burlington, NC (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.505,94.079,88.283,97.166,80.381
+"15500","Burlington, NC (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.564,156.571,184.831,140.091,96.825
+"15500","Burlington, NC (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.498,105.258,79.995,68.790,18.013
+"15500","Burlington, NC (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.437,104.748,112.448,107.638,97.320
+"15500","Burlington, NC (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.538,99.602,100.361,99.258,108.288
+"15500","Burlington, NC (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.082,102.280,99.382,110.558,118.843
+"15500","Burlington, NC (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,84.650,81.344,85.615,102.351,95.735
+"15500","Burlington, NC (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"15500","Burlington, NC (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,81.847,70.913,73.094,76.729,86.004
+"15500","Burlington, NC (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"15500","Burlington, NC (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.683,105.941,50.680,135.049,159.785
+"15500","Burlington, NC (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,152.566,110.222,112.314,118.296,120.547
+"15500","Burlington, NC (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.001,85.104,92.569,"(D)","(D)"
+"15500","Burlington, NC (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,190.215,126.964,122.199,"(D)","(D)"
+"15500","Burlington, NC (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.519,89.330,92.641,83.635,102.924
+"15500","Burlington, NC (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.767,89.102,92.622,89.830,118.712
+"15500","Burlington, NC (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.584,90.727,92.586,74.255,80.338
+"15500","Burlington, NC (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.714,83.332,78.804,89.782,86.183
+"15500","Burlington, NC (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.444,78.971,"(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.049,132.998,"(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.503,87.197,86.051,79.619,84.246
+"15500","Burlington, NC (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.275,98.403,99.031,96.394,89.908
+"15500","Burlington, NC (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.171,98.843,96.262,96.285,105.559
+"15500","Burlington, NC (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.001,96.469,94.796,96.139,106.077
+"15500","Burlington, NC (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.519,131.342,116.637,98.825,98.975
+"15500","Burlington, NC (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.401,122.780,130.419,133.929,138.975
+"15500","Burlington, NC (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.174,113.759,114.592,119.228,124.631
+"15500","Burlington, NC (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.550,119.929,117.862,126.682,135.418
+"15500","Burlington, NC (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,47.782,47.490,44.320,55.392,56.400
+"15500","Burlington, NC (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.844,112.059,117.224,122.296,127.954
+"15500","Burlington, NC (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.847,113.581,112.372,113.474,123.528
+"15500","Burlington, NC (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.843,111.793,118.091,123.885,128.741
+"15500","Burlington, NC (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.919,99.261,97.658,96.132,95.455
+"15500","Burlington, NC (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.528,101.394,101.081,102.123,103.287
+"15500","Burlington, NC (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.303,94.271,94.022,89.583,88.967
+"15500","Burlington, NC (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,118.126,156.733,149.060,147.278,136.686
+"15500","Burlington, NC (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.508,100.171,100.095,101.659,103.372
+"15500","Burlington, NC (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,55.709,45.835,57.067,51.572,53.350
+"15500","Burlington, NC (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.668,101.210,99.794,105.852,114.466
+"15500","Burlington, NC (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.333,92.352,96.998,108.812,99.378
+"15500","Burlington, NC (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.366,86.136,85.325,86.770,94.090
+"15500","Burlington, NC (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.350,94.944,94.228,91.151,91.557
+"15500","Burlington, NC (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.906,115.032,116.852,121.317,126.660
+"15500","Burlington, NC (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.558,95.061,98.026,104.676,109.112
+"15500","Burlington, NC (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.678,102.049,104.577,103.231,105.659
+"15500","Burlington, NC (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.235,97.069,96.998,99.708,104.182
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"15500","Burlington, NC (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3645,3755,3606,3632,3682,3813
+"15500","Burlington, NC (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3381,3485,3339,3365,3413,3542
+"15500","Burlington, NC (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,1,"(L)",2,2,3
+"15500","Burlington, NC (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)",0,0,"(L)"
+"15500","Burlington, NC (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"15500","Burlington, NC (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),35,37,41,43,43,38
+"15500","Burlington, NC (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),200,201,197,203,189,172
+"15500","Burlington, NC (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),929,1014,966,986,991,1044
+"15500","Burlington, NC (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",309,304,344,366,427
+"15500","Burlington, NC (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),22,21,28,23,16,22
+"15500","Burlington, NC (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,17,16,18,17,17
+"15500","Burlington, NC (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),46,42,56,67,58,66
+"15500","Burlington, NC (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),37,34,41,63,65,71
+"15500","Burlington, NC (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),11,"(D)","(D)",24,39,91
+"15500","Burlington, NC (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),79,57,36,36,33,31
+"15500","Burlington, NC (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),60,73,"(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"15500","Burlington, NC (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),16,18,21,22,21,23
+"15500","Burlington, NC (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),37,33,30,32,42,41
+"15500","Burlington, NC (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",704,662,642,624,617
+"15500","Burlington, NC (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),256,255,263,230,171,112
+"15500","Burlington, NC (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,17,34,35,34,34
+"15500","Burlington, NC (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),29,27,27,26,28,23
+"15500","Burlington, NC (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"15500","Burlington, NC (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),28,31,29,22,19,5
+"15500","Burlington, NC (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),74,75,77,83,79,72
+"15500","Burlington, NC (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),193,190,192,194,191,209
+"15500","Burlington, NC (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),288,294,295,286,319,343
+"15500","Burlington, NC (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),74,63,60,64,76,71
+"15500","Burlington, NC (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",1,1,"(L)",0
+"15500","Burlington, NC (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"15500","Burlington, NC (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),56,46,40,41,43,48
+"15500","Burlington, NC (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,"(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"15500","Burlington, NC (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",6,"(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,8,9,4,11,13
+"15500","Burlington, NC (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),49,75,54,55,58,59
+"15500","Burlington, NC (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),22,24,18,20,"(D)","(D)"
+"15500","Burlington, NC (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",1,1,2
+"15500","Burlington, NC (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),25,48,32,31,"(D)","(D)"
+"15500","Burlington, NC (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",3,"(D)",4
+"15500","Burlington, NC (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),293,297,262,271,245,301
+"15500","Burlington, NC (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),173,190,154,160,155,205
+"15500","Burlington, NC (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),113,103,102,104,84,91
+"15500","Burlington, NC (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),335,314,279,264,300,288
+"15500","Burlington, NC (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),307,284,242,"(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),28,30,37,"(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),135,127,118,116,107,114
+"15500","Burlington, NC (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),182,197,179,180,175,164
+"15500","Burlington, NC (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),108,115,107,104,104,114
+"15500","Burlington, NC (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),101,108,98,96,97,107
+"15500","Burlington, NC (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,7,9,8,7,7
+"15500","Burlington, NC (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),44,49,54,57,59,61
+"15500","Burlington, NC (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),273,293,311,313,326,341
+"15500","Burlington, NC (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),163,180,195,192,206,220
+"15500","Burlington, NC (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15500","Burlington, NC (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),31,15,15,14,17,18
+"15500","Burlington, NC (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",2,3,3,5,5
+"15500","Burlington, NC (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",13,12,11,12,13
+"15500","Burlington, NC (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),87,92,98,102,107,112
+"15500","Burlington, NC (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),14,14,15,15,15,17
+"15500","Burlington, NC (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),74,78,83,87,91,95
+"15500","Burlington, NC (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),103,101,102,100,99,98
+"15500","Burlington, NC (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),264,270,267,267,269,272
+"15500","Burlington, NC (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17,17,16,16,16,16
+"15500","Burlington, NC (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,8,11,11,11,10
+"15500","Burlington, NC (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),239,245,239,239,243,247
+"15500","Burlington, NC (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),22,12,10,13,11,12
+"15500","Burlington, NC (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),481,484,487,480,509,551
+"15500","Burlington, NC (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),109,100,101,106,119,109
+"15500","Burlington, NC (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),627,611,540,535,544,590
+"15500","Burlington, NC (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),425,439,404,400,387,389
+"15500","Burlington, NC (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),317,342,365,370,385,402
+"15500","Burlington, NC (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),119,108,113,116,124,130
+"15500","Burlington, NC (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",49,43,"(D)",66,"(D)"
+"15500","Burlington, NC (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1145,1221,1168,1197,1182,1210
+"15500","Burlington, NC (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2236,2264,2171,2169,2230,2330
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"15500","Burlington, NC (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),27299,27722,26464,26306,26327,26862
+"15500","Burlington, NC (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15500","Burlington, NC (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

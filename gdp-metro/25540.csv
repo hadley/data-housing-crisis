@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),56535,56669,57143,61386,66473,69863
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),50853,50751,51174,54957,59612,62731
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),109,104,112,120,109,129
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,"(L)","(L)","(L)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),1771,"(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),7597,7265,6792,7422,7869,9065
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),6358,5905,5504,5898,6269,7283
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",31,33,"(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),75,62,55,69,67,57
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",1396,1631,1680
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1194,992,901,733,773,925
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),272,183,142,143,169,184
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),539,471,410,375,382,315
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",77,81,83,86
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),1238,1360,1288,1524,1600,1782
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),216,"(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",204,246
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),3080,3132,3229,3300,"(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),3178,3341,3380,3428,3500,3544
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",1148,1195
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",2,2,"(L)",1
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)",2,3,3,3,"(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),223,224,219,240,257,278
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),155,163,163,174,173,182
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)",0,"(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),1635,1634,1717,1900,2192,2423
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),12112,11452,11977,13552,14827,15045
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),1353,1541,"(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",8764,9814,10686,11168
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),6345,6535,5747,5572,6893,7288
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),5922,6125,4993,4905,6024,6487
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),423,410,754,667,869,802
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),3598,3718,3910,"(D)",4357,4701
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),"(D)",799,992,"(D)","(D)",1448
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",1482,1590,1677,"(D)",1891
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),1200,1282,1367,1413,1540,1623
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",200,223,264,"(D)",269
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),441,487,522,549,572,610
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),4283,4477,4688,4960,5201,5514
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),2151,2197,2274,2419,2573,2754
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),382,399,412,425,432,444
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",133,"(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",299,"(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),1029,1034,1088,1155,1219,1281
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),197,196,194,220,243,262
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),832,838,894,935,976,1019
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),1203,1226,1276,1280,1364,1405
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),5681,5918,5969,6430,6862,7132
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),615,645,671,730,728,761
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),61,73,105,98,99,104
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),5005,5200,5193,5602,6035,6267
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),146,"(D)","(D)","(D)",151,174
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),6258,6473,6609,6728,"(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),1922,"(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),18457,17986,17724,19124,21720,22333
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),5730,5999,6492,"(D)",7294,8039
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),4725,4963,5210,5509,5773,6124
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),1411,1434,1500,1580,1651,1725
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),1616,1533,1448,1459,1712,1898
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),9500,9152,8656,9484,10198,11456
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),41353,41598,42518,45473,49414,51276
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.713,96.389,100.020,105.172,107.930
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.470,96.412,100.123,105.626,108.788
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.260,99.438,88.606,96.641,120.734
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.193,88.697,96.424,99.554,112.542
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.415,85.855,91.252,94.769,108.506
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,81.863,73.033,89.938,80.864,61.275
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,82.528,75.334,63.229,65.184,77.343
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,75.797,68.142,78.619,106.002,133.484
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.733,79.156,72.010,71.596,55.533
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.427,103.260,123.052,124.190,133.417
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.304,103.068,99.692,"(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.245,103.929,104.613,108.360,110.395
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.690,94.220,99.875,104.420,109.887
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.362,97.547,102.316,99.951,102.277
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.317,108.012,123.455,149.014,169.549
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.052,92.004,97.932,104.093,105.535
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.267,"(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.695,85.170,80.632,97.271,100.181
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.824,79.209,76.053,91.376,95.742
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.846,171.629,147.267,182.870,165.595
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.184,106.601,"(D)",115.487,121.639
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.512,111.266,111.463,116.662,117.811
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.176,106.745,105.874,104.519,106.246
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.019,103.112,105.743,107.896,111.693
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.663,102.278,106.355,110.988,117.476
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.138,101.982,102.521,101.282,100.679
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.107,100.173,103.331,105.494,106.483
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.505,97.121,104.302,109.796,115.192
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.324,100.841,103.077,104.458,104.411
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.801,98.794,96.134,96.842,95.144
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.871,96.235,99.182,101.392,100.811
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.616,97.215,98.588,94.414,94.810
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.351,145.524,127.344,118.330,117.656
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.908,95.472,98.906,102.106,101.399
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)",94.468,109.971
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.293,103.506,102.174,"(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.019,89.683,92.081,101.717,103.649
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.637,110.528,"(D)",115.592,123.073
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.224,103.459,105.745,107.545,111.129
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.462,100.659,103.108,104.351,104.912
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.086,94.843,99.582,118.929,133.629
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.230,88.810,95.102,98.426,106.813
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.981,98.133,101.268,107.259,109.236
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),56535,55242,54493,56546,59459,61018
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),50853,49567,49029,50916,53714,55322
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),109,114,108,96,105,131
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,"(L)","(L)","(L)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1771,"(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7597,7232,6738,7325,7563,8550
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6358,5876,5459,5802,6026,6899
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",26,28,"(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),75,61,54,67,60,46
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",1370,1525,1562
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1194,985,900,755,778,924
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),272,206,185,214,288,363
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),539,478,427,388,386,299
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",75,82,82,82
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1238,1355,1279,1524,1538,1652
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),216,"(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",210,226
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3080,3120,3174,3070,"(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3178,3281,3303,3324,3443,3508
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",1110,1122
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",2,1,"(L)",1
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",1,2,2,2,"(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),223,218,210,223,233,245
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),155,158,151,158,155,158
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",0,"(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1635,1656,1766,2018,2436,2771
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),12112,11028,11143,11861,12607,12782
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1353,1465,"(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",7899,8227,8645,8940
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6345,6326,5404,5116,6172,6356
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5922,5911,4691,4504,5411,5670
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),423,414,726,623,774,701
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3598,3641,3836,"(D)",4155,4377
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",795,954,"(D)","(D)",1048
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",1446,1544,1569,"(D)",1639
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1200,1254,1335,1337,1400,1414
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",192,209,230,"(D)",225
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),441,456,471,467,461,469
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4283,4327,4416,4529,4621,4784
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2151,2165,2200,2287,2387,2527
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),382,386,389,392,387,384
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",114,"(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",273,"(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1029,989,1031,1063,1086,1096
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),197,196,191,205,216,227
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),832,793,839,858,869,869
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1203,1176,1188,1156,1165,1144
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5681,5674,5467,5635,5760,5727
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),615,606,598,606,580,583
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),61,67,89,78,72,72
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5005,5001,4779,4951,5111,5075
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),146,"(D)","(D)","(D)",138,161
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6258,6401,6477,6394,"(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1922,"(D)","(D)","(D)","(D)","(D)"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),18457,17353,16553,16995,18774,19130
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5730,5882,6334,"(D)",6624,7053
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4725,4782,4888,4996,5081,5250
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1411,1375,1420,1455,1473,1480
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1616,1569,1533,1610,1922,2160
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9500,9047,8437,9035,9350,10147
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),41353,40519,40581,41878,44355,45173
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),48848,47353,46379,48034,50349,51475
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"25540","Hartford-West Hartford-East Hartford, CT (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

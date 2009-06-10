@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"11460","Ann Arbor, MI (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),15096,16407,16979,16964,17481,17799
+"11460","Ann Arbor, MI (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),11901,12930,13377,13267,13569,13655
+"11460","Ann Arbor, MI (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),10,7,10,25,24,25
+"11460","Ann Arbor, MI (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),5,1,5,21,20,21
+"11460","Ann Arbor, MI (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),6,6,5,5,4,4
+"11460","Ann Arbor, MI (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),10,7,6,4,6,8
+"11460","Ann Arbor, MI (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),1,1,2,2,2,3
+"11460","Ann Arbor, MI (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),9,6,5,3,4,5
+"11460","Ann Arbor, MI (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"11460","Ann Arbor, MI (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),402,600,789,814,988,1077
+"11460","Ann Arbor, MI (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),606,582,515,527,584,506
+"11460","Ann Arbor, MI (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),2427,2968,3013,2508,2402,2219
+"11460","Ann Arbor, MI (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),2059,2547,2609,2093,2002,1767
+"11460","Ann Arbor, MI (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",4,"(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),7,9,10,11,21,20
+"11460","Ann Arbor, MI (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",3,"(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),184,178,195,178,177,161
+"11460","Ann Arbor, MI (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),106,98,99,102,105,100
+"11460","Ann Arbor, MI (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),116,80,80,62,68,71
+"11460","Ann Arbor, MI (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),7,7,6,5,2,2
+"11460","Ann Arbor, MI (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),6,6,8,10,9,9
+"11460","Ann Arbor, MI (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),100,93,75,74,88,80
+"11460","Ann Arbor, MI (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),368,421,404,415,400,452
+"11460","Ann Arbor, MI (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",50
+"11460","Ann Arbor, MI (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",1,1,1
+"11460","Ann Arbor, MI (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),150,154,162,152,154,151
+"11460","Ann Arbor, MI (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),53,79,75,93,81,93
+"11460","Ann Arbor, MI (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),97,110,83,91,83,85
+"11460","Ann Arbor, MI (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),567,620,665,698,710,755
+"11460","Ann Arbor, MI (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),951,968,928,946,945,922
+"11460","Ann Arbor, MI (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),155,146,185,230,268,290
+"11460","Ann Arbor, MI (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),20,15,52,71,85,105
+"11460","Ann Arbor, MI (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),1,1,1,1,1,1
+"11460","Ann Arbor, MI (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"11460","Ann Arbor, MI (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),74,76,84,104,125,124
+"11460","Ann Arbor, MI (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),7,7,8,10,12,12
+"11460","Ann Arbor, MI (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",1,1,"(D)"
+"11460","Ann Arbor, MI (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",36,38,"(D)"
+"11460","Ann Arbor, MI (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),10,9,6,6,7,8
+"11460","Ann Arbor, MI (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),599,606,591,521,492,508
+"11460","Ann Arbor, MI (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),244,243,264,"(D)",294,301
+"11460","Ann Arbor, MI (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),8,8,7,8,13,17
+"11460","Ann Arbor, MI (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",155,"(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),434,491,482,451,489,544
+"11460","Ann Arbor, MI (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),281,312,329,281,313,326
+"11460","Ann Arbor, MI (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),42,35,41,"(D)","(D)",51
+"11460","Ann Arbor, MI (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),90,125,104,118,117,153
+"11460","Ann Arbor, MI (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),21,19,8,"(D)","(D)",14
+"11460","Ann Arbor, MI (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),1677,1771,1871,1979,1923,2001
+"11460","Ann Arbor, MI (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),1611,1680,1737,1838,1778,1864
+"11460","Ann Arbor, MI (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),66,91,134,141,146,137
+"11460","Ann Arbor, MI (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),1801,1794,1780,1910,1901,1926
+"11460","Ann Arbor, MI (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),177,180,245,243,304,224
+"11460","Ann Arbor, MI (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),481,469,496,499,534,540
+"11460","Ann Arbor, MI (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),460,447,470,471,500,507
+"11460","Ann Arbor, MI (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),21,23,25,28,34,32
+"11460","Ann Arbor, MI (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),46,48,46,55,68,77
+"11460","Ann Arbor, MI (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),974,1056,1118,1165,1211,1302
+"11460","Ann Arbor, MI (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),472,541,589,619,655,720
+"11460","Ann Arbor, MI (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),436,443,"(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),65,71,"(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),59,71,77,87,85,90
+"11460","Ann Arbor, MI (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),17,21,23,26,23,25
+"11460","Ann Arbor, MI (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),42,50,54,61,63,64
+"11460","Ann Arbor, MI (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),284,296,294,326,338,336
+"11460","Ann Arbor, MI (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),47,47,54,63,66,69
+"11460","Ann Arbor, MI (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),237,249,240,262,273,267
+"11460","Ann Arbor, MI (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),239,249,266,278,295,305
+"11460","Ann Arbor, MI (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),3195,3477,3602,3697,3911,4144
+"11460","Ann Arbor, MI (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),159,166,191,207,214,224
+"11460","Ann Arbor, MI (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),20,26,32,35,37,35
+"11460","Ann Arbor, MI (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),3016,3285,3379,3455,3661,3884
+"11460","Ann Arbor, MI (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),20,15,16,29,30,34
+"11460","Ann Arbor, MI (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),1519,1588,1593,1644,1655,1677
+"11460","Ann Arbor, MI (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),557,746,974,1044,1256,1368
+"11460","Ann Arbor, MI (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),2111,2262,2354,2430,2412,2544
+"11460","Ann Arbor, MI (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),2459,2444,2520,2652,2740,2689
+"11460","Ann Arbor, MI (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),1020,1104,1164,1220,1279,1379
+"11460","Ann Arbor, MI (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),343,367,371,413,424,426
+"11460","Ann Arbor, MI (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",592,"(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),3048,3558,3539,3059,3012,2754
+"11460","Ann Arbor, MI (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),8853,9372,9838,10208,10558,10901
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"11460","Ann Arbor, MI (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.963,109.272,107.432,108.624,108.032
+"11460","Ann Arbor, MI (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.635,110.874,108.983,110.119,108.917
+"11460","Ann Arbor, MI (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,75.006,92.953,210.401,233.176,258.391
+"11460","Ann Arbor, MI (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,30.960,97.900,340.684,392.546,453.270
+"11460","Ann Arbor, MI (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.714,87.560,81.528,75.986,69.032
+"11460","Ann Arbor, MI (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,71.486,54.863,33.150,34.926,46.457
+"11460","Ann Arbor, MI (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.965,133.674,120.643,99.042,161.689
+"11460","Ann Arbor, MI (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,67.571,47.529,23.697,29.178,34.024
+"11460","Ann Arbor, MI (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"11460","Ann Arbor, MI (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,151.693,200.982,200.900,229.579,223.178
+"11460","Ann Arbor, MI (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.549,77.113,72.797,73.540,57.790
+"11460","Ann Arbor, MI (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,127.659,132.793,115.668,117.948,116.836
+"11460","Ann Arbor, MI (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,130.145,137.238,115.973,120.540,117.267
+"11460","Ann Arbor, MI (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,129.117,137.508,156.465,269.612,222.336
+"11460","Ann Arbor, MI (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.137,106.753,95.184,90.151,81.325
+"11460","Ann Arbor, MI (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.386,93.497,99.604,100.202,94.274
+"11460","Ann Arbor, MI (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,78.100,90.646,79.549,101.175,121.377
+"11460","Ann Arbor, MI (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.225,89.762,78.081,31.928,28.434
+"11460","Ann Arbor, MI (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.751,133.166,159.405,141.636,148.192
+"11460","Ann Arbor, MI (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.188,73.043,72.891,87.433,80.714
+"11460","Ann Arbor, MI (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.137,109.027,112.866,104.602,112.201
+"11460","Ann Arbor, MI (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.267,107.418,102.605,104.504,101.082
+"11460","Ann Arbor, MI (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,148.900,136.185,164.560,133.180,146.176
+"11460","Ann Arbor, MI (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.019,87.336,98.430,88.003,80.737
+"11460","Ann Arbor, MI (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.833,115.156,114.390,112.518,115.469
+"11460","Ann Arbor, MI (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.967,95.313,96.486,97.684,95.986
+"11460","Ann Arbor, MI (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.871,117.093,149.728,179.647,186.976
+"11460","Ann Arbor, MI (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.238,294.374,477.122,654.207,757.868
+"11460","Ann Arbor, MI (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.350,93.041,97.059,90.462,114.223
+"11460","Ann Arbor, MI (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,19.667,29.073,46.459,44.851,33.739
+"11460","Ann Arbor, MI (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.748,107.987,129.249,151.716,146.821
+"11460","Ann Arbor, MI (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.531,112.995,143.685,157.494,152.528
+"11460","Ann Arbor, MI (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.942,59.525,55.978,68.872,70.051
+"11460","Ann Arbor, MI (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.457,100.726,91.906,88.617,92.283
+"11460","Ann Arbor, MI (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.184,111.451,"(D)",129.343,130.898
+"11460","Ann Arbor, MI (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.257,80.770,90.863,145.024,179.285
+"11460","Ann Arbor, MI (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.440,104.533,94.137,99.972,108.681
+"11460","Ann Arbor, MI (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.416,109.128,90.668,98.781,98.588
+"11460","Ann Arbor, MI (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,86.776,109.158,"(D)","(D)",141.672
+"11460","Ann Arbor, MI (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,134.890,104.310,110.019,105.736,136.312
+"11460","Ann Arbor, MI (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,79.605,41.024,"(D)","(D)",74.602
+"11460","Ann Arbor, MI (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.163,104.905,108.402,102.839,104.164
+"11460","Ann Arbor, MI (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.651,101.316,104.757,99.115,101.112
+"11460","Ann Arbor, MI (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,139.907,195.182,200.086,196.338,181.398
+"11460","Ann Arbor, MI (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.332,97.101,104.877,101.696,101.179
+"11460","Ann Arbor, MI (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.057,132.977,116.901,131.231,91.398
+"11460","Ann Arbor, MI (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.458,100.510,97.921,101.091,97.642
+"11460","Ann Arbor, MI (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.093,99.967,97.052,98.914,96.194
+"11460","Ann Arbor, MI (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.313,112.153,116.199,146.495,127.623
+"11460","Ann Arbor, MI (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.326,90.221,100.139,118.512,127.733
+"11460","Ann Arbor, MI (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.708,108.019,109.126,110.348,115.993
+"11460","Ann Arbor, MI (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.905,120.629,123.977,128.643,139.944
+"11460","Ann Arbor, MI (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.566,"(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.976,"(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,116.331,123.346,135.515,128.736,131.327
+"11460","Ann Arbor, MI (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,120.151,125.827,137.752,113.332,123.063
+"11460","Ann Arbor, MI (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.793,122.354,134.628,135.318,134.831
+"11460","Ann Arbor, MI (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.452,97.881,105.453,105.917,101.017
+"11460","Ann Arbor, MI (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.406,112.448,125.234,123.827,125.936
+"11460","Ann Arbor, MI (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.655,95.121,101.689,102.524,96.228
+"11460","Ann Arbor, MI (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.877,103.569,105.161,105.328,103.906
+"11460","Ann Arbor, MI (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.493,103.511,101.847,103.222,104.588
+"11460","Ann Arbor, MI (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.413,107.202,108.234,107.548,108.247
+"11460","Ann Arbor, MI (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,117.412,133.739,138.661,133.765,121.652
+"11460","Ann Arbor, MI (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.728,103.094,101.233,102.771,104.280
+"11460","Ann Arbor, MI (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,73.239,73.497,118.843,130.562,150.492
+"11460","Ann Arbor, MI (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.265,102.686,103.126,103.129,103.290
+"11460","Ann Arbor, MI (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,135.492,177.438,186.579,215.486,212.543
+"11460","Ann Arbor, MI (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.458,104.829,105.455,102.258,105.113
+"11460","Ann Arbor, MI (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.232,100.357,104.213,103.799,99.190
+"11460","Ann Arbor, MI (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.320,107.188,108.718,110.786,116.613
+"11460","Ann Arbor, MI (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.351,102.256,110.620,109.837,106.218
+"11460","Ann Arbor, MI (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,119.886,120.743,106.951,108.969,103.494
+"11460","Ann Arbor, MI (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.510,107.515,109.355,110.224,110.215
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"11460","Ann Arbor, MI (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15096,16148,16496,16218,16398,16309
+"11460","Ann Arbor, MI (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),11901,12810,13195,12970,13105,12962
+"11460","Ann Arbor, MI (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,8,10,22,24,27
+"11460","Ann Arbor, MI (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,1,5,16,19,22
+"11460","Ann Arbor, MI (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,6,5,5,4,4
+"11460","Ann Arbor, MI (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,7,5,3,3,5
+"11460","Ann Arbor, MI (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,1,1,1,1
+"11460","Ann Arbor, MI (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9,6,4,2,3,3
+"11460","Ann Arbor, MI (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"11460","Ann Arbor, MI (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),402,610,808,808,923,898
+"11460","Ann Arbor, MI (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),606,555,468,441,446,350
+"11460","Ann Arbor, MI (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2427,3098,3223,2807,2863,2836
+"11460","Ann Arbor, MI (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2059,2680,2826,2388,2482,2415
+"11460","Ann Arbor, MI (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",4,"(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,9,10,11,19,16
+"11460","Ann Arbor, MI (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",3,"(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),184,177,196,175,166,149
+"11460","Ann Arbor, MI (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),106,98,99,105,106,100
+"11460","Ann Arbor, MI (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),116,90,105,92,117,140
+"11460","Ann Arbor, MI (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,7,6,5,2,2
+"11460","Ann Arbor, MI (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,6,8,10,9,9
+"11460","Ann Arbor, MI (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),100,90,73,73,88,81
+"11460","Ann Arbor, MI (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),368,420,401,415,385,413
+"11460","Ann Arbor, MI (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",51
+"11460","Ann Arbor, MI (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",1,1,1
+"11460","Ann Arbor, MI (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),150,152,161,154,157,152
+"11460","Ann Arbor, MI (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),53,79,72,87,71,78
+"11460","Ann Arbor, MI (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),97,109,85,95,85,78
+"11460","Ann Arbor, MI (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),567,618,653,649,638,655
+"11460","Ann Arbor, MI (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),951,951,907,918,929,913
+"11460","Ann Arbor, MI (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),155,145,181,232,278,289
+"11460","Ann Arbor, MI (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),20,17,59,96,131,152
+"11460","Ann Arbor, MI (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,1,1,1,1
+"11460","Ann Arbor, MI (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"11460","Ann Arbor, MI (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),74,74,80,96,113,109
+"11460","Ann Arbor, MI (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,7,7,9,10,10
+"11460","Ann Arbor, MI (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",2,1,"(D)"
+"11460","Ann Arbor, MI (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",34,35,"(D)"
+"11460","Ann Arbor, MI (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,9,6,6,7,7
+"11460","Ann Arbor, MI (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),599,608,604,551,531,553
+"11460","Ann Arbor, MI (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),244,242,272,"(D)",315,319
+"11460","Ann Arbor, MI (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,7,7,8,12,15
+"11460","Ann Arbor, MI (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",166,"(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),434,471,454,409,434,472
+"11460","Ann Arbor, MI (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),281,297,307,255,278,278
+"11460","Ann Arbor, MI (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),42,37,46,"(D)","(D)",60
+"11460","Ann Arbor, MI (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),90,121,94,99,95,122
+"11460","Ann Arbor, MI (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),21,17,9,"(D)","(D)",16
+"11460","Ann Arbor, MI (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1677,1713,1759,1818,1725,1747
+"11460","Ann Arbor, MI (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1611,1621,1632,1688,1597,1629
+"11460","Ann Arbor, MI (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),66,92,129,132,130,120
+"11460","Ann Arbor, MI (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1801,1753,1748,1888,1831,1822
+"11460","Ann Arbor, MI (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),177,179,236,207,233,162
+"11460","Ann Arbor, MI (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),481,459,483,471,486,469
+"11460","Ann Arbor, MI (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),460,437,459,446,455,442
+"11460","Ann Arbor, MI (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),21,22,24,25,31,27
+"11460","Ann Arbor, MI (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),46,45,42,47,55,59
+"11460","Ann Arbor, MI (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),974,1019,1052,1062,1074,1129
+"11460","Ann Arbor, MI (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),472,533,570,585,607,661
+"11460","Ann Arbor, MI (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),436,417,"(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),65,70,"(D)","(D)","(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),59,69,73,80,76,78
+"11460","Ann Arbor, MI (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17,20,21,23,19,21
+"11460","Ann Arbor, MI (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),42,49,52,57,57,57
+"11460","Ann Arbor, MI (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),284,283,278,300,301,287
+"11460","Ann Arbor, MI (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),47,46,53,59,58,59
+"11460","Ann Arbor, MI (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),237,236,225,241,243,228
+"11460","Ann Arbor, MI (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),239,239,248,252,252,249
+"11460","Ann Arbor, MI (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3195,3339,3307,3254,3298,3342
+"11460","Ann Arbor, MI (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),159,156,170,172,171,172
+"11460","Ann Arbor, MI (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),20,24,27,28,27,25
+"11460","Ann Arbor, MI (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3016,3159,3110,3053,3100,3145
+"11460","Ann Arbor, MI (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),20,15,15,24,26,30
+"11460","Ann Arbor, MI (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1519,1568,1559,1566,1566,1568
+"11460","Ann Arbor, MI (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),557,755,988,1039,1200,1184
+"11460","Ann Arbor, MI (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2111,2184,2213,2226,2159,2219
+"11460","Ann Arbor, MI (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2459,2390,2467,2562,2552,2439
+"11460","Ann Arbor, MI (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1020,1064,1093,1109,1130,1190
+"11460","Ann Arbor, MI (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),343,352,351,380,377,365
+"11460","Ann Arbor, MI (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",653,"(D)","(D)"
+"11460","Ann Arbor, MI (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3048,3654,3680,3260,3322,3155
+"11460","Ann Arbor, MI (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8853,9164,9518,9681,9758,9757
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"11460","Ann Arbor, MI (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),45815,48318,48824,47457,47502,46893
+"11460","Ann Arbor, MI (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11460","Ann Arbor, MI (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

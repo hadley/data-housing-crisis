@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"12580","Baltimore-Towson, MD (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),95869,100646,104351,111867,118411,125918
+"12580","Baltimore-Towson, MD (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),80452,84022,87335,93143,98628,104807
+"12580","Baltimore-Towson, MD (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),172,179,219,241,207,218
+"12580","Baltimore-Towson, MD (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",5444,6230,6847,6989
+"12580","Baltimore-Towson, MD (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),7837,8179,7416,7810,7496,7883
+"12580","Baltimore-Towson, MD (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",142,"(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),262,266,252,290,301,322
+"12580","Baltimore-Towson, MD (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),520,473,467,479,541,540
+"12580","Baltimore-Towson, MD (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",496,"(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),89,95,"(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",266,290
+"12580","Baltimore-Towson, MD (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",7445,"(D)"
+"12580","Baltimore-Towson, MD (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),6368,6663,6808,7148,7461,7707
+"12580","Baltimore-Towson, MD (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),107,109,"(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),702,705,690,764,771,797
+"12580","Baltimore-Towson, MD (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),248,263,267,277,282,319
+"12580","Baltimore-Towson, MD (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",306,355,"(D)"
+"12580","Baltimore-Towson, MD (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),2813,2807,3005,3188,3756,4236
+"12580","Baltimore-Towson, MD (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",114,"(D)"
+"12580","Baltimore-Towson, MD (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),6960,7532,7785,7975,8802,9038
+"12580","Baltimore-Towson, MD (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",2596,2898,2748,2603
+"12580","Baltimore-Towson, MD (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),14130,14193,14818,15560,16042,17682
+"12580","Baltimore-Towson, MD (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),12897,12920,13519,14266,14773,16425
+"12580","Baltimore-Towson, MD (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),1233,1272,1299,1293,1269,1257
+"12580","Baltimore-Towson, MD (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),8435,9263,9722,10578,11419,12305
+"12580","Baltimore-Towson, MD (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),367,366,499,"(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),3170,3378,3563,"(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),2900,3097,3269,3338,3641,3893
+"12580","Baltimore-Towson, MD (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),270,281,294,"(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",1788,1954,2124,2219,2267
+"12580","Baltimore-Towson, MD (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)",8030,8713,9350,9822,10482
+"12580","Baltimore-Towson, MD (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),3184,3448,3656,3875,4111,4375
+"12580","Baltimore-Towson, MD (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),909,963,1003,1106,1204,1234
+"12580","Baltimore-Towson, MD (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),484,495,529,604,705,733
+"12580","Baltimore-Towson, MD (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),424,468,474,502,499,501
+"12580","Baltimore-Towson, MD (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),2194,2397,2470,2714,2848,3016
+"12580","Baltimore-Towson, MD (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),507,571,550,636,646,672
+"12580","Baltimore-Towson, MD (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),1688,1826,1920,2078,2201,2344
+"12580","Baltimore-Towson, MD (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),2376,2491,2630,2741,2862,2994
+"12580","Baltimore-Towson, MD (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),15416,16625,17016,18725,19784,21111
+"12580","Baltimore-Towson, MD (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),5448,5908,6135,7582,7923,8282
+"12580","Baltimore-Towson, MD (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),1326,1488,1623,1707,1905,2193
+"12580","Baltimore-Towson, MD (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),8643,9229,9259,9435,9956,10637
+"12580","Baltimore-Towson, MD (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),245,266,"(D)","(D)",345,"(D)"
+"12580","Baltimore-Towson, MD (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",14906,"(D)"
+"12580","Baltimore-Towson, MD (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),4407,4199,"(D)","(D)",5410,"(D)"
+"12580","Baltimore-Towson, MD (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),21091,21724,22604,23535,24844,26720
+"12580","Baltimore-Towson, MD (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),11972,13008,13784,"(D)",16070,"(D)"
+"12580","Baltimore-Towson, MD (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),9047,9818,10667,11474,12041,12749
+"12580","Baltimore-Towson, MD (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),3103,3361,3474,3820,4051,4250
+"12580","Baltimore-Towson, MD (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),3011,3415,3405,3769,4077,4441
+"12580","Baltimore-Towson, MD (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),13084,13649,13141,14351,14642,15202
+"12580","Baltimore-Towson, MD (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),67368,70372,74194,78792,83986,89605
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"12580","Baltimore-Towson, MD (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.296,103.862,107.994,110.924,114.332
+"12580","Baltimore-Towson, MD (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.264,104.704,108.808,112.153,115.810
+"12580","Baltimore-Towson, MD (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.687,122.632,112.177,115.870,129.584
+"12580","Baltimore-Towson, MD (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.439,96.503,101.749,95.516,99.599
+"12580","Baltimore-Towson, MD (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.577,95.670,107.340,103.610,98.238
+"12580","Baltimore-Towson, MD (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.433,90.341,90.406,97.241,96.504
+"12580","Baltimore-Towson, MD (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.215,"(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.745,104.459,108.858,115.252,119.798
+"12580","Baltimore-Towson, MD (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.478,"(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.507,94.191,100.939,99.573,99.904
+"12580","Baltimore-Towson, MD (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.143,100.006,101.883,101.666,112.161
+"12580","Baltimore-Towson, MD (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.299,110.058,120.462,148.462,171.909
+"12580","Baltimore-Towson, MD (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.670,107.576,105.834,114.687,116.701
+"12580","Baltimore-Towson, MD (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.336,98.730,101.259,101.921,109.384
+"12580","Baltimore-Towson, MD (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.686,98.468,101.564,102.890,111.312
+"12580","Baltimore-Towson, MD (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.300,101.481,97.953,91.643,89.100
+"12580","Baltimore-Towson, MD (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.400,113.089,123.350,129.731,136.786
+"12580","Baltimore-Towson, MD (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.355,130.826,"(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.070,109.382,"(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.455,110.050,108.971,114.141,116.939
+"12580","Baltimore-Towson, MD (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.976,102.332,"(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.718,111.044,115.098,119.787,126.082
+"12580","Baltimore-Towson, MD (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.507,103.827,110.962,116.595,115.416
+"12580","Baltimore-Towson, MD (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.666,101.659,111.481,124.307,124.340
+"12580","Baltimore-Towson, MD (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.899,106.285,110.251,107.223,104.561
+"12580","Baltimore-Towson, MD (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.700,106.912,113.985,115.589,117.620
+"12580","Baltimore-Towson, MD (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.371,106.909,117.151,113.467,114.817
+"12580","Baltimore-Towson, MD (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.456,106.859,113.007,116.186,118.419
+"12580","Baltimore-Towson, MD (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.607,103.082,104.239,102.890,102.636
+"12580","Baltimore-Towson, MD (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.462,99.682,103.942,104.911,107.154
+"12580","Baltimore-Towson, MD (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.857,100.301,115.598,115.901,116.438
+"12580","Baltimore-Towson, MD (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.524,104.024,102.762,105.687,115.049
+"12580","Baltimore-Towson, MD (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.681,98.573,96.468,97.546,99.668
+"12580","Baltimore-Towson, MD (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,116.000,"(D)","(D)",122.298,"(D)"
+"12580","Baltimore-Towson, MD (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.008,"(D)","(D)",118.043,"(D)"
+"12580","Baltimore-Towson, MD (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.078,101.640,102.772,106.126,111.815
+"12580","Baltimore-Towson, MD (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.273,112.653,"(D)",125.859,"(D)"
+"12580","Baltimore-Towson, MD (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.041,109.870,113.846,115.553,118.703
+"12580","Baltimore-Towson, MD (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.060,106.011,113.103,115.896,116.981
+"12580","Baltimore-Towson, MD (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,117.124,122.278,142.397,158.707,176.626
+"12580","Baltimore-Towson, MD (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.222,97.730,102.820,99.588,98.401
+"12580","Baltimore-Towson, MD (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.079,106.041,109.954,114.600,119.239
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"12580","Baltimore-Towson, MD (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),95869,98070,99571,103533,106342,109609
+"12580","Baltimore-Towson, MD (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),80452,82274,84237,87539,90230,93172
+"12580","Baltimore-Towson, MD (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),172,197,211,193,199,223
+"12580","Baltimore-Towson, MD (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",4947,5223,5229,4840
+"12580","Baltimore-Towson, MD (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7837,8264,7563,7975,7486,7806
+"12580","Baltimore-Towson, MD (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",143,"(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),262,261,251,282,272,258
+"12580","Baltimore-Towson, MD (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),520,470,470,470,506,502
+"12580","Baltimore-Towson, MD (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",495,"(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),89,93,"(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",267,293
+"12580","Baltimore-Towson, MD (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",6691,"(D)"
+"12580","Baltimore-Towson, MD (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6368,6542,6652,6932,7339,7628
+"12580","Baltimore-Towson, MD (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),107,105,"(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),702,685,661,709,699,701
+"12580","Baltimore-Towson, MD (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),248,255,248,252,252,278
+"12580","Baltimore-Towson, MD (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",286,332,"(D)"
+"12580","Baltimore-Towson, MD (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2813,2850,3096,3389,4177,4836
+"12580","Baltimore-Towson, MD (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",107,"(D)"
+"12580","Baltimore-Towson, MD (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6960,7355,7488,7367,7983,8123
+"12580","Baltimore-Towson, MD (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",2340,2429,2223,2083
+"12580","Baltimore-Towson, MD (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),14130,13754,13951,14308,14402,15456
+"12580","Baltimore-Towson, MD (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),12897,12470,12700,13099,13270,14356
+"12580","Baltimore-Towson, MD (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1233,1286,1251,1208,1130,1099
+"12580","Baltimore-Towson, MD (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8435,9059,9539,10404,10942,11537
+"12580","Baltimore-Towson, MD (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),367,365,480,"(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3170,3299,3467,"(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2900,3029,3191,3160,3310,3391
+"12580","Baltimore-Towson, MD (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),270,270,276,"(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",1674,1764,1809,1791,1743
+"12580","Baltimore-Towson, MD (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",7738,8175,8492,8668,9011
+"12580","Baltimore-Towson, MD (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3184,3398,3535,3665,3814,4014
+"12580","Baltimore-Towson, MD (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12580","Baltimore-Towson, MD (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),909,931,943,1008,1059,1049
+"12580","Baltimore-Towson, MD (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),484,478,492,540,602,602
+"12580","Baltimore-Towson, MD (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),424,454,451,468,455,444
+"12580","Baltimore-Towson, MD (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2194,2298,2346,2501,2537,2581
+"12580","Baltimore-Towson, MD (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),507,569,542,594,575,582
+"12580","Baltimore-Towson, MD (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1688,1729,1804,1907,1961,1999
+"12580","Baltimore-Towson, MD (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2376,2390,2449,2476,2444,2438
+"12580","Baltimore-Towson, MD (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15416,15796,15367,16024,16173,16519
+"12580","Baltimore-Towson, MD (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5448,5549,5464,6297,6314,6343
+"12580","Baltimore-Towson, MD (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1326,1372,1379,1362,1401,1525
+"12580","Baltimore-Towson, MD (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8643,8875,8520,8338,8431,8614
+"12580","Baltimore-Towson, MD (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),245,284,"(D)","(D)",299,"(D)"
+"12580","Baltimore-Towson, MD (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",14017,"(D)"
+"12580","Baltimore-Towson, MD (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4407,4231,"(D)","(D)",5202,"(D)"
+"12580","Baltimore-Towson, MD (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),21091,21107,21437,21675,22383,23582
+"12580","Baltimore-Towson, MD (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),11972,12723,13487,"(D)",15068,"(D)"
+"12580","Baltimore-Towson, MD (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9047,9412,9939,10299,10454,10738
+"12580","Baltimore-Towson, MD (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3103,3229,3290,3510,3596,3630
+"12580","Baltimore-Towson, MD (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3011,3526,3681,4287,4778,5318
+"12580","Baltimore-Towson, MD (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13084,13506,12787,13453,13030,12875
+"12580","Baltimore-Towson, MD (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),67368,68769,71438,74074,77204,80329
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"12580","Baltimore-Towson, MD (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),37187,37784,37970,39235,40127,41155
+"12580","Baltimore-Towson, MD (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12580","Baltimore-Towson, MD (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

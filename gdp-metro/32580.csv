@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),7969,8542,9277,10082,11094,12026
+"32580","McAllen-Edinburg-Mission, TX (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),6135,6531,7119,7780,8613,9373
+"32580","McAllen-Edinburg-Mission, TX (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),226,245,275,226,255,221
+"32580","McAllen-Edinburg-Mission, TX (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),119,117,148,85,112,79
+"32580","McAllen-Edinburg-Mission, TX (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),108,128,127,142,144,142
+"32580","McAllen-Edinburg-Mission, TX (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),141,122,174,187,276,407
+"32580","McAllen-Edinburg-Mission, TX (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),30,29,57,"(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),8,8,7,"(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),104,86,110,120,168,279
+"32580","McAllen-Edinburg-Mission, TX (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),79,90,99,125,125,142
+"32580","McAllen-Edinburg-Mission, TX (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),385,441,487,527,576,594
+"32580","McAllen-Edinburg-Mission, TX (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),572,519,470,494,455,468
+"32580","McAllen-Edinburg-Mission, TX (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)",200,199,209,210,234
+"32580","McAllen-Edinburg-Mission, TX (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),19,23,27,24,14,12
+"32580","McAllen-Edinburg-Mission, TX (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),26,27,30,37,42,50
+"32580","McAllen-Edinburg-Mission, TX (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),9,8,7,11,10,12
+"32580","McAllen-Edinburg-Mission, TX (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),25,23,23,25,27,34
+"32580","McAllen-Edinburg-Mission, TX (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),21,19,24,35,38,41
+"32580","McAllen-Edinburg-Mission, TX (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),14,8,6,5,6,8
+"32580","McAllen-Edinburg-Mission, TX (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),47,"(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),15,"(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),8,11,14,17,18,23
+"32580","McAllen-Edinburg-Mission, TX (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),8,7,7,9,11,9
+"32580","McAllen-Edinburg-Mission, TX (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)",318,271,285,245,234
+"32580","McAllen-Edinburg-Mission, TX (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),149,158,137,161,141,140
+"32580","McAllen-Edinburg-Mission, TX (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),132,70,37,26,27,13
+"32580","McAllen-Edinburg-Mission, TX (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),51,48,51,49,39,37
+"32580","McAllen-Edinburg-Mission, TX (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),4,3,4,4,4,3
+"32580","McAllen-Edinburg-Mission, TX (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),2,3,4,5,5,5
+"32580","McAllen-Edinburg-Mission, TX (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),30,25,28,29,20,25
+"32580","McAllen-Edinburg-Mission, TX (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),390,443,496,564,641,677
+"32580","McAllen-Edinburg-Mission, TX (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),1012,1094,1155,1211,1311,1410
+"32580","McAllen-Edinburg-Mission, TX (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),257,289,310,402,407,455
+"32580","McAllen-Edinburg-Mission, TX (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",6,6,7
+"32580","McAllen-Edinburg-Mission, TX (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),3,3,3,"(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),0,"(L)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),123,130,147,186,220,245
+"32580","McAllen-Edinburg-Mission, TX (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),9,12,10,17,14,17
+"32580","McAllen-Edinburg-Mission, TX (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),33,29,25,31,25,31
+"32580","McAllen-Edinburg-Mission, TX (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",115,99,"(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),23,25,25,43,38,40
+"32580","McAllen-Edinburg-Mission, TX (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),132,154,193,283,324,367
+"32580","McAllen-Edinburg-Mission, TX (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),18,20,23,26,28,26
+"32580","McAllen-Edinburg-Mission, TX (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),6,7,8,12,11,11
+"32580","McAllen-Edinburg-Mission, TX (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),106,123,157,241,279,319
+"32580","McAllen-Edinburg-Mission, TX (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),1,4,5,4,6,11
+"32580","McAllen-Edinburg-Mission, TX (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),304,376,432,458,520,659
+"32580","McAllen-Edinburg-Mission, TX (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),216,282,320,336,399,521
+"32580","McAllen-Edinburg-Mission, TX (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),23,19,23,22,24,30
+"32580","McAllen-Edinburg-Mission, TX (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),64,75,89,100,96,108
+"32580","McAllen-Edinburg-Mission, TX (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),1,1,"(L)","(L)",1,1
+"32580","McAllen-Edinburg-Mission, TX (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),422,411,503,535,690,675
+"32580","McAllen-Edinburg-Mission, TX (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),305,260,333,373,544,528
+"32580","McAllen-Edinburg-Mission, TX (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),117,151,169,162,146,146
+"32580","McAllen-Edinburg-Mission, TX (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),247,265,294,343,356,398
+"32580","McAllen-Edinburg-Mission, TX (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),4,8,18,15,18,15
+"32580","McAllen-Edinburg-Mission, TX (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),156,203,208,224,258,286
+"32580","McAllen-Edinburg-Mission, TX (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),141,182,184,201,239,264
+"32580","McAllen-Edinburg-Mission, TX (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),15,21,24,23,19,22
+"32580","McAllen-Edinburg-Mission, TX (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),24,31,36,41,41,44
+"32580","McAllen-Edinburg-Mission, TX (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),1178,1185,1259,1399,1566,1703
+"32580","McAllen-Edinburg-Mission, TX (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),753,736,781,831,956,1036
+"32580","McAllen-Edinburg-Mission, TX (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),342,357,374,448,474,523
+"32580","McAllen-Edinburg-Mission, TX (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),83,92,104,119,136,144
+"32580","McAllen-Edinburg-Mission, TX (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),32,34,37,39,39,42
+"32580","McAllen-Edinburg-Mission, TX (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),5,8,10,13,13,14
+"32580","McAllen-Edinburg-Mission, TX (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),26,26,27,26,25,28
+"32580","McAllen-Edinburg-Mission, TX (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),274,293,315,331,354,384
+"32580","McAllen-Edinburg-Mission, TX (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),53,58,59,58,60,66
+"32580","McAllen-Edinburg-Mission, TX (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),221,235,257,273,294,318
+"32580","McAllen-Edinburg-Mission, TX (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),301,328,359,376,401,427
+"32580","McAllen-Edinburg-Mission, TX (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),1834,2011,2158,2303,2480,2654
+"32580","McAllen-Edinburg-Mission, TX (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),203,221,235,256,274,280
+"32580","McAllen-Edinburg-Mission, TX (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),29,38,55,61,65,61
+"32580","McAllen-Edinburg-Mission, TX (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),1602,1752,1868,1986,2141,2313
+"32580","McAllen-Edinburg-Mission, TX (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),368,367,449,413,531,628
+"32580","McAllen-Edinburg-Mission, TX (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),1402,1537,1651,1774,1952,2088
+"32580","McAllen-Edinburg-Mission, TX (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),335,379,409,527,531,597
+"32580","McAllen-Edinburg-Mission, TX (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),726,787,935,993,1210,1334
+"32580","McAllen-Edinburg-Mission, TX (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),406,476,520,582,632,698
+"32580","McAllen-Edinburg-Mission, TX (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),1202,1216,1295,1440,1607,1747
+"32580","McAllen-Edinburg-Mission, TX (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),306,327,352,370,393,427
+"32580","McAllen-Edinburg-Mission, TX (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),1217,1199,1278,1293,1419,1547
+"32580","McAllen-Edinburg-Mission, TX (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),4918,5332,5841,6487,7195,7825
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.089,109.910,115.506,123.172,128.917
+"32580","McAllen-Edinburg-Mission, TX (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.787,110.591,117.237,126.244,132.982
+"32580","McAllen-Edinburg-Mission, TX (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.932,119.350,88.599,107.692,92.732
+"32580","McAllen-Edinburg-Mission, TX (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.877,119.777,57.123,90.490,67.929
+"32580","McAllen-Edinburg-Mission, TX (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,121.332,118.719,127.697,129.504,122.050
+"32580","McAllen-Edinburg-Mission, TX (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,68.193,78.209,78.396,87.609,108.057
+"32580","McAllen-Edinburg-Mission, TX (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,116.859,147.329,"(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.391,81.185,"(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,55.881,62.865,69.140,75.990,98.026
+"32580","McAllen-Edinburg-Mission, TX (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.771,128.788,157.751,148.113,150.310
+"32580","McAllen-Edinburg-Mission, TX (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.253,114.727,114.604,114.059,106.694
+"32580","McAllen-Edinburg-Mission, TX (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.661,82.835,87.814,79.333,80.688
+"32580","McAllen-Edinburg-Mission, TX (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,122.780,134.460,104.498,59.403,56.956
+"32580","McAllen-Edinburg-Mission, TX (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.309,118.799,141.886,147.410,155.457
+"32580","McAllen-Edinburg-Mission, TX (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.365,80.926,106.238,79.542,80.685
+"32580","McAllen-Edinburg-Mission, TX (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.664,94.438,98.722,103.298,127.753
+"32580","McAllen-Edinburg-Mission, TX (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.092,113.650,169.982,178.427,192.147
+"32580","McAllen-Edinburg-Mission, TX (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,65.695,53.260,57.016,73.911,116.483
+"32580","McAllen-Edinburg-Mission, TX (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,127.928,169.643,211.570,220.374,268.907
+"32580","McAllen-Edinburg-Mission, TX (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.215,84.049,105.906,136.701,105.361
+"32580","McAllen-Edinburg-Mission, TX (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.417,88.631,106.893,92.791,95.913
+"32580","McAllen-Edinburg-Mission, TX (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,54.250,28.694,20.186,21.149,10.657
+"32580","McAllen-Edinburg-Mission, TX (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.051,103.339,102.085,81.898,72.495
+"32580","McAllen-Edinburg-Mission, TX (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,84.818,99.845,111.299,116.439,86.046
+"32580","McAllen-Edinburg-Mission, TX (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,146.487,160.182,196.662,182.083,201.350
+"32580","McAllen-Edinburg-Mission, TX (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,83.227,93.673,100.964,66.502,76.214
+"32580","McAllen-Edinburg-Mission, TX (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.070,124.971,134.352,147.553,150.599
+"32580","McAllen-Edinburg-Mission, TX (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.193,111.502,116.030,127.474,137.964
+"32580","McAllen-Edinburg-Mission, TX (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.788,116.806,148.202,149.679,161.229
+"32580","McAllen-Edinburg-Mission, TX (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.368,114.922,"(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,"(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.098,114.602,140.023,161.972,174.973
+"32580","McAllen-Edinburg-Mission, TX (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,121.562,100.994,160.777,128.902,154.646
+"32580","McAllen-Edinburg-Mission, TX (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,80.442,78.518,103.186,103.093,105.970
+"32580","McAllen-Edinburg-Mission, TX (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.698,104.626,171.788,151.612,158.475
+"32580","McAllen-Edinburg-Mission, TX (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,118.657,151.203,228.946,275.675,321.537
+"32580","McAllen-Edinburg-Mission, TX (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.581,132.301,151.011,164.901,153.215
+"32580","McAllen-Edinburg-Mission, TX (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.003,123.015,191.011,160.403,156.995
+"32580","McAllen-Edinburg-Mission, TX (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,118.704,154.155,243.806,299.985,355.088
+"32580","McAllen-Edinburg-Mission, TX (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,238.874,297.830,300.339,454.106,814.016
+"32580","McAllen-Edinburg-Mission, TX (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,118.779,133.002,136.020,150.888,185.276
+"32580","McAllen-Edinburg-Mission, TX (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,123.669,137.791,140.962,163.790,205.189
+"32580","McAllen-Edinburg-Mission, TX (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.622,111.068,106.380,119.117,153.666
+"32580","McAllen-Edinburg-Mission, TX (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.213,125.425,130.068,121.059,134.147
+"32580","McAllen-Edinburg-Mission, TX (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,83.129,58.779,67.997,78.820,92.075
+"32580","McAllen-Edinburg-Mission, TX (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.460,112.751,116.917,146.694,139.773
+"32580","McAllen-Edinburg-Mission, TX (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,82.511,102.750,112.355,160.376,151.626
+"32580","McAllen-Edinburg-Mission, TX (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,129.877,139.154,128.894,111.108,108.923
+"32580","McAllen-Edinburg-Mission, TX (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.037,114.103,130.276,130.119,140.584
+"32580","McAllen-Edinburg-Mission, TX (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,218.947,452.005,333.490,368.923,282.635
+"32580","McAllen-Edinburg-Mission, TX (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,127.003,129.915,134.822,149.947,158.730
+"32580","McAllen-Edinburg-Mission, TX (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,125.999,127.557,134.952,153.903,162.662
+"32580","McAllen-Edinburg-Mission, TX (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,136.518,152.037,134.577,114.896,124.018
+"32580","McAllen-Edinburg-Mission, TX (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,120.833,136.178,144.233,138.803,141.928
+"32580","McAllen-Edinburg-Mission, TX (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.762,101.445,109.580,119.618,127.396
+"32580","McAllen-Edinburg-Mission, TX (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.245,100.247,104.416,117.808,126.251
+"32580","McAllen-Edinburg-Mission, TX (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.117,98.849,112.949,114.467,121.179
+"32580","McAllen-Edinburg-Mission, TX (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.068,123.842,141.545,160.462,167.027
+"32580","McAllen-Edinburg-Mission, TX (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.409,109.370,113.595,109.492,115.448
+"32580","McAllen-Edinburg-Mission, TX (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,138.230,179.428,220.692,215.957,218.006
+"32580","McAllen-Edinburg-Mission, TX (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.390,95.177,91.731,87.731,94.597
+"32580","McAllen-Edinburg-Mission, TX (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.211,109.102,111.328,114.986,119.902
+"32580","McAllen-Edinburg-Mission, TX (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.135,108.559,101.806,99.532,106.682
+"32580","McAllen-Edinburg-Mission, TX (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.582,109.186,113.510,118.586,122.962
+"32580","McAllen-Edinburg-Mission, TX (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.468,111.037,112.759,113.719,115.424
+"32580","McAllen-Edinburg-Mission, TX (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.090,107.720,109.960,113.401,116.054
+"32580","McAllen-Edinburg-Mission, TX (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.657,103.440,104.800,107.938,105.779
+"32580","McAllen-Edinburg-Mission, TX (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,119.100,159.853,166.218,163.570,146.287
+"32580","McAllen-Edinburg-Mission, TX (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.141,107.273,109.547,113.157,116.877
+"32580","McAllen-Edinburg-Mission, TX (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.929,102.162,86.001,100.409,106.682
+"32580","McAllen-Edinburg-Mission, TX (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.098,115.228,121.121,133.053,141.271
+"32580","McAllen-Edinburg-Mission, TX (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.167,119.540,150.398,149.304,158.576
+"32580","McAllen-Edinburg-Mission, TX (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.279,121.267,124.946,148.399,158.973
+"32580","McAllen-Edinburg-Mission, TX (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.881,123.274,133.822,139.868,148.590
+"32580","McAllen-Edinburg-Mission, TX (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.230,102.155,110.286,119.982,127.651
+"32580","McAllen-Edinburg-Mission, TX (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.335,109.129,111.563,114.416,119.439
+"32580","McAllen-Edinburg-Mission, TX (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.233,96.059,91.903,93.274,94.046
+"32580","McAllen-Edinburg-Mission, TX (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.925,114.247,123.747,134.830,143.254
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7969,8295,8759,9205,9816,10274
+"32580","McAllen-Edinburg-Mission, TX (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6135,6368,6785,7193,7745,8159
+"32580","McAllen-Edinburg-Mission, TX (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),226,260,270,201,244,210
+"32580","McAllen-Edinburg-Mission, TX (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),119,129,142,68,107,81
+"32580","McAllen-Edinburg-Mission, TX (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),108,131,128,138,140,132
+"32580","McAllen-Edinburg-Mission, TX (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),141,96,111,111,124,153
+"32580","McAllen-Edinburg-Mission, TX (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),30,35,44,"(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,7,6,"(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),104,58,65,72,79,102
+"32580","McAllen-Edinburg-Mission, TX (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),79,91,101,124,117,118
+"32580","McAllen-Edinburg-Mission, TX (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),385,421,442,442,440,411
+"32580","McAllen-Edinburg-Mission, TX (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),572,518,474,502,454,461
+"32580","McAllen-Edinburg-Mission, TX (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",204,204,212,210,229
+"32580","McAllen-Edinburg-Mission, TX (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),19,24,26,20,11,11
+"32580","McAllen-Edinburg-Mission, TX (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),26,26,30,36,38,40
+"32580","McAllen-Edinburg-Mission, TX (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9,8,7,10,7,7
+"32580","McAllen-Edinburg-Mission, TX (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),25,23,23,24,26,32
+"32580","McAllen-Edinburg-Mission, TX (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),21,19,24,36,38,41
+"32580","McAllen-Edinburg-Mission, TX (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),14,9,7,8,10,16
+"32580","McAllen-Edinburg-Mission, TX (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),47,"(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15,"(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,10,14,17,18,22
+"32580","McAllen-Edinburg-Mission, TX (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,7,7,9,11,9
+"32580","McAllen-Edinburg-Mission, TX (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",315,270,291,245,233
+"32580","McAllen-Edinburg-Mission, TX (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),149,150,132,160,139,143
+"32580","McAllen-Edinburg-Mission, TX (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),132,71,38,27,28,14
+"32580","McAllen-Edinburg-Mission, TX (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),51,48,53,52,42,37
+"32580","McAllen-Edinburg-Mission, TX (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,3,4,4,4,3
+"32580","McAllen-Edinburg-Mission, TX (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,3,3,4,4,4
+"32580","McAllen-Edinburg-Mission, TX (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),30,25,28,31,20,23
+"32580","McAllen-Edinburg-Mission, TX (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),390,441,488,524,576,588
+"32580","McAllen-Edinburg-Mission, TX (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1012,1074,1128,1174,1290,1396
+"32580","McAllen-Edinburg-Mission, TX (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),257,282,300,380,384,414
+"32580","McAllen-Edinburg-Mission, TX (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",8,9,10
+"32580","McAllen-Edinburg-Mission, TX (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3,3,3,"(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,"(L)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),123,126,141,173,200,216
+"32580","McAllen-Edinburg-Mission, TX (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9,11,10,15,12,15
+"32580","McAllen-Edinburg-Mission, TX (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),33,26,26,34,34,35
+"32580","McAllen-Edinburg-Mission, TX (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",107,91,"(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,25,24,40,35,37
+"32580","McAllen-Edinburg-Mission, TX (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),132,156,199,301,363,423
+"32580","McAllen-Edinburg-Mission, TX (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),18,20,24,27,30,28
+"32580","McAllen-Edinburg-Mission, TX (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,7,8,12,10,10
+"32580","McAllen-Edinburg-Mission, TX (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),106,126,163,258,317,376
+"32580","McAllen-Edinburg-Mission, TX (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,4,4,4,7,12
+"32580","McAllen-Edinburg-Mission, TX (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),304,361,404,414,459,563
+"32580","McAllen-Edinburg-Mission, TX (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),216,268,298,305,354,444
+"32580","McAllen-Edinburg-Mission, TX (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,20,25,24,27,35
+"32580","McAllen-Edinburg-Mission, TX (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),64,73,81,84,78,86
+"32580","McAllen-Edinburg-Mission, TX (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,"(L)","(L)",1,1
+"32580","McAllen-Edinburg-Mission, TX (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),422,403,476,493,619,590
+"32580","McAllen-Edinburg-Mission, TX (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),305,251,313,342,488,462
+"32580","McAllen-Edinburg-Mission, TX (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),117,152,163,151,130,128
+"32580","McAllen-Edinburg-Mission, TX (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),247,257,281,321,321,347
+"32580","McAllen-Edinburg-Mission, TX (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,8,17,13,14,11
+"32580","McAllen-Edinburg-Mission, TX (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),156,198,203,210,234,248
+"32580","McAllen-Edinburg-Mission, TX (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),141,178,180,191,217,230
+"32580","McAllen-Edinburg-Mission, TX (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15,20,22,20,17,18
+"32580","McAllen-Edinburg-Mission, TX (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),24,29,33,35,33,34
+"32580","McAllen-Edinburg-Mission, TX (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1178,1151,1195,1291,1409,1500
+"32580","McAllen-Edinburg-Mission, TX (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),753,725,755,786,887,951
+"32580","McAllen-Edinburg-Mission, TX (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),342,336,338,386,392,415
+"32580","McAllen-Edinburg-Mission, TX (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),83,91,102,117,133,138
+"32580","McAllen-Edinburg-Mission, TX (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),32,33,35,36,35,37
+"32580","McAllen-Edinburg-Mission, TX (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,7,10,12,12,12
+"32580","McAllen-Edinburg-Mission, TX (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),26,26,25,24,23,25
+"32580","McAllen-Edinburg-Mission, TX (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),274,280,299,305,315,329
+"32580","McAllen-Edinburg-Mission, TX (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),53,58,58,54,53,57
+"32580","McAllen-Edinburg-Mission, TX (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),221,222,241,251,262,272
+"32580","McAllen-Edinburg-Mission, TX (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),301,315,334,340,342,348
+"32580","McAllen-Edinburg-Mission, TX (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1834,1927,1976,2017,2080,2129
+"32580","McAllen-Edinburg-Mission, TX (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),203,208,210,212,219,214
+"32580","McAllen-Edinburg-Mission, TX (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),29,35,47,49,48,43
+"32580","McAllen-Edinburg-Mission, TX (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1602,1685,1719,1755,1813,1873
+"32580","McAllen-Edinburg-Mission, TX (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),368,349,376,316,369,392
+"32580","McAllen-Edinburg-Mission, TX (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1402,1516,1616,1698,1866,1981
+"32580","McAllen-Edinburg-Mission, TX (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),335,373,401,504,500,532
+"32580","McAllen-Edinburg-Mission, TX (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),726,764,880,907,1077,1154
+"32580","McAllen-Edinburg-Mission, TX (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),406,463,501,544,568,604
+"32580","McAllen-Edinburg-Mission, TX (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1202,1180,1228,1325,1442,1534
+"32580","McAllen-Edinburg-Mission, TX (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),306,313,334,341,350,365
+"32580","McAllen-Edinburg-Mission, TX (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1217,1159,1169,1119,1135,1145
+"32580","McAllen-Edinburg-Mission, TX (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4918,5209,5619,6086,6631,7045
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),13522,13617,13909,14161,14656,14900
+"32580","McAllen-Edinburg-Mission, TX (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"32580","McAllen-Edinburg-Mission, TX (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

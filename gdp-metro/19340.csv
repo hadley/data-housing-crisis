@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),11670,12334,12893,14042,14739,15490
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),10253,10809,11238,12309,12959,13628
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),66,79,200,227,90,91
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),0,"(L)","(L)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),547,560,490,484,517,526
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),2073,2166,2140,2445,2646,2828
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),16,14,18,"(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",19,18,17
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),2,2,2,1,1,1
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),55,"(D)",57,"(D)",56,55
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",137,147
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",26,31,34,37
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),868,906,953,1097,1182,1241
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),874,905,930,959,991,1017
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),4,"(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),37,40,36,42,46,53
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),182,183,178,196,219,233
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),291,303,292,330,353,342
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",6
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),700,"(D)",810,805,870,933
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",49,55
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",468,490
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),876,"(D)",1100,1169,"(D)",1310
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",67,"(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",538,595,632,"(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",517,675,723,"(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",348,391,434,480,496
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),109,"(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),860,"(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),501,538,576,615,648,663
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),249,239,166,174,148,146
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),269,284,340,371,394,402
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),282,303,317,332,346,350
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),1417,1525,1654,1733,1780,1862
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),523,585,630,676,721,778
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),38,46,58,67,68,69
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),856,894,966,990,992,1015
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),101,114,235,264,"(D)",128
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),1742,1811,1884,2056,2173,2258
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),925,993,910,1016,"(D)",1129
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),1576,1738,1910,1974,"(D)",2244
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),1227,1253,1447,1704,1835,2005
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),969,1044,1107,1158,"(D)",1269
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),518,524,506,545,542,549
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),165,166,192,202,204,209
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),2699,2820,2844,3170,3269,3460
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),7554,7989,8394,9139,9690,10168
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.336,105.989,111.213,112.794,114.405
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.456,106.001,112.100,114.179,116.008
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,133.123,291.933,275.918,132.307,141.715
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,74.946,71.248,78.218,53.530,63.971
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,"(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.741,81.469,74.249,72.177,66.621
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.466,103.446,116.442,120.746,124.155
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.460,145.783,"(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.203,107.496,57.026,55.917,51.823
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",102.603,"(D)",102.187,100.539
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.998,107.955,117.587,122.322,124.075
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.600,103.974,106.370,111.515,115.152
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.436,93.201,103.532,100.141,130.809
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.628,94.101,100.263,109.243,112.785
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.887,103.785,120.982,135.700,134.808
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",106.827,100.912,106.001,111.500
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",118.251,122.705,"(D)",130.850
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.893,111.332,116.214,120.051,121.566
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.934,62.904,64.495,53.295,51.108
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.131,119.904,126.505,129.942,127.468
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.808,104.512,106.150,104.478,100.919
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.481,105.876,105.212,103.494,103.666
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.170,107.334,107.441,109.952,114.088
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.003,128.796,138.051,129.272,124.539
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.428,103.909,102.263,98.156,96.017
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,120.776,222.152,211.238,"(D)",119.719
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.790,105.949,111.980,116.907,119.547
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.344,97.870,105.961,"(D)",104.309
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.660,113.169,112.931,"(D)",122.204
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.332,114.536,127.904,129.638,136.095
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.033,107.401,108.771,"(D)",112.942
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.201,92.558,96.753,93.186,90.855
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.177,122.236,133.945,136.831,140.191
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.970,103.149,110.681,109.625,110.898
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.629,107.010,112.604,115.790,117.820
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),11670,12059,12369,12979,13163,13351
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10253,10608,10869,11494,11707,11895
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),66,87,191,181,87,93
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,"(L)","(L)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),547,535,446,406,395,364
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2073,2145,2145,2414,2503,2574
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),16,16,24,"(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",19,18,17
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,3,3,1,1,1
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),55,"(D)",57,"(D)",57,56
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",120,122
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",26,33,35,34
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),868,903,937,1021,1062,1077
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),874,888,909,930,975,1007
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,"(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),37,38,34,38,37,48
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),182,177,171,182,198,205
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),291,308,302,352,395,392
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",6
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),700,"(D)",748,706,742,780
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",55,64
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",378,393
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),876,"(D)",1036,1075,"(D)",1146
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",60,"(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",528,586,607,"(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",498,575,553,"(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",340,380,408,435,430
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),109,"(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),860,"(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),501,530,557,582,601,608
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),249,232,157,161,133,127
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),269,272,323,340,350,343
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),282,290,295,300,295,285
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1417,1452,1500,1491,1466,1469
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),523,550,561,561,575,596
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),38,43,50,53,50,48
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),856,859,889,875,840,822
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),101,122,224,213,"(D)",121
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1742,1791,1846,1951,2037,2083
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),925,993,905,980,"(D)",965
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1576,1681,1784,1780,"(D)",1926
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1227,1231,1406,1570,1591,1670
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),969,1008,1041,1054,"(D)",1095
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),518,504,480,502,483,471
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),165,169,202,221,226,232
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2699,2779,2784,2987,2959,2993
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7554,7828,8084,8506,8747,8900
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),31147,32245,33155,34791,35254,35672
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"19340","Davenport-Moline-Rock Island, IA-IL (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

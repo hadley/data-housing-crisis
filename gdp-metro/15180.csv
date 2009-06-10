@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"15180","Brownsville-Harlingen, TX (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),5041,5342,5553,5832,6091,6555
+"15180","Brownsville-Harlingen, TX (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),3878,4087,4238,4450,4617,4986
+"15180","Brownsville-Harlingen, TX (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),121,122,176,169,151,150
+"15180","Brownsville-Harlingen, TX (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),69,70,122,113,94,90
+"15180","Brownsville-Harlingen, TX (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),52,52,54,57,57,60
+"15180","Brownsville-Harlingen, TX (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),3,2,3,5,8,10
+"15180","Brownsville-Harlingen, TX (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)",1,1,2,2
+"15180","Brownsville-Harlingen, TX (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",5
+"15180","Brownsville-Harlingen, TX (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",3
+"15180","Brownsville-Harlingen, TX (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),37,42,48,62,66,68
+"15180","Brownsville-Harlingen, TX (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),170,176,189,225,282,307
+"15180","Brownsville-Harlingen, TX (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),631,626,485,442,441,485
+"15180","Brownsville-Harlingen, TX (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),328,360,301,288,294,"(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),7,10,6,5,5,6
+"15180","Brownsville-Harlingen, TX (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),33,33,32,36,36,33
+"15180","Brownsville-Harlingen, TX (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),5,6,"(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),38,41,29,28,35,38
+"15180","Brownsville-Harlingen, TX (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),18,16,18,26,28,31
+"15180","Brownsville-Harlingen, TX (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),20,14,13,11,11,12
+"15180","Brownsville-Harlingen, TX (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),29,35,30,30,30,30
+"15180","Brownsville-Harlingen, TX (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),5,6,6,4,3,4
+"15180","Brownsville-Harlingen, TX (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),6,9,9,11,11,9
+"15180","Brownsville-Harlingen, TX (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),304,266,184,154,147,"(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),85,86,84,86,82,79
+"15180","Brownsville-Harlingen, TX (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",3
+"15180","Brownsville-Harlingen, TX (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),11,12,12,11,9,8
+"15180","Brownsville-Harlingen, TX (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),4,4,4,4,4,4
+"15180","Brownsville-Harlingen, TX (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),13,1,2,4,3,4
+"15180","Brownsville-Harlingen, TX (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),12,17,14,18,22,28
+"15180","Brownsville-Harlingen, TX (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),18,14,19,20,21,21
+"15180","Brownsville-Harlingen, TX (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),234,249,247,268,257,260
+"15180","Brownsville-Harlingen, TX (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),501,542,585,590,636,687
+"15180","Brownsville-Harlingen, TX (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),205,211,210,232,248,274
+"15180","Brownsville-Harlingen, TX (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),5,6,8,8,9,10
+"15180","Brownsville-Harlingen, TX (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),14,14,15,"(D)","(D)",17
+"15180","Brownsville-Harlingen, TX (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),80,76,70,80,98,105
+"15180","Brownsville-Harlingen, TX (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),16,7,6,7,7,6
+"15180","Brownsville-Harlingen, TX (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),19,0,0,0,0,0
+"15180","Brownsville-Harlingen, TX (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",91,"(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),19,24,29,34,28,24
+"15180","Brownsville-Harlingen, TX (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),117,118,127,135,131,163
+"15180","Brownsville-Harlingen, TX (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),17,19,20,20,"(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)",4,3,4,4,4
+"15180","Brownsville-Harlingen, TX (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),98,92,101,108,102,129
+"15180","Brownsville-Harlingen, TX (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",3,3,3,"(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),169,199,225,228,231,273
+"15180","Brownsville-Harlingen, TX (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),105,134,154,159,172,208
+"15180","Brownsville-Harlingen, TX (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),13,"(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),51,48,55,53,41,46
+"15180","Brownsville-Harlingen, TX (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),0,"(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),346,271,289,292,372,405
+"15180","Brownsville-Harlingen, TX (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),277,170,168,162,232,270
+"15180","Brownsville-Harlingen, TX (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),69,101,121,130,140,134
+"15180","Brownsville-Harlingen, TX (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),138,139,154,185,194,184
+"15180","Brownsville-Harlingen, TX (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),10,13,18,14,22,28
+"15180","Brownsville-Harlingen, TX (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),114,148,166,170,179,190
+"15180","Brownsville-Harlingen, TX (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),103,143,160,163,161,172
+"15180","Brownsville-Harlingen, TX (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),11,5,6,7,18,18
+"15180","Brownsville-Harlingen, TX (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),25,29,30,29,31,31
+"15180","Brownsville-Harlingen, TX (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),636,741,816,918,880,952
+"15180","Brownsville-Harlingen, TX (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),361,339,377,407,429,486
+"15180","Brownsville-Harlingen, TX (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),229,332,361,429,372,381
+"15180","Brownsville-Harlingen, TX (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),45,70,78,81,79,85
+"15180","Brownsville-Harlingen, TX (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),45,44,42,40,41,47
+"15180","Brownsville-Harlingen, TX (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),6,13,12,11,12,12
+"15180","Brownsville-Harlingen, TX (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),39,31,30,29,30,34
+"15180","Brownsville-Harlingen, TX (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),200,226,223,232,231,251
+"15180","Brownsville-Harlingen, TX (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),50,64,60,58,58,63
+"15180","Brownsville-Harlingen, TX (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),151,162,163,174,172,188
+"15180","Brownsville-Harlingen, TX (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),176,189,205,212,216,223
+"15180","Brownsville-Harlingen, TX (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),1163,1255,1315,1382,1474,1570
+"15180","Brownsville-Harlingen, TX (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),190,202,220,239,256,255
+"15180","Brownsville-Harlingen, TX (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),22,27,37,44,45,41
+"15180","Brownsville-Harlingen, TX (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),951,1025,1058,1100,1173,1274
+"15180","Brownsville-Harlingen, TX (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),124,123,179,174,159,160
+"15180","Brownsville-Harlingen, TX (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),736,791,832,858,893,947
+"15180","Brownsville-Harlingen, TX (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),242,253,258,295,314,342
+"15180","Brownsville-Harlingen, TX (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),515,470,514,520,603,677
+"15180","Brownsville-Harlingen, TX (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),262,300,338,368,396,402
+"15180","Brownsville-Harlingen, TX (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),661,770,846,947,910,983
+"15180","Brownsville-Harlingen, TX (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),245,270,266,273,272,297
+"15180","Brownsville-Harlingen, TX (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",82,89
+"15180","Brownsville-Harlingen, TX (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),873,873,799,785,825,892
+"15180","Brownsville-Harlingen, TX (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),3006,3214,3439,3665,3791,4094
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"15180","Brownsville-Harlingen, TX (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.516,105.025,106.735,108.671,113.594
+"15180","Brownsville-Harlingen, TX (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.580,105.557,107.683,109.541,115.437
+"15180","Brownsville-Harlingen, TX (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.187,141.559,118.691,119.122,120.228
+"15180","Brownsville-Harlingen, TX (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.219,170.126,130.118,131.276,132.260
+"15180","Brownsville-Harlingen, TX (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.045,104.395,106.313,105.692,106.971
+"15180","Brownsville-Harlingen, TX (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,59.897,81.032,139.180,179.030,198.922
+"15180","Brownsville-Harlingen, TX (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,54.290,111.384,114.177,167.316,214.192
+"15180","Brownsville-Harlingen, TX (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.205,132.305,165.378,164.997,152.071
+"15180","Brownsville-Harlingen, TX (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.951,101.278,111.058,126.831,125.241
+"15180","Brownsville-Harlingen, TX (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.435,78.541,72.606,71.930,79.095
+"15180","Brownsville-Harlingen, TX (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.151,94.925,91.745,94.412,"(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,136.743,82.176,64.760,61.537,75.478
+"15180","Brownsville-Harlingen, TX (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.178,97.315,106.643,98.819,80.654
+"15180","Brownsville-Harlingen, TX (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.505,"(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.124,75.632,72.416,84.721,93.757
+"15180","Brownsville-Harlingen, TX (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,86.459,100.074,146.344,151.608,166.614
+"15180","Brownsville-Harlingen, TX (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,80.377,86.531,80.003,97.239,125.464
+"15180","Brownsville-Harlingen, TX (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,120.071,106.312,107.051,104.209,99.021
+"15180","Brownsville-Harlingen, TX (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.763,102.675,68.661,51.979,65.759
+"15180","Brownsville-Harlingen, TX (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,141.225,148.658,181.559,173.632,142.139
+"15180","Brownsville-Harlingen, TX (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.819,61.036,52.208,48.063,"(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.203,96.137,101.042,95.075,95.010
+"15180","Brownsville-Harlingen, TX (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.473,117.490,114.157,87.539,73.938
+"15180","Brownsville-Harlingen, TX (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.520,100.497,92.679,97.583,93.644
+"15180","Brownsville-Harlingen, TX (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,17.908,19.173,31.670,13.689,14.086
+"15180","Brownsville-Harlingen, TX (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,143.318,112.669,141.869,157.770,191.393
+"15180","Brownsville-Harlingen, TX (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,80.845,106.225,116.883,123.818,110.820
+"15180","Brownsville-Harlingen, TX (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.743,103.650,106.375,98.356,96.082
+"15180","Brownsville-Harlingen, TX (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.283,114.023,114.092,124.877,135.729
+"15180","Brownsville-Harlingen, TX (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.134,98.105,106.053,111.198,120.397
+"15180","Brownsville-Harlingen, TX (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,130.066,156.456,192.027,240.772,261.645
+"15180","Brownsville-Harlingen, TX (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.030,103.803,"(D)","(D)",112.449
+"15180","Brownsville-Harlingen, TX (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.602,84.280,92.439,110.867,115.637
+"15180","Brownsville-Harlingen, TX (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,40.811,35.454,38.184,36.806,34.942
+"15180","Brownsville-Harlingen, TX (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,0.000,0.000,0.000,0.000,0.000
+"15180","Brownsville-Harlingen, TX (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,122.103,147.878,162.947,136.829,113.225
+"15180","Brownsville-Harlingen, TX (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.229,111.858,123.262,124.903,159.818
+"15180","Brownsville-Harlingen, TX (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.858,120.606,130.403,"(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.497,107.204,118.037,118.372,155.323
+"15180","Brownsville-Harlingen, TX (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.799,125.045,122.217,120.786,138.735
+"15180","Brownsville-Harlingen, TX (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,121.235,136.878,137.062,145.073,168.238
+"15180","Brownsville-Harlingen, TX (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.794,96.435,87.353,64.501,71.295
+"15180","Brownsville-Harlingen, TX (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,"(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,76.659,78.835,77.661,95.854,101.656
+"15180","Brownsville-Harlingen, TX (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,59.398,56.853,53.587,75.306,85.388
+"15180","Brownsville-Harlingen, TX (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,147.632,169.440,176.847,181.287,170.165
+"15180","Brownsville-Harlingen, TX (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.724,108.087,128.598,131.036,120.716
+"15180","Brownsville-Harlingen, TX (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,129.440,166.125,114.167,165.759,192.620
+"15180","Brownsville-Harlingen, TX (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,127.146,142.455,140.976,143.494,145.691
+"15180","Brownsville-Harlingen, TX (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,135.320,151.677,149.665,141.777,145.569
+"15180","Brownsville-Harlingen, TX (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,48.376,53.598,57.038,155.986,143.008
+"15180","Brownsville-Harlingen, TX (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.182,108.025,100.052,98.400,95.330
+"15180","Brownsville-Harlingen, TX (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.730,120.970,131.666,122.758,129.655
+"15180","Brownsville-Harlingen, TX (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.652,101.124,106.716,110.259,123.614
+"15180","Brownsville-Harlingen, TX (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,136.112,142.492,161.287,134.061,131.600
+"15180","Brownsville-Harlingen, TX (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,151.229,167.903,175.267,169.660,179.891
+"15180","Brownsville-Harlingen, TX (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.433,89.637,83.723,83.448,90.749
+"15180","Brownsville-Harlingen, TX (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,217.887,195.917,168.109,166.183,168.684
+"15180","Brownsville-Harlingen, TX (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,77.794,73.337,70.849,70.839,79.014
+"15180","Brownsville-Harlingen, TX (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.120,106.030,106.743,102.476,107.059
+"15180","Brownsville-Harlingen, TX (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,129.022,119.940,108.597,104.501,109.409
+"15180","Brownsville-Harlingen, TX (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.416,101.520,106.075,101.753,106.227
+"15180","Brownsville-Harlingen, TX (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.291,108.275,109.046,104.619,103.041
+"15180","Brownsville-Harlingen, TX (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.305,103.318,103.723,105.897,107.895
+"15180","Brownsville-Harlingen, TX (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.630,102.792,104.057,107.062,102.543
+"15180","Brownsville-Harlingen, TX (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,116.370,145.022,159.741,151.835,131.945
+"15180","Brownsville-Harlingen, TX (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.745,102.413,102.279,104.538,108.500
+"15180","Brownsville-Harlingen, TX (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.098,140.170,119.324,120.905,122.692
+"15180","Brownsville-Harlingen, TX (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.112,110.740,111.666,116.190,122.558
+"15180","Brownsville-Harlingen, TX (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.113,103.202,114.833,119.152,124.825
+"15180","Brownsville-Harlingen, TX (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.573,94.080,92.359,104.056,113.866
+"15180","Brownsville-Harlingen, TX (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.675,125.207,133.132,137.839,134.775
+"15180","Brownsville-Harlingen, TX (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.516,120.465,130.415,121.801,128.283
+"15180","Brownsville-Harlingen, TX (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.005,103.061,102.566,99.022,104.094
+"15180","Brownsville-Harlingen, TX (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.825,90.361,85.154,88.596,93.031
+"15180","Brownsville-Harlingen, TX (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.367,109.843,114.055,115.459,121.770
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"15180","Brownsville-Harlingen, TX (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5041,5218,5294,5380,5478,5726
+"15180","Brownsville-Harlingen, TX (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3878,4017,4094,4176,4248,4477
+"15180","Brownsville-Harlingen, TX (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),121,130,171,144,144,146
+"15180","Brownsville-Harlingen, TX (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),69,77,117,90,91,91
+"15180","Brownsville-Harlingen, TX (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),52,53,54,55,55,56
+"15180","Brownsville-Harlingen, TX (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3,2,2,4,5,5
+"15180","Brownsville-Harlingen, TX (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)",0,0,1,1
+"15180","Brownsville-Harlingen, TX (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",3
+"15180","Brownsville-Harlingen, TX (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",1
+"15180","Brownsville-Harlingen, TX (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),37,43,49,62,62,57
+"15180","Brownsville-Harlingen, TX (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),170,168,172,189,215,213
+"15180","Brownsville-Harlingen, TX (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),631,634,496,458,454,499
+"15180","Brownsville-Harlingen, TX (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),328,368,311,301,309,"(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,10,6,5,4,5
+"15180","Brownsville-Harlingen, TX (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),33,33,32,35,32,26
+"15180","Brownsville-Harlingen, TX (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,6,"(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),38,41,29,28,32,36
+"15180","Brownsville-Harlingen, TX (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),18,16,18,27,28,31
+"15180","Brownsville-Harlingen, TX (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),20,16,17,16,19,25
+"15180","Brownsville-Harlingen, TX (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),29,35,31,31,30,29
+"15180","Brownsville-Harlingen, TX (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,6,6,4,3,4
+"15180","Brownsville-Harlingen, TX (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,9,9,11,11,9
+"15180","Brownsville-Harlingen, TX (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),304,267,185,158,146,"(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),85,82,81,86,80,80
+"15180","Brownsville-Harlingen, TX (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",3
+"15180","Brownsville-Harlingen, TX (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),11,12,12,12,9,8
+"15180","Brownsville-Harlingen, TX (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,4,4,4,4,4
+"15180","Brownsville-Harlingen, TX (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,2,3,4,2,2
+"15180","Brownsville-Harlingen, TX (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),12,17,14,17,19,23
+"15180","Brownsville-Harlingen, TX (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),18,14,19,21,22,20
+"15180","Brownsville-Harlingen, TX (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),234,248,243,249,231,225
+"15180","Brownsville-Harlingen, TX (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),501,533,571,572,626,680
+"15180","Brownsville-Harlingen, TX (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),205,207,201,217,228,246
+"15180","Brownsville-Harlingen, TX (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,7,9,11,13,14
+"15180","Brownsville-Harlingen, TX (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),14,14,14,"(D)","(D)",15
+"15180","Brownsville-Harlingen, TX (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),80,74,67,74,89,92
+"15180","Brownsville-Harlingen, TX (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),16,7,6,6,6,6
+"15180","Brownsville-Harlingen, TX (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),19,0,0,0,0,0
+"15180","Brownsville-Harlingen, TX (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",83,"(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),19,24,29,32,27,22
+"15180","Brownsville-Harlingen, TX (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),117,120,131,144,146,187
+"15180","Brownsville-Harlingen, TX (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17,19,20,22,"(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",4,3,4,3,3
+"15180","Brownsville-Harlingen, TX (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),98,94,105,116,116,152
+"15180","Brownsville-Harlingen, TX (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",3,3,3,"(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),169,191,211,207,204,234
+"15180","Brownsville-Harlingen, TX (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),105,128,144,144,153,177
+"15180","Brownsville-Harlingen, TX (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,"(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),51,46,49,45,33,36
+"15180","Brownsville-Harlingen, TX (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,"(D)","(D)","(D)","(D)","(D)"
+"15180","Brownsville-Harlingen, TX (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),346,265,273,268,331,351
+"15180","Brownsville-Harlingen, TX (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),277,164,157,148,208,236
+"15180","Brownsville-Harlingen, TX (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),69,102,117,122,125,117
+"15180","Brownsville-Harlingen, TX (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),138,135,150,178,181,167
+"15180","Brownsville-Harlingen, TX (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,13,17,12,17,20
+"15180","Brownsville-Harlingen, TX (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),114,145,162,160,163,166
+"15180","Brownsville-Harlingen, TX (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),103,139,156,154,146,150
+"15180","Brownsville-Harlingen, TX (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),11,5,6,6,17,15
+"15180","Brownsville-Harlingen, TX (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),25,27,27,25,25,24
+"15180","Brownsville-Harlingen, TX (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),636,717,769,837,780,824
+"15180","Brownsville-Harlingen, TX (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),361,334,365,385,398,446
+"15180","Brownsville-Harlingen, TX (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),229,312,327,370,308,302
+"15180","Brownsville-Harlingen, TX (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),45,69,76,80,77,82
+"15180","Brownsville-Harlingen, TX (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),45,43,40,37,37,40
+"15180","Brownsville-Harlingen, TX (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,13,12,10,10,10
+"15180","Brownsville-Harlingen, TX (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),39,30,28,27,27,30
+"15180","Brownsville-Harlingen, TX (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),200,217,213,214,205,215
+"15180","Brownsville-Harlingen, TX (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),50,64,60,54,52,54
+"15180","Brownsville-Harlingen, TX (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),151,153,153,160,153,160
+"15180","Brownsville-Harlingen, TX (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),176,182,191,192,184,181
+"15180","Brownsville-Harlingen, TX (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1163,1201,1201,1206,1231,1254
+"15180","Brownsville-Harlingen, TX (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),190,190,196,198,204,195
+"15180","Brownsville-Harlingen, TX (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),22,25,32,35,33,29
+"15180","Brownsville-Harlingen, TX (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),951,986,973,972,994,1031
+"15180","Brownsville-Harlingen, TX (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),124,131,173,148,150,152
+"15180","Brownsville-Harlingen, TX (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),736,780,815,821,855,901
+"15180","Brownsville-Harlingen, TX (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),242,250,250,278,288,302
+"15180","Brownsville-Harlingen, TX (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),515,456,484,475,536,586
+"15180","Brownsville-Harlingen, TX (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),262,293,329,349,362,354
+"15180","Brownsville-Harlingen, TX (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),661,743,796,862,805,848
+"15180","Brownsville-Harlingen, TX (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),245,260,252,251,243,255
+"15180","Brownsville-Harlingen, TX (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",96,106
+"15180","Brownsville-Harlingen, TX (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),873,880,789,743,773,812
+"15180","Brownsville-Harlingen, TX (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3006,3137,3301,3428,3470,3660
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"15180","Brownsville-Harlingen, TX (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),14710,14892,14773,14708,14698,15080
+"15180","Brownsville-Harlingen, TX (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"15180","Brownsville-Harlingen, TX (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

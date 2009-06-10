@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),5517,6568,7424,8153,9039,9357
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),3698,4449,5175,5743,6555,6740
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",7,"(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),7,3,6,2,3,3
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",4,"(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",8,"(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(L)","(L)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),26,28,33,39,44,53
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),234,246,298,359,432,485
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),153,184,215,276,329,348
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),139,170,"(D)",252,299,315
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),3,2,"(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),7,8,7,12,17,19
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(L)","(L)","(L)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),6,7,7,8,11,11
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),6,5,6,5,5,"(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),31,29,31,31,33,35
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),2,2,"(D)",2,3,3
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),10,10,10,11,11,10
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),14,14,"(D)",24,30,33
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",1,2,"(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),1,1,1,1,1,1
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",1,"(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),4,4,6,6,5,4
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),6,7,7,9,13,18
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),117,118,135,162,134,139
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),473,493,538,578,593,585
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),65,52,61,65,65,72
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),7,8,12,12,14,18
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),1,1,1,1,1,1
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),1,"(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),12,12,14,12,13,13
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",3,"(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),42,26,28,30,"(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",3,2
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),171,238,296,279,333,337
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)",89,118,116,137,143
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),1,2,"(D)","(D)",5,4
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),107,121,141,113,"(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",26,"(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),181,218,264,288,354,425
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),131,162,193,207,273,326
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",17,20,22,27
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),34,41,53,61,57,71
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",1,1,1,1
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),1168,1642,1955,2120,2518,2405
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),1098,1600,1909,2046,2450,2319
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),70,42,47,74,68,86
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),296,340,373,420,529,575
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),25,24,25,34,35,33
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),156,164,216,239,240,276
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),140,153,203,224,221,256
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),16,11,13,16,18,20
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),7,10,12,24,31,29
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),270,286,302,336,357,371
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),143,154,160,168,185,200
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),103,110,117,139,143,143
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),24,22,24,29,29,28
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),28,36,36,41,39,47
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),7,6,6,7,5,7
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),21,30,30,35,35,40
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),186,216,245,294,317,344
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),31,38,39,49,54,42
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),155,178,206,245,263,302
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),129,143,158,176,192,199
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),1819,2120,2250,2410,2483,2617
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),405,452,491,527,543,590
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),1054,1301,1368,1463,1489,1541
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),361,367,391,420,452,486
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),13,11,14,11,14,17
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),591,611,672,740,727,724
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),91,80,94,104,109,125
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),1349,1860,2220,2408,2872,2830
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),477,527,614,694,804,885
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),276,295,314,360,388,400
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),214,252,281,335,356,391
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),165,"(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),394,435,522,641,771,846
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),3303,4013,4652,5102,5785,5894
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.352,125.002,132.746,142.001,141.979
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,117.192,133.997,145.475,162.168,161.976
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,54.303,88.017,22.601,36.875,39.260
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,47.529,65.387,72.887,231.942,256.634
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.868,130.301,151.866,160.326,171.842
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.329,116.049,128.736,141.097,143.773
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,121.727,143.135,184.671,217.716,225.903
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,123.656,"(D)",184.904,216.785,224.530
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,84.187,"(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.488,99.292,150.378,204.490,203.558
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.869,110.262,132.207,161.158,167.211
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,81.015,90.437,81.460,76.840,"(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.041,129.719,150.814,182.138,220.659
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.986,"(D)",124.934,180.551,156.154
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.079,105.279,115.704,110.981,105.651
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.085,"(D)",182.569,227.753,240.476
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,135.369,141.379,140.004,156.471,134.687
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.812,148.225,148.920,124.108,117.514
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,165.941,190.786,259.335,230.607,220.746
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.695,111.470,147.009,213.229,258.918
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.281,112.836,128.497,102.571,102.568
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.291,110.936,118.463,123.174,122.311
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,78.925,91.467,97.591,99.776,106.377
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,123.840,189.675,228.129,288.533,352.021
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.926,137.796,134.913,118.795,149.863
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.314,111.669,95.902,104.771,101.281
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,61.149,64.230,67.949,"(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,140.797,178.570,174.223,213.703,220.005
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,126.199,"(D)","(D)",289.323,233.496
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.593,136.725,113.093,"(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.629,136.783,144.019,172.860,201.384
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,117.767,137.355,143.353,184.848,211.980
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.613,138.986,148.115,135.299,165.845
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,135.973,157.503,166.889,193.760,180.123
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,140.646,163.272,171.053,200.403,184.605
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,60.667,64.475,99.649,87.082,107.512
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.755,124.285,140.870,173.190,184.710
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.859,96.108,116.530,106.935,95.920
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.073,134.290,144.026,139.288,153.334
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.611,141.147,151.156,143.662,158.941
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,63.422,76.029,83.360,101.281,104.859
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,138.546,165.463,316.070,378.067,336.188
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.507,105.565,114.063,117.906,119.730
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.868,108.121,110.747,119.686,127.765
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.625,103.093,117.195,115.092,110.822
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.494,101.175,119.166,120.611,114.216
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,123.485,121.380,136.899,126.764,147.152
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,81.700,80.979,87.515,58.227,83.077
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,136.880,134.329,152.763,149.152,167.823
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.272,124.949,145.633,151.958,158.352
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,123.867,124.502,149.158,157.823,119.752
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.854,124.969,144.885,150.749,165.842
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.557,113.623,122.943,126.891,125.340
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.704,107.654,108.567,104.730,104.996
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.878,108.005,108.198,106.974,111.669
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.793,110.244,110.774,103.837,101.711
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.867,99.754,102.742,105.982,109.077
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,85.540,99.336,69.259,89.194,100.374
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.894,111.309,120.473,118.777,118.100
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.401,102.310,112.701,116.673,124.664
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,133.232,154.712,163.807,190.951,183.056
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.260,126.122,140.654,157.923,168.870
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.376,107.020,119.080,124.413,125.081
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.861,124.485,144.495,148.681,156.876
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.902,126.162,147.886,167.848,172.630
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,118.299,134.930,145.159,161.439,160.597
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5517,6309,6896,7324,7834,7833
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3698,4333,4955,5379,5996,5989
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",6,"(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,4,6,1,2,3
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",4,"(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",5,"(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(L)","(L)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),26,29,33,39,41,44
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),234,234,271,301,330,336
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),153,186,218,282,332,345
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),139,172,"(D)",257,301,312
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3,3,"(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,8,7,11,15,15
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(L)","(L)","(L)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,7,7,8,10,10
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,5,6,5,5,"(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),31,32,40,47,56,68
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,2,"(D)",2,3,3
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,9,10,11,11,10
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),14,14,"(D)",25,31,32
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",1,2,"(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,1,1,1,1
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",1,"(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,4,6,6,5,4
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,7,7,9,13,16
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),117,118,132,151,120,120
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),473,484,525,561,583,579
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),65,52,60,64,65,70
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,9,14,17,21,26
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,1,1,1,1
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,"(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),12,12,13,11,12,12
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",3,"(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),42,25,27,28,"(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",3,2
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),171,240,305,298,365,376
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",89,121,124,147,152
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,2,"(D)","(D)",4,3
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),107,124,147,121,"(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",26,"(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),181,210,248,261,313,365
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),131,154,180,188,242,278
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",19,22,25,31
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),34,40,48,51,47,57
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",1,1,1,1
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1168,1588,1840,1949,2263,2104
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1098,1545,1793,1878,2201,2027
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),70,42,45,69,61,75
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),296,333,368,417,512,546
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),25,24,24,29,27,24
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),156,160,210,225,218,240
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),140,149,198,212,201,223
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),16,10,12,14,17,17
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,9,11,21,25,22
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),270,276,285,308,318,323
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),143,152,155,159,172,183
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),103,103,106,120,118,114
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),24,21,24,28,29,27
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),28,35,34,38,35,41
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,6,5,6,4,6
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),21,29,28,32,32,36
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),186,207,232,270,282,294
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),31,38,38,46,48,37
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),155,169,194,225,234,257
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),129,138,147,159,164,162
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1819,1978,1959,1975,1906,1910
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),405,424,437,438,433,452
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1054,1199,1162,1168,1094,1072
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),361,353,360,371,382,394
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,11,13,9,12,13
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),591,602,657,712,701,697
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),91,80,93,103,106,113
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1349,1797,2087,2210,2576,2470
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),477,517,602,671,754,806
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),276,286,296,329,344,345
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),214,241,266,309,318,335
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),165,"(D)","(D)","(D)","(D)","(D)"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),394,426,498,583,662,681
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3303,3908,4457,4795,5333,5305
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),32083,35864,38611,40191,42708,42805
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"23020","Fort Walton Beach-Crestview-Destin, FL (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce
