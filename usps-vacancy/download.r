@@ -1,3 +1,5 @@
+dir.create("original")
+
 get_dbf <- function(filenum, name) {
   download.file(
     paste("http://www.huduser.org/datasets/usps/downloads.odb?file=", filenum, sep = ""),
