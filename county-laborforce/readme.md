@@ -9,6 +9,7 @@ Cleaned data contains labor force information:
 * unemployment rate
 
 Data is broken down by:
+
 * Year (00-08)
 * State
 * County
