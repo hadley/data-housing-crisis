@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"33660","Mobile, AL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),10496,10687,11155,11810,12706,13892
+"33660","Mobile, AL (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),9126,9219,9596,10149,10966,12091
+"33660","Mobile, AL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),67,71,71,76,62,77
+"33660","Mobile, AL (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),23,32,30,35,31,44
+"33660","Mobile, AL (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),44,40,41,41,31,33
+"33660","Mobile, AL (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),163,150,241,212,287,272
+"33660","Mobile, AL (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),134,124,212,187,259,"(D)"
+"33660","Mobile, AL (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),5,2,2,2,3,"(D)"
+"33660","Mobile, AL (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),24,25,28,24,25,49
+"33660","Mobile, AL (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)",249,272,"(D)",228,255
+"33660","Mobile, AL (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),659,648,625,655,870,919
+"33660","Mobile, AL (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1460,1332,1407,1557,1565,1704
+"33660","Mobile, AL (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),591,605,"(D)","(D)",727,847
+"33660","Mobile, AL (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),69,63,72,94,91,103
+"33660","Mobile, AL (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),59,65,61,66,65,78
+"33660","Mobile, AL (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",89,108
+"33660","Mobile, AL (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),121,114,106,110,113,105
+"33660","Mobile, AL (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),31,29,19,30,44,73
+"33660","Mobile, AL (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),50,48,37,46,43,42
+"33660","Mobile, AL (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),23,27,20,10,16,21
+"33660","Mobile, AL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",8,8,"(D)",6
+"33660","Mobile, AL (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",138,171,"(D)",281
+"33660","Mobile, AL (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),21,22,21,21,20,22
+"33660","Mobile, AL (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),8,8,5,6,8,8
+"33660","Mobile, AL (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),869,727,"(D)","(D)",837,858
+"33660","Mobile, AL (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)",3,"(D)","(D)","(D)",3
+"33660","Mobile, AL (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),292,152,131,159,153,146
+"33660","Mobile, AL (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),11,12,15,11,10,13
+"33660","Mobile, AL (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),13,18,24,41,"(D)",30
+"33660","Mobile, AL (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),453,433,605,611,535,568
+"33660","Mobile, AL (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),21,17,13,13,14,18
+"33660","Mobile, AL (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),710,739,771,845,915,953
+"33660","Mobile, AL (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),945,963,977,1015,1119,1191
+"33660","Mobile, AL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),"(D)",517,509,"(D)",578,653
+"33660","Mobile, AL (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),6,8,11,11,10,"(D)"
+"33660","Mobile, AL (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),57,61,63,70,"(D)","(D)"
+"33660","Mobile, AL (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),21,19,37,41,34,38
+"33660","Mobile, AL (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),178,179,170,179,198,211
+"33660","Mobile, AL (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),4,4,5,7,8,9
+"33660","Mobile, AL (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),27,35,27,31,24,35
+"33660","Mobile, AL (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)",187,174,"(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),22,23,22,28,35,47
+"33660","Mobile, AL (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),316,287,272,298,349,394
+"33660","Mobile, AL (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),4,4,4,4,5,6
+"33660","Mobile, AL (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),257,218,200,214,252,291
+"33660","Mobile, AL (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),492,499,529,552,746,1075
+"33660","Mobile, AL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),275,289,320,331,372,424
+"33660","Mobile, AL (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),41,31,34,36,43,47
+"33660","Mobile, AL (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),175,179,175,184,330,602
+"33660","Mobile, AL (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),1,"(L)",1,"(L)",1,"(L)"
+"33660","Mobile, AL (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),1082,1156,1199,1308,1243,1348
+"33660","Mobile, AL (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),559,600,614,630,671,735
+"33660","Mobile, AL (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),29,27,23,20,27,31
+"33660","Mobile, AL (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),363,386,393,395,433,470
+"33660","Mobile, AL (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),320,348,353,353,391,420
+"33660","Mobile, AL (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),42,38,39,42,42,50
+"33660","Mobile, AL (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),64,70,73,82,89,92
+"33660","Mobile, AL (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),800,857,929,987,1022,1105
+"33660","Mobile, AL (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),448,476,531,536,579,632
+"33660","Mobile, AL (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),284,308,325,379,367,390
+"33660","Mobile, AL (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),69,73,73,71,77,83
+"33660","Mobile, AL (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),46,47,46,46,46,51
+"33660","Mobile, AL (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),23,17,16,17,16,17
+"33660","Mobile, AL (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),23,29,30,30,29,33
+"33660","Mobile, AL (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),263,270,283,296,324,349
+"33660","Mobile, AL (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),47,45,43,46,52,54
+"33660","Mobile, AL (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),216,225,240,250,272,295
+"33660","Mobile, AL (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),342,349,362,362,393,416
+"33660","Mobile, AL (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),1371,1468,1558,1661,1740,1801
+"33660","Mobile, AL (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),198,236,247,263,272,279
+"33660","Mobile, AL (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),99,118,144,174,179,179
+"33660","Mobile, AL (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),1075,1114,1167,1223,1289,1343
+"33660","Mobile, AL (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),230,222,312,288,349,349
+"33660","Mobile, AL (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),1655,1703,1749,1860,2033,2144
+"33660","Mobile, AL (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),765,766,781,812,806,908
+"33660","Mobile, AL (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),1574,1655,1728,1860,1989,2423
+"33660","Mobile, AL (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),951,1013,1030,1045,1131,1236
+"33660","Mobile, AL (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),865,927,1002,1068,1111,1197
+"33660","Mobile, AL (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),309,317,329,342,369,399
+"33660","Mobile, AL (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),179,214,228,255,284,298
+"33660","Mobile, AL (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),2305,2163,2302,2460,2753,2940
+"33660","Mobile, AL (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),6821,7056,7294,7689,8213,9151
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"33660","Mobile, AL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.691,101.011,103.226,106.752,112.725
+"33660","Mobile, AL (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.290,100.645,102.943,107.031,114.154
+"33660","Mobile, AL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.866,103.592,100.826,89.950,112.661
+"33660","Mobile, AL (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,151.347,122.486,121.529,129.041,195.089
+"33660","Mobile, AL (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.896,94.261,90.367,68.580,69.018
+"33660","Mobile, AL (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.886,109.133,78.702,75.458,67.236
+"33660","Mobile, AL (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.390,122.684,85.983,83.495,"(D)"
+"33660","Mobile, AL (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,34.991,32.297,37.919,44.584,"(D)"
+"33660","Mobile, AL (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,70.372,67.810,58.817,49.252,74.025
+"33660","Mobile, AL (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.870,86.115,83.351,100.772,96.578
+"33660","Mobile, AL (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.995,95.728,103.259,98.413,102.720
+"33660","Mobile, AL (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.431,"(D)","(D)",115.010,129.478
+"33660","Mobile, AL (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.853,98.959,112.404,110.142,131.360
+"33660","Mobile, AL (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.289,101.826,108.921,99.827,105.075
+"33660","Mobile, AL (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.056,88.258,89.623,87.790,80.910
+"33660","Mobile, AL (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.579,60.763,100.438,142.277,235.779
+"33660","Mobile, AL (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.074,96.914,135.861,144.598,162.915
+"33660","Mobile, AL (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,118.136,92.032,45.442,70.964,86.340
+"33660","Mobile, AL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.897,100.829,104.248,96.682,101.498
+"33660","Mobile, AL (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.357,65.311,75.204,104.102,102.773
+"33660","Mobile, AL (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,84.860,"(D)","(D)",87.247,84.898
+"33660","Mobile, AL (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,52.711,46.784,58.226,55.595,50.236
+"33660","Mobile, AL (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.711,139.694,103.167,95.481,117.096
+"33660","Mobile, AL (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,234.935,198.887,304.292,"(D)",118.375
+"33660","Mobile, AL (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.959,129.637,127.241,103.766,104.260
+"33660","Mobile, AL (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,83.375,64.098,65.428,69.807,79.418
+"33660","Mobile, AL (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.716,106.787,110.742,115.723,116.466
+"33660","Mobile, AL (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.079,100.991,104.153,116.403,124.713
+"33660","Mobile, AL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,149.801,196.491,236.610,251.378,"(D)"
+"33660","Mobile, AL (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.002,104.854,110.424,"(D)","(D)"
+"33660","Mobile, AL (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,79.970,120.649,138.459,118.193,131.019
+"33660","Mobile, AL (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.864,91.518,93.501,101.220,104.665
+"33660","Mobile, AL (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.890,95.389,152.980,152.648,166.223
+"33660","Mobile, AL (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,121.342,103.622,128.709,123.714,145.345
+"33660","Mobile, AL (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.363,98.211,119.759,147.798,197.665
+"33660","Mobile, AL (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.357,89.074,100.714,123.510,142.985
+"33660","Mobile, AL (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.823,95.511,102.103,123.218,149.304
+"33660","Mobile, AL (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.003,80.741,89.041,111.537,133.143
+"33660","Mobile, AL (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.807,100.303,100.515,132.510,186.719
+"33660","Mobile, AL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.991,108.505,109.519,120.281,131.608
+"33660","Mobile, AL (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,79.766,91.616,97.826,118.213,135.156
+"33660","Mobile, AL (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.869,90.028,88.009,152.490,275.257
+"33660","Mobile, AL (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,29.964,46.149,36.422,61.845,42.585
+"33660","Mobile, AL (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.785,104.531,111.267,103.035,108.919
+"33660","Mobile, AL (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.583,106.741,108.985,112.618,120.074
+"33660","Mobile, AL (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.405,76.296,59.065,71.103,77.293
+"33660","Mobile, AL (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.783,105.277,102.180,108.430,112.407
+"33660","Mobile, AL (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.105,107.691,104.357,111.001,114.067
+"33660","Mobile, AL (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,86.304,87.116,85.739,89.094,99.805
+"33660","Mobile, AL (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.744,102.266,108.417,111.711,110.272
+"33660","Mobile, AL (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.775,109.765,113.060,114.058,120.615
+"33660","Mobile, AL (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.685,114.723,113.225,119.864,129.406
+"33660","Mobile, AL (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.079,103.605,115.161,106.697,108.961
+"33660","Mobile, AL (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.029,104.103,101.471,109.413,116.702
+"33660","Mobile, AL (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.521,94.307,92.884,88.911,94.926
+"33660","Mobile, AL (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,73.761,64.709,65.907,61.646,62.991
+"33660","Mobile, AL (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,122.972,123.595,119.521,115.906,126.736
+"33660","Mobile, AL (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.138,102.158,103.726,109.785,113.498
+"33660","Mobile, AL (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.995,90.753,90.847,99.059,99.376
+"33660","Mobile, AL (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.590,104.518,106.395,111.986,116.426
+"33660","Mobile, AL (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.921,98.524,95.701,98.144,99.052
+"33660","Mobile, AL (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.325,103.422,105.116,105.155,104.050
+"33660","Mobile, AL (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.080,111.413,110.756,109.892,108.314
+"33660","Mobile, AL (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.875,124.425,141.160,133.683,126.239
+"33660","Mobile, AL (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.710,99.927,100.566,101.561,101.218
+"33660","Mobile, AL (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.844,107.933,83.772,79.075,75.431
+"33660","Mobile, AL (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.633,103.466,106.970,115.974,120.826
+"33660","Mobile, AL (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.861,99.252,100.792,97.266,105.063
+"33660","Mobile, AL (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.911,103.209,107.879,112.452,133.712
+"33660","Mobile, AL (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.906,105.249,104.802,109.760,115.835
+"33660","Mobile, AL (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.623,109.192,112.711,113.893,119.794
+"33660","Mobile, AL (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.195,100.995,102.118,106.684,110.738
+"33660","Mobile, AL (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,123.960,138.022,162.456,185.303,196.653
+"33660","Mobile, AL (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.788,94.057,94.707,96.913,97.437
+"33660","Mobile, AL (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.131,102.852,105.728,110.503,120.164
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"33660","Mobile, AL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10496,10464,10603,10835,11205,11832
+"33660","Mobile, AL (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9126,9061,9185,9394,9767,10417
+"33660","Mobile, AL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),67,75,70,68,60,76
+"33660","Mobile, AL (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,35,28,28,30,45
+"33660","Mobile, AL (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),44,40,42,40,30,30
+"33660","Mobile, AL (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),163,166,178,128,123,109
+"33660","Mobile, AL (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),134,151,164,115,112,"(D)"
+"33660","Mobile, AL (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,2,2,2,2,"(D)"
+"33660","Mobile, AL (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),24,17,16,14,12,18
+"33660","Mobile, AL (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",254,279,"(D)",213,212
+"33660","Mobile, AL (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),659,619,568,549,664,637
+"33660","Mobile, AL (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1460,1343,1398,1508,1437,1500
+"33660","Mobile, AL (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),591,606,"(D)","(D)",680,766
+"33660","Mobile, AL (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),69,64,69,78,77,91
+"33660","Mobile, AL (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),59,64,60,64,59,62
+"33660","Mobile, AL (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",66,67
+"33660","Mobile, AL (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),121,113,106,108,106,98
+"33660","Mobile, AL (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),31,28,19,31,44,73
+"33660","Mobile, AL (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),50,54,49,68,73,82
+"33660","Mobile, AL (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,27,21,11,16,20
+"33660","Mobile, AL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",9,10,"(D)",9
+"33660","Mobile, AL (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",130,157,"(D)",242
+"33660","Mobile, AL (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),21,22,21,21,20,21
+"33660","Mobile, AL (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,8,5,6,8,8
+"33660","Mobile, AL (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),869,737,"(D)","(D)",758,738
+"33660","Mobile, AL (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",3,"(D)","(D)","(D)",3
+"33660","Mobile, AL (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),292,154,137,170,162,147
+"33660","Mobile, AL (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),11,12,15,11,10,13
+"33660","Mobile, AL (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,31,26,40,"(D)",16
+"33660","Mobile, AL (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),453,435,587,576,470,472
+"33660","Mobile, AL (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),21,17,13,14,14,16
+"33660","Mobile, AL (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),710,737,758,786,822,827
+"33660","Mobile, AL (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),945,946,955,985,1100,1179
+"33660","Mobile, AL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",503,482,"(D)",529,590
+"33660","Mobile, AL (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,10,13,15,16,"(D)"
+"33660","Mobile, AL (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),57,59,60,63,"(D)","(D)"
+"33660","Mobile, AL (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),21,16,25,28,24,27
+"33660","Mobile, AL (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),178,174,163,166,180,186
+"33660","Mobile, AL (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,4,4,7,7,7
+"33660","Mobile, AL (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),27,32,28,34,33,39
+"33660","Mobile, AL (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",185,167,"(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),22,23,22,26,33,44
+"33660","Mobile, AL (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),316,292,281,318,390,452
+"33660","Mobile, AL (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,4,4,4,5,6
+"33660","Mobile, AL (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),257,224,208,229,287,342
+"33660","Mobile, AL (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),492,481,493,494,652,919
+"33660","Mobile, AL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),275,275,298,301,331,362
+"33660","Mobile, AL (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),41,33,37,40,48,55
+"33660","Mobile, AL (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),175,173,158,154,267,482
+"33660","Mobile, AL (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,"(L)",1,"(L)",1,"(L)"
+"33660","Mobile, AL (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1082,1123,1131,1204,1115,1178
+"33660","Mobile, AL (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"33660","Mobile, AL (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),559,584,596,609,629,671
+"33660","Mobile, AL (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),29,27,22,17,21,23
+"33660","Mobile, AL (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),363,376,382,371,393,408
+"33660","Mobile, AL (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),320,340,345,334,356,366
+"33660","Mobile, AL (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),42,36,37,36,38,42
+"33660","Mobile, AL (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),64,65,66,69,72,71
+"33660","Mobile, AL (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),800,831,879,905,913,966
+"33660","Mobile, AL (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),448,469,514,507,537,579
+"33660","Mobile, AL (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),284,290,294,327,303,309
+"33660","Mobile, AL (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),69,72,72,70,75,80
+"33660","Mobile, AL (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),46,45,43,43,41,44
+"33660","Mobile, AL (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,17,15,15,14,14
+"33660","Mobile, AL (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,28,29,28,27,29
+"33660","Mobile, AL (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),263,258,268,273,288,298
+"33660","Mobile, AL (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),47,45,42,42,46,46
+"33660","Mobile, AL (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),216,213,226,230,242,252
+"33660","Mobile, AL (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),342,335,337,327,336,339
+"33660","Mobile, AL (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1371,1402,1417,1441,1441,1426
+"33660","Mobile, AL (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),198,221,220,219,217,214
+"33660","Mobile, AL (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),99,109,123,139,132,124
+"33660","Mobile, AL (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1075,1071,1074,1081,1091,1088
+"33660","Mobile, AL (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),230,241,248,193,182,173
+"33660","Mobile, AL (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1655,1682,1713,1771,1920,2000
+"33660","Mobile, AL (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),765,757,760,771,744,804
+"33660","Mobile, AL (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1574,1604,1624,1698,1770,2104
+"33660","Mobile, AL (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),951,988,1001,996,1044,1101
+"33660","Mobile, AL (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),865,896,944,974,985,1036
+"33660","Mobile, AL (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),309,303,312,315,329,342
+"33660","Mobile, AL (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),179,222,247,291,332,352
+"33660","Mobile, AL (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2305,2162,2168,2183,2234,2246
+"33660","Mobile, AL (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6821,6898,7015,7211,7537,8196
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"33660","Mobile, AL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),26236,26264,26660,27256,28129,29426
+"33660","Mobile, AL (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"33660","Mobile, AL (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

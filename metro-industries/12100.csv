@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"12100","Atlantic City-Hammonton, NJ (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),10434,10925,11362,11809,12603,13252
+"12100","Atlantic City-Hammonton, NJ (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),9226,9605,9946,10304,11049,11592
+"12100","Atlantic City-Hammonton, NJ (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),41,48,48,46,45,54
+"12100","Atlantic City-Hammonton, NJ (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(L)",0,0,0,0,0
+"12100","Atlantic City-Hammonton, NJ (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),0,"(L)","(L)","(L)","(L)","(L)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),257,218,236,262,263,261
+"12100","Atlantic City-Hammonton, NJ (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),"(D)",646,664,704,740,823
+"12100","Atlantic City-Hammonton, NJ (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),328,332,343,320,306,298
+"12100","Atlantic City-Hammonton, NJ (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)",200,210,201,200,190
+"12100","Atlantic City-Hammonton, NJ (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",43,43,46
+"12100","Atlantic City-Hammonton, NJ (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),88,92,97,87,81,63
+"12100","Atlantic City-Hammonton, NJ (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,1,1,2,2,3
+"12100","Atlantic City-Hammonton, NJ (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),11,11,10,9,9,11
+"12100","Atlantic City-Hammonton, NJ (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),13,"(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),16,"(D)","(D)","(D)",18,"(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),17,"(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),5,5,4,4,3,2
+"12100","Atlantic City-Hammonton, NJ (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",13,"(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)",132,133,119,106,108
+"12100","Atlantic City-Hammonton, NJ (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",27,25
+"12100","Atlantic City-Hammonton, NJ (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),8,12,10,11,11,11
+"12100","Atlantic City-Hammonton, NJ (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),29,26,26,29,22,26
+"12100","Atlantic City-Hammonton, NJ (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),266,268,246,329,398,351
+"12100","Atlantic City-Hammonton, NJ (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),838,911,957,944,968,1017
+"12100","Atlantic City-Hammonton, NJ (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),137,132,144,157,144,147
+"12100","Atlantic City-Hammonton, NJ (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)",15,21,17,12,12
+"12100","Atlantic City-Hammonton, NJ (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",9,7,7
+"12100","Atlantic City-Hammonton, NJ (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),21,21,"(D)",21,24,26
+"12100","Atlantic City-Hammonton, NJ (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),37,40,46,58,48,47
+"12100","Atlantic City-Hammonton, NJ (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"12100","Atlantic City-Hammonton, NJ (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),41,41,"(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),10,10,8,8,8,8
+"12100","Atlantic City-Hammonton, NJ (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),182,187,179,174,179,170
+"12100","Atlantic City-Hammonton, NJ (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),3,4,3,3,3,2
+"12100","Atlantic City-Hammonton, NJ (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),142,144,135,125,122,116
+"12100","Atlantic City-Hammonton, NJ (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),254,256,273,279,311,358
+"12100","Atlantic City-Hammonton, NJ (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),53,38,36,33,43,47
+"12100","Atlantic City-Hammonton, NJ (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)",78,"(D)",94,96,103
+"12100","Atlantic City-Hammonton, NJ (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),1091,1296,1412,1351,1668,1818
+"12100","Atlantic City-Hammonton, NJ (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),975,1194,1297,1225,1542,1685
+"12100","Atlantic City-Hammonton, NJ (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),116,101,115,126,126,133
+"12100","Atlantic City-Hammonton, NJ (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),467,458,454,492,517,550
+"12100","Atlantic City-Hammonton, NJ (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),61,43,41,78,128,81
+"12100","Atlantic City-Hammonton, NJ (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),160,168,194,185,195,220
+"12100","Atlantic City-Hammonton, NJ (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),152,"(D)",182,169,178,200
+"12100","Atlantic City-Hammonton, NJ (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),8,"(D)",12,15,17,19
+"12100","Atlantic City-Hammonton, NJ (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),38,44,48,49,51,53
+"12100","Atlantic City-Hammonton, NJ (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),703,769,837,907,972,1052
+"12100","Atlantic City-Hammonton, NJ (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),336,361,378,401,429,475
+"12100","Atlantic City-Hammonton, NJ (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),317,351,398,421,446,474
+"12100","Atlantic City-Hammonton, NJ (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),49,57,60,84,97,103
+"12100","Atlantic City-Hammonton, NJ (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),412,407,414,443,402,413
+"12100","Atlantic City-Hammonton, NJ (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),138,171,192,228,230,235
+"12100","Atlantic City-Hammonton, NJ (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),274,236,222,215,171,178
+"12100","Atlantic City-Hammonton, NJ (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),3176,3223,3246,3362,3529,3684
+"12100","Atlantic City-Hammonton, NJ (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),2926,2991,2987,3094,3211,3319
+"12100","Atlantic City-Hammonton, NJ (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),250,232,258,269,319,365
+"12100","Atlantic City-Hammonton, NJ (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),179,188,201,211,223,231
+"12100","Atlantic City-Hammonton, NJ (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),1209,1321,1416,1504,1554,1661
+"12100","Atlantic City-Hammonton, NJ (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),238,283,311,326,327,324
+"12100","Atlantic City-Hammonton, NJ (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),28,32,40,43,45,47
+"12100","Atlantic City-Hammonton, NJ (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),943,1005,1065,1135,1182,1289
+"12100","Atlantic City-Hammonton, NJ (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)",59,59,57,57,66
+"12100","Atlantic City-Hammonton, NJ (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),1104,1179,1203,1273,1366,1368
+"12100","Atlantic City-Hammonton, NJ (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),395,350,381,420,407,408
+"12100","Atlantic City-Hammonton, NJ (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),1345,1551,1686,1630,1979,2176
+"12100","Atlantic City-Hammonton, NJ (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),688,669,688,755,839,851
+"12100","Atlantic City-Hammonton, NJ (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),741,813,884,955,1022,1105
+"12100","Atlantic City-Hammonton, NJ (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),3588,3630,3659,3805,3931,4097
+"12100","Atlantic City-Hammonton, NJ (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),170,180,151,159,183,195
+"12100","Atlantic City-Hammonton, NJ (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),993,1027,1055,1070,1091,1176
+"12100","Atlantic City-Hammonton, NJ (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),8233,8577,8892,9234,9958,10416
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"12100","Atlantic City-Hammonton, NJ (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.665,104.420,104.447,107.540,109.363
+"12100","Atlantic City-Hammonton, NJ (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.426,104.094,103.931,107.626,109.362
+"12100","Atlantic City-Hammonton, NJ (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,128.947,111.350,88.957,105.637,134.255
+"12100","Atlantic City-Hammonton, NJ (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,0.000,0.000,0.000,0.000,0.000
+"12100","Atlantic City-Hammonton, NJ (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"12100","Atlantic City-Hammonton, NJ (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,86.099,94.136,101.196,95.465,84.522
+"12100","Atlantic City-Hammonton, NJ (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.243,105.635,96.390,88.340,83.044
+"12100","Atlantic City-Hammonton, NJ (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.374,109.605,95.296,82.703,56.687
+"12100","Atlantic City-Hammonton, NJ (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"12100","Atlantic City-Hammonton, NJ (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.140,92.174,83.092,78.396,95.138
+"12100","Atlantic City-Hammonton, NJ (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)",196.394,"(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,167.914,122.876,67.393,131.921,147.990
+"12100","Atlantic City-Hammonton, NJ (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.751,85.569,87.190,67.953,43.657
+"12100","Atlantic City-Hammonton, NJ (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,150.135,128.631,145.713,139.998,143.133
+"12100","Atlantic City-Hammonton, NJ (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.120,87.454,94.743,66.391,74.386
+"12100","Atlantic City-Hammonton, NJ (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.561,90.973,115.207,134.804,114.809
+"12100","Atlantic City-Hammonton, NJ (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.697,111.489,109.180,113.535,120.076
+"12100","Atlantic City-Hammonton, NJ (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.519,100.725,110.102,100.278,99.964
+"12100","Atlantic City-Hammonton, NJ (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.001,"(D)",90.333,101.736,106.227
+"12100","Atlantic City-Hammonton, NJ (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.946,116.672,143.712,115.796,109.492
+"12100","Atlantic City-Hammonton, NJ (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"12100","Atlantic City-Hammonton, NJ (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.274,"(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.958,85.108,72.871,81.660,79.337
+"12100","Atlantic City-Hammonton, NJ (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.461,101.789,102.177,109.462,106.332
+"12100","Atlantic City-Hammonton, NJ (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,136.501,111.993,107.830,108.154,75.688
+"12100","Atlantic City-Hammonton, NJ (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.104,98.232,93.999,97.620,96.307
+"12100","Atlantic City-Hammonton, NJ (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.887,102.069,100.105,109.172,122.988
+"12100","Atlantic City-Hammonton, NJ (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,74.413,75.400,69.407,89.751,104.152
+"12100","Atlantic City-Hammonton, NJ (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.092,121.920,113.941,137.292,145.675
+"12100","Atlantic City-Hammonton, NJ (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,118.268,125.012,115.433,142.096,151.080
+"12100","Atlantic City-Hammonton, NJ (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.847,95.428,101.144,96.577,99.898
+"12100","Atlantic City-Hammonton, NJ (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.992,95.023,102.769,104.730,108.591
+"12100","Atlantic City-Hammonton, NJ (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,69.840,64.494,108.155,159.923,95.852
+"12100","Atlantic City-Hammonton, NJ (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.737,118.417,108.946,111.185,119.799
+"12100","Atlantic City-Hammonton, NJ (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",117.190,105.696,106.780,115.056
+"12100","Atlantic City-Hammonton, NJ (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",141.592,169.186,192.909,207.817
+"12100","Atlantic City-Hammonton, NJ (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.233,112.779,109.134,107.684,106.091
+"12100","Atlantic City-Hammonton, NJ (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.505,111.802,117.233,122.128,128.962
+"12100","Atlantic City-Hammonton, NJ (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.841,108.731,112.857,118.244,129.506
+"12100","Atlantic City-Hammonton, NJ (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.894,113.588,114.395,116.027,118.527
+"12100","Atlantic City-Hammonton, NJ (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.836,120.214,167.894,193.619,201.916
+"12100","Atlantic City-Hammonton, NJ (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.536,94.551,98.138,86.056,85.400
+"12100","Atlantic City-Hammonton, NJ (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,119.340,129.546,147.444,142.472,139.956
+"12100","Atlantic City-Hammonton, NJ (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,83.524,76.833,73.005,57.017,57.355
+"12100","Atlantic City-Hammonton, NJ (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.798,100.254,98.725,98.900,100.298
+"12100","Atlantic City-Hammonton, NJ (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.929,100.532,98.725,97.634,98.197
+"12100","Atlantic City-Hammonton, NJ (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.927,96.869,98.486,113.333,124.431
+"12100","Atlantic City-Hammonton, NJ (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.861,104.619,106.790,106.556,104.986
+"12100","Atlantic City-Hammonton, NJ (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.460,106.852,108.250,107.065,109.498
+"12100","Atlantic City-Hammonton, NJ (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.513,116.235,113.725,109.367,104.224
+"12100","Atlantic City-Hammonton, NJ (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.934,122.512,124.390,119.231,117.570
+"12100","Atlantic City-Hammonton, NJ (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.551,103.957,106.378,106.177,110.783
+"12100","Atlantic City-Hammonton, NJ (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.229,106.588,110.756,118.969,118.571
+"12100","Atlantic City-Hammonton, NJ (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,89.403,96.422,104.307,97.147,89.736
+"12100","Atlantic City-Hammonton, NJ (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.847,118.177,111.334,131.974,141.387
+"12100","Atlantic City-Hammonton, NJ (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.255,97.770,104.909,112.080,109.739
+"12100","Atlantic City-Hammonton, NJ (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.699,111.850,116.791,121.336,127.694
+"12100","Atlantic City-Hammonton, NJ (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.187,99.591,98.665,97.414,98.575
+"12100","Atlantic City-Hammonton, NJ (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.083,94.535,103.472,120.995,128.996
+"12100","Atlantic City-Hammonton, NJ (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.201,100.191,95.033,90.680,90.691
+"12100","Atlantic City-Hammonton, NJ (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.454,104.570,105.036,109.781,111.749
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"12100","Atlantic City-Hammonton, NJ (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10434,10712,10895,10898,11221,11411
+"12100","Atlantic City-Hammonton, NJ (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9226,9450,9603,9588,9929,10089
+"12100","Atlantic City-Hammonton, NJ (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),41,53,46,37,44,55
+"12100","Atlantic City-Hammonton, NJ (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)",0,0,0,0,0
+"12100","Atlantic City-Hammonton, NJ (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,"(L)","(L)","(L)","(L)","(L)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),257,222,242,260,246,217
+"12100","Atlantic City-Hammonton, NJ (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",617,603,590,565,570
+"12100","Atlantic City-Hammonton, NJ (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),328,345,346,316,290,272
+"12100","Atlantic City-Hammonton, NJ (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",200,212,198,192,178
+"12100","Atlantic City-Hammonton, NJ (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",36,36,41
+"12100","Atlantic City-Hammonton, NJ (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),88,91,97,84,73,50
+"12100","Atlantic City-Hammonton, NJ (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,1,1,2,2,2
+"12100","Atlantic City-Hammonton, NJ (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),11,11,10,9,8,10
+"12100","Atlantic City-Hammonton, NJ (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,"(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),16,"(D)","(D)","(D)",31,"(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17,"(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,5,4,4,3,2
+"12100","Atlantic City-Hammonton, NJ (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",12,"(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",145,134,118,97,94
+"12100","Atlantic City-Hammonton, NJ (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",26,26
+"12100","Atlantic City-Hammonton, NJ (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,12,10,11,11,11
+"12100","Atlantic City-Hammonton, NJ (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),29,26,26,28,19,22
+"12100","Atlantic City-Hammonton, NJ (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),266,267,242,306,358,305
+"12100","Atlantic City-Hammonton, NJ (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),838,894,935,915,952,1007
+"12100","Atlantic City-Hammonton, NJ (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),137,131,138,151,138,137
+"12100","Atlantic City-Hammonton, NJ (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",17,23,23,18,18
+"12100","Atlantic City-Hammonton, NJ (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",6,5,5
+"12100","Atlantic City-Hammonton, NJ (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),21,20,"(D)",19,22,23
+"12100","Atlantic City-Hammonton, NJ (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),37,38,43,53,43,41
+"12100","Atlantic City-Hammonton, NJ (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"12100","Atlantic City-Hammonton, NJ (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),41,40,"(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,10,8,7,8,8
+"12100","Atlantic City-Hammonton, NJ (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),182,190,185,186,199,194
+"12100","Atlantic City-Hammonton, NJ (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3,3,3,3,3,2
+"12100","Atlantic City-Hammonton, NJ (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),142,148,140,134,139,137
+"12100","Atlantic City-Hammonton, NJ (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),254,249,260,255,278,313
+"12100","Atlantic City-Hammonton, NJ (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),53,39,40,37,48,55
+"12100","Atlantic City-Hammonton, NJ (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",76,"(D)",79,78,82
+"12100","Atlantic City-Hammonton, NJ (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"12100","Atlantic City-Hammonton, NJ (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1091,1256,1330,1243,1498,1589
+"12100","Atlantic City-Hammonton, NJ (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),975,1153,1219,1125,1385,1473
+"12100","Atlantic City-Hammonton, NJ (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),116,102,111,118,112,116
+"12100","Atlantic City-Hammonton, NJ (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),467,449,444,480,489,507
+"12100","Atlantic City-Hammonton, NJ (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),61,43,39,66,98,59
+"12100","Atlantic City-Hammonton, NJ (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),160,164,189,174,177,191
+"12100","Atlantic City-Hammonton, NJ (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),152,"(D)",178,160,162,175
+"12100","Atlantic City-Hammonton, NJ (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,"(D)",11,13,15,16
+"12100","Atlantic City-Hammonton, NJ (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),38,42,43,42,41,40
+"12100","Atlantic City-Hammonton, NJ (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),703,741,786,824,858,906
+"12100","Atlantic City-Hammonton, NJ (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),336,356,366,380,398,436
+"12100","Atlantic City-Hammonton, NJ (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),317,330,360,363,368,376
+"12100","Atlantic City-Hammonton, NJ (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),49,56,59,83,95,99
+"12100","Atlantic City-Hammonton, NJ (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),412,394,390,405,355,352
+"12100","Atlantic City-Hammonton, NJ (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),138,165,179,204,197,193
+"12100","Atlantic City-Hammonton, NJ (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),274,229,211,200,156,157
+"12100","Atlantic City-Hammonton, NJ (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3176,3201,3184,3135,3141,3185
+"12100","Atlantic City-Hammonton, NJ (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2926,2982,2941,2888,2856,2873
+"12100","Atlantic City-Hammonton, NJ (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),250,220,242,247,284,311
+"12100","Atlantic City-Hammonton, NJ (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),179,180,187,191,191,188
+"12100","Atlantic City-Hammonton, NJ (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1209,1262,1291,1308,1294,1323
+"12100","Atlantic City-Hammonton, NJ (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),238,266,277,271,261,248
+"12100","Atlantic City-Hammonton, NJ (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),28,30,34,34,33,32
+"12100","Atlantic City-Hammonton, NJ (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),943,967,980,1003,1001,1044
+"12100","Atlantic City-Hammonton, NJ (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",64,57,47,54,65
+"12100","Atlantic City-Hammonton, NJ (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1104,1162,1177,1223,1313,1309
+"12100","Atlantic City-Hammonton, NJ (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),395,353,381,412,383,354
+"12100","Atlantic City-Hammonton, NJ (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1345,1505,1590,1498,1775,1902
+"12100","Atlantic City-Hammonton, NJ (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),688,655,673,722,771,755
+"12100","Atlantic City-Hammonton, NJ (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),741,783,829,865,899,946
+"12100","Atlantic City-Hammonton, NJ (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3588,3595,3573,3540,3495,3537
+"12100","Atlantic City-Hammonton, NJ (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),170,184,161,176,206,219
+"12100","Atlantic City-Hammonton, NJ (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),993,1014,994,943,900,900
+"12100","Atlantic City-Hammonton, NJ (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8233,8435,8609,8648,9038,9200
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"12100","Atlantic City-Hammonton, NJ (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),40932,41470,41578,40913,41752,42276
+"12100","Atlantic City-Hammonton, NJ (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"12100","Atlantic City-Hammonton, NJ (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

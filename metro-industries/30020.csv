@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"30020","Lawton, OK (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),2750,2900,3109,3311,3448,3856
+"30020","Lawton, OK (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),1397,1505,1648,1748,1746,1837
+"30020","Lawton, OK (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),4,20,10,26,30,9
+"30020","Lawton, OK (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(L)",1,"(D)"
+"30020","Lawton, OK (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",3
+"30020","Lawton, OK (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),27,27,26,31,31,35
+"30020","Lawton, OK (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),72,76,80,75,85,89
+"30020","Lawton, OK (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),322,370,397,431,384,413
+"30020","Lawton, OK (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,"(L)","(L)","(L)","(L)","(L)"
+"30020","Lawton, OK (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),13,15,14,16,18,21
+"30020","Lawton, OK (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"30020","Lawton, OK (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),3,3,3,6,6,7
+"30020","Lawton, OK (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,"(D)"
+"30020","Lawton, OK (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"30020","Lawton, OK (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(L)","(L)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,"(L)","(L)","(L)","(L)",0
+"30020","Lawton, OK (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1,1,1,2,2,2
+"30020","Lawton, OK (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),22,23,25,"(D)","(D)",22
+"30020","Lawton, OK (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",1,1,1
+"30020","Lawton, OK (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",1,"(D)","(D)"
+"30020","Lawton, OK (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),1,1,1,2,2,4
+"30020","Lawton, OK (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"30020","Lawton, OK (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),31,32,50,40,40,43
+"30020","Lawton, OK (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),184,188,213,223,226,241
+"30020","Lawton, OK (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),58,61,63,68,71,79
+"30020","Lawton, OK (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),6,6,9,8,8,10
+"30020","Lawton, OK (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),0,"(L)","(L)","(L)","(L)","(L)"
+"30020","Lawton, OK (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),17,21,21,24,26,24
+"30020","Lawton, OK (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),1,1,1,1,2,1
+"30020","Lawton, OK (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),3,2,1,2,1,2
+"30020","Lawton, OK (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)",24,25,"(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),1,"(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),34,37,41,43,49,55
+"30020","Lawton, OK (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),7,7,8,8,8,9
+"30020","Lawton, OK (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),1,1,1,1,1,1
+"30020","Lawton, OK (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)",27,30,31,36,41
+"30020","Lawton, OK (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",2,2,2,3,4
+"30020","Lawton, OK (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),78,97,111,121,130,141
+"30020","Lawton, OK (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),51,61,65,73,82,89
+"30020","Lawton, OK (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),22,33,42,44,44,47
+"30020","Lawton, OK (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),172,166,168,162,186,197
+"30020","Lawton, OK (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),146,139,143,132,157,170
+"30020","Lawton, OK (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),26,28,25,30,29,27
+"30020","Lawton, OK (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),73,94,114,110,106,106
+"30020","Lawton, OK (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),3,3,4,4,5,5
+"30020","Lawton, OK (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),49,46,58,70,68,68
+"30020","Lawton, OK (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",58,69,67,67
+"30020","Lawton, OK (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",1,1,1,1
+"30020","Lawton, OK (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),8,9,9,10,9,12
+"30020","Lawton, OK (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),140,136,152,177,160,174
+"30020","Lawton, OK (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),85,83,91,110,98,105
+"30020","Lawton, OK (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),28,28,35,37,37,40
+"30020","Lawton, OK (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),27,25,26,29,26,30
+"30020","Lawton, OK (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),6,6,5,6,6,6
+"30020","Lawton, OK (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),1,1,1,1,1,1
+"30020","Lawton, OK (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),5,5,5,5,5,5
+"30020","Lawton, OK (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),63,63,68,77,78,84
+"30020","Lawton, OK (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),7,6,6,7,8,9
+"30020","Lawton, OK (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),56,57,62,70,70,75
+"30020","Lawton, OK (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),62,63,67,65,66,65
+"30020","Lawton, OK (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),1353,1395,1461,1563,1703,2019
+"30020","Lawton, OK (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),190,196,206,220,243,262
+"30020","Lawton, OK (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),805,823,876,938,1006,1254
+"30020","Lawton, OK (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),358,377,379,405,453,503
+"30020","Lawton, OK (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),15,30,23,37,44,24
+"30020","Lawton, OK (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),215,220,262,263,267,284
+"30020","Lawton, OK (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),85,88,89,98,101,114
+"30020","Lawton, OK (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),250,263,279,283,317,338
+"30020","Lawton, OK (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),125,143,176,184,179,179
+"30020","Lawton, OK (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),148,145,161,186,169,186
+"30020","Lawton, OK (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),69,69,73,83,84,90
+"30020","Lawton, OK (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),38,"(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),407,475,498,541,511,525
+"30020","Lawton, OK (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),989,1030,1151,1207,1234,1312
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"30020","Lawton, OK (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.004,104.351,107.341,107.177,114.410
+"30020","Lawton, OK (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.538,114.560,119.803,117.282,118.332
+"30020","Lawton, OK (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,538.090,228.414,511.431,703.836,212.956
+"30020","Lawton, OK (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.774,99.980,111.799,105.320,106.121
+"30020","Lawton, OK (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.411,101.433,87.442,90.712,86.363
+"30020","Lawton, OK (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.938,124.832,139.451,122.133,119.455
+"30020","Lawton, OK (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"30020","Lawton, OK (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.121,105.449,115.177,120.761,128.110
+"30020","Lawton, OK (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"30020","Lawton, OK (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,122.949,115.931,229.091,207.971,239.672
+"30020","Lawton, OK (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,"(D)"
+"30020","Lawton, OK (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"30020","Lawton, OK (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"30020","Lawton, OK (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.075,129.538,171.846,194.820,226.631
+"30020","Lawton, OK (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.159,108.100,"(D)","(D)",99.363
+"30020","Lawton, OK (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.004,56.785,133.983,137.858,295.685
+"30020","Lawton, OK (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"30020","Lawton, OK (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.271,157.798,119.278,117.071,119.018
+"30020","Lawton, OK (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.244,112.896,117.427,120.980,129.896
+"30020","Lawton, OK (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.510,105.153,111.498,114.055,125.737
+"30020","Lawton, OK (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.789,140.378,124.518,116.599,150.707
+"30020","Lawton, OK (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"30020","Lawton, OK (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,116.621,118.643,127.414,135.399,123.962
+"30020","Lawton, OK (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.618,60.703,71.760,117.549,89.185
+"30020","Lawton, OK (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,53.413,44.430,61.301,59.338,62.888
+"30020","Lawton, OK (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.741,123.433,134.686,161.779,186.100
+"30020","Lawton, OK (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.908,114.471,130.759,131.868,133.954
+"30020","Lawton, OK (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,125.674,139.571,150.382,134.923,122.630
+"30020","Lawton, OK (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,119.120,132.317,138.077,144.799,152.307
+"30020","Lawton, OK (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.501,119.974,130.549,144.061,150.143
+"30020","Lawton, OK (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,142.608,170.602,166.912,158.817,170.521
+"30020","Lawton, OK (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.812,92.041,86.571,97.015,99.963
+"30020","Lawton, OK (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.523,92.068,83.075,96.654,101.521
+"30020","Lawton, OK (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.982,91.721,106.489,99.254,91.462
+"30020","Lawton, OK (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,126.259,154.290,149.236,140.128,136.663
+"30020","Lawton, OK (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.529,123.352,112.875,122.602,107.114
+"30020","Lawton, OK (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.584,117.119,135.856,126.962,122.770
+"30020","Lawton, OK (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.837,99.669,102.348,89.622,109.537
+"30020","Lawton, OK (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.063,103.837,117.702,104.616,111.530
+"30020","Lawton, OK (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.055,103.209,122.116,106.186,112.844
+"30020","Lawton, OK (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.740,113.377,114.316,109.280,112.427
+"30020","Lawton, OK (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.302,95.155,107.535,94.134,106.697
+"30020","Lawton, OK (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.438,79.919,87.675,89.942,84.376
+"30020","Lawton, OK (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.881,90.647,99.641,89.426,85.534
+"30020","Lawton, OK (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.199,78.122,85.670,90.120,84.251
+"30020","Lawton, OK (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.915,102.422,113.449,110.923,114.621
+"30020","Lawton, OK (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.524,86.638,103.985,113.345,123.240
+"30020","Lawton, OK (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.414,104.184,114.496,110.598,113.578
+"30020","Lawton, OK (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.116,100.487,94.329,90.766,84.728
+"30020","Lawton, OK (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.429,94.334,95.257,97.142,109.502
+"30020","Lawton, OK (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.609,96.566,96.177,101.994,105.569
+"30020","Lawton, OK (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.310,92.512,93.018,91.935,108.388
+"30020","Lawton, OK (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.192,97.276,99.949,107.138,113.685
+"30020","Lawton, OK (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,199.425,135.906,192.840,248.424,131.623
+"30020","Lawton, OK (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.678,119.326,117.546,120.215,128.015
+"30020","Lawton, OK (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.962,103.539,111.575,111.292,119.401
+"30020","Lawton, OK (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.727,104.664,102.760,111.992,116.386
+"30020","Lawton, OK (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.692,139.033,143.240,134.756,130.605
+"30020","Lawton, OK (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.559,103.580,116.779,103.713,111.451
+"30020","Lawton, OK (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.596,100.361,111.088,109.001,111.856
+"30020","Lawton, OK (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.902,120.938,131.782,121.878,114.138
+"30020","Lawton, OK (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.695,111.920,114.941,115.315,119.923
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"30020","Lawton, OK (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2750,2777,2869,2951,2947,3146
+"30020","Lawton, OK (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1397,1474,1600,1673,1638,1653
+"30020","Lawton, OK (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,22,9,21,29,9
+"30020","Lawton, OK (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(L)",0,"(D)"
+"30020","Lawton, OK (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",1
+"30020","Lawton, OK (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),27,28,27,30,29,29
+"30020","Lawton, OK (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),72,73,73,63,65,62
+"30020","Lawton, OK (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),322,366,401,448,393,384
+"30020","Lawton, OK (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,"(L)","(L)","(L)","(L)","(L)"
+"30020","Lawton, OK (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,14,14,15,16,17
+"30020","Lawton, OK (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"30020","Lawton, OK (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3,3,3,6,5,6
+"30020","Lawton, OK (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,"(D)"
+"30020","Lawton, OK (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"30020","Lawton, OK (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(L)","(L)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,"(L)","(L)","(L)","(L)",0
+"30020","Lawton, OK (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,1,2,2,2
+"30020","Lawton, OK (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),22,22,24,"(D)","(D)",22
+"30020","Lawton, OK (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",1,1,1
+"30020","Lawton, OK (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",1,"(D)","(D)"
+"30020","Lawton, OK (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,1,2,2,4
+"30020","Lawton, OK (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"30020","Lawton, OK (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),31,32,49,37,36,37
+"30020","Lawton, OK (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),184,184,208,216,223,239
+"30020","Lawton, OK (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),58,60,61,65,66,73
+"30020","Lawton, OK (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,6,8,7,7,9
+"30020","Lawton, OK (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,"(L)","(L)","(L)","(L)","(L)"
+"30020","Lawton, OK (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17,20,21,22,24,22
+"30020","Lawton, OK (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,1,1,2,1
+"30020","Lawton, OK (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3,2,1,2,2,2
+"30020","Lawton, OK (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",24,24,"(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,"(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),34,37,42,46,55,63
+"30020","Lawton, OK (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,7,8,9,9,9
+"30020","Lawton, OK (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,1,1,1,1
+"30020","Lawton, OK (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",27,31,34,41,49
+"30020","Lawton, OK (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",2,2,2,3,4
+"30020","Lawton, OK (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),78,93,103,108,113,119
+"30020","Lawton, OK (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),51,58,61,66,73,76
+"30020","Lawton, OK (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),22,32,38,37,35,38
+"30020","Lawton, OK (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),172,162,159,149,167,172
+"30020","Lawton, OK (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),146,134,135,121,141,148
+"30020","Lawton, OK (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),26,28,24,28,26,24
+"30020","Lawton, OK (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),73,92,113,109,103,100
+"30020","Lawton, OK (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3,3,4,4,4,3
+"30020","Lawton, OK (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),49,45,57,66,62,60
+"30020","Lawton, OK (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",56,65,61,58
+"30020","Lawton, OK (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",1,1,1,1
+"30020","Lawton, OK (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,9,8,8,7,9
+"30020","Lawton, OK (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),140,133,145,165,146,156
+"30020","Lawton, OK (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),85,82,88,104,91,96
+"30020","Lawton, OK (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),28,26,32,32,31,31
+"30020","Lawton, OK (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),27,25,25,29,25,28
+"30020","Lawton, OK (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,6,5,6,6,5
+"30020","Lawton, OK (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,1,1,1,1
+"30020","Lawton, OK (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,5,4,5,5,5
+"30020","Lawton, OK (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),63,60,64,71,70,72
+"30020","Lawton, OK (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,6,6,7,7,8
+"30020","Lawton, OK (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),56,54,58,64,62,64
+"30020","Lawton, OK (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),62,61,62,58,56,53
+"30020","Lawton, OK (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1353,1305,1276,1289,1314,1482
+"30020","Lawton, OK (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),190,184,184,183,194,201
+"30020","Lawton, OK (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),805,759,745,749,740,872
+"30020","Lawton, OK (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),358,362,348,358,384,407
+"30020","Lawton, OK (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15,30,21,29,38,20
+"30020","Lawton, OK (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),215,216,257,253,258,275
+"30020","Lawton, OK (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),85,88,88,95,95,102
+"30020","Lawton, OK (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),250,254,262,257,280,291
+"30020","Lawton, OK (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),125,141,174,179,168,163
+"30020","Lawton, OK (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),148,142,153,173,154,165
+"30020","Lawton, OK (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),69,66,69,77,75,77
+"30020","Lawton, OK (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),38,"(D)","(D)","(D)","(D)","(D)"
+"30020","Lawton, OK (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),407,468,492,536,496,465
+"30020","Lawton, OK (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),989,1006,1107,1137,1141,1187
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"30020","Lawton, OK (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),24497,24788,25960,25957,26322,27990
+"30020","Lawton, OK (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"30020","Lawton, OK (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

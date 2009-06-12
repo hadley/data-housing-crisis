@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),17066,18176,18546,20440,23114,24772
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),15774,16795,17032,18800,21350,22864
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",296,"(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),217,223,253,240,275,258
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",56,"(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",15,"(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)",1,1
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",2
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),140,"(D)",190,336,315,331
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),1233,1403,1624,1873,2226,2391
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1374,1454,1411,1496,1500,1653
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),846,"(D)",875,959,1069,1194
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),16,37,40,42,61,58
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),108,120,114,95,103,123
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),12,"(D)","(D)",17,16,17
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),217,226,226,265,335,417
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),60,69,67,68,76,78
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),111,104,86,83,91,105
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),53,53,54,45,43,35
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),55,57,64,68,76,68
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),88,96,111,134,123,142
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),528,"(D)",536,538,431,459
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)",19,"(D)","(D)","(D)",18
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1,"(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",20,23
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),26,27,31,34,38,41
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),14,18,20,24,34,33
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),55,63,58,63,54,68
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),687,793,865,971,1035,1126
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),1711,1808,1924,2070,2248,2236
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),142,138,151,193,214,224
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),8,"(D)","(D)",10,"(D)",12
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),2,3,"(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),44,47,48,65,72,78
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),4,3,4,5,5,6
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),3,1,"(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),14,15,13,17,"(D)",21
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),400,463,494,560,713,785
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),11,16,17,16,15,11
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",454,"(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",28,"(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),924,1009,1136,1223,1383,1525
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),431,505,598,630,732,806
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),209,200,220,217,264,278
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),278,298,310,367,377,430
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),6,6,8,9,10,12
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),2455,2588,2694,2979,3440,3635
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),2314,2472,2559,2855,3302,3491
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),141,116,135,125,138,144
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),1192,1244,1328,1478,1779,1935
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),145,134,133,175,234,259
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),1984,2057,1220,1380,1897,2128
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),1948,2022,1175,1330,1833,2057
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),36,35,45,50,65,71
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),64,67,73,83,93,101
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),1746,1794,1902,1969,2033,2170
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),1021,1022,1088,1126,1220,1304
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),650,692,730,752,723,751
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),76,80,83,91,90,116
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),221,239,279,316,366,403
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),52,52,104,108,132,139
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),170,187,175,207,234,264
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),541,583,657,723,803,841
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),137,148,167,184,203,223
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),404,434,490,539,600,618
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),537,564,632,664,703,757
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),1292,1381,1514,1639,1763,1908
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),137,150,160,169,166,172
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),26,34,48,48,55,54
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),1128,1197,1306,1422,1543,1682
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),278,"(D)",320,310,368,363
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),2399,2601,2789,3041,3283,3362
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),282,"(D)",341,529,529,555
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),3379,3597,3830,4202,4823,5161
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),3321,3435,2681,3033,3910,4322
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),1810,1862,1974,2052,2126,2271
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),762,822,936,1038,1168,1244
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),369,404,377,"(D)",465,488
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),2828,"(D)",3299,3624,4024,4334
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),12946,"(D)",13733,15177,17326,18530
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.868,103.988,111.140,122.206,126.932
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.985,103.707,111.145,122.892,127.685
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.533,112.290,88.380,122.022,121.686
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,47.942,77.578,91.549,326.127,360.286
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",139.209,238.461,210.464,196.953
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.612,119.704,127.354,137.915,134.319
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.929,103.490,110.840,109.561,120.532
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",106.212,116.551,128.311,142.933
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,226.561,233.768,212.715,310.958,313.740
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.700,105.027,84.696,85.532,91.010
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)",117.383,101.933,85.441
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.404,104.608,119.510,144.027,178.333
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.200,110.398,116.893,126.356,128.825
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.912,100.674,111.741,139.639,186.211
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.895,106.165,86.552,81.433,61.756
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.960,114.557,124.718,134.762,117.962
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.944,123.119,151.221,140.269,163.066
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",99.194,101.929,80.342,85.626
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.290,118.290,132.711,147.806,159.202
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,131.345,135.422,161.468,214.733,195.649
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.436,107.512,120.163,101.354,112.630
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.951,123.665,131.484,135.294,142.173
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.767,109.845,117.317,129.222,129.328
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.706,101.487,127.689,140.490,142.922
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)",182.129,"(D)",233.561
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.787,"(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.077,104.978,136.196,146.818,154.816
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,83.617,105.207,125.222,127.142,144.305
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,21.008,"(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.013,94.327,113.762,"(D)",136.956
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,117.155,127.273,148.966,197.017,221.361
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,141.590,150.081,140.511,126.155,90.785
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.546,117.955,122.329,135.705,147.217
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.388,129.522,132.730,150.947,159.446
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.011,117.396,114.243,141.326,154.652
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.941,100.387,110.649,109.557,123.642
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.631,145.492,163.287,168.766,225.732
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.963,103.213,111.519,125.827,129.446
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.077,103.882,113.260,128.166,131.849
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,83.260,92.088,82.454,86.858,89.396
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.472,108.021,119.482,139.303,147.768
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.121,87.915,103.011,123.245,129.249
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.351,59.962,65.680,86.926,93.344
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.532,58.871,64.621,85.512,91.987
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.721,116.730,120.984,160.726,164.227
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.255,103.099,111.470,118.201,122.094
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.478,102.752,103.081,103.642,108.233
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.700,103.145,104.324,110.885,117.209
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.202,101.599,99.720,91.942,91.659
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.598,108.172,117.800,116.820,146.776
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.697,118.962,131.139,147.379,157.106
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.593,186.451,187.348,217.072,220.279
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.869,98.092,113.854,125.854,137.801
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.407,115.571,123.185,132.245,133.180
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.064,120.106,125.132,132.035,140.721
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.867,114.066,122.529,132.315,130.638
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.799,109.680,111.784,111.883,114.819
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.453,107.280,111.123,114.435,118.415
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.189,103.920,102.428,96.033,95.884
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,119.500,154.495,144.722,152.778,141.701
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.079,106.545,111.420,115.867,120.791
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",111.486,92.608,125.307,126.917
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.956,113.785,121.353,130.810,133.009
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",119.993,181.511,174.362,168.768
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.212,107.214,114.456,128.510,134.264
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.995,78.499,86.710,107.466,114.602
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.470,102.765,103.393,104.188,108.750
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.781,116.555,125.498,136.644,140.125
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.434,111.547,"(D)",150.008,160.772
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",111.649,116.639,124.028,126.816
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",101.976,109.962,122.708,127.972
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17066,17726,17746,18967,20855,21662
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15774,16403,16359,17532,19385,20141
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",245,"(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),217,246,243,191,264,263
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",54,"(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",12,"(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)",0,0
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",1
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),140,"(D)",195,334,295,276
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1233,1339,1476,1570,1700,1656
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1374,1442,1422,1523,1506,1656
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),846,"(D)",898,986,1085,1209
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),16,37,39,35,51,52
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),108,118,114,92,93,99
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),12,"(D)","(D)",14,12,10
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),217,225,227,260,313,388
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),60,68,67,70,76,78
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),111,118,112,124,155,207
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),53,54,57,46,43,33
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),55,55,63,68,74,65
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),88,93,108,133,123,144
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),528,"(D)",524,539,425,453
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",19,"(D)","(D)","(D)",19
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,"(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",21,23
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),26,26,31,35,39,42
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),14,18,19,23,30,27
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),55,62,59,66,56,62
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),687,790,850,904,930,977
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1711,1775,1879,2007,2211,2213
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),142,136,144,182,200,203
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,"(D)","(D)",14,"(D)",18
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,3,"(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),44,46,46,60,65,68
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,3,4,5,5,5
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3,1,"(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),14,15,13,16,"(D)",19
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),400,468,509,596,788,885
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),11,16,17,16,14,10
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",516,"(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",28,"(D)","(D)"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),924,984,1090,1130,1253,1360
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),431,480,558,572,650,687
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),209,209,245,239,295,323
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),278,289,279,308,305,344
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,6,8,10,10,13
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2455,2504,2534,2738,3090,3178
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2314,2385,2404,2621,2966,3051
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),141,117,130,116,123,126
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1192,1209,1287,1424,1660,1761
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),145,134,128,150,179,188
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1984,2011,1190,1303,1725,1852
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1948,1978,1147,1259,1666,1792
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),36,33,42,44,58,60
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),64,63,65,71,75,78
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1746,1737,1794,1800,1810,1890
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1021,1007,1053,1065,1132,1196
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),650,651,660,648,597,596
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),76,78,82,89,88,111
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),221,232,263,290,326,348
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),52,51,97,97,112,114
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),170,181,166,193,213,234
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),541,559,625,666,715,720
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),137,148,165,171,181,193
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),404,411,460,495,534,527
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),537,541,589,600,601,617
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1292,1323,1386,1435,1478,1529
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),137,140,143,141,132,132
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),26,31,41,38,40,37
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1128,1151,1202,1257,1307,1362
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),278,"(D)",310,257,348,353
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2399,2565,2729,2911,3137,3190
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),282,"(D)",339,512,492,476
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3379,3488,3623,3868,4342,4537
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3321,3354,2607,2880,3569,3806
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1810,1800,1860,1871,1885,1968
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),762,791,888,956,1041,1068
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),369,419,412,"(D)",554,594
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2828,"(D)",3157,3298,3507,3586
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),12946,"(D)",13202,14236,15886,16568
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),28204,28646,28086,29194,31175,31832
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"14600","Bradenton-Sarasota-Venice, FL (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

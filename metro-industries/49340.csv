@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"49340","Worcester, MA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),22547,22906,23909,24483,25235,26510
+"49340","Worcester, MA (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),19992,20194,21168,21631,22298,23422
+"49340","Worcester, MA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),31,30,34,39,32,30
+"49340","Worcester, MA (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),18,18,20,25,19,17
+"49340","Worcester, MA (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),13,13,14,14,13,13
+"49340","Worcester, MA (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),24,26,26,33,34,42
+"49340","Worcester, MA (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),0,0,"(D)","(D)","(D)","(L)"
+"49340","Worcester, MA (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",24,30,30,"(D)"
+"49340","Worcester, MA (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),493,467,497,519,530,591
+"49340","Worcester, MA (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),1209,1147,1157,1289,1363,1360
+"49340","Worcester, MA (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),3835,3688,3961,3712,3611,3963
+"49340","Worcester, MA (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),2652,2345,2633,2450,2365,2586
+"49340","Worcester, MA (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),19,17,20,23,27,29
+"49340","Worcester, MA (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),245,258,237,248,268,314
+"49340","Worcester, MA (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),113,66,71,83,68,84
+"49340","Worcester, MA (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),730,533,548,530,536,546
+"49340","Worcester, MA (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),289,292,269,282,326,442
+"49340","Worcester, MA (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),866,772,1028,884,739,780
+"49340","Worcester, MA (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),121,130,140,122,111,105
+"49340","Worcester, MA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),85,95,93,75,95,92
+"49340","Worcester, MA (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),158,146,183,138,138,151
+"49340","Worcester, MA (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),1183,1342,1329,1262,1246,1377
+"49340","Worcester, MA (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),102,108,106,109,110,122
+"49340","Worcester, MA (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),66,63,64,60,45,39
+"49340","Worcester, MA (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),139,134,145,131,129,131
+"49340","Worcester, MA (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),105,109,106,102,108,116
+"49340","Worcester, MA (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),231,"(D)",341,311,334,404
+"49340","Worcester, MA (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),494,580,538,517,464,511
+"49340","Worcester, MA (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),1339,1359,1433,1438,1569,1637
+"49340","Worcester, MA (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),1603,1646,1798,1870,1915,1832
+"49340","Worcester, MA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),477,481,478,528,563,598
+"49340","Worcester, MA (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),4,2,1,"(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),15,15,16,"(D)","(D)",18
+"49340","Worcester, MA (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"49340","Worcester, MA (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),192,193,202,225,232,239
+"49340","Worcester, MA (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),86,93,90,94,98,106
+"49340","Worcester, MA (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),30,33,29,31,36,47
+"49340","Worcester, MA (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),728,739,750,837,885,937
+"49340","Worcester, MA (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),250,244,280,299,355,387
+"49340","Worcester, MA (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),10,16,10,10,10,10
+"49340","Worcester, MA (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),425,433,410,464,480,497
+"49340","Worcester, MA (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),44,46,50,65,40,42
+"49340","Worcester, MA (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),1582,1693,1791,1852,1890,2015
+"49340","Worcester, MA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),391,543,659,"(D)",746,790
+"49340","Worcester, MA (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),240,136,109,108,97,114
+"49340","Worcester, MA (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),943,1006,1017,1028,1038,1104
+"49340","Worcester, MA (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),6,8,6,"(D)",9,8
+"49340","Worcester, MA (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),2427,2240,2267,2128,2160,2148
+"49340","Worcester, MA (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),2273,2042,2088,1962,2000,1991
+"49340","Worcester, MA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),154,198,179,166,160,156
+"49340","Worcester, MA (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),1357,1525,1493,1657,1717,1831
+"49340","Worcester, MA (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),528,550,570,522,564,594
+"49340","Worcester, MA (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),655,628,675,720,744,826
+"49340","Worcester, MA (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),576,545,573,618,632,652
+"49340","Worcester, MA (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),80,83,101,102,113,175
+"49340","Worcester, MA (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),394,424,448,471,493,510
+"49340","Worcester, MA (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),2163,2273,2443,2595,2772,2982
+"49340","Worcester, MA (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),938,983,1024,1067,1166,1246
+"49340","Worcester, MA (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),1009,1070,1195,1294,1358,"(D)"
+"49340","Worcester, MA (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),215,220,225,235,248,"(D)"
+"49340","Worcester, MA (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),135,150,164,166,165,171
+"49340","Worcester, MA (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),44,49,53,53,55,55
+"49340","Worcester, MA (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),91,101,111,112,110,116
+"49340","Worcester, MA (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),470,509,546,582,598,627
+"49340","Worcester, MA (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),94,96,99,104,105,102
+"49340","Worcester, MA (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),376,413,447,478,493,526
+"49340","Worcester, MA (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),541,619,637,673,694,725
+"49340","Worcester, MA (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),2555,2713,2742,2853,2937,3088
+"49340","Worcester, MA (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),194,203,204,219,222,233
+"49340","Worcester, MA (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),51,69,82,84,93,87
+"49340","Worcester, MA (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),2310,2441,2455,2549,2622,2768
+"49340","Worcester, MA (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),56,57,59,71,65,72
+"49340","Worcester, MA (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),2942,3005,3231,3309,3484,3469
+"49340","Worcester, MA (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),971,948,975,1047,1093,1189
+"49340","Worcester, MA (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),4009,3933,4058,3979,4051,4163
+"49340","Worcester, MA (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),2539,2703,2737,2899,3025,3252
+"49340","Worcester, MA (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),2557,2697,2891,3066,3265,3493
+"49340","Worcester, MA (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),605,659,710,748,764,798
+"49340","Worcester, MA (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),5087,4878,5165,5059,5026,5382
+"49340","Worcester, MA (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),14905,15315,16003,16572,17272,18040
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"49340","Worcester, MA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.668,102.659,102.610,102.958,104.961
+"49340","Worcester, MA (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.389,103.249,103.243,103.837,106.051
+"49340","Worcester, MA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.039,105.335,106.753,97.724,95.443
+"49340","Worcester, MA (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.946,106.057,110.465,100.051,96.005
+"49340","Worcester, MA (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.954,104.499,101.345,94.381,94.397
+"49340","Worcester, MA (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.355,96.980,111.443,98.996,107.182
+"49340","Worcester, MA (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,"(D)","(D)","(D)",0.000
+"49340","Worcester, MA (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.319,103.371,104.458,100.308,99.898
+"49340","Worcester, MA (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.541,86.984,89.359,86.061,77.884
+"49340","Worcester, MA (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.353,110.009,106.472,103.981,113.231
+"49340","Worcester, MA (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.501,108.998,105.876,104.365,116.548
+"49340","Worcester, MA (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.460,100.281,99.127,119.173,132.574
+"49340","Worcester, MA (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.430,95.965,98.210,98.540,102.522
+"49340","Worcester, MA (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,58.845,65.654,62.672,45.040,45.840
+"49340","Worcester, MA (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,72.687,75.574,71.323,68.663,69.534
+"49340","Worcester, MA (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.585,93.223,100.755,113.807,152.951
+"49340","Worcester, MA (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.397,154.723,152.492,145.940,177.699
+"49340","Worcester, MA (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.988,120.590,104.062,92.550,82.024
+"49340","Worcester, MA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.330,106.285,88.485,108.665,103.295
+"49340","Worcester, MA (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,89.807,112.586,86.198,87.126,96.573
+"49340","Worcester, MA (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.447,112.833,108.432,104.024,108.011
+"49340","Worcester, MA (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.052,100.376,106.913,106.483,122.563
+"49340","Worcester, MA (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.935,103.828,95.616,72.683,61.241
+"49340","Worcester, MA (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.743,108.207,100.273,98.155,94.473
+"49340","Worcester, MA (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.694,101.050,98.338,105.057,111.167
+"49340","Worcester, MA (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",143.459,127.202,127.083,145.575
+"49340","Worcester, MA (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,116.171,110.570,109.502,96.703,94.974
+"49340","Worcester, MA (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.108,105.195,99.957,105.281,106.079
+"49340","Worcester, MA (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.808,109.569,113.142,117.508,113.134
+"49340","Worcester, MA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.552,95.546,102.614,107.059,111.039
+"49340","Worcester, MA (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,41.455,39.848,"(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.188,99.240,"(D)","(D)",107.617
+"49340","Worcester, MA (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,18.615,29.246,41.910,37.641,31.991
+"49340","Worcester, MA (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.722,101.058,108.629,109.405,109.525
+"49340","Worcester, MA (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.378,96.891,99.118,101.386,106.950
+"49340","Worcester, MA (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.269,94.815,99.042,115.250,147.410
+"49340","Worcester, MA (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.558,105.991,122.359,134.012,144.322
+"49340","Worcester, MA (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.027,115.102,127.656,151.860,164.117
+"49340","Worcester, MA (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,161.875,104.175,98.387,99.761,99.041
+"49340","Worcester, MA (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.398,100.104,116.802,128.579,137.810
+"49340","Worcester, MA (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.468,110.365,149.112,93.605,105.519
+"49340","Worcester, MA (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.020,105.384,103.451,102.745,107.444
+"49340","Worcester, MA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,131.836,156.903,"(D)",169.253,171.927
+"49340","Worcester, MA (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,59.207,50.407,49.245,45.161,54.831
+"49340","Worcester, MA (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.355,97.212,91.388,88.999,93.694
+"49340","Worcester, MA (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.100,106.959,"(D)",145.783,142.445
+"49340","Worcester, MA (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,89.408,87.892,80.579,79.893,77.337
+"49340","Worcester, MA (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,86.713,86.298,79.256,79.055,76.580
+"49340","Worcester, MA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,130.079,111.749,100.371,92.495,88.737
+"49340","Worcester, MA (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.262,108.536,120.808,121.962,127.318
+"49340","Worcester, MA (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.812,103.937,84.277,81.785,81.536
+"49340","Worcester, MA (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.526,99.997,102.801,103.117,109.184
+"49340","Worcester, MA (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.551,97.248,101.627,99.726,98.661
+"49340","Worcester, MA (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.512,119.472,111.582,127.192,183.565
+"49340","Worcester, MA (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.625,102.659,101.762,100.900,99.536
+"49340","Worcester, MA (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.326,106.015,108.931,113.007,118.425
+"49340","Worcester, MA (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.260,105.535,107.552,115.287,121.867
+"49340","Worcester, MA (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.682,107.068,110.442,111.133,"(D)"
+"49340","Worcester, MA (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.787,102.578,107.119,112.952,"(D)"
+"49340","Worcester, MA (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.467,114.639,112.799,109.188,109.334
+"49340","Worcester, MA (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.264,113.273,109.355,108.173,103.183
+"49340","Worcester, MA (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.087,115.303,114.485,109.653,112.426
+"49340","Worcester, MA (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.493,110.086,114.019,113.478,114.209
+"49340","Worcester, MA (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.500,104.254,103.740,99.869,94.331
+"49340","Worcester, MA (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.734,111.471,116.473,116.754,119.031
+"49340","Worcester, MA (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.696,109.717,112.416,109.615,109.182
+"49340","Worcester, MA (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.825,98.304,97.940,96.539,97.054
+"49340","Worcester, MA (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.574,93.974,94.110,91.375,92.022
+"49340","Worcester, MA (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,123.807,136.841,131.916,134.368,118.739
+"49340","Worcester, MA (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.605,97.787,97.489,96.110,97.028
+"49340","Worcester, MA (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.814,101.480,108.800,98.151,101.433
+"49340","Worcester, MA (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.944,107.590,107.114,111.940,110.058
+"49340","Worcester, MA (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.428,99.394,103.526,103.707,105.440
+"49340","Worcester, MA (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.161,94.783,89.632,88.940,89.314
+"49340","Worcester, MA (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.599,105.388,108.159,108.232,112.427
+"49340","Worcester, MA (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.217,105.485,107.787,111.053,115.336
+"49340","Worcester, MA (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.376,111.098,113.739,112.513,113.114
+"49340","Worcester, MA (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.496,104.104,102.338,99.484,103.165
+"49340","Worcester, MA (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.362,102.998,103.544,105.202,106.963
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"49340","Worcester, MA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),22547,22472,23147,23135,23214,23666
+"49340","Worcester, MA (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),19992,19870,20642,20640,20759,21202
+"49340","Worcester, MA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),31,32,33,33,30,30
+"49340","Worcester, MA (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),18,19,19,20,18,17
+"49340","Worcester, MA (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,13,14,13,12,12
+"49340","Worcester, MA (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),24,25,24,27,24,26
+"49340","Worcester, MA (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,"(D)","(D)","(D)","(L)"
+"49340","Worcester, MA (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",22,25,22,"(D)"
+"49340","Worcester, MA (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),493,475,510,515,495,493
+"49340","Worcester, MA (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1209,1095,1052,1081,1041,942
+"49340","Worcester, MA (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3835,3772,4219,4084,3988,4343
+"49340","Worcester, MA (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2652,2427,2891,2808,2768,3091
+"49340","Worcester, MA (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),19,17,20,19,23,26
+"49340","Worcester, MA (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),245,254,235,241,242,252
+"49340","Worcester, MA (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),113,66,74,71,51,52
+"49340","Worcester, MA (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),730,530,551,520,501,507
+"49340","Worcester, MA (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),289,290,269,291,328,441
+"49340","Worcester, MA (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),866,869,1339,1320,1263,1538
+"49340","Worcester, MA (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),121,132,146,126,112,99
+"49340","Worcester, MA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),85,93,91,76,93,88
+"49340","Worcester, MA (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),158,142,178,137,138,153
+"49340","Worcester, MA (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1183,1342,1335,1283,1231,1278
+"49340","Worcester, MA (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),102,103,102,109,108,124
+"49340","Worcester, MA (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),66,65,69,63,48,40
+"49340","Worcester, MA (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),139,136,151,140,137,131
+"49340","Worcester, MA (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),105,107,106,103,110,116
+"49340","Worcester, MA (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),231,"(D)",331,294,293,336
+"49340","Worcester, MA (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),494,574,547,541,478,469
+"49340","Worcester, MA (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1339,1354,1409,1338,1410,1420
+"49340","Worcester, MA (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1603,1616,1756,1814,1884,1814
+"49340","Worcester, MA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),477,471,456,490,511,530
+"49340","Worcester, MA (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,2,2,"(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15,15,15,"(D)","(D)",16
+"49340","Worcester, MA (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"49340","Worcester, MA (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),192,187,194,208,210,210
+"49340","Worcester, MA (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),86,90,83,85,87,92
+"49340","Worcester, MA (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),30,32,28,29,34,44
+"49340","Worcester, MA (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),728,747,772,891,976,1051
+"49340","Worcester, MA (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),250,243,288,319,380,411
+"49340","Worcester, MA (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,15,10,9,10,9
+"49340","Worcester, MA (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),425,444,425,496,546,586
+"49340","Worcester, MA (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),44,45,48,65,41,46
+"49340","Worcester, MA (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1582,1645,1667,1636,1625,1699
+"49340","Worcester, MA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),391,516,614,"(D)",663,673
+"49340","Worcester, MA (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),240,142,121,118,109,132
+"49340","Worcester, MA (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),943,975,917,862,840,884
+"49340","Worcester, MA (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,7,7,"(D)",9,9
+"49340","Worcester, MA (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2427,2170,2133,1956,1939,1877
+"49340","Worcester, MA (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2273,1971,1961,1801,1797,1741
+"49340","Worcester, MA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),154,200,172,155,143,137
+"49340","Worcester, MA (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1357,1496,1472,1639,1654,1727
+"49340","Worcester, MA (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),528,548,548,445,431,430
+"49340","Worcester, MA (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),655,613,655,674,676,715
+"49340","Worcester, MA (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),576,533,560,585,574,568
+"49340","Worcester, MA (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),80,80,95,89,101,146
+"49340","Worcester, MA (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),394,397,405,401,398,392
+"49340","Worcester, MA (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2163,2191,2293,2356,2444,2561
+"49340","Worcester, MA (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),938,969,990,1009,1082,1143
+"49340","Worcester, MA (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1009,1006,1081,1115,1122,"(D)"
+"49340","Worcester, MA (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),215,217,221,230,243,"(D)"
+"49340","Worcester, MA (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),135,145,155,152,147,148
+"49340","Worcester, MA (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),44,47,49,48,47,45
+"49340","Worcester, MA (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),91,98,105,105,100,103
+"49340","Worcester, MA (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),470,486,517,536,533,537
+"49340","Worcester, MA (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),94,96,98,97,93,88
+"49340","Worcester, MA (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),376,391,420,439,440,448
+"49340","Worcester, MA (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),541,593,594,608,593,591
+"49340","Worcester, MA (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2555,2602,2512,2502,2467,2480
+"49340","Worcester, MA (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),194,191,182,182,177,178
+"49340","Worcester, MA (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),51,63,70,67,69,61
+"49340","Worcester, MA (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2310,2347,2259,2252,2220,2242
+"49340","Worcester, MA (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),56,57,56,60,55,56
+"49340","Worcester, MA (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2942,2970,3165,3151,3293,3238
+"49340","Worcester, MA (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),971,946,965,1005,1007,1024
+"49340","Worcester, MA (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4009,3815,3799,3593,3565,3580
+"49340","Worcester, MA (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2539,2656,2676,2747,2748,2855
+"49340","Worcester, MA (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2557,2588,2697,2756,2839,2949
+"49340","Worcester, MA (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),605,632,672,688,681,684
+"49340","Worcester, MA (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49340","Worcester, MA (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5087,4909,5296,5206,5061,5248
+"49340","Worcester, MA (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),14905,14959,15352,15434,15681,15943
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"49340","Worcester, MA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),29624,29267,29969,29863,29868,30357
+"49340","Worcester, MA (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49340","Worcester, MA (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce
