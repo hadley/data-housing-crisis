@@ -1,3 +1,6 @@
+# Source:http://www.bls.gov/lau/#table (county data)
+# See readme.md to see how original files were modified before loaded into R
+
 library(ggplot2)
 new<-read.csv("raw/laborforce00.csv")
 names(new)[1:9]<-c("laus", "state", "county", "place", "Year","laborforce00", "employ00", "Unemploy00", "rate00")
