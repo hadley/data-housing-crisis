@@ -73,3 +73,5 @@ Orig <- a[,c(1:9,91)]
 Orig <- rbind(Orig,Orig,Orig,Orig,Orig,Orig,Orig,Orig,Orig)
 
 newData <- cbind(Orig, Year, popEst, NumPopChange,Births, Deaths, NatIncline,  InternationalMig, DomesticMig, NetMig, Residual, GQEstimate, BirthRate, DeathRate, NatIncreaseRate, InternMigRate, DomMigRate, NetMigRate)
+
+write.table(newData, "Census-Pop-00-08-Clean.csv", sep = ",", row = FALSE)
