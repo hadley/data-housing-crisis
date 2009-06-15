@@ -22,25 +22,37 @@ const_year <- data.frame(
 )
 
 all <- rbind(vari, const_year)
-all <- all[order(all$year, all$start), c("year", "start", "length", "abbr")]
+field_desc <- all[order(all$year, all$start), c("year", "start", "length", "abbr")]
 
 # Manually parse and load into R.  
 # Not using read.fwf because the specification is annoying (need to load 
 # all fields and then discard) and because it doesn't seem to work with 
 # the gzfile connection.
 
-m2001 <- gzfile("march-supplement/2001.txt.gz")
-lines <- readLines(m2001, n = 10000)
-
 parse_line <- function(line, fields) {
   substring(line, fields$start, fields$start + fields$length - 1)  
 }
 
-parsed <- llply(lines, parse_line, fields = one, .progress = "text")
+parse_year <- function(year) {
+  path <- paste("march-supplement/", year, ".txt.gz", sep = "")
+  message("Loading raw data")
+  lines <- readLines(gzfile(path))
+  closeAllConnections()
+  
+  message("Extracting fields")
+  fields <- field_desc[field_desc$year == year, ]
+  parsed <- llply(lines, parse_line, fields = one, .progress = "text")
 
-out <- do.call("rbind", parsed)
-outdf <- as.data.frame(alply(out, 2, type.convert))
-names(outdf) <- tolower(one$abbr)
-outdf$year <- 2001
+  # Convert to data frame
+  message("Converting to data frame")
+  out <- do.call("rbind", parsed)
+  outdf <- as.data.frame(alply(out, 2, type.convert))
+  names(outdf) <- tolower(one$abbr)
+  outdf$year <- year
 
-write.table(outdf, gzfile("migration/2001.csv.gz"), sep = ",", row = F)
+  # Save as compressed csv file
+  message("Saving output")
+  write.table(outdf, gzfile("migration/2001.csv.gz"), sep = ",", row = F)
+}
+
+l_ply(2001:2008, parse_year)
