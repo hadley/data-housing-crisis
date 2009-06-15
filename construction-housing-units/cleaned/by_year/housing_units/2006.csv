@@ -1,0 +1,4273 @@
+"City","State","Total","X1_Units","X2_Units","X3.4_Units","X5.Inf_Units","X5.Inf_Units_Stucture"
+"Abilene","TX",25,25,0,0,0,0
+"Akron","OH",109,90,0,3,16,1
+"Albany","GA",55,47,4,4,0,0
+"Albany-Schenectady-Troy","NY",76,57,4,0,15,2
+"Albuquerque","NM",506,477,0,7,22,1
+"Alexandria","LA",60,60,0,0,0,0
+"Allentown-Bethlehem-Easton","PA-NJ",292,276,0,0,16,2
+"Altoona","PA",2,2,0,0,0,0
+"Amarillo","TX",95,95,0,0,0,0
+"Ames","IA",34,10,0,0,24,2
+"Anchorage","AK",64,38,10,16,0,0
+"Anderson","IN",19,19,0,0,0,0
+"Anderson","SC",87,87,0,0,0,0
+"Ann Arbor","MI",50,45,0,0,5,1
+"Anniston-Oxford","AL",18,18,0,0,0,0
+"Appleton","WI",42,40,2,0,0,0
+"Asheville","NC",260,230,2,18,10,2
+"Athens-Clarke County","GA",88,88,0,0,0,0
+"Atlanta-Sandy Springs-Marietta","GA",6315,4526,14,110,1665,69
+"Atlantic City","NJ",180,172,4,4,0,0
+"Auburn-Opelika","AL",176,164,12,0,0,0
+"Augusta-Richmond County","GA-SC",238,238,0,0,0,0
+"Austin-Round Rock","TX",2248,1992,20,104,132,5
+"Bakersfield","CA",402,379,4,12,7,1
+"Baltimore-Towson","MD",638,588,2,0,48,5
+"Bangor","ME",19,17,2,0,0,0
+"Barnstable Town","MA",69,51,0,7,11,1
+"Baton Rouge","LA",443,397,0,3,43,4
+"Battle Creek","MI",7,7,0,0,0,0
+"Bay City","MI",4,4,0,0,0,0
+"Beaumont-Port Arthur","TX",64,35,0,0,29,1
+"Bellingham","WA",76,76,0,0,0,0
+"Bend","OR",242,236,6,0,0,0
+"Billings","MT",39,39,0,0,0,0
+"Binghamton","NY",0,0,0,0,0,0
+"Birmingham-Hoover","AL",701,608,10,0,83,5
+"Bismarck","ND",14,11,0,3,0,0
+"Bloomington","IN",63,28,12,3,20,1
+"Bloomington-Normal","IL",49,39,0,0,10,1
+"Boise City-Nampa","ID",772,735,2,35,0,0
+"Boston-Cambridge-Quincy","MA-NH",877,459,64,10,344,25
+"Boulder","CO",50,45,0,0,5,1
+"Bowling Green","KY",97,59,2,6,30,2
+"Bremerton-Silverdale","WA",76,74,2,0,0,0
+"Bridgeport-Stamford-Norwalk","CT",96,87,4,0,5,1
+"Brownsville-Harlingen","TX",452,244,6,4,198,16
+"Brunswick","GA",80,69,0,0,11,1
+"Buffalo-Niagara Falls","NY",65,65,0,0,0,0
+"Burlington","NC",147,99,0,0,48,4
+"Burlington-South Burlington","VT",34,27,4,3,0,0
+"Canton-Massillon","OH",63,58,0,0,5,1
+"Cape Coral-Fort Myers","FL",1929,1490,0,76,363,30
+"Carson City","NV",3,3,0,0,0,0
+"Casper","WY",14,14,0,0,0,0
+"Cedar Rapids","IA",47,40,0,7,0,0
+"Champaign-Urbana","IL",33,33,0,0,0,0
+"Charleston","WV",18,18,0,0,0,0
+"Charleston-North Charleston","SC",700,648,0,7,45,7
+"Charlotte-Gastonia-Concord","NC-SC",1629,1607,2,6,14,2
+"Charlottesville","VA",153,96,2,3,52,2
+"Chattanooga","TN-GA",240,227,4,0,9,1
+"Cheyenne","WY",58,49,0,4,5,1
+"Chicago-Naperville-Joliet","IL-IN-WI",3894,1882,56,200,1756,NA
+"Cincinnati-Middletown","OH-KY-IN",681,552,6,15,108,10
+"Clarksville","TN-KY",125,119,0,0,6,1
+"Cleveland","TN",59,52,4,3,0,0
+"Cleveland-Elyria-Mentor","OH",317,287,0,30,0,0
+"Coeur dAlene","ID",130,118,12,0,0,0
+"College Station-Bryan","TX",120,88,0,0,32,5
+"Colorado Springs","CO",443,435,2,6,0,0
+"Columbia","MO",101,90,8,3,0,0
+"Columbia","SC",619,542,2,16,59,3
+"Columbus","GA-AL",181,145,0,3,33,2
+"Columbus","IN",12,12,0,0,0,0
+"Columbus","OH",539,449,2,48,40,5
+"Corpus Christi","TX",417,167,0,0,250,13
+"Corvallis","OR",16,14,2,0,0,0
+"Cumberland","MD-WV",9,9,0,0,0,0
+"Dallas-Fort Worth-Arlington","TX",4134,3574,72,41,447,21
+"Dalton","GA",68,55,2,4,7,1
+"Danville","IL",0,0,0,0,0,0
+"Danville","VA",20,20,0,0,0,0
+"Davenport-Moline-Rock Island","IA-IL",62,34,0,0,28,NA
+"Decatur","AL",15,15,0,0,0,0
+"Decatur","IL",4,4,0,0,0,0
+"Deltona-Daytona Beach-Ormond Beach","FL",381,315,6,0,60,4
+"Denver-Aurora","CO",1488,1254,12,8,214,6
+"Des Moines-West Des Moines","IA",315,254,8,0,53,4
+"Detroit-Warren-Livonia","MI",681,520,4,10,147,13
+"Dothan","AL",47,47,0,0,0,0
+"Dover","DE",154,154,0,0,0,0
+"Dubuque","IA",18,12,6,0,0,0
+"Duluth","MN-WI",55,34,2,6,13,1
+"Durham","NC",290,290,0,0,0,0
+"Eau Claire","WI",9,9,0,0,0,0
+"El Centro","CA",61,49,0,0,12,2
+"El Paso","TX",270,270,0,0,0,0
+"Elizabethtown","KY",36,36,0,0,0,0
+"Elkhart-Goshen","IN",73,73,0,0,0,0
+"Elmira","NY",3,1,2,0,0,0
+"Erie","PA",10,10,0,0,0,0
+"Eugene-Springfield","OR",172,107,2,63,0,0
+"Evansville","IN-KY",89,89,0,0,0,0
+"Fairbanks","AK",4,4,0,0,0,0
+"Fargo","ND-MN",7,7,0,0,0,0
+"Farmington","NM",30,30,0,0,0,0
+"Fayetteville","NC",342,254,0,0,88,11
+"Fayetteville-Springdale-Rogers","AR-MO",720,403,110,6,201,13
+"Flagstaff","AZ",67,67,0,0,0,0
+"Flint","MI",48,24,0,0,24,1
+"Florence","SC",32,32,0,0,0,0
+"Florence-Muscle Shoals","AL",28,20,0,0,8,1
+"Fond du Lac","WI",5,5,0,0,0,0
+"Fort Collins-Loveland","CO",188,162,0,14,12,1
+"Fort Smith","AR-OK",52,40,12,0,0,0
+"Fort Walton Beach-Crestview-Destin","FL",206,162,0,3,41,1
+"Fort Wayne","IN",92,92,0,0,0,0
+"Fresno","CA",305,236,6,10,53,9
+"Gadsden","AL",16,16,0,0,0,0
+"Gainesville","FL",121,106,0,0,15,2
+"Gainesville","GA",31,31,0,0,0,0
+"Glens Falls","NY",22,22,0,0,0,0
+"Goldsboro","NC",36,36,0,0,0,0
+"Grand Forks","ND-MN",1,1,0,0,0,0
+"Grand Junction","CO",114,114,0,0,0,0
+"Grand Rapids-Wyoming","MI",226,192,12,10,12,1
+"Great Falls","MT",13,13,0,0,0,0
+"Greeley","CO",277,249,0,0,28,3
+"Green Bay","WI",115,53,14,0,48,3
+"Greensboro-High Point","NC",443,362,2,0,79,6
+"Greenville","NC",248,130,30,0,88,11
+"Greenville","SC",467,426,0,0,41,3
+"Gulfport-Biloxi","MS",213,175,6,4,28,2
+"Hagerstown-Martinsburg","MD-WV",319,250,10,10,49,8
+"Hanford-Corcoran","CA",39,39,0,0,0,0
+"Harrisburg-Carlisle","PA",93,91,2,0,0,0
+"Harrisonburg","VA",127,127,0,0,0,0
+"Hartford-West Hartford-East Hartford","CT",178,155,0,0,23,3
+"Hattiesburg","MS",7,7,0,0,0,0
+"Hickory-Lenoir-Morganton","NC",146,146,0,0,0,0
+"Hinesville-Fort Stewart","GA",2,2,0,0,0,0
+"Holland-Grand Haven","MI",75,57,4,3,11,2
+"Honolulu","HI",112,112,0,0,0,0
+"Hot Springs","AR",12,12,0,0,0,0
+"Houma-Bayou Cane-Thibodaux","LA",103,103,0,0,0,0
+"Houston-Baytown-Sugar Land","TX",6495,3916,18,17,2544,84
+"Huntington-Ashland","WV-KY-OH",5,5,0,0,0,0
+"Huntsville","AL",321,298,0,0,23,1
+"Idaho Falls","ID",88,88,0,0,0,0
+"Indianapolis-Carmel","IN",1026,759,24,24,219,23
+"Iowa City","IA",114,49,0,0,65,2
+"Ithaca","NY",3,3,0,0,0,0
+"Jackson","MI",10,10,0,0,0,0
+"Jackson","MS",308,266,4,0,38,4
+"Jackson","TN",67,63,4,0,0,0
+"Jacksonville","FL",1787,1363,0,4,420,15
+"Jacksonville","NC",123,121,2,0,0,0
+"Janesville","WI",34,22,2,0,10,2
+"Jefferson City","MO",20,17,0,3,0,0
+"Johnson City","TN",111,109,2,0,0,0
+"Johnstown","PA",1,1,0,0,0,0
+"Jonesboro","AR",22,22,0,0,0,0
+"Joplin","MO",21,7,6,0,8,1
+"Kalamazoo-Portage","MI",53,53,0,0,0,0
+"Kankakee-Bradley","IL",4,4,0,0,0,0
+"Kansas City","MO-KS",936,729,50,42,115,4
+"Kennewick-Richland-Pasco","WA",185,119,0,16,50,3
+"Killeen-Temple-Fort Hood","TX",441,169,78,172,22,1
+"Kingsport-Bristol-Bristol","TN-VA",66,64,2,0,0,0
+"Kingston","NY",14,14,0,0,0,0
+"Knoxville","TN",352,281,4,14,53,3
+"Kokomo","IN",10,10,0,0,0,0
+"La Crosse","WI-MN",16,14,2,0,0,0
+"Lafayette","IN",94,56,0,0,38,3
+"Lafayette","LA",192,187,0,0,5,1
+"Lake Charles","LA",28,21,2,0,5,1
+"Lakeland","FL",1514,1143,4,3,364,12
+"Lancaster","PA",86,78,0,3,5,1
+"Lansing-East Lansing","MI",73,58,2,0,13,1
+"Laredo","TX",192,137,2,6,47,2
+"Las Cruces","NM",282,204,0,8,70,2
+"Las Vegas-Paradise","NV",2526,2193,0,64,269,4
+"Lawrence","KS",21,21,0,0,0,0
+"Lawton","OK",21,21,0,0,0,0
+"Lebanon","PA",25,25,0,0,0,0
+"Lewiston","ID-WA",3,3,0,0,0,0
+"Lewiston-Auburn","ME",18,18,0,0,0,0
+"Lexington-Fayette","KY",376,297,2,12,65,3
+"Lima","OH",3,1,2,0,0,0
+"Lincoln","NE",137,87,4,0,46,3
+"Little Rock-North Little Rock","AR",369,303,2,6,58,2
+"Logan","UT-ID",35,27,0,3,5,1
+"Longview","TX",17,17,0,0,0,0
+"Longview","WA",27,23,0,4,0,0
+"Los Angeles-Long Beach-Santa Ana","CA",2766,1101,100,89,1476,53
+"Louisville-Jefferson County","KY-IN",301,276,6,11,8,1
+"Lubbock","TX",113,97,16,0,0,0
+"Lynchburg","VA",95,95,0,0,0,0
+"Macon","GA",65,65,0,0,0,0
+"Madera","CA",179,179,0,0,0,0
+"Madison","WI",278,156,20,23,79,8
+"Manchester-Nashua","NH",102,97,0,0,5,1
+"Mansfield","OH",8,8,0,0,0,0
+"McAllen-Edinburg-Pharr","TX",622,559,2,23,38,4
+"Medford","OR",158,141,6,11,0,0
+"Memphis","TN-MS-AR",817,555,2,0,260,9
+"Merced","CA",253,253,0,0,0,0
+"Miami-Fort Lauderdale-Miami Beach","FL",3036,1790,46,4,1196,90
+"Michigan City-La Porte","IN",15,15,0,0,0,0
+"Midland","TX",41,41,0,0,0,0
+"Milwaukee-Waukesha-West Allis","WI",315,226,16,7,66,6
+"Minneapolis-St. Paul-Bloomington","MN-WI",948,863,8,4,73,3
+"Missoula","MT",20,18,2,0,0,0
+"Mobile","AL",195,195,0,0,0,0
+"Modesto","CA",203,175,4,6,18,1
+"Monroe","LA",34,25,6,3,0,0
+"Monroe","MI",25,25,0,0,0,0
+"Montgomery","AL",132,132,0,0,0,0
+"Morgantown","WV",2,2,0,0,0,0
+"Morristown","TN",41,41,0,0,0,0
+"Mount Vernon-Anacortes","WA",46,44,2,0,0,0
+"Muncie","IN",12,12,0,0,0,0
+"Muskegon-Norton Shores","MI",20,20,0,0,0,0
+"Myrtle Beach-Conway-North Myrtle Beach","SC",1443,520,6,26,891,27
+"Napa","CA",5,5,0,0,0,0
+"Naples-Marco Island","FL",293,243,0,36,14,2
+"Nashville-Davidson--Murfreesboro","TN",1133,1021,26,12,74,5
+"New Haven-Milford","CT",67,46,4,0,17,1
+"New Orleans-Metairie-Kenner","LA",89,85,4,0,0,0
+"New York-Northern New Jersey-Long Island","NY-NJ-PA",4600,1300,512,599,2189,92
+"Niles-Benton Harbor","MI",11,11,0,0,0,0
+"Norwich-New London","CT",52,52,0,0,0,0
+"Ocala","FL",676,484,0,0,192,22
+"Ocean City","NJ",192,97,52,12,31,4
+"Odessa","TX",20,20,0,0,0,0
+"Ogden-Clearfield","UT",311,293,4,3,11,2
+"Oklahoma City","OK",748,658,4,4,82,6
+"Olympia","WA",115,110,0,0,5,1
+"Omaha-Council Bluffs","NE-IA",309,293,8,0,8,1
+"Orlando","FL",2249,1951,6,63,229,11
+"Oshkosh-Neenah","WI",129,23,2,0,104,8
+"Owensboro","KY",24,16,0,8,0,0
+"Oxnard-Thousand Oaks-Ventura","CA",199,110,0,4,85,7
+"Palm Bay-Melbourne-Titusville","FL",696,461,4,0,231,13
+"Panama City-Lynn Haven","FL",379,85,4,0,290,3
+"Parkersburg-Marietta","WV-OH",14,14,0,0,0,0
+"Pascagoula","MS",75,75,0,0,0,0
+"Pensacola-Ferry Pass-Brent","FL",309,289,0,0,20,4
+"Peoria","IL",68,38,22,0,8,1
+"Philadelphia-Camden-Wilmington","PA-NJ-DE-MD",1391,975,10,14,392,23
+"Phoenix-Mesa-Scottsdale","AZ",4915,3593,44,213,1065,82
+"Pine Bluff","AR",14,9,0,0,5,1
+"Pittsburgh","PA",393,321,8,19,45,5
+"Pittsfield","MA",1,1,0,0,0,0
+"Pocatello","ID",28,28,0,0,0,0
+"Port St. Lucie-Fort Pierce","FL",799,726,0,8,65,9
+"Portland-South Portland-Biddeford","ME",158,141,4,3,10,2
+"Portland-Vancouver-Beaverton","OR-WA",1137,788,12,23,314,NA
+"Prescott","AZ",248,248,0,0,0,0
+"Providence-New Bedford-Fall River","RI-MA",275,212,16,6,41,6
+"Provo-Orem","UT",424,400,0,0,24,2
+"Pueblo","CO",187,103,84,0,0,0
+"Punta Gorda","FL",320,201,4,8,107,8
+"Racine","WI",41,35,6,0,0,0
+"Raleigh-Cary","NC",1874,1024,20,0,830,25
+"Rapid City","SD",62,57,2,3,0,0
+"Reading","PA",57,37,8,0,12,1
+"Redding","CA",129,112,2,3,12,2
+"Reno-Sparks","NV",340,248,0,0,92,1
+"Richmond","VA",726,689,10,11,16,2
+"Riverside-San Bernardino-Ontario","CA",3339,2974,42,36,287,45
+"Roanoke","VA",103,101,2,0,0,0
+"Rochester","MN",61,61,0,0,0,0
+"Rochester","NY",84,79,0,0,5,1
+"Rockford","IL",194,146,40,8,0,0
+"Rocky Mount","NC",39,35,4,0,0,0
+"Rome","GA",48,32,8,0,8,1
+"Sacramento--Arden-Arcade--Roseville","CA",747,692,4,15,36,6
+"Saginaw-Saginaw Township North","MI",18,16,2,0,0,0
+"Salem","OR",109,84,2,3,20,2
+"Salinas","CA",46,46,0,0,0,0
+"Salisbury","MD",60,37,0,0,23,1
+"Salt Lake City","UT",494,478,2,3,11,2
+"San Angelo","TX",43,43,0,0,0,0
+"San Antonio","TX",2231,1278,34,180,739,35
+"San Diego-Carlsbad-San Marcos","CA",478,415,6,20,37,3
+"San Francisco-Oakland-Fremont","CA",772,468,8,10,286,22
+"San Jose-Sunnyvale-Santa Clara","CA",322,148,0,7,167,5
+"San Luis Obispo-Paso Robles","CA",94,94,0,0,0,0
+"Sandusky","OH",6,1,0,0,5,1
+"Santa Barbara-Santa Maria-Goleta","CA",13,11,2,0,0,0
+"Santa Cruz-Watsonville","CA",16,16,0,0,0,0
+"Santa Fe","NM",37,37,0,0,0,0
+"Santa Rosa-Petaluma","CA",51,45,6,0,0,0
+"Sarasota-Bradenton-Venice","FL",1382,952,6,23,401,28
+"Savannah","GA",252,224,2,4,22,2
+"Scranton--Wilkes-Barre","PA",21,18,0,3,0,0
+"Seattle-Tacoma-Bellevue","WA",1817,1196,68,73,480,53
+"Sebastian-Vero Beach","FL",348,348,0,0,0,0
+"Sheboygan","WI",13,13,0,0,0,0
+"Sherman-Denison","TX",3,3,0,0,0,0
+"Shreveport-Bossier City","LA",144,144,0,0,0,0
+"Sioux City","IA-NE-SD",12,12,0,0,0,0
+"Sioux Falls","SD",86,84,2,0,0,0
+"South Bend-Mishawaka","IN-MI",39,39,0,0,0,0
+"Spartanburg","SC",199,199,0,0,0,0
+"Spokane","WA",167,114,0,0,53,3
+"Springfield","IL",36,24,6,0,6,1
+"Springfield","MA",54,50,4,0,0,0
+"Springfield","MO",333,189,34,15,95,7
+"Springfield","OH",16,16,0,0,0,0
+"St. Cloud","MN",50,38,0,0,12,2
+"St. George","UT",220,200,0,0,20,2
+"St. Joseph","MO-KS",12,5,2,0,5,1
+"St. Louis","MO-IL",812,715,10,13,74,6
+"State College","PA",57,53,4,0,0,0
+"Stockton","CA",310,310,0,0,0,0
+"Sumter","SC",54,48,2,4,0,0
+"Syracuse","NY",57,57,0,0,0,0
+"Tallahassee","FL",377,239,4,7,127,8
+"Tampa-St. Petersburg-Clearwater","FL",2341,1892,0,11,438,NA
+"Texarkana","TX-TexarkanaAR",13,11,2,0,0,0
+"Toledo","OH",120,80,6,4,30,1
+"Topeka","KS",64,64,0,0,0,0
+"Trenton-Ewing","NJ",59,59,0,0,0,0
+"Tucson","AZ",784,713,12,11,48,3
+"Tulsa","OK",367,357,4,0,6,1
+"Tuscaloosa","AL",130,130,0,0,0,0
+"Tyler","TX",47,37,0,0,10,2
+"Utica-Rome","NY",2,2,0,0,0,0
+"Valdosta","GA",102,66,2,0,34,3
+"Vallejo-Fairfield","CA",71,71,0,0,0,0
+"Victoria","TX",33,12,0,8,13,1
+"Vineland-Millville-Bridgeton","NJ",49,49,0,0,0,0
+"Virginia Beach-Norfolk-Newport News","VA-NC",721,601,20,34,66,7
+"Visalia-Porterville","CA",327,307,0,20,0,0
+"Waco","TX",95,85,6,4,0,0
+"Warner Robins","GA",130,130,0,0,0,0
+"Washington-Arlington-Alexandria","DC-VA-MD-WV",3046,1655,2,0,1389,23
+"Waterloo-Cedar Falls","IA",22,22,0,0,0,0
+"Wausau","WI",31,25,6,0,0,0
+"Weirton-Steubenville","WV-OH",1,1,0,0,0,0
+"Wenatchee","WA",24,24,0,0,0,0
+"Wheeling","WV-OH",0,0,0,0,0,0
+"Wichita Falls","TX",50,30,0,20,0,0
+"Wichita","KS",225,221,4,0,0,0
+"Williamsport","PA",1,1,0,0,0,0
+"Wilmington","NC",587,542,4,3,38,3
+"Winchester","VA-WV",99,99,0,0,0,0
+"Winston-Salem","NC",322,273,0,3,46,2
+"Worcester","MA",255,128,6,16,105,5
+"Yakima","WA",21,21,0,0,0,0
+"York-Hanover","PA",142,137,0,0,5,1
+"Youngstown-Warren-Boardman","OH-PA",50,48,2,0,0,0
+"Yuba City","CA",166,166,0,0,0,0
+"Yuma","AZ",142,142,0,0,0,0
+"Abilene","TX",22,22,0,0,0,0
+"Akron","OH",110,84,4,3,19,1
+"Albany","GA",56,51,2,3,0,0
+"Albany-Schenectady-Troy","NY",95,63,0,0,32,4
+"Albuquerque","NM",531,488,0,7,36,2
+"Alexandria","LA",57,57,0,0,0,0
+"Allentown-Bethlehem-Easton","PA-NJ",299,285,4,0,10,2
+"Altoona","PA",2,2,0,0,0,0
+"Amarillo","TX",71,71,0,0,0,0
+"Ames","IA",17,17,0,0,0,0
+"Anchorage","AK",199,32,2,0,165,2
+"Anderson","IN",25,11,14,0,0,0
+"Anderson","SC",92,92,0,0,0,0
+"Ann Arbor","MI",40,35,0,0,5,1
+"Anniston-Oxford","AL",11,11,0,0,0,0
+"Appleton","WI",61,55,6,0,0,0
+"Asheville","NC",299,268,10,11,10,2
+"Athens-Clarke County","GA",149,79,0,0,70,5
+"Atlanta-Sandy Springs-Marietta","GA",5280,4614,16,34,616,18
+"Atlantic City","NJ",105,103,2,0,0,0
+"Auburn-Opelika","AL",114,114,0,0,0,0
+"Augusta-Richmond County","GA-SC",258,258,0,0,0,0
+"Austin-Round Rock","TX",1980,1335,32,0,613,20
+"Bakersfield","CA",596,356,20,33,187,12
+"Baltimore-Towson","MD",800,650,2,18,130,18
+"Bangor","ME",9,9,0,0,0,0
+"Barnstable Town","MA",61,49,0,0,12,1
+"Baton Rouge","LA",441,406,0,4,31,4
+"Battle Creek","MI",5,5,0,0,0,0
+"Bay City","MI",2,2,0,0,0,0
+"Beaumont-Port Arthur","TX",78,30,0,0,48,1
+"Bellingham","WA",93,78,0,3,12,1
+"Bend","OR",389,317,6,0,66,7
+"Billings","MT",37,31,6,0,0,0
+"Binghamton","NY",1,1,0,0,0,0
+"Birmingham-Hoover","AL",573,568,0,0,5,1
+"Bismarck","ND",24,24,0,0,0,0
+"Bloomington","IN",65,52,0,0,13,2
+"Bloomington-Normal","IL",60,50,0,0,10,1
+"Boise City-Nampa","ID",877,752,6,112,7,1
+"Boston-Cambridge-Quincy","MA-NH",846,436,62,18,330,18
+"Boulder","CO",79,44,2,0,33,2
+"Bowling Green","KY",130,88,2,40,0,0
+"Bremerton-Silverdale","WA",76,76,0,0,0,0
+"Bridgeport-Stamford-Norwalk","CT",121,73,8,0,40,3
+"Brownsville-Harlingen","TX",323,277,2,19,25,3
+"Brunswick","GA",81,71,2,0,8,1
+"Buffalo-Niagara Falls","NY",57,57,0,0,0,0
+"Burlington","NC",332,140,0,0,192,8
+"Burlington-South Burlington","VT",25,25,0,0,0,0
+"Canton-Massillon","OH",68,63,0,0,5,1
+"Cape Coral-Fort Myers","FL",2266,1707,4,4,551,56
+"Carson City","NV",3,3,0,0,0,0
+"Casper","WY",23,23,0,0,0,0
+"Cedar Rapids","IA",51,40,4,7,0,0
+"Champaign-Urbana","IL",167,61,0,0,106,7
+"Charleston","WV",31,31,0,0,0,0
+"Charleston-North Charleston","SC",916,610,0,0,306,17
+"Charlotte-Gastonia-Concord","NC-SC",2061,1707,10,4,340,9
+"Charlottesville","VA",138,92,2,3,41,1
+"Chattanooga","TN-GA",239,228,4,0,7,1
+"Cheyenne","WY",59,49,0,0,10,1
+"Chicago-Naperville-Joliet","IL-IN-WI",4145,1993,44,223,1885,NA
+"Cincinnati-Middletown","OH-KY-IN",1135,613,2,7,513,12
+"Clarksville","TN-KY",100,100,0,0,0,0
+"Cleveland","TN",50,48,2,0,0,0
+"Cleveland-Elyria-Mentor","OH",380,370,4,6,0,0
+"Coeur dAlene","ID",78,76,2,0,0,0
+"College Station-Bryan","TX",102,90,0,0,12,2
+"Colorado Springs","CO",485,444,4,3,34,6
+"Columbia","MO",170,95,72,3,0,0
+"Columbia","SC",586,537,2,0,47,3
+"Columbus","GA-AL",149,121,2,0,26,2
+"Columbus","IN",20,20,0,0,0,0
+"Columbus","OH",513,455,4,47,7,1
+"Corpus Christi","TX",149,145,4,0,0,0
+"Corvallis","OR",20,14,0,6,0,0
+"Cumberland","MD-WV",12,12,0,0,0,0
+"Dallas-Fort Worth-Arlington","TX",4440,3656,12,0,772,14
+"Dalton","GA",61,52,0,4,5,1
+"Danville","IL",0,0,0,0,0,0
+"Danville","VA",20,20,0,0,0,0
+"Davenport-Moline-Rock Island","IA-IL",62,48,2,0,12,NA
+"Decatur","AL",22,22,0,0,0,0
+"Decatur","IL",0,0,0,0,0,0
+"Deltona-Daytona Beach-Ormond Beach","FL",339,286,0,0,53,3
+"Denver-Aurora","CO",1827,1171,24,0,632,7
+"Des Moines-West Des Moines","IA",354,234,4,0,116,8
+"Detroit-Warren-Livonia","MI",665,551,12,4,98,10
+"Dothan","AL",37,37,0,0,0,0
+"Dover","DE",157,157,0,0,0,0
+"Dubuque","IA",23,21,2,0,0,0
+"Duluth","MN-WI",53,31,0,3,19,2
+"Durham","NC",387,387,0,0,0,0
+"Eau Claire","WI",93,38,0,7,48,6
+"El Centro","CA",68,46,0,0,22,2
+"El Paso","TX",278,278,0,0,0,0
+"Elizabethtown","KY",38,38,0,0,0,0
+"Elkhart-Goshen","IN",57,57,0,0,0,0
+"Elmira","NY",2,2,0,0,0,0
+"Erie","PA",10,10,0,0,0,0
+"Eugene-Springfield","OR",95,95,0,0,0,0
+"Evansville","IN-KY",115,107,0,8,0,0
+"Fairbanks","AK",9,7,2,0,0,0
+"Fargo","ND-MN",7,7,0,0,0,0
+"Farmington","NM",37,37,0,0,0,0
+"Fayetteville","NC",288,278,2,8,0,0
+"Fayetteville-Springdale-Rogers","AR-MO",482,310,18,45,109,11
+"Flagstaff","AZ",66,66,0,0,0,0
+"Flint","MI",37,37,0,0,0,0
+"Florence","SC",33,33,0,0,0,0
+"Florence-Muscle Shoals","AL",19,19,0,0,0,0
+"Fond du Lac","WI",12,8,4,0,0,0
+"Fort Collins-Loveland","CO",168,141,10,3,14,2
+"Fort Smith","AR-OK",44,44,0,0,0,0
+"Fort Walton Beach-Crestview-Destin","FL",147,106,0,0,41,2
+"Fort Wayne","IN",103,96,4,3,0,0
+"Fresno","CA",310,197,6,12,95,11
+"Gadsden","AL",12,12,0,0,0,0
+"Gainesville","FL",122,122,0,0,0,0
+"Gainesville","GA",150,150,0,0,0,0
+"Glens Falls","NY",19,19,0,0,0,0
+"Goldsboro","NC",40,40,0,0,0,0
+"Grand Forks","ND-MN",0,0,0,0,0,0
+"Grand Junction","CO",118,116,2,0,0,0
+"Grand Rapids-Wyoming","MI",160,145,0,0,15,1
+"Great Falls","MT",14,14,0,0,0,0
+"Greeley","CO",284,266,2,4,12,1
+"Green Bay","WI",74,52,4,0,18,1
+"Greensboro-High Point","NC",488,425,0,0,63,4
+"Greenville","NC",144,140,4,0,0,0
+"Greenville","SC",553,528,0,3,22,2
+"Gulfport-Biloxi","MS",200,176,2,4,18,1
+"Hagerstown-Martinsburg","MD-WV",241,237,4,0,0,0
+"Hanford-Corcoran","CA",61,53,0,8,0,0
+"Harrisburg-Carlisle","PA",88,83,2,3,0,0
+"Harrisonburg","VA",45,45,0,0,0,0
+"Hartford-West Hartford-East Hartford","CT",345,152,8,0,185,4
+"Hattiesburg","MS",19,19,0,0,0,0
+"Hickory-Lenoir-Morganton","NC",110,110,0,0,0,0
+"Hinesville-Fort Stewart","GA",0,0,0,0,0,0
+"Holland-Grand Haven","MI",87,60,4,7,16,2
+"Honolulu","HI",534,182,0,0,352,1
+"Hot Springs","AR",12,12,0,0,0,0
+"Houma-Bayou Cane-Thibodaux","LA",164,164,0,0,0,0
+"Houston-Baytown-Sugar Land","TX",4392,4168,42,18,164,17
+"Huntington-Ashland","WV-KY-OH",4,4,0,0,0,0
+"Huntsville","AL",289,289,0,0,0,0
+"Idaho Falls","ID",79,75,0,4,0,0
+"Indianapolis-Carmel","IN",952,766,32,30,124,8
+"Iowa City","IA",36,28,8,0,0,0
+"Ithaca","NY",38,3,0,0,35,1
+"Jackson","MI",9,9,0,0,0,0
+"Jackson","MS",251,221,0,0,30,3
+"Jackson","TN",60,60,0,0,0,0
+"Jacksonville","FL",1683,1180,2,3,498,33
+"Jacksonville","NC",223,166,2,44,11,2
+"Janesville","WI",31,20,6,0,5,1
+"Jefferson City","MO",18,16,2,0,0,0
+"Johnson City","TN",91,73,4,9,5,1
+"Johnstown","PA",2,2,0,0,0,0
+"Jonesboro","AR",37,26,0,11,0,0
+"Joplin","MO",12,12,0,0,0,0
+"Kalamazoo-Portage","MI",72,70,2,0,0,0
+"Kankakee-Bradley","IL",11,11,0,0,0,0
+"Kansas City","MO-KS",1531,764,108,120,539,31
+"Kennewick-Richland-Pasco","WA",243,134,0,16,93,5
+"Killeen-Temple-Fort Hood","TX",295,196,30,52,17,1
+"Kingsport-Bristol-Bristol","TN-VA",83,83,0,0,0,0
+"Kingston","NY",22,22,0,0,0,0
+"Knoxville","TN",545,337,6,0,202,4
+"Kokomo","IN",9,9,0,0,0,0
+"La Crosse","WI-MN",19,15,0,4,0,0
+"Lafayette","IN",47,47,0,0,0,0
+"Lafayette","LA",150,150,0,0,0,0
+"Lake Charles","LA",30,22,2,0,6,1
+"Lakeland","FL",2178,1480,16,0,682,52
+"Lancaster","PA",69,64,0,0,5,1
+"Lansing-East Lansing","MI",98,82,2,0,14,1
+"Laredo","TX",174,140,0,0,34,1
+"Las Cruces","NM",211,209,2,0,0,0
+"Las Vegas-Paradise","NV",3019,2487,0,30,502,31
+"Lawrence","KS",47,21,16,0,10,1
+"Lawton","OK",14,14,0,0,0,0
+"Lebanon","PA",28,28,0,0,0,0
+"Lewiston","ID-WA",3,3,0,0,0,0
+"Lewiston-Auburn","ME",17,17,0,0,0,0
+"Lexington-Fayette","KY",315,286,0,4,25,3
+"Lima","OH",3,3,0,0,0,0
+"Lincoln","NE",148,92,4,3,49,2
+"Little Rock-North Little Rock","AR",487,340,2,0,145,2
+"Logan","UT-ID",68,35,0,4,29,2
+"Longview","TX",37,37,0,0,0,0
+"Longview","WA",25,20,0,0,5,1
+"Los Angeles-Long Beach-Santa Ana","CA",3545,1298,48,83,2116,67
+"Louisville-Jefferson County","KY-IN",383,351,2,8,22,3
+"Lubbock","TX",92,92,0,0,0,0
+"Lynchburg","VA",112,112,0,0,0,0
+"Macon","GA",59,59,0,0,0,0
+"Madera","CA",111,109,2,0,0,0
+"Madison","WI",460,138,14,14,294,11
+"Manchester-Nashua","NH",83,76,2,0,5,1
+"Mansfield","OH",14,8,0,6,0,0
+"McAllen-Edinburg-Pharr","TX",678,616,8,38,16,2
+"Medford","OR",111,83,4,19,5,1
+"Memphis","TN-MS-AR",695,685,0,0,10,1
+"Merced","CA",71,69,2,0,0,0
+"Miami-Fort Lauderdale-Miami Beach","FL",3345,1506,30,7,1802,63
+"Michigan City-La Porte","IN",20,20,0,0,0,0
+"Midland","TX",36,36,0,0,0,0
+"Milwaukee-Waukesha-West Allis","WI",268,224,10,12,22,3
+"Minneapolis-St. Paul-Bloomington","MN-WI",1057,887,4,7,159,8
+"Missoula","MT",27,27,0,0,0,0
+"Mobile","AL",138,138,0,0,0,0
+"Modesto","CA",166,132,0,3,31,1
+"Monroe","LA",26,24,2,0,0,0
+"Monroe","MI",26,26,0,0,0,0
+"Montgomery","AL",132,132,0,0,0,0
+"Morgantown","WV",2,2,0,0,0,0
+"Morristown","TN",48,48,0,0,0,0
+"Mount Vernon-Anacortes","WA",46,41,0,0,5,1
+"Muncie","IN",18,11,0,0,7,1
+"Muskegon-Norton Shores","MI",9,7,2,0,0,0
+"Myrtle Beach-Conway-North Myrtle Beach","SC",1013,500,10,22,481,9
+"Napa","CA",146,1,0,4,141,12
+"Naples-Marco Island","FL",387,306,0,47,34,5
+"Nashville-Davidson--Murfreesboro","TN",1250,1114,16,0,120,1
+"New Haven-Milford","CT",98,77,2,0,19,1
+"New Orleans-Metairie-Kenner","LA",378,358,0,3,17,1
+"New York-Northern New Jersey-Long Island","NY-NJ-PA",4391,1261,388,519,2223,111
+"Niles-Benton Harbor","MI",10,10,0,0,0,0
+"Norwich-New London","CT",37,37,0,0,0,0
+"Ocala","FL",716,716,0,0,0,0
+"Ocean City","NJ",195,42,32,8,113,9
+"Odessa","TX",22,22,0,0,0,0
+"Ogden-Clearfield","UT",293,255,0,11,27,3
+"Oklahoma City","OK",688,601,6,7,74,2
+"Olympia","WA",101,95,6,0,0,0
+"Omaha-Council Bluffs","NE-IA",375,361,4,0,10,2
+"Orlando","FL",2396,2135,8,119,134,8
+"Oshkosh-Neenah","WI",27,17,4,0,6,1
+"Owensboro","KY",25,25,0,0,0,0
+"Oxnard-Thousand Oaks-Ventura","CA",263,115,8,16,124,9
+"Palm Bay-Melbourne-Titusville","FL",771,458,2,12,299,12
+"Panama City-Lynn Haven","FL",347,87,4,4,252,11
+"Parkersburg-Marietta","WV-OH",16,16,0,0,0,0
+"Pascagoula","MS",88,84,0,4,0,0
+"Pensacola-Ferry Pass-Brent","FL",157,142,0,0,15,3
+"Peoria","IL",64,42,6,0,16,2
+"Philadelphia-Camden-Wilmington","PA-NJ-DE-MD",1244,881,10,8,345,22
+"Phoenix-Mesa-Scottsdale","AZ",3662,3045,52,173,392,19
+"Pine Bluff","AR",4,4,0,0,0,0
+"Pittsburgh","PA",433,320,18,15,80,9
+"Pittsfield","MA",2,2,0,0,0,0
+"Pocatello","ID",14,12,2,0,0,0
+"Port St. Lucie-Fort Pierce","FL",625,580,24,3,18,3
+"Portland-South Portland-Biddeford","ME",171,144,14,3,10,2
+"Portland-Vancouver-Beaverton","OR-WA",1349,968,4,51,326,NA
+"Prescott","AZ",270,268,2,0,0,0
+"Providence-New Bedford-Fall River","RI-MA",206,158,12,4,32,4
+"Provo-Orem","UT",503,356,2,35,110,4
+"Pueblo","CO",93,91,2,0,0,0
+"Punta Gorda","FL",339,200,2,6,131,7
+"Racine","WI",28,28,0,0,0,0
+"Raleigh-Cary","NC",1259,1111,44,8,96,5
+"Rapid City","SD",143,43,4,0,96,8
+"Reading","PA",65,56,4,0,5,1
+"Redding","CA",73,57,8,8,0,0
+"Reno-Sparks","NV",344,338,2,4,0,0
+"Richmond","VA",694,668,0,6,20,2
+"Riverside-San Bernardino-Ontario","CA",4298,3162,36,40,1060,70
+"Roanoke","VA",114,114,0,0,0,0
+"Rochester","MN",77,65,0,0,12,1
+"Rochester","NY",89,80,2,0,7,1
+"Rockford","IL",168,138,12,10,8,1
+"Rocky Mount","NC",67,63,4,0,0,0
+"Rome","GA",45,33,6,0,6,1
+"Sacramento--Arden-Arcade--Roseville","CA",975,909,14,12,40,4
+"Saginaw-Saginaw Township North","MI",9,9,0,0,0,0
+"Salem","OR",133,89,2,4,38,3
+"Salinas","CA",85,66,0,0,19,2
+"Salisbury","MD",20,20,0,0,0,0
+"Salt Lake City","UT",464,420,2,16,26,2
+"San Angelo","TX",32,32,0,0,0,0
+"San Antonio","TX",2230,1307,34,6,883,40
+"San Diego-Carlsbad-San Marcos","CA",1450,434,18,35,963,41
+"San Francisco-Oakland-Fremont","CA",1310,388,4,28,890,10
+"San Jose-Sunnyvale-Santa Clara","CA",290,205,0,22,63,8
+"San Luis Obispo-Paso Robles","CA",107,93,0,3,11,2
+"Sandusky","OH",5,0,0,0,5,1
+"Santa Barbara-Santa Maria-Goleta","CA",67,67,0,0,0,0
+"Santa Cruz-Watsonville","CA",28,22,0,0,6,1
+"Santa Fe","NM",37,37,0,0,0,0
+"Santa Rosa-Petaluma","CA",174,140,0,0,34,1
+"Sarasota-Bradenton-Venice","FL",1185,1034,4,8,139,20
+"Savannah","GA",256,250,0,0,6,1
+"Scranton--Wilkes-Barre","PA",24,24,0,0,0,0
+"Seattle-Tacoma-Bellevue","WA",1681,1303,80,66,232,16
+"Sebastian-Vero Beach","FL",389,337,0,0,52,3
+"Sheboygan","WI",13,13,0,0,0,0
+"Sherman-Denison","TX",3,3,0,0,0,0
+"Shreveport-Bossier City","LA",159,159,0,0,0,0
+"Sioux City","IA-NE-SD",12,12,0,0,0,0
+"Sioux Falls","SD",268,65,0,4,199,3
+"South Bend-Mishawaka","IN-MI",48,43,0,0,5,1
+"Spartanburg","SC",196,196,0,0,0,0
+"Spokane","WA",246,142,0,3,101,5
+"Springfield","IL",19,11,4,4,0,0
+"Springfield","MA",58,46,4,8,0,0
+"Springfield","MO",214,184,18,0,12,2
+"Springfield","OH",15,13,2,0,0,0
+"St. Cloud","MN",38,33,0,0,5,1
+"St. George","UT",181,165,6,0,10,1
+"St. Joseph","MO-KS",7,7,0,0,0,0
+"St. Louis","MO-IL",863,760,20,14,69,7
+"State College","PA",23,23,0,0,0,0
+"Stockton","CA",277,205,2,0,70,8
+"Sumter","SC",55,50,2,3,0,0
+"Syracuse","NY",50,50,0,0,0,0
+"Tallahassee","FL",344,238,4,4,98,7
+"Tampa-St. Petersburg-Clearwater","FL",2691,2082,32,35,542,NA
+"Texarkana","TX-TexarkanaAR",19,16,0,3,0,0
+"Toledo","OH",77,73,0,4,0,0
+"Topeka","KS",64,64,0,0,0,0
+"Trenton-Ewing","NJ",90,72,2,0,16,1
+"Tucson","AZ",781,666,12,17,86,3
+"Tulsa","OK",438,407,26,0,5,1
+"Tuscaloosa","AL",138,130,0,0,8,1
+"Tyler","TX",45,36,0,0,9,1
+"Utica-Rome","NY",3,3,0,0,0,0
+"Valdosta","GA",148,76,0,0,72,6
+"Vallejo-Fairfield","CA",66,62,0,4,0,0
+"Victoria","TX",11,11,0,0,0,0
+"Vineland-Millville-Bridgeton","NJ",34,34,0,0,0,0
+"Virginia Beach-Norfolk-Newport News","VA-NC",628,566,24,0,38,4
+"Visalia-Porterville","CA",318,170,12,0,136,17
+"Waco","TX",83,38,8,4,33,3
+"Warner Robins","GA",252,124,0,0,128,14
+"Washington-Arlington-Alexandria","DC-VA-MD-WV",2584,1871,0,0,713,16
+"Waterloo-Cedar Falls","IA",42,22,0,0,20,2
+"Wausau","WI",35,35,0,0,0,0
+"Weirton-Steubenville","WV-OH",2,2,0,0,0,0
+"Wenatchee","WA",28,28,0,0,0,0
+"Wheeling","WV-OH",0,0,0,0,0,0
+"Wichita Falls","TX",21,21,0,0,0,0
+"Wichita","KS",229,221,8,0,0,0
+"Williamsport","PA",4,4,0,0,0,0
+"Wilmington","NC",566,536,10,10,10,1
+"Winchester","VA-WV",110,105,0,0,5,1
+"Winston-Salem","NC",352,352,0,0,0,0
+"Worcester","MA",195,133,2,3,57,1
+"Yakima","WA",18,18,0,0,0,0
+"York-Hanover","PA",137,124,2,0,11,2
+"Youngstown-Warren-Boardman","OH-PA",35,33,2,0,0,0
+"Yuba City","CA",94,92,2,0,0,0
+"Yuma","AZ",142,142,0,0,0,0
+"Abilene","TX",23,19,4,0,0,0
+"Akron","OH",174,143,2,11,18,1
+"Albany","GA",59,54,2,3,0,0
+"Albany-Schenectady-Troy","NY",173,110,0,4,59,5
+"Albuquerque","NM",873,831,0,3,39,1
+"Alexandria","LA",80,80,0,0,0,0
+"Allentown-Bethlehem-Easton","PA-NJ",411,394,0,7,10,2
+"Altoona","PA",0,0,0,0,0,0
+"Amarillo","TX",89,89,0,0,0,0
+"Ames","IA",54,26,0,0,28,2
+"Anchorage","AK",172,74,36,4,58,6
+"Anderson","IN",25,25,0,0,0,0
+"Anderson","SC",118,118,0,0,0,0
+"Ann Arbor","MI",67,40,2,8,17,3
+"Anniston-Oxford","AL",17,17,0,0,0,0
+"Appleton","WI",72,57,4,11,0,0
+"Asheville","NC",394,361,4,23,6,1
+"Athens-Clarke County","GA",166,114,0,0,52,6
+"Atlanta-Sandy Springs-Marietta","GA",7278,5663,18,88,1509,53
+"Atlantic City","NJ",170,152,2,4,12,1
+"Auburn-Opelika","AL",178,148,0,0,30,2
+"Augusta-Richmond County","GA-SC",323,323,0,0,0,0
+"Austin-Round Rock","TX",3123,2162,84,24,853,28
+"Bakersfield","CA",581,466,16,11,88,7
+"Baltimore-Towson","MD",939,811,2,0,126,8
+"Bangor","ME",23,23,0,0,0,0
+"Barnstable Town","MA",84,74,0,0,10,1
+"Baton Rouge","LA",539,518,0,4,17,2
+"Battle Creek","MI",9,9,0,0,0,0
+"Bay City","MI",3,3,0,0,0,0
+"Beaumont-Port Arthur","TX",32,32,0,0,0,0
+"Bellingham","WA",89,89,0,0,0,0
+"Bend","OR",353,345,8,0,0,0
+"Billings","MT",55,55,0,0,0,0
+"Binghamton","NY",6,6,0,0,0,0
+"Birmingham-Hoover","AL",791,688,0,4,99,7
+"Bismarck","ND",54,42,0,0,12,2
+"Bloomington","IN",66,66,0,0,0,0
+"Bloomington-Normal","IL",70,62,0,0,8,1
+"Boise City-Nampa","ID",856,801,10,3,42,2
+"Boston-Cambridge-Quincy","MA-NH",1528,668,94,57,709,25
+"Boulder","CO",76,42,0,0,34,2
+"Bowling Green","KY",84,76,0,8,0,0
+"Bremerton-Silverdale","WA",87,79,8,0,0,0
+"Bridgeport-Stamford-Norwalk","CT",284,122,8,3,151,6
+"Brownsville-Harlingen","TX",291,254,14,6,17,3
+"Brunswick","GA",97,86,0,0,11,1
+"Buffalo-Niagara Falls","NY",86,82,0,4,0,0
+"Burlington","NC",160,160,0,0,0,0
+"Burlington-South Burlington","VT",134,50,8,3,73,1
+"Canton-Massillon","OH",79,74,0,0,5,1
+"Cape Coral-Fort Myers","FL",3118,2054,18,8,1038,80
+"Carson City","NV",16,4,0,12,0,0
+"Casper","WY",19,19,0,0,0,0
+"Cedar Rapids","IA",101,84,4,13,0,0
+"Champaign-Urbana","IL",162,70,0,0,92,1
+"Charleston","WV",35,35,0,0,0,0
+"Charleston-North Charleston","SC",950,831,0,14,105,13
+"Charlotte-Gastonia-Concord","NC-SC",2458,2034,2,10,412,18
+"Charlottesville","VA",191,127,2,3,59,3
+"Chattanooga","TN-GA",288,273,4,0,11,1
+"Cheyenne","WY",61,61,0,0,0,0
+"Chicago-Naperville-Joliet","IL-IN-WI",4504,3117,46,247,1094,NA
+"Cincinnati-Middletown","OH-KY-IN",1036,802,12,15,207,18
+"Clarksville","TN-KY",182,160,2,8,12,2
+"Cleveland","TN",57,53,0,4,0,0
+"Cleveland-Elyria-Mentor","OH",470,443,4,7,16,3
+"Coeur dAlene","ID",192,172,8,7,5,1
+"College Station-Bryan","TX",126,102,24,0,0,0
+"Colorado Springs","CO",562,515,2,0,45,9
+"Columbia","MO",921,137,16,0,768,64
+"Columbia","SC",852,635,4,8,205,9
+"Columbus","GA-AL",206,163,2,4,37,2
+"Columbus","IN",18,18,0,0,0,0
+"Columbus","OH",813,720,6,45,42,3
+"Corpus Christi","TX",391,204,2,4,181,2
+"Corvallis","OR",26,26,0,0,0,0
+"Cumberland","MD-WV",17,12,0,0,5,1
+"Dallas-Fort Worth-Arlington","TX",6026,4720,38,19,1249,39
+"Dalton","GA",85,71,2,4,8,1
+"Danville","IL",0,0,0,0,0,0
+"Danville","VA",24,24,0,0,0,0
+"Davenport-Moline-Rock Island","IA-IL",60,60,0,0,0,NA
+"Decatur","AL",18,18,0,0,0,0
+"Decatur","IL",1,1,0,0,0,0
+"Deltona-Daytona Beach-Ormond Beach","FL",398,331,0,0,67,5
+"Denver-Aurora","CO",1815,1435,18,12,350,16
+"Des Moines-West Des Moines","IA",398,362,4,0,32,2
+"Detroit-Warren-Livonia","MI",978,809,12,44,113,10
+"Dothan","AL",58,58,0,0,0,0
+"Dover","DE",184,176,0,8,0,0
+"Dubuque","IA",42,36,0,0,6,1
+"Duluth","MN-WI",81,56,6,3,16,1
+"Durham","NC",502,387,0,4,111,7
+"Eau Claire","WI",37,29,4,4,0,0
+"El Centro","CA",72,56,0,0,16,2
+"El Paso","TX",320,312,0,0,8,1
+"Elizabethtown","KY",60,48,12,0,0,0
+"Elkhart-Goshen","IN",111,104,0,0,7,1
+"Elmira","NY",3,3,0,0,0,0
+"Erie","PA",37,32,0,0,5,1
+"Eugene-Springfield","OR",145,125,2,18,0,0
+"Evansville","IN-KY",132,107,0,12,13,2
+"Fairbanks","AK",11,11,0,0,0,0
+"Fargo","ND-MN",88,58,0,0,30,1
+"Farmington","NM",38,38,0,0,0,0
+"Fayetteville","NC",357,189,0,0,168,13
+"Fayetteville-Springdale-Rogers","AR-MO",741,367,36,0,338,24
+"Flagstaff","AZ",269,77,0,0,192,8
+"Flint","MI",55,48,0,0,7,1
+"Florence","SC",81,81,0,0,0,0
+"Florence-Muscle Shoals","AL",29,29,0,0,0,0
+"Fond du Lac","WI",11,9,2,0,0,0
+"Fort Collins-Loveland","CO",513,199,16,75,223,3
+"Fort Smith","AR-OK",47,39,8,0,0,0
+"Fort Walton Beach-Crestview-Destin","FL",206,109,0,0,97,3
+"Fort Wayne","IN",160,146,2,0,12,1
+"Fresno","CA",533,334,8,15,176,20
+"Gadsden","AL",26,26,0,0,0,0
+"Gainesville","FL",136,94,0,0,42,3
+"Gainesville","GA",147,147,0,0,0,0
+"Glens Falls","NY",39,37,2,0,0,0
+"Goldsboro","NC",59,59,0,0,0,0
+"Grand Forks","ND-MN",0,0,0,0,0,0
+"Grand Junction","CO",220,156,0,0,64,7
+"Grand Rapids-Wyoming","MI",225,198,0,0,27,3
+"Great Falls","MT",23,23,0,0,0,0
+"Greeley","CO",377,311,4,10,52,4
+"Green Bay","WI",123,88,2,11,22,2
+"Greensboro-High Point","NC",599,472,0,0,127,11
+"Greenville","NC",221,139,34,0,48,6
+"Greenville","SC",461,452,4,0,5,1
+"Gulfport-Biloxi","MS",342,299,8,12,23,1
+"Hagerstown-Martinsburg","MD-WV",260,260,0,0,0,0
+"Hanford-Corcoran","CA",60,60,0,0,0,0
+"Harrisburg-Carlisle","PA",182,152,2,0,28,2
+"Harrisonburg","VA",81,81,0,0,0,0
+"Hartford-West Hartford-East Hartford","CT",274,231,2,0,41,5
+"Hattiesburg","MS",18,18,0,0,0,0
+"Hickory-Lenoir-Morganton","NC",157,141,4,0,12,2
+"Hinesville-Fort Stewart","GA",14,2,0,12,0,0
+"Holland-Grand Haven","MI",97,79,0,8,10,1
+"Honolulu","HI",156,156,0,0,0,0
+"Hot Springs","AR",15,15,0,0,0,0
+"Houma-Bayou Cane-Thibodaux","LA",254,254,0,0,0,0
+"Houston-Baytown-Sugar Land","TX",6627,5486,42,8,1091,37
+"Huntington-Ashland","WV-KY-OH",7,7,0,0,0,0
+"Huntsville","AL",416,416,0,0,0,0
+"Idaho Falls","ID",129,121,0,8,0,0
+"Indianapolis-Carmel","IN",1390,1104,38,6,242,19
+"Iowa City","IA",91,63,0,4,24,3
+"Ithaca","NY",5,5,0,0,0,0
+"Jackson","MI",19,19,0,0,0,0
+"Jackson","MS",440,397,0,0,43,4
+"Jackson","TN",123,75,0,0,48,6
+"Jacksonville","FL",1768,1487,6,3,272,23
+"Jacksonville","NC",155,149,6,0,0,0
+"Janesville","WI",47,43,4,0,0,0
+"Jefferson City","MO",61,28,0,3,30,1
+"Johnson City","TN",124,97,0,6,21,3
+"Johnstown","PA",1,1,0,0,0,0
+"Jonesboro","AR",54,49,0,0,5,1
+"Joplin","MO",21,21,0,0,0,0
+"Kalamazoo-Portage","MI",75,71,0,4,0,0
+"Kankakee-Bradley","IL",23,23,0,0,0,0
+"Kansas City","MO-KS",1095,935,54,94,12,1
+"Kennewick-Richland-Pasco","WA",192,159,2,14,17,1
+"Killeen-Temple-Fort Hood","TX",471,248,30,8,185,19
+"Kingsport-Bristol-Bristol","TN-VA",101,101,0,0,0,0
+"Kingston","NY",29,29,0,0,0,0
+"Knoxville","TN",493,386,2,9,96,5
+"Kokomo","IN",16,16,0,0,0,0
+"La Crosse","WI-MN",78,39,2,0,37,1
+"Lafayette","IN",114,86,0,0,28,1
+"Lafayette","LA",233,228,0,0,5,1
+"Lake Charles","LA",39,27,6,0,6,1
+"Lakeland","FL",1166,1038,2,0,126,21
+"Lancaster","PA",115,113,2,0,0,0
+"Lansing-East Lansing","MI",76,67,0,0,9,1
+"Laredo","TX",226,168,0,4,54,2
+"Las Cruces","NM",199,195,0,4,0,0
+"Las Vegas-Paradise","NV",5353,3197,60,96,2000,83
+"Lawrence","KS",47,39,0,8,0,0
+"Lawton","OK",13,13,0,0,0,0
+"Lebanon","PA",61,61,0,0,0,0
+"Lewiston","ID-WA",8,6,2,0,0,0
+"Lewiston-Auburn","ME",22,22,0,0,0,0
+"Lexington-Fayette","KY",509,419,0,12,78,4
+"Lima","OH",3,3,0,0,0,0
+"Lincoln","NE",187,130,6,0,51,4
+"Little Rock-North Little Rock","AR",339,312,2,0,25,1
+"Logan","UT-ID",66,57,0,4,5,1
+"Longview","TX",47,47,0,0,0,0
+"Longview","WA",40,40,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana","CA",2898,1279,66,58,1495,67
+"Louisville-Jefferson County","KY-IN",416,339,12,12,53,5
+"Lubbock","TX",116,108,8,0,0,0
+"Lynchburg","VA",136,136,0,0,0,0
+"Macon","GA",87,87,0,0,0,0
+"Madera","CA",128,128,0,0,0,0
+"Madison","WI",310,219,18,15,58,6
+"Manchester-Nashua","NH",114,103,2,0,9,1
+"Mansfield","OH",24,18,2,4,0,0
+"McAllen-Edinburg-Pharr","TX",937,713,2,40,182,4
+"Medford","OR",116,109,2,0,5,1
+"Memphis","TN-MS-AR",1216,808,0,0,408,8
+"Merced","CA",229,205,0,0,24,3
+"Miami-Fort Lauderdale-Miami Beach","FL",4164,1924,48,31,2161,64
+"Michigan City-La Porte","IN",27,27,0,0,0,0
+"Midland","TX",40,40,0,0,0,0
+"Milwaukee-Waukesha-West Allis","WI",345,273,14,11,47,4
+"Minneapolis-St. Paul-Bloomington","MN-WI",1460,1146,14,28,272,12
+"Missoula","MT",41,37,4,0,0,0
+"Mobile","AL",325,259,0,0,66,7
+"Modesto","CA",316,269,2,3,42,2
+"Monroe","LA",30,28,2,0,0,0
+"Monroe","MI",39,39,0,0,0,0
+"Montgomery","AL",165,165,0,0,0,0
+"Morgantown","WV",0,0,0,0,0,0
+"Morristown","TN",69,69,0,0,0,0
+"Mount Vernon-Anacortes","WA",77,75,2,0,0,0
+"Muncie","IN",13,13,0,0,0,0
+"Muskegon-Norton Shores","MI",21,17,4,0,0,0
+"Myrtle Beach-Conway-North Myrtle Beach","SC",1312,832,2,37,441,21
+"Napa","CA",68,17,0,0,51,3
+"Naples-Marco Island","FL",853,449,0,152,252,16
+"Nashville-Davidson--Murfreesboro","TN",1520,1432,42,3,43,2
+"New Haven-Milford","CT",138,108,6,0,24,1
+"New Orleans-Metairie-Kenner","LA",547,523,0,0,24,2
+"New York-Northern New Jersey-Long Island","NY-NJ-PA",5420,1653,644,603,2520,111
+"Niles-Benton Harbor","MI",13,13,0,0,0,0
+"Norwich-New London","CT",79,79,0,0,0,0
+"Ocala","FL",829,829,0,0,0,0
+"Ocean City","NJ",273,144,40,16,73,10
+"Odessa","TX",27,27,0,0,0,0
+"Ogden-Clearfield","UT",434,336,8,21,69,4
+"Oklahoma City","OK",814,715,4,3,92,7
+"Olympia","WA",171,160,6,0,5,1
+"Omaha-Council Bluffs","NE-IA",531,405,4,10,112,5
+"Orlando","FL",3273,2648,2,15,608,33
+"Oshkosh-Neenah","WI",46,42,0,4,0,0
+"Owensboro","KY",32,32,0,0,0,0
+"Oxnard-Thousand Oaks-Ventura","CA",217,136,4,23,54,9
+"Palm Bay-Melbourne-Titusville","FL",486,459,0,0,27,3
+"Panama City-Lynn Haven","FL",421,123,6,43,249,6
+"Parkersburg-Marietta","WV-OH",15,15,0,0,0,0
+"Pascagoula","MS",176,151,0,0,25,3
+"Pensacola-Ferry Pass-Brent","FL",224,202,22,0,0,0
+"Peoria","IL",104,80,12,0,12,1
+"Philadelphia-Camden-Wilmington","PA-NJ-DE-MD",1701,1196,16,33,456,26
+"Phoenix-Mesa-Scottsdale","AZ",4658,3814,30,228,586,30
+"Pine Bluff","AR",18,10,0,3,5,1
+"Pittsburgh","PA",585,465,8,26,86,10
+"Pittsfield","MA",4,4,0,0,0,0
+"Pocatello","ID",41,39,2,0,0,0
+"Port St. Lucie-Fort Pierce","FL",781,736,0,22,23,4
+"Portland-South Portland-Biddeford","ME",254,219,12,3,20,3
+"Portland-Vancouver-Beaverton","OR-WA",1374,1067,18,34,255,NA
+"Prescott","AZ",350,348,2,0,0,0
+"Providence-New Bedford-Fall River","RI-MA",389,227,36,7,119,7
+"Provo-Orem","UT",553,469,4,20,60,6
+"Pueblo","CO",149,141,8,0,0,0
+"Punta Gorda","FL",507,378,18,12,99,6
+"Racine","WI",96,51,0,0,45,2
+"Raleigh-Cary","NC",1654,1282,14,24,334,11
+"Rapid City","SD",67,67,0,0,0,0
+"Reading","PA",77,67,10,0,0,0
+"Redding","CA",81,45,4,16,16,3
+"Reno-Sparks","NV",368,273,0,0,95,3
+"Richmond","VA",899,846,0,23,30,1
+"Riverside-San Bernardino-Ontario","CA",3820,3378,24,47,371,55
+"Roanoke","VA",160,160,0,0,0,0
+"Rochester","MN",97,92,0,0,5,1
+"Rochester","NY",123,114,0,0,9,1
+"Rockford","IL",193,165,10,18,0,0
+"Rocky Mount","NC",68,64,4,0,0,0
+"Rome","GA",57,40,8,0,9,1
+"Sacramento--Arden-Arcade--Roseville","CA",994,760,6,43,185,19
+"Saginaw-Saginaw Township North","MI",11,11,0,0,0,0
+"Salem","OR",157,111,2,6,38,3
+"Salinas","CA",57,57,0,0,0,0
+"Salisbury","MD",95,95,0,0,0,0
+"Salt Lake City","UT",720,678,4,12,26,3
+"San Angelo","TX",27,27,0,0,0,0
+"San Antonio","TX",1848,1289,12,0,547,27
+"San Diego-Carlsbad-San Marcos","CA",1251,631,20,66,534,40
+"San Francisco-Oakland-Fremont","CA",1766,628,10,9,1119,38
+"San Jose-Sunnyvale-Santa Clara","CA",960,177,0,23,760,55
+"San Luis Obispo-Paso Robles","CA",114,114,0,0,0,0
+"Sandusky","OH",0,0,0,0,0,0
+"Santa Barbara-Santa Maria-Goleta","CA",57,57,0,0,0,0
+"Santa Cruz-Watsonville","CA",25,25,0,0,0,0
+"Santa Fe","NM",46,46,0,0,0,0
+"Santa Rosa-Petaluma","CA",130,112,6,0,12,2
+"Sarasota-Bradenton-Venice","FL",810,753,4,0,53,6
+"Savannah","GA",335,310,0,0,25,3
+"Scranton--Wilkes-Barre","PA",32,32,0,0,0,0
+"Seattle-Tacoma-Bellevue","WA",2022,1533,44,102,343,26
+"Sebastian-Vero Beach","FL",575,489,6,8,72,12
+"Sheboygan","WI",15,11,4,0,0,0
+"Sherman-Denison","TX",3,3,0,0,0,0
+"Shreveport-Bossier City","LA",206,182,0,0,24,2
+"Sioux City","IA-NE-SD",23,23,0,0,0,0
+"Sioux Falls","SD",149,123,2,24,0,0
+"South Bend-Mishawaka","IN-MI",189,53,2,0,134,5
+"Spartanburg","SC",193,189,4,0,0,0
+"Spokane","WA",246,143,4,0,99,6
+"Springfield","IL",51,34,8,0,9,1
+"Springfield","MA",69,63,6,0,0,0
+"Springfield","MO",234,173,32,0,29,2
+"Springfield","OH",15,15,0,0,0,0
+"St. Cloud","MN",101,89,0,0,12,2
+"St. George","UT",220,220,0,0,0,0
+"St. Joseph","MO-KS",21,10,2,0,9,1
+"St. Louis","MO-IL",1229,1123,18,13,75,7
+"State College","PA",39,39,0,0,0,0
+"Stockton","CA",405,355,0,0,50,1
+"Sumter","SC",65,60,2,3,0,0
+"Syracuse","NY",77,77,0,0,0,0
+"Tallahassee","FL",471,312,6,20,133,5
+"Tampa-St. Petersburg-Clearwater","FL",2563,2256,100,22,185,NA
+"Texarkana","TX-TexarkanaAR",21,21,0,0,0,0
+"Toledo","OH",228,184,0,0,44,2
+"Topeka","KS",56,56,0,0,0,0
+"Trenton-Ewing","NJ",74,72,2,0,0,0
+"Tucson","AZ",1012,911,18,16,67,2
+"Tulsa","OK",770,550,64,12,144,1
+"Tuscaloosa","AL",135,135,0,0,0,0
+"Tyler","TX",54,45,0,0,9,1
+"Utica-Rome","NY",3,3,0,0,0,0
+"Valdosta","GA",83,79,4,0,0,0
+"Vallejo-Fairfield","CA",85,85,0,0,0,0
+"Victoria","TX",43,14,0,11,18,1
+"Vineland-Millville-Bridgeton","NJ",48,48,0,0,0,0
+"Virginia Beach-Norfolk-Newport News","VA-NC",961,667,52,31,211,10
+"Visalia-Porterville","CA",299,217,2,0,80,10
+"Waco","TX",53,51,2,0,0,0
+"Warner Robins","GA",120,120,0,0,0,0
+"Washington-Arlington-Alexandria","DC-VA-MD-WV",3061,1895,2,3,1161,13
+"Waterloo-Cedar Falls","IA",51,51,0,0,0,0
+"Wausau","WI",91,41,2,0,48,3
+"Weirton-Steubenville","WV-OH",6,6,0,0,0,0
+"Wenatchee","WA",42,42,0,0,0,0
+"Wheeling","WV-OH",0,0,0,0,0,0
+"Wichita Falls","TX",22,22,0,0,0,0
+"Wichita","KS",444,230,22,0,192,16
+"Williamsport","PA",4,4,0,0,0,0
+"Wilmington","NC",1034,597,2,0,435,18
+"Winchester","VA-WV",170,158,0,0,12,1
+"Winston-Salem","NC",227,227,0,0,0,0
+"Worcester","MA",299,158,10,7,124,9
+"Yakima","WA",52,52,0,0,0,0
+"York-Hanover","PA",237,202,10,8,17,3
+"Youngstown-Warren-Boardman","OH-PA",80,73,4,3,0,0
+"Yuba City","CA",116,116,0,0,0,0
+"Yuma","AZ",159,154,0,0,5,1
+"Abilene","TX",30,28,2,0,0,0
+"Akron","OH",135,111,10,4,10,1
+"Albany","GA",51,48,0,3,0,0
+"Albany-Schenectady-Troy","NY",124,105,0,0,19,3
+"Albuquerque","NM",524,497,0,3,24,1
+"Alexandria","LA",66,66,0,0,0,0
+"Allentown-Bethlehem-Easton","PA-NJ",379,326,2,26,25,3
+"Altoona","PA",0,0,0,0,0,0
+"Amarillo","TX",43,43,0,0,0,0
+"Ames","IA",24,24,0,0,0,0
+"Anchorage","AK",182,94,38,0,50,7
+"Anderson","IN",29,29,0,0,0,0
+"Anderson","SC",91,89,2,0,0,0
+"Ann Arbor","MI",52,47,0,0,5,1
+"Anniston-Oxford","AL",12,12,0,0,0,0
+"Appleton","WI",124,84,8,32,0,0
+"Asheville","NC",311,255,4,3,49,3
+"Athens-Clarke County","GA",93,93,0,0,0,0
+"Atlanta-Sandy Springs-Marietta","GA",6070,4841,12,12,1205,35
+"Atlantic City","NJ",129,129,0,0,0,0
+"Auburn-Opelika","AL",368,140,2,0,226,13
+"Augusta-Richmond County","GA-SC",253,253,0,0,0,0
+"Austin-Round Rock","TX",2250,1521,52,59,618,10
+"Bakersfield","CA",545,510,4,11,20,2
+"Baltimore-Towson","MD",790,706,0,6,78,6
+"Bangor","ME",37,27,2,8,0,0
+"Barnstable Town","MA",108,95,0,0,13,2
+"Baton Rouge","LA",454,395,2,0,57,4
+"Battle Creek","MI",8,8,0,0,0,0
+"Bay City","MI",1,1,0,0,0,0
+"Beaumont-Port Arthur","TX",92,42,0,0,50,10
+"Bellingham","WA",100,84,6,0,10,1
+"Bend","OR",330,318,4,8,0,0
+"Billings","MT",50,50,0,0,0,0
+"Binghamton","NY",7,7,0,0,0,0
+"Birmingham-Hoover","AL",556,556,0,0,0,0
+"Bismarck","ND",89,85,0,4,0,0
+"Bloomington","IN",54,44,0,0,10,1
+"Bloomington-Normal","IL",52,46,0,0,6,1
+"Boise City-Nampa","ID",891,843,20,28,0,0
+"Boston-Cambridge-Quincy","MA-NH",1935,617,64,80,1174,38
+"Boulder","CO",44,33,0,3,8,1
+"Bowling Green","KY",67,67,0,0,0,0
+"Bremerton-Silverdale","WA",100,79,0,0,21,1
+"Bridgeport-Stamford-Norwalk","CT",126,103,6,4,13,2
+"Brownsville-Harlingen","TX",310,300,10,0,0,0
+"Brunswick","GA",83,77,0,0,6,1
+"Buffalo-Niagara Falls","NY",138,86,2,0,50,1
+"Burlington","NC",145,145,0,0,0,0
+"Burlington-South Burlington","VT",51,39,4,3,5,1
+"Canton-Massillon","OH",72,72,0,0,0,0
+"Cape Coral-Fort Myers","FL",1817,1539,10,8,260,34
+"Carson City","NV",3,3,0,0,0,0
+"Casper","WY",23,23,0,0,0,0
+"Cedar Rapids","IA",103,85,8,10,0,0
+"Champaign-Urbana","IL",95,69,2,0,24,3
+"Charleston","WV",29,29,0,0,0,0
+"Charleston-North Charleston","SC",687,604,12,7,64,6
+"Charlotte-Gastonia-Concord","NC-SC",2513,1793,10,4,706,28
+"Charlottesville","VA",86,86,0,0,0,0
+"Chattanooga","TN-GA",223,203,8,6,6,1
+"Cheyenne","WY",65,50,0,4,11,1
+"Chicago-Naperville-Joliet","IL-IN-WI",4167,2842,54,194,1077,NA
+"Cincinnati-Middletown","OH-KY-IN",958,839,6,34,79,9
+"Clarksville","TN-KY",206,154,0,40,12,2
+"Cleveland","TN",68,61,4,3,0,0
+"Cleveland-Elyria-Mentor","OH",492,452,8,22,10,2
+"Coeur dAlene","ID",167,104,0,0,63,2
+"College Station-Bryan","TX",136,128,0,8,0,0
+"Colorado Springs","CO",518,501,0,4,13,2
+"Columbia","MO",170,128,22,3,17,3
+"Columbia","SC",581,519,2,0,60,3
+"Columbus","GA-AL",184,148,0,4,32,3
+"Columbus","IN",30,30,0,0,0,0
+"Columbus","OH",800,613,12,28,147,18
+"Corpus Christi","TX",168,137,6,0,25,1
+"Corvallis","OR",10,10,0,0,0,0
+"Cumberland","MD-WV",10,10,0,0,0,0
+"Dallas-Fort Worth-Arlington","TX",4843,4339,26,12,466,22
+"Dalton","GA",73,59,2,3,9,1
+"Danville","IL",0,0,0,0,0,0
+"Danville","VA",20,20,0,0,0,0
+"Davenport-Moline-Rock Island","IA-IL",59,55,4,0,0,NA
+"Decatur","AL",39,39,0,0,0,0
+"Decatur","IL",0,0,0,0,0,0
+"Deltona-Daytona Beach-Ormond Beach","FL",416,296,0,4,116,14
+"Denver-Aurora","CO",1792,1206,0,10,576,18
+"Des Moines-West Des Moines","IA",464,416,0,8,40,2
+"Detroit-Warren-Livonia","MI",983,667,6,6,304,16
+"Dothan","AL",48,48,0,0,0,0
+"Dover","DE",145,133,0,0,12,1
+"Dubuque","IA",40,35,2,3,0,0
+"Duluth","MN-WI",71,59,4,3,5,1
+"Durham","NC",367,367,0,0,0,0
+"Eau Claire","WI",63,59,4,0,0,0
+"El Centro","CA",107,95,0,0,12,2
+"El Paso","TX",443,290,0,153,0,0
+"Elizabethtown","KY",47,47,0,0,0,0
+"Elkhart-Goshen","IN",72,72,0,0,0,0
+"Elmira","NY",3,3,0,0,0,0
+"Erie","PA",28,26,2,0,0,0
+"Eugene-Springfield","OR",303,107,4,0,192,12
+"Evansville","IN-KY",122,101,4,3,14,2
+"Fairbanks","AK",43,27,12,4,0,0
+"Fargo","ND-MN",206,150,0,4,52,3
+"Farmington","NM",45,45,0,0,0,0
+"Fayetteville","NC",419,259,0,0,160,10
+"Fayetteville-Springdale-Rogers","AR-MO",582,422,58,21,81,9
+"Flagstaff","AZ",129,65,0,0,64,8
+"Flint","MI",71,47,0,0,24,1
+"Florence","SC",69,69,0,0,0,0
+"Florence-Muscle Shoals","AL",23,23,0,0,0,0
+"Fond du Lac","WI",10,10,0,0,0,0
+"Fort Collins-Loveland","CO",181,149,0,0,32,3
+"Fort Smith","AR-OK",49,49,0,0,0,0
+"Fort Walton Beach-Crestview-Destin","FL",153,86,0,3,64,1
+"Fort Wayne","IN",191,107,52,0,32,4
+"Fresno","CA",356,255,6,7,88,8
+"Gadsden","AL",13,13,0,0,0,0
+"Gainesville","FL",137,103,0,0,34,2
+"Gainesville","GA",132,105,0,10,17,3
+"Glens Falls","NY",47,44,0,3,0,0
+"Goldsboro","NC",45,43,2,0,0,0
+"Grand Forks","ND-MN",24,24,0,0,0,0
+"Grand Junction","CO",115,115,0,0,0,0
+"Grand Rapids-Wyoming","MI",286,272,2,0,12,2
+"Great Falls","MT",15,15,0,0,0,0
+"Greeley","CO",275,246,0,0,29,2
+"Green Bay","WI",130,113,6,0,11,2
+"Greensboro-High Point","NC",477,408,2,4,63,4
+"Greenville","NC",151,131,20,0,0,0
+"Greenville","SC",421,421,0,0,0,0
+"Gulfport-Biloxi","MS",253,243,10,0,0,0
+"Hagerstown-Martinsburg","MD-WV",180,170,10,0,0,0
+"Hanford-Corcoran","CA",59,57,2,0,0,0
+"Harrisburg-Carlisle","PA",97,97,0,0,0,0
+"Harrisonburg","VA",134,132,2,0,0,0
+"Hartford-West Hartford-East Hartford","CT",240,205,6,0,29,3
+"Hattiesburg","MS",15,15,0,0,0,0
+"Hickory-Lenoir-Morganton","NC",139,137,2,0,0,0
+"Hinesville-Fort Stewart","GA",0,0,0,0,0,0
+"Holland-Grand Haven","MI",101,67,0,3,31,2
+"Honolulu","HI",116,110,0,0,6,1
+"Hot Springs","AR",13,13,0,0,0,0
+"Houma-Bayou Cane-Thibodaux","LA",69,69,0,0,0,0
+"Houston-Sugar Land-Baytown","TX",5729,4393,32,245,1059,58
+"Huntington-Ashland","WV-KY-OH",6,6,0,0,0,0
+"Huntsville","AL",250,250,0,0,0,0
+"Idaho Falls","ID",149,141,0,8,0,0
+"Indianapolis-Carmel","IN",1053,889,24,19,121,14
+"Iowa City","IA",61,53,2,0,6,1
+"Ithaca","NY",9,4,0,0,5,1
+"Jackson","MI",14,14,0,0,0,0
+"Jackson","MS",285,285,0,0,0,0
+"Jackson","TN",44,44,0,0,0,0
+"Jacksonville","FL",1355,1263,24,0,68,10
+"Jacksonville","NC",110,100,10,0,0,0
+"Janesville","WI",69,43,2,3,21,3
+"Jefferson City","MO",20,20,0,0,0,0
+"Johnson City","TN",71,71,0,0,0,0
+"Johnstown","PA",3,3,0,0,0,0
+"Jonesboro","AR",73,71,2,0,0,0
+"Joplin","MO",23,18,0,0,5,1
+"Kalamazoo-Portage","MI",53,53,0,0,0,0
+"Kankakee-Bradley","IL",13,13,0,0,0,0
+"Kansas City","MO-KS",990,926,20,28,16,2
+"Kennewick-Richland-Pasco","WA",162,139,2,12,9,1
+"Killeen-Temple-Fort Hood","TX",212,196,12,4,0,0
+"Kingsport-Bristol-Bristol","TN-VA",70,65,0,0,5,1
+"Kingston","NY",38,31,0,0,7,1
+"Knoxville","TN",347,311,4,8,24,1
+"Kokomo","IN",15,15,0,0,0,0
+"La Crosse","WI-MN",56,53,0,3,0,0
+"Lafayette","IN",46,46,0,0,0,0
+"Lafayette","LA",129,126,0,3,0,0
+"Lake Charles","LA",32,25,2,0,5,1
+"Lakeland","FL",598,598,0,0,0,0
+"Lancaster","PA",115,97,2,4,12,2
+"Lansing-East Lansing","MI",159,91,0,0,68,9
+"Laredo","TX",192,152,0,8,32,3
+"Las Cruces","NM",159,153,2,4,0,0
+"Las Vegas-Paradise","NV",2687,2200,0,42,445,31
+"Lawrence","KS",25,25,0,0,0,0
+"Lawton","OK",29,29,0,0,0,0
+"Lebanon","PA",44,44,0,0,0,0
+"Lewiston","ID-WA",36,4,0,0,32,1
+"Lewiston-Auburn","ME",30,26,4,0,0,0
+"Lexington-Fayette","KY",387,347,0,7,33,3
+"Lima","OH",5,5,0,0,0,0
+"Lincoln","NE",112,99,2,0,11,2
+"Little Rock-North Little Rock","AR",313,293,12,0,8,1
+"Logan","UT-ID",53,39,0,9,5,1
+"Longview","TX",22,22,0,0,0,0
+"Longview","WA",37,37,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana","CA",3402,1618,52,62,1670,58
+"Louisville-Jefferson County","KY-IN",345,301,4,4,36,3
+"Lubbock","TX",106,106,0,0,0,0
+"Lynchburg","VA",144,144,0,0,0,0
+"Macon","GA",60,60,0,0,0,0
+"Madera","CA",105,105,0,0,0,0
+"Madison","WI",379,227,22,45,85,7
+"Manchester-Nashua","NH",103,85,4,8,6,1
+"Mansfield","OH",14,14,0,0,0,0
+"McAllen-Edinburg-Mission","TX",752,696,2,43,11,2
+"Medford","OR",130,108,2,0,20,1
+"Memphis","TN-MS-AR",745,742,0,3,0,0
+"Merced","CA",225,219,2,4,0,0
+"Miami-Fort Lauderdale-Miami Beach","FL",3136,1089,44,71,1932,78
+"Michigan City-La Porte","IN",29,29,0,0,0,0
+"Midland","TX",44,44,0,0,0,0
+"Milwaukee-Waukesha-West Allis","WI",347,252,18,34,43,5
+"Minneapolis-St. Paul-Bloomington","MN-WI",1378,1220,12,13,133,8
+"Missoula","MT",44,28,2,0,14,2
+"Mobile","AL",183,166,0,0,17,2
+"Modesto","CA",314,264,2,0,48,6
+"Monroe","LA",58,46,0,0,12,1
+"Monroe","MI",31,31,0,0,0,0
+"Montgomery","AL",149,149,0,0,0,0
+"Morgantown","WV",3,3,0,0,0,0
+"Morristown","TN",70,70,0,0,0,0
+"Mount Vernon-Anacortes","WA",54,54,0,0,0,0
+"Muncie","IN",12,12,0,0,0,0
+"Muskegon-Norton Shores","MI",18,14,4,0,0,0
+"Myrtle Beach-Conway-North Myrtle Beach","SC",745,574,0,0,171,10
+"Napa","CA",7,7,0,0,0,0
+"Naples-Marco Island","FL",524,345,0,80,99,4
+"Nashville-Davidson--Murfreesboro","TN",1151,1111,20,0,20,2
+"New Haven-Milford","CT",149,100,2,3,44,4
+"New Orleans-Metairie-Kenner","LA",389,364,2,0,23,4
+"New York-Northern New Jersey-Long Island","NY-NJ-PA",4464,1485,428,518,2033,100
+"Niles-Benton Harbor","MI",10,10,0,0,0,0
+"Norwich-New London","CT",87,54,6,0,27,3
+"Ocala","FL",680,677,0,3,0,0
+"Ocean City","NJ",85,69,16,0,0,0
+"Odessa","TX",18,18,0,0,0,0
+"Ogden-Clearfield","UT",313,306,0,7,0,0
+"Oklahoma City","OK",739,681,4,3,51,4
+"Olympia","WA",168,152,16,0,0,0
+"Omaha-Council Bluffs","NE-IA",390,376,14,0,0,0
+"Orlando-Kissimmee","FL",3088,2406,2,4,676,30
+"Oshkosh-Neenah","WI",32,32,0,0,0,0
+"Owensboro","KY",32,32,0,0,0,0
+"Oxnard-Thousand Oaks-Ventura","CA",466,315,14,4,133,5
+"Palm Bay-Melbourne-Titusville","FL",610,439,2,3,166,6
+"Panama City-Lynn Haven","FL",600,87,8,68,437,3
+"Parkersburg-Marietta-Vienna","WV-OH",16,16,0,0,0,0
+"Pascagoula","MS",105,103,2,0,0,0
+"Pensacola-Ferry Pass-Brent","FL",158,154,4,0,0,0
+"Peoria","IL",47,37,10,0,0,0
+"Philadelphia-Camden-Wilmington","PA-NJ-DE-MD",1491,1078,12,22,379,15
+"Phoenix-Mesa-Scottsdale","AZ",4373,3374,10,116,873,43
+"Pine Bluff","AR",15,10,0,0,5,1
+"Pittsburgh","PA",397,357,6,14,20,4
+"Pittsfield","MA",4,4,0,0,0,0
+"Pocatello","ID",47,45,2,0,0,0
+"Port St. Lucie-Fort Pierce","FL",767,631,0,6,130,10
+"Portland-South Portland-Biddeford","ME",249,217,8,6,18,3
+"Portland-Vancouver-Beaverton","OR-WA",1552,1005,42,17,488,NA
+"Prescott","AZ",274,268,0,6,0,0
+"Providence-New Bedford-Fall River","RI-MA",286,203,18,15,50,6
+"Provo-Orem","UT",465,416,4,21,24,3
+"Pueblo","CO",116,116,0,0,0,0
+"Punta Gorda","FL",307,219,12,20,56,4
+"Racine","WI",77,73,4,0,0,0
+"Raleigh-Cary","NC",1655,1230,4,3,418,14
+"Rapid City","SD",68,66,2,0,0,0
+"Reading","PA",67,67,0,0,0,0
+"Redding","CA",51,43,0,8,0,0
+"Reno-Sparks","NV",358,327,2,18,11,2
+"Richmond","VA",910,884,0,8,18,1
+"Riverside-San Bernardino-Ontario","CA",4310,3915,80,11,304,25
+"Roanoke","VA",110,105,0,0,5,1
+"Rochester","MN",90,77,0,0,13,1
+"Rochester","NY",111,107,4,0,0,0
+"Rockford","IL",199,178,8,7,6,1
+"Rocky Mount","NC",55,47,4,4,0,0
+"Rome","GA",39,35,4,0,0,0
+"Sacramento--Arden-Arcade--Roseville","CA",901,748,16,21,116,10
+"Saginaw-Saginaw Township North","MI",19,19,0,0,0,0
+"Salem","OR",140,114,4,3,19,2
+"Salinas","CA",61,61,0,0,0,0
+"Salisbury","MD",65,53,0,0,12,1
+"Salt Lake City","UT",602,560,8,26,8,1
+"San Angelo","TX",28,28,0,0,0,0
+"San Antonio","TX",1461,1063,0,8,390,19
+"San Diego-Carlsbad-San Marcos","CA",462,356,8,12,86,8
+"San Francisco-Oakland-Fremont","CA",809,533,2,3,271,16
+"San Jose-Sunnyvale-Santa Clara","CA",502,130,0,0,372,13
+"San Luis Obispo-Paso Robles","CA",129,101,2,6,20,3
+"Sandusky","OH",6,0,0,0,6,1
+"Santa Barbara-Santa Maria","CA",91,83,2,6,0,0
+"Santa Cruz-Watsonville","CA",36,34,2,0,0,0
+"Santa Fe","NM",42,42,0,0,0,0
+"Santa Rosa-Petaluma","CA",153,93,0,0,60,1
+"Sarasota-Bradenton-Venice","FL",582,395,12,8,167,11
+"Savannah","GA",266,247,2,12,5,1
+"Scranton--Wilkes-Barre","PA",42,42,0,0,0,0
+"Seattle-Tacoma-Bellevue","WA",2564,1326,34,55,1149,23
+"Sebastian-Vero Beach","FL",321,291,0,0,30,6
+"Sheboygan","WI",14,12,2,0,0,0
+"Sherman-Denison","TX",2,2,0,0,0,0
+"Shreveport-Bossier City","LA",206,155,10,0,41,2
+"Sioux City","IA-NE-SD",17,15,2,0,0,0
+"Sioux Falls","SD",182,172,2,8,0,0
+"South Bend-Mishawaka","IN-MI",56,40,0,0,16,1
+"Spartanburg","SC",195,195,0,0,0,0
+"Spokane","WA",221,221,0,0,0,0
+"Springfield","IL",40,25,10,0,5,1
+"Springfield","MA",57,51,6,0,0,0
+"Springfield","MO",275,213,28,0,34,2
+"Springfield","OH",13,13,0,0,0,0
+"St. Cloud","MN",113,108,0,0,5,1
+"St. George","UT",250,200,2,0,48,2
+"St. Joseph","MO-KS",26,14,12,0,0,0
+"St. Louis","MO-IL",1114,1005,26,29,54,6
+"State College","PA",61,35,2,0,24,1
+"Stockton","CA",311,309,2,0,0,0
+"Sumter","SC",49,45,4,0,0,0
+"Syracuse","NY",97,89,0,0,8,1
+"Tallahassee","FL",358,243,6,20,89,4
+"Tampa-St. Petersburg-Clearwater","FL",2106,1851,8,22,225,NA
+"Texarkana","TX-TexarkanaAR",28,22,6,0,0,0
+"Toledo","OH",143,132,2,4,5,1
+"Topeka","KS",91,75,12,4,0,0
+"Trenton-Ewing","NJ",71,69,2,0,0,0
+"Tucson","AZ",771,742,10,4,15,2
+"Tulsa","OK",485,485,0,0,0,0
+"Tuscaloosa","AL",89,89,0,0,0,0
+"Tyler","TX",47,36,0,3,8,1
+"Utica-Rome","NY",2,2,0,0,0,0
+"Valdosta","GA",83,71,4,3,5,1
+"Vallejo-Fairfield","CA",101,97,0,4,0,0
+"Victoria","TX",10,10,0,0,0,0
+"Vineland-Millville-Bridgeton","NJ",54,50,0,4,0,0
+"Virginia Beach-Norfolk-Newport News","VA-NC",628,510,22,15,81,7
+"Visalia-Porterville","CA",208,176,8,24,0,0
+"Waco","TX",47,45,2,0,0,0
+"Warner Robins","GA",138,138,0,0,0,0
+"Washington-Arlington-Alexandria","DC-VA-MD-WV",2735,1776,4,0,955,12
+"Waterloo-Cedar Falls","IA",38,30,0,0,8,1
+"Wausau","WI",58,54,0,4,0,0
+"Weirton-Steubenville","WV-OH",1,1,0,0,0,0
+"Wenatchee","WA",49,49,0,0,0,0
+"Wheeling","WV-OH",0,0,0,0,0,0
+"Wichita Falls","TX",20,20,0,0,0,0
+"Wichita","KS",178,176,2,0,0,0
+"Williamsport","PA",3,3,0,0,0,0
+"Wilmington","NC",530,498,2,12,18,2
+"Winchester","VA-WV",122,122,0,0,0,0
+"Winston-Salem","NC",257,257,0,0,0,0
+"Worcester","MA",161,153,2,6,0,0
+"Yakima","WA",35,35,0,0,0,0
+"York-Hanover","PA",255,223,0,3,29,3
+"Youngstown-Warren-Boardman","OH-PA",76,67,6,3,0,0
+"Yuba City","CA",73,73,0,0,0,0
+"Yuma","AZ",117,112,0,0,5,1
+"Abilene","TX",21,19,2,0,0,0
+"Akron","OH",164,140,0,7,17,1
+"Albany","GA",68,58,2,3,5,1
+"Albany-Schenectady-Troy","NY",116,92,0,4,20,3
+"Albuquerque","NM",592,555,0,6,31,1
+"Alexandria","LA",60,60,0,0,0,0
+"Allentown-Bethlehem-Easton","PA-NJ",381,354,4,8,15,2
+"Altoona","PA",2,2,0,0,0,0
+"Amarillo","TX",64,64,0,0,0,0
+"Ames","IA",64,28,0,0,36,1
+"Anchorage","AK",367,127,44,0,196,7
+"Anderson","IN",17,17,0,0,0,0
+"Anderson","SC",105,105,0,0,0,0
+"Ann Arbor","MI",59,52,2,0,5,1
+"Anniston-Oxford","AL",46,15,0,24,7,1
+"Appleton","WI",82,46,4,0,32,2
+"Asheville","NC",357,301,4,8,44,2
+"Athens-Clarke County","GA",150,139,0,0,11,2
+"Atlanta-Sandy Springs-Marietta","GA",7734,5315,22,41,2356,45
+"Atlantic City","NJ",133,131,2,0,0,0
+"Auburn-Opelika","AL",245,130,0,0,115,4
+"Augusta-Richmond County","GA-SC",313,313,0,0,0,0
+"Austin-Round Rock","TX",1835,1525,26,9,275,3
+"Bakersfield","CA",658,548,10,36,64,5
+"Baltimore-Towson","MD",567,492,2,0,73,6
+"Bangor","ME",40,28,0,12,0,0
+"Barnstable Town","MA",84,71,0,0,13,2
+"Baton Rouge","LA",576,519,0,9,48,4
+"Battle Creek","MI",18,12,0,0,6,1
+"Bay City","MI",7,7,0,0,0,0
+"Beaumont-Port Arthur","TX",56,56,0,0,0,0
+"Bellingham","WA",159,124,0,0,35,2
+"Bend","OR",379,367,8,4,0,0
+"Billings","MT",64,64,0,0,0,0
+"Binghamton","NY",8,8,0,0,0,0
+"Birmingham-Hoover","AL",635,587,4,0,44,2
+"Bismarck","ND",64,60,0,4,0,0
+"Bloomington","IN",50,40,10,0,0,0
+"Bloomington-Normal","IL",57,47,0,0,10,1
+"Boise City-Nampa","ID",957,896,6,55,0,0
+"Boston-Cambridge-Quincy","MA-NH",1218,574,88,111,445,21
+"Boulder","CO",49,41,0,0,8,1
+"Bowling Green","KY",82,72,0,0,10,1
+"Bremerton-Silverdale","WA",85,85,0,0,0,0
+"Bridgeport-Stamford-Norwalk","CT",259,115,2,0,142,5
+"Brownsville-Harlingen","TX",247,239,4,4,0,0
+"Brunswick","GA",90,85,0,0,5,1
+"Buffalo-Niagara Falls","NY",330,142,34,4,150,1
+"Burlington","NC",134,134,0,0,0,0
+"Burlington-South Burlington","VT",53,45,4,4,0,0
+"Canton-Massillon","OH",205,200,0,0,5,1
+"Cape Coral-Fort Myers","FL",1751,1523,0,0,228,22
+"Carson City","NV",11,11,0,0,0,0
+"Casper","WY",60,60,0,0,0,0
+"Cedar Rapids","IA",145,76,6,42,21,2
+"Champaign-Urbana","IL",135,91,0,3,41,2
+"Charleston","WV",34,34,0,0,0,0
+"Charleston-North Charleston","SC",813,665,48,27,73,10
+"Charlotte-Gastonia-Concord","NC-SC",2034,1970,12,7,45,2
+"Charlottesville","VA",90,80,0,0,10,1
+"Chattanooga","TN-GA",243,226,4,6,7,1
+"Cheyenne","WY",75,56,0,4,15,1
+"Chicago-Naperville-Joliet","IL-IN-WI",4883,3189,72,227,1395,NA
+"Cincinnati-Middletown","OH-KY-IN",1114,876,8,49,181,10
+"Clarksville","TN-KY",195,183,0,0,12,2
+"Cleveland","TN",71,67,4,0,0,0
+"Cleveland-Elyria-Mentor","OH",509,472,8,14,15,3
+"Coeur dAlene","ID",206,177,8,0,21,2
+"College Station-Bryan","TX",84,76,8,0,0,0
+"Colorado Springs","CO",525,485,4,24,12,2
+"Columbia","MO",98,90,8,0,0,0
+"Columbia","SC",773,555,4,0,214,8
+"Columbus","GA-AL",217,183,0,6,28,2
+"Columbus","IN",27,27,0,0,0,0
+"Columbus","OH",750,587,28,63,72,3
+"Corpus Christi","TX",185,156,6,0,23,1
+"Corvallis","OR",16,16,0,0,0,0
+"Cumberland","MD-WV",9,9,0,0,0,0
+"Dallas-Fort Worth-Arlington","TX",5311,4336,32,20,923,49
+"Dalton","GA",83,69,2,3,9,1
+"Danville","IL",0,0,0,0,0,0
+"Danville","VA",21,21,0,0,0,0
+"Davenport-Moline-Rock Island","IA-IL",64,62,2,0,0,NA
+"Decatur","AL",30,30,0,0,0,0
+"Decatur","IL",3,3,0,0,0,0
+"Deltona-Daytona Beach-Ormond Beach","FL",426,356,0,0,70,3
+"Denver-Aurora","CO",2027,1477,0,19,531,20
+"Des Moines-West Des Moines","IA",393,386,2,0,5,1
+"Detroit-Warren-Livonia","MI",1040,941,22,38,39,7
+"Dothan","AL",50,43,0,0,7,1
+"Dover","DE",292,152,0,8,132,6
+"Dubuque","IA",33,31,2,0,0,0
+"Duluth","MN-WI",90,77,4,4,5,1
+"Durham","NC",400,386,0,4,10,1
+"Eau Claire","WI",102,88,14,0,0,0
+"El Centro","CA",116,103,0,3,10,1
+"El Paso","TX",278,270,0,8,0,0
+"Elizabethtown","KY",69,63,6,0,0,0
+"Elkhart-Goshen","IN",75,75,0,0,0,0
+"Elmira","NY",4,4,0,0,0,0
+"Erie","PA",79,43,2,4,30,3
+"Eugene-Springfield","OR",153,149,4,0,0,0
+"Evansville","IN-KY",110,90,0,0,20,2
+"Fairbanks","AK",40,40,0,0,0,0
+"Fargo","ND-MN",247,137,0,4,106,6
+"Farmington","NM",52,52,0,0,0,0
+"Fayetteville","NC",389,341,0,0,48,2
+"Fayetteville-Springdale-Rogers","AR-MO",356,279,24,14,39,3
+"Flagstaff","AZ",57,30,0,0,27,1
+"Flint","MI",57,57,0,0,0,0
+"Florence","SC",77,77,0,0,0,0
+"Florence-Muscle Shoals","AL",25,25,0,0,0,0
+"Fond du Lac","WI",20,12,8,0,0,0
+"Fort Collins-Loveland","CO",185,141,10,0,34,4
+"Fort Smith","AR-OK",57,51,6,0,0,0
+"Fort Walton Beach-Crestview-Destin","FL",118,88,0,0,30,3
+"Fort Wayne","IN",233,138,6,9,80,10
+"Fresno","CA",467,341,6,6,114,9
+"Gadsden","AL",39,15,0,0,24,3
+"Gainesville","FL",141,107,2,0,32,1
+"Gainesville","GA",129,129,0,0,0,0
+"Glens Falls","NY",92,57,0,35,0,0
+"Goldsboro","NC",49,49,0,0,0,0
+"Grand Forks","ND-MN",60,30,0,3,27,1
+"Grand Junction","CO",140,128,4,0,8,1
+"Grand Rapids-Wyoming","MI",335,309,2,6,18,2
+"Great Falls","MT",21,21,0,0,0,0
+"Greeley","CO",336,318,2,0,16,3
+"Green Bay","WI",157,136,4,0,17,2
+"Greensboro-High Point","NC",534,469,2,0,63,4
+"Greenville","NC",189,129,10,0,50,3
+"Greenville","SC",494,494,0,0,0,0
+"Gulfport-Biloxi","MS",458,412,32,6,8,1
+"Hagerstown-Martinsburg","MD-WV",175,169,6,0,0,0
+"Hanford-Corcoran","CA",56,56,0,0,0,0
+"Harrisburg-Carlisle","PA",141,141,0,0,0,0
+"Harrisonburg","VA",69,69,0,0,0,0
+"Hartford-West Hartford-East Hartford","CT",245,199,4,0,42,5
+"Hattiesburg","MS",14,14,0,0,0,0
+"Hickory-Lenoir-Morganton","NC",147,145,2,0,0,0
+"Hinesville-Fort Stewart","GA",1,1,0,0,0,0
+"Holland-Grand Haven","MI",112,105,0,0,7,1
+"Honolulu","HI",134,134,0,0,0,0
+"Hot Springs","AR",13,13,0,0,0,0
+"Houma-Bayou Cane-Thibodaux","LA",53,53,0,0,0,0
+"Houston-Sugar Land-Baytown","TX",7605,6299,34,121,1151,28
+"Huntington-Ashland","WV-KY-OH",6,6,0,0,0,0
+"Huntsville","AL",418,418,0,0,0,0
+"Idaho Falls","ID",163,155,0,8,0,0
+"Indianapolis-Carmel","IN",1088,934,44,32,78,7
+"Iowa City","IA",102,50,10,0,42,4
+"Ithaca","NY",16,6,0,0,10,2
+"Jackson","MI",68,28,0,0,40,2
+"Jackson","MS",318,318,0,0,0,0
+"Jackson","TN",68,64,4,0,0,0
+"Jacksonville","FL",2131,1106,64,36,925,41
+"Jacksonville","NC",198,178,20,0,0,0
+"Janesville","WI",77,49,4,3,21,2
+"Jefferson City","MO",33,18,2,3,10,1
+"Johnson City","TN",94,89,0,0,5,1
+"Johnstown","PA",4,4,0,0,0,0
+"Jonesboro","AR",62,60,2,0,0,0
+"Joplin","MO",19,19,0,0,0,0
+"Kalamazoo-Portage","MI",78,76,2,0,0,0
+"Kankakee-Bradley","IL",17,17,0,0,0,0
+"Kansas City","MO-KS",1226,891,76,104,155,10
+"Kennewick-Richland-Pasco","WA",176,152,2,10,12,1
+"Killeen-Temple-Fort Hood","TX",378,212,38,0,128,8
+"Kingsport-Bristol-Bristol","TN-VA",80,75,0,0,5,1
+"Kingston","NY",33,31,2,0,0,0
+"Knoxville","TN",433,425,4,4,0,0
+"Kokomo","IN",9,9,0,0,0,0
+"La Crosse","WI-MN",56,35,0,8,13,2
+"Lafayette","IN",90,90,0,0,0,0
+"Lafayette","LA",173,158,0,0,15,1
+"Lake Charles","LA",32,25,2,0,5,1
+"Lakeland","FL",680,661,6,8,5,1
+"Lancaster","PA",108,96,2,0,10,1
+"Lansing-East Lansing","MI",105,91,0,0,14,2
+"Laredo","TX",190,164,2,8,16,1
+"Las Cruces","NM",334,183,2,0,149,24
+"Las Vegas-Paradise","NV",3469,2338,0,76,1055,42
+"Lawrence","KS",128,56,0,0,72,9
+"Lawton","OK",26,24,2,0,0,0
+"Lebanon","PA",53,53,0,0,0,0
+"Lewiston","ID-WA",8,6,2,0,0,0
+"Lewiston-Auburn","ME",29,27,2,0,0,0
+"Lexington-Fayette","KY",429,372,4,4,49,5
+"Lima","OH",4,4,0,0,0,0
+"Lincoln","NE",126,110,4,0,12,1
+"Little Rock-North Little Rock","AR",254,246,8,0,0,0
+"Logan","UT-ID",79,63,0,3,13,2
+"Longview","TX",28,28,0,0,0,0
+"Longview","WA",36,36,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana","CA",2615,1344,50,58,1163,44
+"Louisville-Jefferson County","KY-IN",707,588,0,23,96,4
+"Lubbock","TX",134,116,18,0,0,0
+"Lynchburg","VA",128,128,0,0,0,0
+"Macon","GA",74,74,0,0,0,0
+"Madera","CA",107,107,0,0,0,0
+"Madison","WI",297,214,16,13,54,7
+"Manchester-Nashua","NH",107,103,4,0,0,0
+"Mansfield","OH",27,17,2,3,5,1
+"McAllen-Edinburg-Mission","TX",758,686,14,48,10,1
+"Medford","OR",146,117,6,0,23,1
+"Memphis","TN-MS-AR",1522,927,0,0,595,43
+"Merced","CA",361,361,0,0,0,0
+"Miami-Fort Lauderdale-Miami Beach","FL",3191,1250,56,33,1852,76
+"Michigan City-La Porte","IN",28,28,0,0,0,0
+"Midland","TX",50,50,0,0,0,0
+"Milwaukee-Waukesha-West Allis","WI",462,267,14,10,171,6
+"Minneapolis-St. Paul-Bloomington","MN-WI",1566,1351,12,12,191,12
+"Missoula","MT",26,26,0,0,0,0
+"Mobile","AL",249,183,2,48,16,2
+"Modesto","CA",326,293,4,3,26,2
+"Monroe","LA",60,49,0,0,11,2
+"Monroe","MI",49,49,0,0,0,0
+"Montgomery","AL",141,141,0,0,0,0
+"Morgantown","WV",4,4,0,0,0,0
+"Morristown","TN",30,30,0,0,0,0
+"Mount Vernon-Anacortes","WA",52,48,4,0,0,0
+"Muncie","IN",24,16,0,8,0,0
+"Muskegon-Norton Shores","MI",22,20,2,0,0,0
+"Myrtle Beach-Conway-North Myrtle Beach","SC",1025,727,12,12,274,17
+"Napa","CA",33,33,0,0,0,0
+"Naples-Marco Island","FL",247,159,0,60,28,4
+"Nashville-Davidson--Murfreesboro","TN",1521,1421,8,12,80,1
+"New Haven-Milford","CT",143,114,6,6,17,1
+"New Orleans-Metairie-Kenner","LA",416,367,16,33,0,0
+"New York-Northern New Jersey-Long Island","NY-NJ-PA",5199,1627,736,622,2214,117
+"Niles-Benton Harbor","MI",88,88,0,0,0,0
+"Norwich-New London","CT",71,63,2,0,6,1
+"Ocala","FL",723,695,28,0,0,0
+"Ocean City","NJ",214,65,20,19,110,4
+"Odessa","TX",30,30,0,0,0,0
+"Ogden-Clearfield","UT",386,342,14,15,15,2
+"Oklahoma City","OK",793,772,4,3,14,1
+"Olympia","WA",309,245,0,0,64,8
+"Omaha-Council Bluffs","NE-IA",451,441,6,4,0,0
+"Orlando-Kissimmee","FL",2680,2408,30,10,232,15
+"Oshkosh-Neenah","WI",103,37,6,0,60,9
+"Owensboro","KY",28,28,0,0,0,0
+"Oxnard-Thousand Oaks-Ventura","CA",341,202,2,8,129,4
+"Palm Bay-Melbourne-Titusville","FL",404,396,0,0,8,1
+"Panama City-Lynn Haven","FL",71,71,0,0,0,0
+"Parkersburg-Marietta-Vienna","WV-OH",25,25,0,0,0,0
+"Pascagoula","MS",196,174,2,0,20,4
+"Pensacola-Ferry Pass-Brent","FL",214,204,4,6,0,0
+"Peoria","IL",75,47,28,0,0,0
+"Philadelphia-Camden-Wilmington","PA-NJ-DE-MD",1325,1201,12,20,92,15
+"Phoenix-Mesa-Scottsdale","AZ",4967,4007,20,84,856,67
+"Pine Bluff","AR",24,11,8,0,5,1
+"Pittsburgh","PA",451,401,10,20,20,4
+"Pittsfield","MA",4,4,0,0,0,0
+"Pocatello","ID",69,63,6,0,0,0
+"Port St. Lucie-Fort Pierce","FL",539,505,0,9,25,1
+"Portland-South Portland-Biddeford","ME",260,222,10,10,18,3
+"Portland-Vancouver-Beaverton","OR-WA",1953,1112,10,24,807,NA
+"Prescott","AZ",391,379,8,4,0,0
+"Providence-New Bedford-Fall River","RI-MA",339,245,54,9,31,3
+"Provo-Orem","UT",570,504,12,15,39,3
+"Pueblo","CO",146,142,4,0,0,0
+"Punta Gorda","FL",381,247,14,64,56,4
+"Racine","WI",52,50,2,0,0,0
+"Raleigh-Cary","NC",1715,1485,2,0,228,5
+"Rapid City","SD",80,78,2,0,0,0
+"Reading","PA",84,60,12,0,12,1
+"Redding","CA",84,64,4,16,0,0
+"Reno-Sparks","NV",533,422,0,0,111,7
+"Richmond","VA",823,737,0,12,74,2
+"Riverside-San Bernardino-Ontario","CA",4150,3751,30,84,285,21
+"Roanoke","VA",104,99,0,0,5,1
+"Rochester","MN",100,79,0,0,21,1
+"Rochester","NY",137,133,0,4,0,0
+"Rockford","IL",181,170,4,7,0,0
+"Rocky Mount","NC",66,58,4,4,0,0
+"Rome","GA",39,35,4,0,0,0
+"Sacramento--Arden-Arcade--Roseville","CA",1267,941,6,25,295,28
+"Saginaw-Saginaw Township North","MI",22,20,2,0,0,0
+"Salem","OR",157,127,4,3,23,2
+"Salinas","CA",95,95,0,0,0,0
+"Salisbury","MD",270,211,0,0,59,3
+"Salt Lake City","UT",798,601,4,0,193,8
+"San Angelo","TX",38,38,0,0,0,0
+"San Antonio","TX",1397,1217,4,11,165,22
+"San Diego-Carlsbad-San Marcos","CA",824,712,8,18,86,12
+"San Francisco-Oakland-Fremont","CA",1991,649,6,12,1324,28
+"San Jose-Sunnyvale-Santa Clara","CA",334,258,0,0,76,8
+"San Luis Obispo-Paso Robles","CA",108,98,4,6,0,0
+"Sandusky","OH",1,1,0,0,0,0
+"Santa Barbara-Santa Maria","CA",88,81,2,0,5,1
+"Santa Cruz-Watsonville","CA",14,14,0,0,0,0
+"Santa Fe","NM",47,47,0,0,0,0
+"Santa Rosa-Petaluma","CA",183,109,4,0,70,3
+"Sarasota-Bradenton-Venice","FL",913,630,2,32,249,10
+"Savannah","GA",310,299,2,4,5,1
+"Scranton--Wilkes-Barre","PA",39,34,2,3,0,0
+"Seattle-Tacoma-Bellevue","WA",2728,1415,58,22,1233,24
+"Sebastian-Vero Beach","FL",318,316,2,0,0,0
+"Sheboygan","WI",98,19,6,0,73,1
+"Sherman-Denison","TX",3,3,0,0,0,0
+"Shreveport-Bossier City","LA",220,171,12,0,37,1
+"Sioux City","IA-NE-SD",28,26,2,0,0,0
+"Sioux Falls","SD",209,140,6,23,40,2
+"South Bend-Mishawaka","IN-MI",54,47,0,0,7,1
+"Spartanburg","SC",210,210,0,0,0,0
+"Spokane","WA",299,214,0,3,82,2
+"Springfield","IL",49,29,14,0,6,1
+"Springfield","MA",86,62,20,4,0,0
+"Springfield","MO",337,215,30,24,68,4
+"Springfield","OH",29,29,0,0,0,0
+"St. Cloud","MN",112,99,2,0,11,2
+"St. George","UT",197,191,2,4,0,0
+"St. Joseph","MO-KS",13,13,0,0,0,0
+"St. Louis","MO-IL",1288,1129,18,29,112,9
+"State College","PA",55,55,0,0,0,0
+"Stockton","CA",423,416,2,0,5,1
+"Sumter","SC",55,49,6,0,0,0
+"Syracuse","NY",84,84,0,0,0,0
+"Tallahassee","FL",377,261,6,27,83,3
+"Tampa-St. Petersburg-Clearwater","FL",2612,2164,58,81,309,NA
+"Texarkana","TX-TexarkanaAR",26,16,10,0,0,0
+"Toledo","OH",195,154,8,4,29,2
+"Topeka","KS",51,51,0,0,0,0
+"Trenton-Ewing","NJ",86,84,2,0,0,0
+"Tucson","AZ",929,896,14,8,11,1
+"Tulsa","OK",417,417,0,0,0,0
+"Tuscaloosa","AL",116,87,0,0,29,2
+"Tyler","TX",50,40,0,3,7,1
+"Utica-Rome","NY",3,3,0,0,0,0
+"Valdosta","GA",96,96,0,0,0,0
+"Vallejo-Fairfield","CA",196,196,0,0,0,0
+"Victoria","TX",11,11,0,0,0,0
+"Vineland-Millville-Bridgeton","NJ",80,75,0,0,5,1
+"Virginia Beach-Norfolk-Newport News","VA-NC",693,576,10,27,80,6
+"Visalia-Porterville","CA",308,232,32,15,29,3
+"Waco","TX",90,54,36,0,0,0
+"Warner Robins","GA",126,126,0,0,0,0
+"Washington-Arlington-Alexandria","DC-VA-MD-WV",2625,1892,8,0,725,10
+"Waterloo-Cedar Falls","IA",68,58,0,0,10,1
+"Wausau","WI",46,42,4,0,0,0
+"Weirton-Steubenville","WV-OH",6,6,0,0,0,0
+"Wenatchee","WA",46,46,0,0,0,0
+"Wheeling","WV-OH",0,0,0,0,0,0
+"Wichita Falls","TX",18,18,0,0,0,0
+"Wichita","KS",246,224,8,8,6,1
+"Williamsport","PA",3,3,0,0,0,0
+"Wilmington","NC",583,544,6,3,30,2
+"Winchester","VA-WV",184,184,0,0,0,0
+"Winston-Salem","NC",261,257,0,4,0,0
+"Worcester","MA",164,153,2,9,0,0
+"Yakima","WA",36,36,0,0,0,0
+"York-Hanover","PA",300,191,8,8,93,3
+"Youngstown-Warren-Boardman","OH-PA",108,79,10,19,0,0
+"Yuba City","CA",129,93,0,0,36,6
+"Yuma","AZ",189,184,0,0,5,1
+"Abilene","TX",44,42,2,0,0,0
+"Akron","OH",171,146,2,4,19,1
+"Albany","GA",53,47,2,4,0,0
+"Albany-Schenectady-Troy","NY",187,117,0,27,43,3
+"Albuquerque","NM",561,525,0,6,30,1
+"Alexandria","LA",68,68,0,0,0,0
+"Allentown-Bethlehem-Easton","PA-NJ",419,390,4,3,22,2
+"Altoona","PA",2,2,0,0,0,0
+"Amarillo","TX",80,80,0,0,0,0
+"Ames","IA",42,25,0,0,17,1
+"Anchorage","AK",159,98,8,3,50,7
+"Anderson","IN",36,30,0,0,6,1
+"Anderson","SC",117,117,0,0,0,0
+"Ann Arbor","MI",63,53,0,0,10,2
+"Anniston-Oxford","AL",20,20,0,0,0,0
+"Appleton","WI",81,79,2,0,0,0
+"Asheville","NC",345,297,4,15,29,3
+"Athens-Clarke County","GA",94,70,2,0,22,2
+"Atlanta-Sandy Springs-Marietta","GA",6188,5637,22,11,518,26
+"Atlantic City","NJ",146,133,0,0,13,2
+"Auburn-Opelika","AL",126,126,0,0,0,0
+"Augusta-Richmond County","GA-SC",248,248,0,0,0,0
+"Austin-Round Rock","TX",2155,1631,80,9,435,8
+"Bakersfield","CA",772,651,22,39,60,8
+"Baltimore-Towson","MD",911,719,0,26,166,11
+"Bangor","ME",42,36,2,4,0,0
+"Barnstable Town","MA",67,56,0,0,11,1
+"Baton Rouge","LA",502,441,2,3,56,6
+"Battle Creek","MI",18,11,0,0,7,1
+"Bay City","MI",7,7,0,0,0,0
+"Beaumont-Port Arthur","TX",521,41,0,0,480,2
+"Bellingham","WA",128,101,0,3,24,3
+"Bend","OR",407,371,12,24,0,0
+"Billings","MT",85,85,0,0,0,0
+"Binghamton","NY",10,10,0,0,0,0
+"Birmingham-Hoover","AL",587,507,12,0,68,1
+"Bismarck","ND",221,65,0,12,144,13
+"Bloomington","IN",49,49,0,0,0,0
+"Bloomington-Normal","IL",71,59,0,0,12,1
+"Boise City-Nampa","ID",835,703,6,114,12,2
+"Boston-Cambridge-Quincy","MA-NH",1517,646,76,96,699,32
+"Boulder","CO",52,37,0,3,12,1
+"Bowling Green","KY",104,82,6,0,16,1
+"Bremerton-Silverdale","WA",111,85,0,0,26,1
+"Bridgeport-Stamford-Norwalk","CT",106,97,4,0,5,1
+"Brownsville-Harlingen","TX",272,270,2,0,0,0
+"Brunswick","GA",89,83,0,0,6,1
+"Buffalo-Niagara Falls","NY",206,97,2,0,107,1
+"Burlington","NC",123,123,0,0,0,0
+"Burlington-South Burlington","VT",67,51,4,7,5,1
+"Canton-Massillon","OH",80,74,0,0,6,1
+"Cape Coral-Fort Myers","FL",1667,1369,8,0,290,30
+"Carson City","NV",3,3,0,0,0,0
+"Casper","WY",45,45,0,0,0,0
+"Cedar Rapids","IA",92,76,10,6,0,0
+"Champaign-Urbana","IL",221,103,0,12,106,12
+"Charleston","WV",24,24,0,0,0,0
+"Charleston-North Charleston","SC",764,708,0,0,56,4
+"Charlotte-Gastonia-Concord","NC-SC",2213,1900,4,3,306,13
+"Charlottesville","VA",106,106,0,0,0,0
+"Chattanooga","TN-GA",269,253,2,6,8,1
+"Cheyenne","WY",69,53,0,4,12,2
+"Chicago-Naperville-Joliet","IL-IN-WI",4059,2685,56,162,1156,NA
+"Cincinnati-Middletown","OH-KY-IN",832,715,10,37,70,9
+"Clarksville","TN-KY",409,268,4,12,125,6
+"Cleveland","TN",45,45,0,0,0,0
+"Cleveland-Elyria-Mentor","OH",516,485,2,9,20,3
+"Coeur dAlene","ID",183,136,14,0,33,3
+"College Station-Bryan","TX",103,78,0,3,22,1
+"Colorado Springs","CO",396,370,2,14,10,1
+"Columbia","MO",189,118,28,4,39,3
+"Columbia","SC",675,617,0,0,58,4
+"Columbus","GA-AL",179,142,0,3,34,4
+"Columbus","IN",29,29,0,0,0,0
+"Columbus","OH",1012,570,16,102,324,20
+"Corpus Christi","TX",209,179,4,0,26,2
+"Corvallis","OR",19,17,2,0,0,0
+"Cumberland","MD-WV",13,13,0,0,0,0
+"Dallas-Fort Worth-Arlington","TX",7374,4730,110,24,2510,115
+"Dalton","GA",84,69,0,6,9,1
+"Danville","IL",1,1,0,0,0,0
+"Danville","VA",22,22,0,0,0,0
+"Davenport-Moline-Rock Island","IA-IL",97,69,4,0,24,NA
+"Decatur","AL",29,29,0,0,0,0
+"Decatur","IL",0,0,0,0,0,0
+"Deltona-Daytona Beach-Ormond Beach","FL",565,374,4,0,187,5
+"Denver-Aurora","CO",1922,1397,0,34,491,17
+"Des Moines-West Des Moines","IA",680,431,4,0,245,14
+"Detroit-Warren-Livonia","MI",1075,845,10,19,201,8
+"Dothan","AL",53,44,0,0,9,1
+"Dover","DE",145,145,0,0,0,0
+"Dubuque","IA",22,20,2,0,0,0
+"Duluth","MN-WI",81,67,4,0,10,2
+"Durham","NC",358,342,4,3,9,1
+"Eau Claire","WI",51,49,2,0,0,0
+"El Centro","CA",130,119,2,0,9,1
+"El Paso","TX",341,341,0,0,0,0
+"Elizabethtown","KY",194,60,18,4,112,8
+"Elkhart-Goshen","IN",90,85,0,0,5,1
+"Elmira","NY",4,4,0,0,0,0
+"Erie","PA",40,38,2,0,0,0
+"Eugene-Springfield","OR",201,130,10,7,54,2
+"Evansville","IN-KY",87,83,0,4,0,0
+"Fairbanks","AK",95,95,0,0,0,0
+"Fargo","ND-MN",161,157,0,4,0,0
+"Farmington","NM",46,46,0,0,0,0
+"Fayetteville","NC",234,234,0,0,0,0
+"Fayetteville-Springdale-Rogers","AR-MO",476,428,14,7,27,4
+"Flagstaff","AZ",61,61,0,0,0,0
+"Flint","MI",48,48,0,0,0,0
+"Florence","SC",74,74,0,0,0,0
+"Florence-Muscle Shoals","AL",21,21,0,0,0,0
+"Fond du Lac","WI",15,15,0,0,0,0
+"Fort Collins-Loveland","CO",154,124,2,4,24,3
+"Fort Smith","AR-OK",79,63,12,4,0,0
+"Fort Walton Beach-Crestview-Destin","FL",180,96,0,0,84,3
+"Fort Wayne","IN",143,139,4,0,0,0
+"Fresno","CA",446,320,8,8,110,11
+"Gadsden","AL",23,23,0,0,0,0
+"Gainesville","FL",199,121,0,4,74,4
+"Gainesville","GA",125,116,0,0,9,1
+"Glens Falls","NY",64,64,0,0,0,0
+"Goldsboro","NC",41,39,2,0,0,0
+"Grand Forks","ND-MN",56,56,0,0,0,0
+"Grand Junction","CO",157,157,0,0,0,0
+"Grand Rapids-Wyoming","MI",266,243,2,3,18,2
+"Great Falls","MT",16,16,0,0,0,0
+"Greeley","CO",349,317,20,0,12,2
+"Green Bay","WI",196,166,2,0,28,3
+"Greensboro-High Point","NC",578,429,0,4,145,14
+"Greenville","NC",268,196,18,0,54,3
+"Greenville","SC",458,451,2,0,5,1
+"Gulfport-Biloxi","MS",535,488,16,7,24,2
+"Hagerstown-Martinsburg","MD-WV",235,197,2,0,36,3
+"Hanford-Corcoran","CA",56,56,0,0,0,0
+"Harrisburg-Carlisle","PA",120,120,0,0,0,0
+"Harrisonburg","VA",93,79,14,0,0,0
+"Hartford-West Hartford-East Hartford","CT",291,201,14,3,73,6
+"Hattiesburg","MS",15,15,0,0,0,0
+"Hickory-Lenoir-Morganton","NC",137,137,0,0,0,0
+"Hinesville-Fort Stewart","GA",47,47,0,0,0,0
+"Holland-Grand Haven","MI",88,77,0,0,11,1
+"Honolulu","HI",222,182,0,0,40,1
+"Hot Springs","AR",13,13,0,0,0,0
+"Houma-Bayou Cane-Thibodaux","LA",53,53,0,0,0,0
+"Houston-Sugar Land-Baytown","TX",6572,5222,10,4,1336,39
+"Huntington-Ashland","WV-KY-OH",5,5,0,0,0,0
+"Huntsville","AL",333,333,0,0,0,0
+"Idaho Falls","ID",147,143,0,4,0,0
+"Indianapolis-Carmel","IN",1099,943,36,7,113,13
+"Iowa City","IA",83,47,0,0,36,3
+"Ithaca","NY",68,7,0,0,61,8
+"Jackson","MI",44,21,0,0,23,1
+"Jackson","MS",285,285,0,0,0,0
+"Jackson","TN",85,51,2,0,32,4
+"Jacksonville","FL",1960,1204,48,8,700,44
+"Jacksonville","NC",105,105,0,0,0,0
+"Janesville","WI",65,40,6,0,19,1
+"Jefferson City","MO",34,27,2,0,5,1
+"Johnson City","TN",148,87,4,12,45,6
+"Johnstown","PA",1,1,0,0,0,0
+"Jonesboro","AR",42,42,0,0,0,0
+"Joplin","MO",61,15,0,0,46,2
+"Kalamazoo-Portage","MI",74,70,4,0,0,0
+"Kankakee-Bradley","IL",8,8,0,0,0,0
+"Kansas City","MO-KS",1279,747,30,89,413,28
+"Kennewick-Richland-Pasco","WA",178,153,2,12,11,1
+"Killeen-Temple-Fort Hood","TX",229,169,44,16,0,0
+"Kingsport-Bristol-Bristol","TN-VA",77,72,0,0,5,1
+"Kingston","NY",32,24,0,3,5,1
+"Knoxville","TN",401,398,0,3,0,0
+"Kokomo","IN",9,9,0,0,0,0
+"La Crosse","WI-MN",57,38,4,4,11,2
+"Lafayette","IN",67,67,0,0,0,0
+"Lafayette","LA",342,174,0,0,168,6
+"Lake Charles","LA",30,25,0,0,5,1
+"Lakeland","FL",583,570,2,0,11,1
+"Lancaster","PA",109,97,0,7,5,1
+"Lansing-East Lansing","MI",95,74,0,0,21,3
+"Laredo","TX",183,158,2,4,19,2
+"Las Cruces","NM",200,200,0,0,0,0
+"Las Vegas-Paradise","NV",3039,2106,0,59,874,38
+"Lawrence","KS",46,46,0,0,0,0
+"Lawton","OK",255,19,0,8,228,10
+"Lebanon","PA",45,45,0,0,0,0
+"Lewiston","ID-WA",6,4,2,0,0,0
+"Lewiston-Auburn","ME",31,31,0,0,0,0
+"Lexington-Fayette","KY",372,343,0,3,26,1
+"Lima","OH",4,4,0,0,0,0
+"Lincoln","NE",120,100,2,0,18,2
+"Little Rock-North Little Rock","AR",336,310,0,0,26,1
+"Logan","UT-ID",86,54,0,3,29,2
+"Longview","TX",37,37,0,0,0,0
+"Longview","WA",32,30,2,0,0,0
+"Los Angeles-Long Beach-Santa Ana","CA",3350,1687,92,79,1492,77
+"Louisville-Jefferson County","KY-IN",757,637,4,12,104,4
+"Lubbock","TX",108,108,0,0,0,0
+"Lynchburg","VA",168,168,0,0,0,0
+"Macon","GA",67,67,0,0,0,0
+"Madera","CA",131,115,0,16,0,0
+"Madison","WI",329,190,6,20,113,12
+"Manchester-Nashua","NH",95,65,2,4,24,1
+"Mansfield","OH",17,15,2,0,0,0
+"McAllen-Edinburg-Mission","TX",791,757,2,32,0,0
+"Medford","OR",118,113,0,0,5,1
+"Memphis","TN-MS-AR",854,819,4,0,31,1
+"Merced","CA",220,218,2,0,0,0
+"Miami-Fort Lauderdale-Miami Beach","FL",2661,1359,66,10,1226,82
+"Michigan City-La Porte","IN",25,25,0,0,0,0
+"Midland","TX",36,36,0,0,0,0
+"Milwaukee-Waukesha-West Allis","WI",408,256,18,12,122,8
+"Minneapolis-St. Paul-Bloomington","MN-WI",1804,1288,4,15,497,16
+"Missoula","MT",55,45,10,0,0,0
+"Mobile","AL",220,203,0,0,17,2
+"Modesto","CA",268,243,0,0,25,1
+"Monroe","LA",61,47,0,0,14,2
+"Monroe","MI",32,30,2,0,0,0
+"Montgomery","AL",154,137,4,0,13,1
+"Morgantown","WV",4,4,0,0,0,0
+"Morristown","TN",42,37,2,3,0,0
+"Mount Vernon-Anacortes","WA",61,61,0,0,0,0
+"Muncie","IN",10,10,0,0,0,0
+"Muskegon-Norton Shores","MI",33,27,6,0,0,0
+"Myrtle Beach-Conway-North Myrtle Beach","SC",865,659,0,0,206,9
+"Napa","CA",9,9,0,0,0,0
+"Naples-Marco Island","FL",320,198,0,64,58,8
+"Nashville-Davidson--Murfreesboro","TN",1462,1269,28,0,165,12
+"New Haven-Milford","CT",187,84,14,0,89,3
+"New Orleans-Metairie-Kenner","LA",442,417,16,0,9,1
+"New York-Northern New Jersey-Long Island","NY-NJ-PA",6228,1585,686,845,3112,97
+"Niles-Benton Harbor","MI",9,9,0,0,0,0
+"Norwich-New London","CT",78,68,4,0,6,1
+"Ocala","FL",706,664,18,11,13,2
+"Ocean City","NJ",81,39,16,15,11,2
+"Odessa","TX",22,22,0,0,0,0
+"Ogden-Clearfield","UT",446,446,0,0,0,0
+"Oklahoma City","OK",721,703,2,0,16,1
+"Olympia","WA",470,290,2,0,178,11
+"Omaha-Council Bluffs","NE-IA",542,406,4,0,132,3
+"Orlando-Kissimmee","FL",2995,2419,4,38,534,30
+"Oshkosh-Neenah","WI",53,33,6,8,6,1
+"Owensboro","KY",42,40,2,0,0,0
+"Oxnard-Thousand Oaks-Ventura","CA",249,201,2,7,39,1
+"Palm Bay-Melbourne-Titusville","FL",389,340,2,0,47,4
+"Panama City-Lynn Haven","FL",407,69,4,0,334,14
+"Parkersburg-Marietta-Vienna","WV-OH",22,22,0,0,0,0
+"Pascagoula","MS",97,77,4,16,0,0
+"Pensacola-Ferry Pass-Brent","FL",192,192,0,0,0,0
+"Peoria","IL",93,51,10,0,32,2
+"Philadelphia-Camden-Wilmington","PA-NJ-DE-MD",1579,1115,6,16,442,17
+"Phoenix-Mesa-Scottsdale","AZ",4538,3800,4,54,680,51
+"Pine Bluff","AR",13,8,0,0,5,1
+"Pittsburgh","PA",557,467,16,12,62,6
+"Pittsfield","MA",3,3,0,0,0,0
+"Pocatello","ID",53,49,4,0,0,0
+"Port St. Lucie-Fort Pierce","FL",527,480,0,10,37,3
+"Portland-South Portland-Biddeford","ME",242,210,14,10,8,1
+"Portland-Vancouver-Beaverton","OR-WA",1694,1031,14,20,629,NA
+"Prescott","AZ",230,216,10,4,0,0
+"Providence-New Bedford-Fall River","RI-MA",335,247,34,10,44,4
+"Provo-Orem","UT",631,561,8,12,50,5
+"Pueblo","CO",119,115,4,0,0,0
+"Punta Gorda","FL",325,239,8,16,62,5
+"Racine","WI",47,47,0,0,0,0
+"Raleigh-Cary","NC",1986,1385,2,8,591,28
+"Rapid City","SD",122,68,0,0,54,4
+"Reading","PA",51,49,2,0,0,0
+"Redding","CA",79,63,0,16,0,0
+"Reno-Sparks","NV",486,351,0,11,124,11
+"Richmond","VA",714,695,2,12,5,1
+"Riverside-San Bernardino-Ontario","CA",4428,3750,70,95,513,44
+"Roanoke","VA",124,117,2,0,5,1
+"Rochester","MN",99,71,0,0,28,1
+"Rochester","NY",147,135,4,8,0,0
+"Rockford","IL",164,150,14,0,0,0
+"Rocky Mount","NC",58,50,4,4,0,0
+"Rome","GA",49,35,6,0,8,1
+"Sacramento--Arden-Arcade--Roseville","CA",1267,1064,6,0,197,10
+"Saginaw-Saginaw Township North","MI",11,9,2,0,0,0
+"Salem","OR",160,133,4,0,23,3
+"Salinas","CA",62,58,0,4,0,0
+"Salisbury","MD",162,73,0,0,89,5
+"Salt Lake City","UT",877,754,12,13,98,4
+"San Angelo","TX",32,32,0,0,0,0
+"San Antonio","TX",1820,1475,2,0,343,13
+"San Diego-Carlsbad-San Marcos","CA",1350,420,34,46,850,34
+"San Francisco-Oakland-Fremont","CA",1245,663,18,35,529,18
+"San Jose-Sunnyvale-Santa Clara","CA",323,233,2,0,88,5
+"San Luis Obispo-Paso Robles","CA",257,198,24,15,20,4
+"Sandusky","OH",0,0,0,0,0,0
+"Santa Barbara-Santa Maria","CA",49,44,0,0,5,1
+"Santa Cruz-Watsonville","CA",30,26,0,4,0,0
+"Santa Fe","NM",45,45,0,0,0,0
+"Santa Rosa-Petaluma","CA",130,85,4,7,34,2
+"Sarasota-Bradenton-Venice","FL",584,523,6,11,44,5
+"Savannah","GA",337,320,4,3,10,2
+"Scranton--Wilkes-Barre","PA",34,34,0,0,0,0
+"Seattle-Tacoma-Bellevue","WA",2325,1450,60,38,777,25
+"Sebastian-Vero Beach","FL",220,200,0,4,16,2
+"Sheboygan","WI",23,17,6,0,0,0
+"Sherman-Denison","TX",2,2,0,0,0,0
+"Shreveport-Bossier City","LA",201,146,12,0,43,2
+"Sioux City","IA-NE-SD",21,21,0,0,0,0
+"Sioux Falls","SD",161,149,4,0,8,1
+"South Bend-Mishawaka","IN-MI",55,46,2,0,7,1
+"Spartanburg","SC",180,180,0,0,0,0
+"Spokane","WA",394,197,0,0,197,11
+"Springfield","IL",27,17,10,0,0,0
+"Springfield","MA",79,67,12,0,0,0
+"Springfield","MO",242,150,6,0,86,6
+"Springfield","OH",42,42,0,0,0,0
+"St. Cloud","MN",98,92,0,0,6,1
+"St. George","UT",209,201,0,8,0,0
+"St. Joseph","MO-KS",12,10,2,0,0,0
+"St. Louis","MO-IL",1152,989,28,16,119,5
+"State College","PA",41,37,4,0,0,0
+"Stockton","CA",304,296,0,8,0,0
+"Sumter","SC",52,48,4,0,0,0
+"Syracuse","NY",98,87,0,0,11,1
+"Tallahassee","FL",330,217,2,16,95,4
+"Tampa-St. Petersburg-Clearwater","FL",2098,1865,12,94,127,NA
+"Texarkana","TX-TexarkanaAR",21,21,0,0,0,0
+"Toledo","OH",237,165,6,0,66,3
+"Topeka","KS",70,70,0,0,0,0
+"Trenton-Ewing","NJ",196,87,18,0,91,3
+"Tucson","AZ",827,792,14,7,14,2
+"Tulsa","OK",451,449,2,0,0,0
+"Tuscaloosa","AL",131,96,0,0,35,2
+"Tyler","TX",49,38,0,3,8,1
+"Utica-Rome","NY",3,3,0,0,0,0
+"Valdosta","GA",136,132,4,0,0,0
+"Vallejo-Fairfield","CA",110,102,0,8,0,0
+"Victoria","TX",11,11,0,0,0,0
+"Vineland-Millville-Bridgeton","NJ",76,73,0,3,0,0
+"Virginia Beach-Norfolk-Newport News","VA-NC",630,438,22,24,146,13
+"Visalia-Porterville","CA",302,298,0,4,0,0
+"Waco","TX",47,47,0,0,0,0
+"Warner Robins","GA",103,103,0,0,0,0
+"Washington-Arlington-Alexandria","DC-VA-MD-WV",2379,1830,6,0,543,13
+"Waterloo-Cedar Falls","IA",47,33,4,0,10,1
+"Wausau","WI",45,43,2,0,0,0
+"Weirton-Steubenville","WV-OH",4,4,0,0,0,0
+"Wenatchee","WA",71,67,4,0,0,0
+"Wheeling","WV-OH",0,0,0,0,0,0
+"Wichita Falls","TX",26,26,0,0,0,0
+"Wichita","KS",609,245,28,0,336,10
+"Williamsport","PA",2,2,0,0,0,0
+"Wilmington","NC",615,566,2,0,47,2
+"Winchester","VA-WV",152,152,0,0,0,0
+"Winston-Salem","NC",452,251,0,0,201,14
+"Worcester","MA",162,135,12,10,5,1
+"Yakima","WA",32,32,0,0,0,0
+"York-Hanover","PA",204,175,0,24,5,1
+"Youngstown-Warren-Boardman","OH-PA",86,81,2,3,0,0
+"Yuba City","CA",67,67,0,0,0,0
+"Yuma","AZ",134,127,2,0,5,1
+"Abilene","TX",38,38,0,0,0,0
+"Akron","OH",115,94,4,0,17,1
+"Albany","GA",45,40,0,0,5,1
+"Albany-Schenectady-Troy","NY",160,97,2,8,53,4
+"Albuquerque","NM",411,387,0,4,20,1
+"Alexandria","LA",55,55,0,0,0,0
+"Allentown-Bethlehem-Easton","PA-NJ",333,306,2,3,22,3
+"Altoona","PA",1,1,0,0,0,0
+"Amarillo","TX",32,32,0,0,0,0
+"Ames","IA",18,18,0,0,0,0
+"Anchorage","AK",64,49,8,0,7,1
+"Anderson","IN",21,21,0,0,0,0
+"Anderson","SC",89,89,0,0,0,0
+"Ann Arbor","MI",54,47,2,0,5,1
+"Anniston-Oxford","AL",18,14,4,0,0,0
+"Appleton","WI",64,62,2,0,0,0
+"Asheville","NC",256,234,14,0,8,1
+"Athens-Clarke County","GA",94,73,0,0,21,3
+"Atlanta-Sandy Springs-Marietta","GA",5422,4787,8,43,584,21
+"Atlantic City","NJ",157,134,2,0,21,2
+"Auburn-Opelika","AL",141,121,0,0,20,1
+"Augusta-Richmond County","GA-SC",165,163,2,0,0,0
+"Austin-Round Rock","TX",1601,1165,24,34,378,5
+"Bakersfield","CA",501,398,14,44,45,4
+"Baltimore-Towson","MD",578,502,4,4,68,6
+"Bangor","ME",31,31,0,0,0,0
+"Barnstable Town","MA",68,60,2,0,6,1
+"Baton Rouge","LA",466,410,4,3,49,5
+"Battle Creek","MI",19,12,0,0,7,1
+"Bay City","MI",4,4,0,0,0,0
+"Beaumont-Port Arthur","TX",22,22,0,0,0,0
+"Bellingham","WA",96,94,2,0,0,0
+"Bend","OR",272,253,8,11,0,0
+"Billings","MT",57,57,0,0,0,0
+"Binghamton","NY",7,7,0,0,0,0
+"Birmingham-Hoover","AL",581,546,4,0,31,1
+"Bismarck","ND",70,70,0,0,0,0
+"Bloomington","IN",50,50,0,0,0,0
+"Bloomington-Normal","IL",50,37,2,0,11,1
+"Boise City-Nampa","ID",739,627,8,35,69,1
+"Boston-Cambridge-Quincy","MA-NH",1116,531,42,20,523,24
+"Boulder","CO",31,22,0,0,9,1
+"Bowling Green","KY",77,55,6,0,16,2
+"Bremerton-Silverdale","WA",85,68,0,0,17,1
+"Bridgeport-Stamford-Norwalk","CT",129,83,32,3,11,2
+"Brownsville-Harlingen","TX",218,218,0,0,0,0
+"Brunswick","GA",73,67,0,0,6,1
+"Buffalo-Niagara Falls","NY",86,74,4,0,8,1
+"Burlington","NC",111,111,0,0,0,0
+"Burlington-South Burlington","VT",89,43,4,9,33,3
+"Canton-Massillon","OH",46,41,0,0,5,1
+"Cape Coral-Fort Myers","FL",1137,1013,0,0,124,17
+"Carson City","NV",9,9,0,0,0,0
+"Casper","WY",20,20,0,0,0,0
+"Cedar Rapids","IA",112,75,2,17,18,3
+"Champaign-Urbana","IL",134,95,0,0,39,2
+"Charleston","WV",18,18,0,0,0,0
+"Charleston-North Charleston","SC",645,557,6,7,75,8
+"Charlotte-Gastonia-Concord","NC-SC",2081,1752,4,3,322,4
+"Charlottesville","VA",84,84,0,0,0,0
+"Chattanooga","TN-GA",229,204,10,9,6,1
+"Cheyenne","WY",54,39,0,6,9,1
+"Chicago-Naperville-Joliet","IL-IN-WI",4415,2401,82,201,1731,NA
+"Cincinnati-Middletown","OH-KY-IN",652,541,4,40,67,7
+"Clarksville","TN-KY",414,170,0,60,184,11
+"Cleveland","TN",42,40,2,0,0,0
+"Cleveland-Elyria-Mentor","OH",407,358,10,29,10,2
+"Coeur dAlene","ID",157,109,10,0,38,2
+"College Station-Bryan","TX",115,54,6,9,46,3
+"Colorado Springs","CO",338,328,2,8,0,0
+"Columbia","MO",86,74,12,0,0,0
+"Columbia","SC",657,451,0,0,206,8
+"Columbus","GA-AL",134,106,0,4,24,3
+"Columbus","IN",30,30,0,0,0,0
+"Columbus","OH",756,568,8,48,132,11
+"Corpus Christi","TX",152,127,4,0,21,1
+"Corvallis","OR",17,17,0,0,0,0
+"Cumberland","MD-WV",13,13,0,0,0,0
+"Dallas-Fort Worth-Arlington","TX",5008,3816,88,26,1078,44
+"Dalton","GA",72,56,6,3,7,1
+"Danville","IL",0,0,0,0,0,0
+"Danville","VA",18,18,0,0,0,0
+"Davenport-Moline-Rock Island","IA-IL",57,45,0,0,12,NA
+"Decatur","AL",16,16,0,0,0,0
+"Decatur","IL",178,178,0,0,0,0
+"Deltona-Daytona Beach-Ormond Beach","FL",357,269,6,0,82,4
+"Denver-Aurora","CO",1348,984,0,6,358,9
+"Des Moines-West Des Moines","IA",456,368,6,3,79,4
+"Detroit-Warren-Livonia","MI",820,712,16,27,65,5
+"Dothan","AL",42,42,0,0,0,0
+"Dover","DE",137,137,0,0,0,0
+"Dubuque","IA",30,28,2,0,0,0
+"Duluth","MN-WI",72,62,0,0,10,2
+"Durham","NC",259,259,0,0,0,0
+"Eau Claire","WI",54,46,8,0,0,0
+"El Centro","CA",129,121,2,0,6,1
+"El Paso","TX",310,310,0,0,0,0
+"Elizabethtown","KY",36,34,2,0,0,0
+"Elkhart-Goshen","IN",66,66,0,0,0,0
+"Elmira","NY",4,4,0,0,0,0
+"Erie","PA",50,50,0,0,0,0
+"Eugene-Springfield","OR",140,119,4,0,17,2
+"Evansville","IN-KY",86,76,0,4,6,1
+"Fairbanks","AK",33,25,2,6,0,0
+"Fargo","ND-MN",90,90,0,0,0,0
+"Farmington","NM",31,31,0,0,0,0
+"Fayetteville","NC",315,275,0,0,40,5
+"Fayetteville-Springdale-Rogers","AR-MO",392,299,22,3,68,7
+"Flagstaff","AZ",57,55,2,0,0,0
+"Flint","MI",100,28,0,0,72,3
+"Florence","SC",60,60,0,0,0,0
+"Florence-Muscle Shoals","AL",16,16,0,0,0,0
+"Fond du Lac","WI",19,12,0,0,7,1
+"Fort Collins-Loveland","CO",120,95,2,10,13,2
+"Fort Smith","AR-OK",66,66,0,0,0,0
+"Fort Walton Beach-Crestview-Destin","FL",131,75,0,0,56,2
+"Fort Wayne","IN",103,95,8,0,0,0
+"Fresno","CA",323,235,8,10,70,6
+"Gadsden","AL",14,14,0,0,0,0
+"Gainesville","FL",169,95,4,4,66,4
+"Gainesville","GA",155,155,0,0,0,0
+"Glens Falls","NY",43,43,0,0,0,0
+"Goldsboro","NC",38,38,0,0,0,0
+"Grand Forks","ND-MN",47,21,0,0,26,1
+"Grand Junction","CO",124,122,2,0,0,0
+"Grand Rapids-Wyoming","MI",201,169,0,0,32,4
+"Great Falls","MT",23,23,0,0,0,0
+"Greeley","CO",291,209,2,3,77,4
+"Green Bay","WI",188,91,2,0,95,6
+"Greensboro-High Point","NC",450,429,4,0,17,2
+"Greenville","NC",194,111,10,3,70,4
+"Greenville","SC",376,376,0,0,0,0
+"Gulfport-Biloxi","MS",315,209,10,0,96,8
+"Hagerstown-Martinsburg","MD-WV",198,194,4,0,0,0
+"Hanford-Corcoran","CA",40,40,0,0,0,0
+"Harrisburg-Carlisle","PA",122,122,0,0,0,0
+"Harrisonburg","VA",63,63,0,0,0,0
+"Hartford-West Hartford-East Hartford","CT",221,175,8,0,38,4
+"Hattiesburg","MS",165,15,0,0,150,7
+"Hickory-Lenoir-Morganton","NC",118,104,14,0,0,0
+"Hinesville-Fort Stewart","GA",0,0,0,0,0,0
+"Holland-Grand Haven","MI",85,74,0,3,8,1
+"Honolulu","HI",190,190,0,0,0,0
+"Hot Springs","AR",11,11,0,0,0,0
+"Houma-Bayou Cane-Thibodaux","LA",47,47,0,0,0,0
+"Houston-Sugar Land-Baytown","TX",5874,4228,22,3,1621,54
+"Huntington-Ashland","WV-KY-OH",5,5,0,0,0,0
+"Huntsville","AL",255,255,0,0,0,0
+"Idaho Falls","ID",120,112,0,8,0,0
+"Indianapolis-Carmel","IN",861,806,30,19,6,1
+"Iowa City","IA",58,47,2,0,9,1
+"Ithaca","NY",16,9,2,0,5,1
+"Jackson","MI",17,17,0,0,0,0
+"Jackson","MS",230,230,0,0,0,0
+"Jackson","TN",55,55,0,0,0,0
+"Jacksonville","FL",1840,972,18,0,850,39
+"Jacksonville","NC",99,96,0,3,0,0
+"Janesville","WI",53,27,0,3,23,2
+"Jefferson City","MO",27,22,0,0,5,1
+"Johnson City","TN",97,95,2,0,0,0
+"Johnstown","PA",5,5,0,0,0,0
+"Jonesboro","AR",71,41,0,30,0,0
+"Joplin","MO",19,19,0,0,0,0
+"Kalamazoo-Portage","MI",77,70,4,3,0,0
+"Kankakee-Bradley","IL",13,11,2,0,0,0
+"Kansas City","MO-KS",870,696,48,49,77,6
+"Kennewick-Richland-Pasco","WA",135,110,0,18,7,1
+"Killeen-Temple-Fort Hood","TX",422,184,10,52,176,8
+"Kingsport-Bristol-Bristol","TN-VA",58,53,0,0,5,1
+"Kingston","NY",20,20,0,0,0,0
+"Knoxville","TN",338,338,0,0,0,0
+"Kokomo","IN",15,13,2,0,0,0
+"La Crosse","WI-MN",32,32,0,0,0,0
+"Lafayette","IN",102,50,0,4,48,2
+"Lafayette","LA",111,111,0,0,0,0
+"Lake Charles","LA",24,19,0,0,5,1
+"Lakeland","FL",784,433,2,18,331,13
+"Lancaster","PA",68,56,2,0,10,1
+"Lansing-East Lansing","MI",96,77,2,0,17,2
+"Laredo","TX",151,129,2,4,16,2
+"Las Cruces","NM",218,170,0,48,0,0
+"Las Vegas-Paradise","NV",2262,1553,4,120,585,18
+"Lawrence","KS",22,22,0,0,0,0
+"Lawton","OK",20,16,4,0,0,0
+"Lebanon","PA",52,52,0,0,0,0
+"Lewiston","ID-WA",5,1,4,0,0,0
+"Lewiston-Auburn","ME",23,21,2,0,0,0
+"Lexington-Fayette","KY",294,274,0,0,20,1
+"Lima","OH",2,2,0,0,0,0
+"Lincoln","NE",104,86,2,0,16,1
+"Little Rock-North Little Rock","AR",259,257,2,0,0,0
+"Logan","UT-ID",79,46,0,4,29,2
+"Longview","TX",17,17,0,0,0,0
+"Longview","WA",41,39,2,0,0,0
+"Los Angeles-Long Beach-Santa Ana","CA",1900,937,62,44,857,44
+"Louisville-Jefferson County","KY-IN",583,487,0,11,85,2
+"Lubbock","TX",105,103,2,0,0,0
+"Lynchburg","VA",100,100,0,0,0,0
+"Macon","GA",52,50,2,0,0,0
+"Madera","CA",76,74,2,0,0,0
+"Madison","WI",275,163,18,23,71,6
+"Manchester-Nashua","NH",93,74,8,0,11,2
+"Mansfield","OH",14,12,2,0,0,0
+"McAllen-Edinburg-Mission","TX",602,558,2,4,38,2
+"Medford","OR",100,77,4,3,16,1
+"Memphis","TN-MS-AR",706,706,0,0,0,0
+"Merced","CA",101,101,0,0,0,0
+"Miami-Fort Lauderdale-Miami Beach","FL",2035,1074,70,50,841,57
+"Michigan City-La Porte","IN",22,22,0,0,0,0
+"Midland","TX",28,28,0,0,0,0
+"Milwaukee-Waukesha-West Allis","WI",234,170,16,0,48,3
+"Minneapolis-St. Paul-Bloomington","MN-WI",1845,1045,8,17,775,21
+"Missoula","MT",78,37,8,0,33,3
+"Mobile","AL",217,197,0,0,20,3
+"Modesto","CA",156,130,8,0,18,1
+"Monroe","LA",48,38,0,0,10,1
+"Monroe","MI",38,36,2,0,0,0
+"Montgomery","AL",150,139,0,0,11,1
+"Morgantown","WV",1,1,0,0,0,0
+"Morristown","TN",60,58,2,0,0,0
+"Mount Vernon-Anacortes","WA",35,35,0,0,0,0
+"Muncie","IN",5,5,0,0,0,0
+"Muskegon-Norton Shores","MI",18,18,0,0,0,0
+"Myrtle Beach-Conway-North Myrtle Beach","SC",752,587,0,0,165,11
+"Napa","CA",34,34,0,0,0,0
+"Naples-Marco Island","FL",336,235,0,67,34,5
+"Nashville-Davidson--Murfreesboro","TN",1170,1146,16,8,0,0
+"New Haven-Milford","CT",105,78,2,0,25,2
+"New Orleans-Metairie-Kenner","LA",360,338,22,0,0,0
+"New York-Northern New Jersey-Long Island","NY-NJ-PA",4693,1460,576,486,2171,96
+"Niles-Benton Harbor","MI",8,8,0,0,0,0
+"Norwich-New London","CT",70,59,6,0,5,1
+"Ocala","FL",709,705,0,4,0,0
+"Ocean City","NJ",130,30,22,15,63,9
+"Odessa","TX",12,12,0,0,0,0
+"Ogden-Clearfield","UT",284,265,4,15,0,0
+"Oklahoma City","OK",581,542,4,0,35,2
+"Olympia","WA",292,161,4,78,49,4
+"Omaha-Council Bluffs","NE-IA",433,366,6,16,45,5
+"Orlando-Kissimmee","FL",3040,1657,4,102,1277,56
+"Oshkosh-Neenah","WI",56,26,4,8,18,3
+"Owensboro","KY",36,36,0,0,0,0
+"Oxnard-Thousand Oaks-Ventura","CA",119,79,2,3,35,3
+"Palm Bay-Melbourne-Titusville","FL",399,382,4,0,13,1
+"Panama City-Lynn Haven","FL",95,77,8,4,6,1
+"Parkersburg-Marietta-Vienna","WV-OH",20,14,0,6,0,0
+"Pascagoula","MS",70,70,0,0,0,0
+"Pensacola-Ferry Pass-Brent","FL",239,217,12,0,10,2
+"Peoria","IL",50,40,10,0,0,0
+"Philadelphia-Camden-Wilmington","PA-NJ-DE-MD",1405,951,12,19,423,15
+"Phoenix-Mesa-Scottsdale","AZ",3326,2518,4,84,720,61
+"Pine Bluff","AR",16,9,2,0,5,1
+"Pittsburgh","PA",427,367,4,14,42,7
+"Pittsfield","MA",4,4,0,0,0,0
+"Pocatello","ID",34,34,0,0,0,0
+"Port St. Lucie-Fort Pierce","FL",404,400,0,4,0,0
+"Portland-South Portland-Biddeford","ME",240,209,12,7,12,2
+"Portland-Vancouver-Beaverton","OR-WA",1090,865,50,81,94,NA
+"Prescott","AZ",169,169,0,0,0,0
+"Providence-New Bedford-Fall River","RI-MA",218,188,14,6,10,2
+"Provo-Orem","UT",525,470,2,17,36,2
+"Pueblo","CO",90,90,0,0,0,0
+"Punta Gorda","FL",284,191,10,14,69,4
+"Racine","WI",28,28,0,0,0,0
+"Raleigh-Cary","NC",849,824,6,7,12,2
+"Rapid City","SD",118,64,2,0,52,5
+"Reading","PA",52,45,2,0,5,1
+"Redding","CA",48,40,2,6,0,0
+"Reno-Sparks","NV",329,301,0,12,16,2
+"Richmond","VA",621,585,2,8,26,3
+"Riverside-San Bernardino-Ontario","CA",3100,2886,72,110,32,5
+"Roanoke","VA",81,76,0,0,5,1
+"Rochester","MN",64,51,0,0,13,2
+"Rochester","NY",134,128,2,4,0,0
+"Rockford","IL",155,142,4,3,6,1
+"Rocky Mount","NC",55,48,4,3,0,0
+"Rome","GA",41,28,6,0,7,1
+"Sacramento--Arden-Arcade--Roseville","CA",948,717,18,31,182,9
+"Saginaw-Saginaw Township North","MI",6,6,0,0,0,0
+"Salem","OR",144,124,6,3,11,1
+"Salinas","CA",39,39,0,0,0,0
+"Salisbury","MD",14,14,0,0,0,0
+"Salt Lake City","UT",624,583,6,8,27,4
+"San Angelo","TX",26,26,0,0,0,0
+"San Antonio","TX",1727,1212,4,8,503,40
+"San Diego-Carlsbad-San Marcos","CA",530,253,8,16,253,8
+"San Francisco-Oakland-Fremont","CA",611,491,6,25,89,11
+"San Jose-Sunnyvale-Santa Clara","CA",422,172,4,8,238,7
+"San Luis Obispo-Paso Robles","CA",35,31,4,0,0,0
+"Sandusky","OH",6,0,0,0,6,1
+"Santa Barbara-Santa Maria","CA",53,51,2,0,0,0
+"Santa Cruz-Watsonville","CA",30,30,0,0,0,0
+"Santa Fe","NM",32,32,0,0,0,0
+"Santa Rosa-Petaluma","CA",132,104,8,4,16,2
+"Sarasota-Bradenton-Venice","FL",579,475,6,11,87,7
+"Savannah","GA",216,211,0,0,5,1
+"Scranton--Wilkes-Barre","PA",27,27,0,0,0,0
+"Seattle-Tacoma-Bellevue","WA",3018,1204,112,215,1487,35
+"Sebastian-Vero Beach","FL",240,219,0,0,21,1
+"Sheboygan","WI",14,8,6,0,0,0
+"Sherman-Denison","TX",2,2,0,0,0,0
+"Shreveport-Bossier City","LA",179,138,6,0,35,2
+"Sioux City","IA-NE-SD",17,15,2,0,0,0
+"Sioux Falls","SD",137,121,8,8,0,0
+"South Bend-Mishawaka","IN-MI",119,52,0,0,67,3
+"Spartanburg","SC",151,151,0,0,0,0
+"Spokane","WA",426,137,2,0,287,1
+"Springfield","IL",40,24,10,0,6,1
+"Springfield","MA",62,52,10,0,0,0
+"Springfield","MO",340,176,4,0,160,5
+"Springfield","OH",13,13,0,0,0,0
+"St. Cloud","MN",82,66,4,0,12,2
+"St. George","UT",186,160,0,0,26,2
+"St. Joseph","MO-KS",12,10,2,0,0,0
+"St. Louis","MO-IL",1140,851,8,19,262,15
+"State College","PA",28,28,0,0,0,0
+"Stockton","CA",209,167,2,28,12,2
+"Sumter","SC",62,62,0,0,0,0
+"Syracuse","NY",165,93,0,0,72,3
+"Tallahassee","FL",300,204,6,13,77,3
+"Tampa-St. Petersburg-Clearwater","FL",1860,1329,8,15,508,NA
+"Texarkana","TX-TexarkanaAR",10,10,0,0,0,0
+"Toledo","OH",124,119,0,0,5,1
+"Topeka","KS",77,77,0,0,0,0
+"Trenton-Ewing","NJ",88,83,0,0,5,1
+"Tucson","AZ",670,631,20,12,7,1
+"Tulsa","OK",395,395,0,0,0,0
+"Tuscaloosa","AL",110,84,0,0,26,1
+"Tyler","TX",40,31,0,3,6,1
+"Utica-Rome","NY",2,2,0,0,0,0
+"Valdosta","GA",70,63,2,0,5,1
+"Vallejo-Fairfield","CA",43,43,0,0,0,0
+"Victoria","TX",9,9,0,0,0,0
+"Vineland-Millville-Bridgeton","NJ",52,44,8,0,0,0
+"Virginia Beach-Norfolk-Newport News","VA-NC",509,428,8,0,73,4
+"Visalia-Porterville","CA",187,183,0,4,0,0
+"Waco","TX",42,42,0,0,0,0
+"Warner Robins","GA",101,101,0,0,0,0
+"Washington-Arlington-Alexandria","DC-VA-MD-WV",1835,1298,4,0,533,29
+"Waterloo-Cedar Falls","IA",102,32,0,0,70,1
+"Wausau","WI",46,42,4,0,0,0
+"Weirton-Steubenville","WV-OH",4,4,0,0,0,0
+"Wenatchee","WA",37,37,0,0,0,0
+"Wheeling","WV-OH",1,1,0,0,0,0
+"Wichita Falls","TX",16,16,0,0,0,0
+"Wichita","KS",207,201,6,0,0,0
+"Williamsport","PA",3,3,0,0,0,0
+"Wilmington","NC",488,417,0,35,36,3
+"Winchester","VA-WV",141,141,0,0,0,0
+"Winston-Salem","NC",229,229,0,0,0,0
+"Worcester","MA",155,139,6,10,0,0
+"Yakima","WA",22,22,0,0,0,0
+"York-Hanover","PA",147,118,16,8,5,1
+"Youngstown-Warren-Boardman","OH-PA",52,44,8,0,0,0
+"Yuba City","CA",89,89,0,0,0,0
+"Yuma","AZ",83,83,0,0,0,0
+"Abilene","TX",32,32,0,0,0,0
+"Akron","OH",143,111,2,10,20,1
+"Albany","GA",52,47,2,3,0,0
+"Albany-Schenectady-Troy","NY",118,102,16,0,0,0
+"Albuquerque","NM",336,328,0,0,8,1
+"Alexandria","LA",60,60,0,0,0,0
+"Allentown-Bethlehem-Easton","PA-NJ",325,300,4,6,15,3
+"Altoona","PA",2,2,0,0,0,0
+"Amarillo","TX",195,51,0,0,144,6
+"Ames","IA",27,15,0,0,12,1
+"Anchorage","AK",275,68,12,0,195,17
+"Anderson","IN",34,34,0,0,0,0
+"Anderson","SC",340,100,0,0,240,10
+"Ann Arbor","MI",62,44,2,0,16,3
+"Anniston-Oxford","AL",25,21,4,0,0,0
+"Appleton","WI",63,51,2,0,10,1
+"Asheville","NC",378,340,0,4,34,1
+"Athens-Clarke County","GA",50,40,0,0,10,1
+"Atlanta-Sandy Springs-Marietta","GA",7141,5144,42,19,1936,29
+"Atlantic City","NJ",167,151,2,4,10,1
+"Auburn-Opelika","AL",267,267,0,0,0,0
+"Augusta-Richmond County","GA-SC",223,221,2,0,0,0
+"Austin-Round Rock","TX",2988,1750,28,0,1210,49
+"Bakersfield","CA",562,454,8,84,16,2
+"Baltimore-Towson","MD",630,520,2,3,105,9
+"Bangor","ME",30,30,0,0,0,0
+"Barnstable Town","MA",96,83,0,3,10,1
+"Baton Rouge","LA",581,523,0,3,55,5
+"Battle Creek","MI",6,6,0,0,0,0
+"Bay City","MI",4,4,0,0,0,0
+"Beaumont-Port Arthur","TX",154,34,0,0,120,12
+"Bellingham","WA",163,100,0,0,63,2
+"Bend","OR",253,233,16,4,0,0
+"Billings","MT",57,57,0,0,0,0
+"Binghamton","NY",5,5,0,0,0,0
+"Birmingham-Hoover","AL",702,598,4,0,100,5
+"Bismarck","ND",99,93,6,0,0,0
+"Bloomington","IN",57,50,2,0,5,1
+"Bloomington-Normal","IL",57,44,0,0,13,2
+"Boise City-Nampa","ID",657,583,0,39,35,1
+"Boston-Cambridge-Quincy","MA-NH",1128,533,78,19,498,21
+"Boulder","CO",44,36,0,0,8,1
+"Bowling Green","KY",71,55,8,8,0,0
+"Bremerton-Silverdale","WA",128,122,6,0,0,0
+"Bridgeport-Stamford-Norwalk","CT",128,97,12,8,11,2
+"Brownsville-Harlingen","TX",227,220,4,3,0,0
+"Brunswick","GA",90,90,0,0,0,0
+"Buffalo-Niagara Falls","NY",196,104,0,0,92,11
+"Burlington","NC",131,131,0,0,0,0
+"Burlington-South Burlington","VT",70,54,8,3,5,1
+"Canton-Massillon","OH",72,62,0,0,10,2
+"Cape Coral-Fort Myers","FL",1317,1071,12,0,234,28
+"Carson City","NV",19,17,2,0,0,0
+"Casper","WY",33,33,0,0,0,0
+"Cedar Rapids","IA",89,62,6,13,8,1
+"Champaign-Urbana","IL",72,40,0,0,32,4
+"Charleston","WV",28,28,0,0,0,0
+"Charleston-North Charleston","SC",530,476,4,0,50,5
+"Charlotte-Gastonia-Concord","NC-SC",1975,1711,2,4,258,13
+"Charlottesville","VA",83,80,0,3,0,0
+"Chattanooga","TN-GA",335,219,6,3,107,3
+"Cheyenne","WY",53,40,0,4,9,1
+"Chicago-Naperville-Joliet","IL-IN-WI",4360,2683,60,206,1411,NA
+"Cincinnati-Middletown","OH-KY-IN",803,658,10,22,113,16
+"Clarksville","TN-KY",596,205,16,8,367,20
+"Cleveland","TN",58,50,8,0,0,0
+"Cleveland-Elyria-Mentor","OH",468,441,10,7,10,2
+"Coeur dAlene","ID",119,97,6,0,16,1
+"College Station-Bryan","TX",48,48,0,0,0,0
+"Colorado Springs","CO",384,336,2,20,26,2
+"Columbia","MO",96,66,30,0,0,0
+"Columbia","SC",564,502,0,0,62,4
+"Columbus","GA-AL",169,133,0,3,33,3
+"Columbus","IN",19,19,0,0,0,0
+"Columbus","OH",694,493,18,89,94,11
+"Corpus Christi","TX",165,136,4,0,25,2
+"Corvallis","OR",20,17,0,3,0,0
+"Cumberland","MD-WV",8,8,0,0,0,0
+"Dallas-Fort Worth-Arlington","TX",4775,4063,68,11,633,10
+"Dalton","GA",80,58,2,3,17,2
+"Danville","IL",2,2,0,0,0,0
+"Danville","VA",24,19,0,0,5,1
+"Davenport-Moline-Rock Island","IA-IL",72,46,2,12,12,NA
+"Decatur","AL",29,29,0,0,0,0
+"Decatur","IL",0,0,0,0,0,0
+"Deltona-Daytona Beach-Ormond Beach","FL",306,231,0,0,75,3
+"Denver-Aurora","CO",1303,979,16,0,308,20
+"Des Moines-West Des Moines","IA",366,344,6,4,12,2
+"Detroit-Warren-Livonia","MI",773,669,18,22,64,7
+"Dothan","AL",58,58,0,0,0,0
+"Dover","DE",200,168,0,8,24,1
+"Dubuque","IA",27,25,2,0,0,0
+"Duluth","MN-WI",77,64,2,0,11,2
+"Durham","NC",321,306,6,0,9,1
+"Eau Claire","WI",88,76,12,0,0,0
+"El Centro","CA",130,124,0,0,6,1
+"El Paso","TX",356,356,0,0,0,0
+"Elizabethtown","KY",60,58,2,0,0,0
+"Elkhart-Goshen","IN",72,66,2,4,0,0
+"Elmira","NY",3,3,0,0,0,0
+"Erie","PA",30,26,4,0,0,0
+"Eugene-Springfield","OR",127,84,10,0,33,3
+"Evansville","IN-KY",84,80,0,4,0,0
+"Fairbanks","AK",41,39,2,0,0,0
+"Fargo","ND-MN",275,124,0,4,147,3
+"Farmington","NM",38,38,0,0,0,0
+"Fayetteville","NC",579,279,0,0,300,15
+"Fayetteville-Springdale-Rogers","AR-MO",372,321,12,9,30,3
+"Flagstaff","AZ",90,90,0,0,0,0
+"Flint","MI",39,39,0,0,0,0
+"Florence","SC",66,66,0,0,0,0
+"Florence-Muscle Shoals","AL",51,51,0,0,0,0
+"Fond du Lac","WI",33,25,0,8,0,0
+"Fort Collins-Loveland","CO",160,126,0,4,30,2
+"Fort Smith","AR-OK",86,74,12,0,0,0
+"Fort Walton Beach-Crestview-Destin","FL",146,79,0,0,67,2
+"Fort Wayne","IN",122,122,0,0,0,0
+"Fresno","CA",326,235,6,11,74,7
+"Gadsden","AL",14,14,0,0,0,0
+"Gainesville","FL",326,110,0,0,216,11
+"Gainesville","GA",167,167,0,0,0,0
+"Glens Falls","NY",43,40,0,3,0,0
+"Goldsboro","NC",44,40,4,0,0,0
+"Grand Forks","ND-MN",16,16,0,0,0,0
+"Grand Junction","CO",132,130,2,0,0,0
+"Grand Rapids-Wyoming","MI",240,211,2,3,24,3
+"Great Falls","MT",14,10,0,4,0,0
+"Greeley","CO",210,200,0,0,10,2
+"Green Bay","WI",249,142,6,0,101,8
+"Greensboro-High Point","NC",458,325,2,75,56,5
+"Greenville","NC",124,98,18,0,8,1
+"Greenville","SC",484,412,0,0,72,4
+"Gulfport-Biloxi","MS",292,254,24,14,0,0
+"Hagerstown-Martinsburg","MD-WV",245,234,8,3,0,0
+"Hanford-Corcoran","CA",49,47,2,0,0,0
+"Harrisburg-Carlisle","PA",116,116,0,0,0,0
+"Harrisonburg","VA",67,67,0,0,0,0
+"Hartford-West Hartford-East Hartford","CT",237,200,4,0,33,4
+"Hattiesburg","MS",48,18,0,0,30,5
+"Hickory-Lenoir-Morganton","NC",129,125,4,0,0,0
+"Hinesville-Fort Stewart","GA",0,0,0,0,0,0
+"Holland-Grand Haven","MI",124,82,0,3,39,3
+"Honolulu","HI",158,158,0,0,0,0
+"Hot Springs","AR",12,12,0,0,0,0
+"Houma-Bayou Cane-Thibodaux","LA",52,52,0,0,0,0
+"Houston-Sugar Land-Baytown","TX",5612,5112,36,0,464,45
+"Huntington-Ashland","WV-KY-OH",5,5,0,0,0,0
+"Huntsville","AL",363,311,0,0,52,5
+"Idaho Falls","ID",146,146,0,0,0,0
+"Indianapolis-Carmel","IN",985,855,38,87,5,1
+"Iowa City","IA",93,51,2,0,40,2
+"Ithaca","NY",15,11,4,0,0,0
+"Jackson","MI",14,14,0,0,0,0
+"Jackson","MS",257,257,0,0,0,0
+"Jackson","TN",50,48,2,0,0,0
+"Jacksonville","FL",946,795,42,3,106,6
+"Jacksonville","NC",144,140,4,0,0,0
+"Janesville","WI",116,50,2,0,64,2
+"Jefferson City","MO",22,22,0,0,0,0
+"Johnson City","TN",163,117,4,12,30,5
+"Johnstown","PA",2,2,0,0,0,0
+"Jonesboro","AR",131,35,0,0,96,4
+"Joplin","MO",19,19,0,0,0,0
+"Kalamazoo-Portage","MI",61,47,0,14,0,0
+"Kankakee-Bradley","IL",13,13,0,0,0,0
+"Kansas City","MO-KS",1701,749,30,159,763,55
+"Kennewick-Richland-Pasco","WA",141,118,0,15,8,1
+"Killeen-Temple-Fort Hood","TX",290,210,68,12,0,0
+"Kingsport-Bristol-Bristol","TN-VA",67,64,0,3,0,0
+"Kingston","NY",10,10,0,0,0,0
+"Knoxville","TN",443,443,0,0,0,0
+"Kokomo","IN",15,15,0,0,0,0
+"La Crosse","WI-MN",33,33,0,0,0,0
+"Lafayette","IN",56,56,0,0,0,0
+"Lafayette","LA",159,159,0,0,0,0
+"Lake Charles","LA",37,32,0,0,5,1
+"Lakeland","FL",443,441,2,0,0,0
+"Lancaster","PA",96,96,0,0,0,0
+"Lansing-East Lansing","MI",99,71,0,0,28,4
+"Laredo","TX",166,142,0,4,20,1
+"Las Cruces","NM",187,179,0,8,0,0
+"Las Vegas-Paradise","NV",2327,1675,0,22,630,42
+"Lawrence","KS",52,38,10,4,0,0
+"Lawton","OK",32,26,6,0,0,0
+"Lebanon","PA",37,37,0,0,0,0
+"Lewiston","ID-WA",9,9,0,0,0,0
+"Lewiston-Auburn","ME",31,24,2,0,5,1
+"Lexington-Fayette","KY",327,296,4,0,27,1
+"Lima","OH",0,0,0,0,0,0
+"Lincoln","NE",112,89,2,0,21,4
+"Little Rock-North Little Rock","AR",398,346,8,20,24,1
+"Logan","UT-ID",44,44,0,0,0,0
+"Longview","TX",25,25,0,0,0,0
+"Longview","WA",58,54,4,0,0,0
+"Los Angeles-Long Beach-Santa Ana","CA",2341,889,60,56,1336,31
+"Louisville-Jefferson County","KY-IN",616,496,6,4,110,4
+"Lubbock","TX",108,108,0,0,0,0
+"Lynchburg","VA",127,127,0,0,0,0
+"Macon","GA",69,69,0,0,0,0
+"Madera","CA",58,58,0,0,0,0
+"Madison","WI",284,165,16,11,92,6
+"Manchester-Nashua","NH",110,88,8,0,14,2
+"Mansfield","OH",18,18,0,0,0,0
+"McAllen-Edinburg-Mission","TX",548,517,2,23,6,1
+"Medford","OR",101,80,4,3,14,1
+"Memphis","TN-MS-AR",1024,762,0,0,262,3
+"Merced","CA",101,87,2,12,0,0
+"Miami-Fort Lauderdale-Miami Beach","FL",2681,1054,68,7,1552,43
+"Michigan City-La Porte","IN",22,22,0,0,0,0
+"Midland","TX",50,50,0,0,0,0
+"Milwaukee-Waukesha-West Allis","WI",424,239,24,35,126,2
+"Minneapolis-St. Paul-Bloomington","MN-WI",1293,1060,8,3,222,11
+"Missoula","MT",50,38,0,0,12,1
+"Mobile","AL",183,178,0,0,5,1
+"Modesto","CA",160,144,0,0,16,1
+"Monroe","LA",66,43,0,0,23,4
+"Monroe","MI",41,29,0,0,12,1
+"Montgomery","AL",91,91,0,0,0,0
+"Morgantown","WV",9,2,0,0,7,1
+"Morristown","TN",49,49,0,0,0,0
+"Mount Vernon-Anacortes","WA",60,58,2,0,0,0
+"Muncie","IN",8,8,0,0,0,0
+"Muskegon-Norton Shores","MI",23,21,2,0,0,0
+"Myrtle Beach-Conway-North Myrtle Beach","SC",757,527,0,0,230,11
+"Napa","CA",23,23,0,0,0,0
+"Naples-Marco Island","FL",527,343,0,128,56,7
+"Nashville-Davidson--Murfreesboro","TN",1605,1175,18,8,404,39
+"New Haven-Milford","CT",93,67,4,0,22,1
+"New Orleans-Metairie-Kenner","LA",584,475,4,3,102,8
+"New York-Northern New Jersey-Long Island","NY-NJ-PA",6264,1389,646,656,3573,93
+"Niles-Benton Harbor","MI",6,6,0,0,0,0
+"Norwich-New London","CT",59,53,6,0,0,0
+"Ocala","FL",660,635,0,15,10,2
+"Ocean City","NJ",65,45,20,0,0,0
+"Odessa","TX",28,28,0,0,0,0
+"Ogden-Clearfield","UT",347,301,2,44,0,0
+"Oklahoma City","OK",669,603,2,0,64,4
+"Olympia","WA",186,186,0,0,0,0
+"Omaha-Council Bluffs","NE-IA",555,392,8,9,146,16
+"Orlando-Kissimmee","FL",3294,2045,12,8,1229,40
+"Oshkosh-Neenah","WI",101,29,0,8,64,4
+"Owensboro","KY",33,17,0,16,0,0
+"Oxnard-Thousand Oaks-Ventura","CA",156,73,4,10,69,4
+"Palm Bay-Melbourne-Titusville","FL",252,236,4,0,12,1
+"Panama City-Lynn Haven","FL",641,92,4,14,531,12
+"Parkersburg-Marietta-Vienna","WV-OH",21,19,2,0,0,0
+"Pascagoula","MS",86,86,0,0,0,0
+"Pensacola-Ferry Pass-Brent","FL",224,179,0,0,45,9
+"Peoria","IL",81,63,14,4,0,0
+"Philadelphia-Camden-Wilmington","PA-NJ-DE-MD",1164,997,14,17,136,15
+"Phoenix-Mesa-Scottsdale","AZ",2861,2704,6,86,65,3
+"Pine Bluff","AR",10,5,0,0,5,1
+"Pittsburgh","PA",490,375,8,27,80,8
+"Pittsfield","MA",2,2,0,0,0,0
+"Pocatello","ID",66,50,6,0,10,1
+"Port St. Lucie-Fort Pierce","FL",327,291,0,8,28,1
+"Portland-South Portland-Biddeford","ME",229,179,8,7,35,6
+"Portland-Vancouver-Beaverton","OR-WA",1140,872,24,0,244,NA
+"Prescott","AZ",196,179,0,3,14,2
+"Providence-New Bedford-Fall River","RI-MA",293,226,22,3,42,5
+"Provo-Orem","UT",772,532,4,7,229,6
+"Pueblo","CO",119,119,0,0,0,0
+"Punta Gorda","FL",319,211,30,16,62,4
+"Racine","WI",20,20,0,0,0,0
+"Raleigh-Cary","NC",1484,1220,4,6,254,8
+"Rapid City","SD",61,61,0,0,0,0
+"Reading","PA",77,61,4,0,12,1
+"Redding","CA",76,64,0,12,0,0
+"Reno-Sparks","NV",497,493,0,4,0,0
+"Richmond","VA",681,643,6,27,5,1
+"Riverside-San Bernardino-Ontario","CA",2349,2136,40,19,154,25
+"Roanoke","VA",89,89,0,0,0,0
+"Rochester","MN",102,75,0,3,24,1
+"Rochester","NY",122,114,0,8,0,0
+"Rockford","IL",210,178,20,12,0,0
+"Rocky Mount","NC",60,55,2,3,0,0
+"Rome","GA",46,32,6,0,8,1
+"Sacramento--Arden-Arcade--Roseville","CA",1284,772,38,0,474,31
+"Saginaw-Saginaw Township North","MI",20,20,0,0,0,0
+"Salem","OR",113,94,4,3,12,1
+"Salinas","CA",70,47,0,0,23,1
+"Salisbury","MD",72,31,0,0,41,2
+"Salt Lake City","UT",726,539,6,12,169,7
+"San Angelo","TX",27,27,0,0,0,0
+"San Antonio","TX",1407,1051,0,44,312,21
+"San Diego-Carlsbad-San Marcos","CA",526,403,24,13,86,3
+"San Francisco-Oakland-Fremont","CA",1306,462,16,13,815,46
+"San Jose-Sunnyvale-Santa Clara","CA",460,170,0,10,280,8
+"San Luis Obispo-Paso Robles","CA",85,67,2,16,0,0
+"Sandusky","OH",8,0,0,0,8,1
+"Santa Barbara-Santa Maria","CA",22,22,0,0,0,0
+"Santa Cruz-Watsonville","CA",40,40,0,0,0,0
+"Santa Fe","NM",34,34,0,0,0,0
+"Santa Rosa-Petaluma","CA",142,66,8,4,64,4
+"Sarasota-Bradenton-Venice","FL",632,555,2,6,69,6
+"Savannah","GA",287,282,0,0,5,1
+"Scranton--Wilkes-Barre","PA",32,32,0,0,0,0
+"Seattle-Tacoma-Bellevue","WA",2136,1390,100,163,483,20
+"Sebastian-Vero Beach","FL",193,185,0,0,8,1
+"Sheboygan","WI",9,9,0,0,0,0
+"Sherman-Denison","TX",2,2,0,0,0,0
+"Shreveport-Bossier City","LA",174,174,0,0,0,0
+"Sioux City","IA-NE-SD",33,23,2,8,0,0
+"Sioux Falls","SD",183,119,0,8,56,10
+"South Bend-Mishawaka","IN-MI",95,58,0,0,37,3
+"Spartanburg","SC",235,235,0,0,0,0
+"Spokane","WA",193,193,0,0,0,0
+"Springfield","IL",39,20,12,0,7,1
+"Springfield","MA",65,59,6,0,0,0
+"Springfield","MO",330,225,16,8,81,4
+"Springfield","OH",18,14,0,4,0,0
+"St. Cloud","MN",89,71,0,0,18,3
+"St. George","UT",151,151,0,0,0,0
+"St. Joseph","MO-KS",9,9,0,0,0,0
+"St. Louis","MO-IL",1129,903,28,29,169,17
+"State College","PA",49,49,0,0,0,0
+"Stockton","CA",201,193,0,8,0,0
+"Sumter","SC",47,43,4,0,0,0
+"Syracuse","NY",76,76,0,0,0,0
+"Tallahassee","FL",314,199,4,18,93,3
+"Tampa-St. Petersburg-Clearwater","FL",1532,1427,2,15,88,NA
+"Texarkana","TX-TexarkanaAR",15,13,2,0,0,0
+"Toledo","OH",139,126,6,7,0,0
+"Topeka","KS",76,56,0,20,0,0
+"Trenton-Ewing","NJ",87,81,0,0,6,1
+"Tucson","AZ",672,635,16,14,7,1
+"Tulsa","OK",424,422,2,0,0,0
+"Tuscaloosa","AL",800,72,0,0,728,61
+"Tyler","TX",45,35,0,3,7,1
+"Utica-Rome","NY",2,2,0,0,0,0
+"Valdosta","GA",77,70,2,0,5,1
+"Vallejo-Fairfield","CA",54,54,0,0,0,0
+"Victoria","TX",9,9,0,0,0,0
+"Vineland-Millville-Bridgeton","NJ",49,49,0,0,0,0
+"Virginia Beach-Norfolk-Newport News","VA-NC",568,466,8,4,90,5
+"Visalia-Porterville","CA",263,251,12,0,0,0
+"Waco","TX",59,41,2,16,0,0
+"Warner Robins","GA",117,117,0,0,0,0
+"Washington-Arlington-Alexandria","DC-VA-MD-WV",2098,1519,14,0,565,17
+"Waterloo-Cedar Falls","IA",28,28,0,0,0,0
+"Wausau","WI",44,40,4,0,0,0
+"Weirton-Steubenville","WV-OH",1,1,0,0,0,0
+"Wenatchee","WA",72,62,10,0,0,0
+"Wheeling","WV-OH",0,0,0,0,0,0
+"Wichita Falls","TX",34,24,10,0,0,0
+"Wichita","KS",244,240,4,0,0,0
+"Williamsport","PA",1,1,0,0,0,0
+"Wilmington","NC",646,502,6,15,123,5
+"Winchester","VA-WV",111,111,0,0,0,0
+"Winston-Salem","NC",292,292,0,0,0,0
+"Worcester","MA",130,99,10,16,5,1
+"Yakima","WA",25,25,0,0,0,0
+"York-Hanover","PA",181,142,12,0,27,4
+"Youngstown-Warren-Boardman","OH-PA",80,76,0,4,0,0
+"Yuba City","CA",121,121,0,0,0,0
+"Yuma","AZ",99,99,0,0,0,0
+"Abilene","TX",21,19,2,0,0,0
+"Akron","OH",92,76,0,0,16,1
+"Albany","GA",44,38,2,4,0,0
+"Albany-Schenectady-Troy","NY",166,85,2,0,79,2
+"Albuquerque","NM",285,285,0,0,0,0
+"Alexandria","LA",48,48,0,0,0,0
+"Allentown-Bethlehem-Easton","PA-NJ",297,259,2,3,33,3
+"Altoona","PA",0,0,0,0,0,0
+"Amarillo","TX",159,39,0,0,120,18
+"Ames","IA",16,14,2,0,0,0
+"Anchorage","AK",104,37,40,27,0,0
+"Anderson","IN",23,18,0,0,5,1
+"Anderson","SC",147,74,0,0,73,1
+"Ann Arbor","MI",49,43,0,0,6,1
+"Anniston-Oxford","AL",7,7,0,0,0,0
+"Appleton","WI",58,48,10,0,0,0
+"Asheville","NC",271,241,4,4,22,1
+"Athens-Clarke County","GA",59,59,0,0,0,0
+"Atlanta-Sandy Springs-Marietta","GA",4005,3533,30,62,380,27
+"Atlantic City","NJ",122,116,0,6,0,0
+"Auburn-Opelika","AL",75,75,0,0,0,0
+"Augusta-Richmond County","GA-SC",193,193,0,0,0,0
+"Austin-Round Rock","TX",2005,1284,24,76,621,39
+"Bakersfield","CA",448,353,8,30,57,3
+"Baltimore-Towson","MD",577,472,14,0,91,6
+"Bangor","ME",22,22,0,0,0,0
+"Barnstable Town","MA",75,64,0,3,8,1
+"Baton Rouge","LA",406,363,0,0,43,4
+"Battle Creek","MI",8,8,0,0,0,0
+"Bay City","MI",3,3,0,0,0,0
+"Beaumont-Port Arthur","TX",245,37,0,0,208,2
+"Bellingham","WA",51,51,0,0,0,0
+"Bend","OR",201,195,2,4,0,0
+"Billings","MT",42,42,0,0,0,0
+"Binghamton","NY",2,2,0,0,0,0
+"Birmingham-Hoover","AL",485,485,0,0,0,0
+"Bismarck","ND",84,64,0,20,0,0
+"Bloomington","IN",55,33,22,0,0,0
+"Bloomington-Normal","IL",59,49,0,0,10,1
+"Boise City-Nampa","ID",503,392,12,16,83,4
+"Boston-Cambridge-Quincy","MA-NH",1101,506,68,43,484,30
+"Boulder","CO",58,42,0,0,16,2
+"Bowling Green","KY",49,39,4,0,6,1
+"Bremerton-Silverdale","WA",95,93,2,0,0,0
+"Bridgeport-Stamford-Norwalk","CT",168,137,20,0,11,2
+"Brownsville-Harlingen","TX",216,201,6,4,5,1
+"Brunswick","GA",63,58,0,0,5,1
+"Buffalo-Niagara Falls","NY",169,99,20,0,50,1
+"Burlington","NC",110,110,0,0,0,0
+"Burlington-South Burlington","VT",45,40,2,3,0,0
+"Canton-Massillon","OH",54,48,0,0,6,1
+"Cape Coral-Fort Myers","FL",977,829,0,0,148,9
+"Carson City","NV",5,5,0,0,0,0
+"Casper","WY",30,30,0,0,0,0
+"Cedar Rapids","IA",124,66,0,34,24,2
+"Champaign-Urbana","IL",24,24,0,0,0,0
+"Charleston","WV",23,18,0,0,5,1
+"Charleston-North Charleston","SC",809,501,6,3,299,14
+"Charlotte-Gastonia-Concord","NC-SC",2386,1623,56,100,607,23
+"Charlottesville","VA",94,72,2,0,20,1
+"Chattanooga","TN-GA",189,179,4,0,6,1
+"Cheyenne","WY",49,33,0,3,13,1
+"Chicago-Naperville-Joliet","IL-IN-WI",3390,2059,34,136,1161,NA
+"Cincinnati-Middletown","OH-KY-IN",683,545,8,31,99,12
+"Clarksville","TN-KY",146,134,2,0,10,2
+"Cleveland","TN",72,58,14,0,0,0
+"Cleveland-Elyria-Mentor","OH",580,455,2,10,113,10
+"Coeur dAlene","ID",130,106,2,0,22,3
+"College Station-Bryan","TX",56,44,0,0,12,2
+"Colorado Springs","CO",315,293,0,8,14,2
+"Columbia","MO",54,42,12,0,0,0
+"Columbia","SC",601,382,0,0,219,13
+"Columbus","GA-AL",134,104,0,4,26,2
+"Columbus","IN",32,32,0,0,0,0
+"Columbus","OH",663,382,6,59,216,23
+"Corpus Christi","TX",134,107,4,0,23,1
+"Corvallis","OR",9,9,0,0,0,0
+"Cumberland","MD-WV",17,17,0,0,0,0
+"Dallas-Fort Worth-Arlington","TX",4197,2921,40,20,1216,43
+"Dalton","GA",67,53,2,4,8,1
+"Danville","IL",0,0,0,0,0,0
+"Danville","VA",20,15,0,0,5,1
+"Davenport-Moline-Rock Island","IA-IL",46,46,0,0,0,NA
+"Decatur","AL",13,13,0,0,0,0
+"Decatur","IL",3,3,0,0,0,0
+"Deltona-Daytona Beach-Ormond Beach","FL",208,181,0,0,27,3
+"Denver-Aurora","CO",1199,684,52,34,429,12
+"Des Moines-West Des Moines","IA",359,343,0,0,16,1
+"Detroit-Warren-Livonia","MI",695,578,4,10,103,8
+"Dothan","AL",48,48,0,0,0,0
+"Dover","DE",95,95,0,0,0,0
+"Dubuque","IA",39,32,4,3,0,0
+"Duluth","MN-WI",76,53,0,3,20,3
+"Durham","NC",252,239,6,0,7,1
+"Eau Claire","WI",50,44,6,0,0,0
+"El Centro","CA",113,101,2,0,10,1
+"El Paso","TX",235,235,0,0,0,0
+"Elizabethtown","KY",30,30,0,0,0,0
+"Elkhart-Goshen","IN",73,73,0,0,0,0
+"Elmira","NY",2,2,0,0,0,0
+"Erie","PA",26,14,2,0,10,1
+"Eugene-Springfield","OR",121,91,6,0,24,2
+"Evansville","IN-KY",89,77,2,4,6,1
+"Fairbanks","AK",50,20,30,0,0,0
+"Fargo","ND-MN",306,114,0,4,188,7
+"Farmington","NM",41,33,0,8,0,0
+"Fayetteville","NC",247,247,0,0,0,0
+"Fayetteville-Springdale-Rogers","AR-MO",503,168,18,14,303,36
+"Flagstaff","AZ",72,72,0,0,0,0
+"Flint","MI",97,33,0,0,64,2
+"Florence","SC",52,52,0,0,0,0
+"Florence-Muscle Shoals","AL",22,22,0,0,0,0
+"Fond du Lac","WI",14,6,0,8,0,0
+"Fort Collins-Loveland","CO",86,66,2,0,18,2
+"Fort Smith","AR-OK",81,49,32,0,0,0
+"Fort Walton Beach-Crestview-Destin","FL",142,87,0,0,55,1
+"Fort Wayne","IN",82,82,0,0,0,0
+"Fresno","CA",305,191,6,8,100,8
+"Gadsden","AL",11,11,0,0,0,0
+"Gainesville","FL",102,73,0,0,29,1
+"Gainesville","GA",164,82,0,0,82,4
+"Glens Falls","NY",115,31,0,44,40,5
+"Goldsboro","NC",19,19,0,0,0,0
+"Grand Forks","ND-MN",57,9,0,0,48,6
+"Grand Junction","CO",105,95,2,0,8,1
+"Grand Rapids-Wyoming","MI",431,195,2,3,231,3
+"Great Falls","MT",15,15,0,0,0,0
+"Greeley","CO",201,192,0,3,6,1
+"Green Bay","WI",88,70,4,0,14,1
+"Greensboro-High Point","NC",625,324,8,0,293,13
+"Greenville","NC",226,108,6,0,112,11
+"Greenville","SC",532,385,0,0,147,7
+"Gulfport-Biloxi","MS",273,231,16,18,8,1
+"Hagerstown-Martinsburg","MD-WV",202,182,10,0,10,1
+"Hanford-Corcoran","CA",70,70,0,0,0,0
+"Harrisburg-Carlisle","PA",93,84,0,4,5,1
+"Harrisonburg","VA",72,70,2,0,0,0
+"Hartford-West Hartford-East Hartford","CT",318,160,14,21,123,9
+"Hattiesburg","MS",7,3,4,0,0,0
+"Hickory-Lenoir-Morganton","NC",105,97,8,0,0,0
+"Hinesville-Fort Stewart","GA",1,1,0,0,0,0
+"Holland-Grand Haven","MI",79,65,0,4,10,1
+"Honolulu","HI",100,100,0,0,0,0
+"Hot Springs","AR",9,9,0,0,0,0
+"Houma-Bayou Cane-Thibodaux","LA",48,48,0,0,0,0
+"Houston-Sugar Land-Baytown","TX",4841,4108,26,12,695,50
+"Huntington-Ashland","WV-KY-OH",4,4,0,0,0,0
+"Huntsville","AL",305,305,0,0,0,0
+"Idaho Falls","ID",109,93,0,16,0,0
+"Indianapolis-Carmel","IN",794,626,38,13,117,13
+"Iowa City","IA",42,30,0,0,12,1
+"Ithaca","NY",4,4,0,0,0,0
+"Jackson","MI",7,7,0,0,0,0
+"Jackson","MS",263,263,0,0,0,0
+"Jackson","TN",35,35,0,0,0,0
+"Jacksonville","FL",702,574,12,0,116,4
+"Jacksonville","NC",140,124,16,0,0,0
+"Janesville","WI",35,24,6,0,5,1
+"Jefferson City","MO",19,19,0,0,0,0
+"Johnson City","TN",61,59,2,0,0,0
+"Johnstown","PA",2,2,0,0,0,0
+"Jonesboro","AR",42,42,0,0,0,0
+"Joplin","MO",34,26,8,0,0,0
+"Kalamazoo-Portage","MI",218,40,0,0,178,18
+"Kankakee-Bradley","IL",16,16,0,0,0,0
+"Kansas City","MO-KS",1050,618,46,61,325,23
+"Kennewick-Richland-Pasco","WA",119,95,2,12,10,1
+"Killeen-Temple-Fort Hood","TX",260,178,34,48,0,0
+"Kingsport-Bristol-Bristol","TN-VA",53,53,0,0,0,0
+"Kingston","NY",76,25,0,0,51,1
+"Knoxville","TN",590,291,0,0,299,17
+"Kokomo","IN",8,6,2,0,0,0
+"La Crosse","WI-MN",24,24,0,0,0,0
+"Lafayette","IN",57,57,0,0,0,0
+"Lafayette","LA",120,120,0,0,0,0
+"Lake Charles","LA",25,18,2,0,5,1
+"Lakeland","FL",373,364,0,0,9,1
+"Lancaster","PA",95,92,0,3,0,0
+"Lansing-East Lansing","MI",80,69,0,0,11,1
+"Laredo","TX",129,111,0,6,12,1
+"Las Cruces","NM",193,193,0,0,0,0
+"Las Vegas-Paradise","NV",1438,961,0,41,436,4
+"Lawrence","KS",29,29,0,0,0,0
+"Lawton","OK",25,25,0,0,0,0
+"Lebanon","PA",40,40,0,0,0,0
+"Lewiston","ID-WA",5,5,0,0,0,0
+"Lewiston-Auburn","ME",30,28,2,0,0,0
+"Lexington-Fayette","KY",252,225,4,0,23,1
+"Lima","OH",3,3,0,0,0,0
+"Lincoln","NE",90,73,2,0,15,2
+"Little Rock-North Little Rock","AR",347,225,20,0,102,2
+"Logan","UT-ID",55,55,0,0,0,0
+"Longview","TX",15,15,0,0,0,0
+"Longview","WA",44,44,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana","CA",2770,731,50,97,1892,57
+"Louisville-Jefferson County","KY-IN",490,392,4,4,90,3
+"Lubbock","TX",54,54,0,0,0,0
+"Lynchburg","VA",97,97,0,0,0,0
+"Macon","GA",67,67,0,0,0,0
+"Madera","CA",63,59,0,4,0,0
+"Madison","WI",214,116,14,17,67,5
+"Manchester-Nashua","NH",184,60,14,8,102,4
+"Mansfield","OH",16,11,0,0,5,1
+"McAllen-Edinburg-Mission","TX",544,502,4,33,5,1
+"Medford","OR",89,64,4,0,21,1
+"Memphis","TN-MS-AR",613,607,6,0,0,0
+"Merced","CA",118,112,2,4,0,0
+"Miami-Fort Lauderdale-Miami Beach","FL",2158,777,54,12,1315,30
+"Michigan City-La Porte","IN",17,17,0,0,0,0
+"Midland","TX",34,34,0,0,0,0
+"Milwaukee-Waukesha-West Allis","WI",317,161,10,4,142,6
+"Minneapolis-St. Paul-Bloomington","MN-WI",1254,878,10,23,343,14
+"Missoula","MT",31,21,6,4,0,0
+"Mobile","AL",225,210,0,0,15,2
+"Modesto","CA",137,113,0,0,24,1
+"Monroe","LA",47,37,0,0,10,1
+"Monroe","MI",21,21,0,0,0,0
+"Montgomery","AL",81,81,0,0,0,0
+"Morgantown","WV",5,5,0,0,0,0
+"Morristown","TN",48,48,0,0,0,0
+"Mount Vernon-Anacortes","WA",57,50,2,0,5,1
+"Muncie","IN",10,8,2,0,0,0
+"Muskegon-Norton Shores","MI",14,12,2,0,0,0
+"Myrtle Beach-Conway-North Myrtle Beach","SC",765,434,0,0,331,20
+"Napa","CA",42,42,0,0,0,0
+"Naples-Marco Island","FL",477,153,0,116,208,16
+"Nashville-Davidson--Murfreesboro","TN",1327,962,12,20,333,1
+"New Haven-Milford","CT",133,80,8,7,38,4
+"New Orleans-Metairie-Kenner","LA",448,414,34,0,0,0
+"New York-Northern New Jersey-Long Island","NY-NJ-PA",4861,1239,642,527,2453,106
+"Niles-Benton Harbor","MI",16,16,0,0,0,0
+"Norwich-New London","CT",45,45,0,0,0,0
+"Ocala","FL",380,371,0,9,0,0
+"Ocean City","NJ",79,63,16,0,0,0
+"Odessa","TX",12,12,0,0,0,0
+"Ogden-Clearfield","UT",295,281,2,12,0,0
+"Oklahoma City","OK",467,450,6,0,11,1
+"Olympia","WA",138,126,0,12,0,0
+"Omaha-Council Bluffs","NE-IA",432,344,4,0,84,3
+"Orlando-Kissimmee","FL",2086,1730,14,20,322,15
+"Oshkosh-Neenah","WI",37,29,4,4,0,0
+"Owensboro","KY",20,20,0,0,0,0
+"Oxnard-Thousand Oaks-Ventura","CA",128,80,6,6,36,1
+"Palm Bay-Melbourne-Titusville","FL",378,304,0,0,74,3
+"Panama City-Lynn Haven","FL",262,54,8,3,197,2
+"Parkersburg-Marietta-Vienna","WV-OH",18,16,2,0,0,0
+"Pascagoula","MS",112,112,0,0,0,0
+"Pensacola-Ferry Pass-Brent","FL",483,173,16,0,294,4
+"Peoria","IL",55,45,10,0,0,0
+"Philadelphia-Camden-Wilmington","PA-NJ-DE-MD",1067,823,16,38,190,12
+"Phoenix-Mesa-Scottsdale","AZ",2707,2083,6,22,596,36
+"Pine Bluff","AR",10,5,0,0,5,1
+"Pittsburgh","PA",392,333,8,10,41,8
+"Pittsfield","MA",3,3,0,0,0,0
+"Pocatello","ID",139,133,6,0,0,0
+"Port St. Lucie-Fort Pierce","FL",326,246,0,4,76,4
+"Portland-South Portland-Biddeford","ME",218,148,22,3,45,2
+"Portland-Vancouver-Beaverton","OR-WA",1265,681,14,9,561,NA
+"Prescott","AZ",214,178,8,8,20,3
+"Providence-New Bedford-Fall River","RI-MA",223,166,16,6,35,6
+"Provo-Orem","UT",504,426,2,8,68,3
+"Pueblo","CO",69,69,0,0,0,0
+"Punta Gorda","FL",249,168,14,16,51,4
+"Racine","WI",28,28,0,0,0,0
+"Raleigh-Cary","NC",1279,997,12,4,266,9
+"Rapid City","SD",66,54,6,6,0,0
+"Reading","PA",51,49,2,0,0,0
+"Redding","CA",45,41,4,0,0,0
+"Reno-Sparks","NV",271,271,0,0,0,0
+"Richmond","VA",529,498,0,15,16,2
+"Riverside-San Bernardino-Ontario","CA",2042,1913,20,12,97,15
+"Roanoke","VA",73,73,0,0,0,0
+"Rochester","MN",72,56,0,0,16,1
+"Rochester","NY",151,144,0,0,7,1
+"Rockford","IL",215,191,16,8,0,0
+"Rocky Mount","NC",64,59,2,3,0,0
+"Rome","GA",40,30,10,0,0,0
+"Sacramento--Arden-Arcade--Roseville","CA",1275,604,6,7,658,47
+"Saginaw-Saginaw Township North","MI",11,11,0,0,0,0
+"Salem","OR",107,83,4,3,17,1
+"Salinas","CA",78,58,0,0,20,1
+"Salisbury","MD",43,34,0,0,9,1
+"Salt Lake City","UT",519,451,6,37,25,3
+"San Angelo","TX",34,34,0,0,0,0
+"San Antonio","TX",923,771,0,0,152,10
+"San Diego-Carlsbad-San Marcos","CA",562,313,18,22,209,14
+"San Francisco-Oakland-Fremont","CA",989,344,2,11,632,22
+"San Jose-Sunnyvale-Santa Clara","CA",447,177,2,0,268,8
+"San Luis Obispo-Paso Robles","CA",93,57,10,0,26,1
+"Sandusky","OH",0,0,0,0,0,0
+"Santa Barbara-Santa Maria","CA",45,10,0,0,35,4
+"Santa Cruz-Watsonville","CA",16,16,0,0,0,0
+"Santa Fe","NM",27,27,0,0,0,0
+"Santa Rosa-Petaluma","CA",329,99,22,0,208,9
+"Sarasota-Bradenton-Venice","FL",395,354,2,8,31,4
+"Savannah","GA",201,196,0,0,5,1
+"Scranton--Wilkes-Barre","PA",36,33,0,3,0,0
+"Seattle-Tacoma-Bellevue","WA",2845,1117,86,90,1552,39
+"Sebastian-Vero Beach","FL",227,155,0,16,56,5
+"Sheboygan","WI",58,10,0,8,40,1
+"Sherman-Denison","TX",1,1,0,0,0,0
+"Shreveport-Bossier City","LA",155,153,2,0,0,0
+"Sioux City","IA-NE-SD",21,13,2,6,0,0
+"Sioux Falls","SD",157,128,2,12,15,1
+"South Bend-Mishawaka","IN-MI",47,47,0,0,0,0
+"Spartanburg","SC",119,119,0,0,0,0
+"Spokane","WA",131,131,0,0,0,0
+"Springfield","IL",36,19,12,0,5,1
+"Springfield","MA",53,45,8,0,0,0
+"Springfield","MO",223,169,28,0,26,2
+"Springfield","OH",12,12,0,0,0,0
+"St. Cloud","MN",78,71,2,0,5,1
+"St. George","UT",163,131,0,0,32,4
+"St. Joseph","MO-KS",14,8,6,0,0,0
+"St. Louis","MO-IL",926,675,8,13,230,11
+"State College","PA",23,23,0,0,0,0
+"Stockton","CA",317,317,0,0,0,0
+"Sumter","SC",58,58,0,0,0,0
+"Syracuse","NY",73,73,0,0,0,0
+"Tallahassee","FL",274,177,4,16,77,3
+"Tampa-St. Petersburg-Clearwater","FL",1098,1025,8,0,65,NA
+"Texarkana","TX-TexarkanaAR",13,13,0,0,0,0
+"Toledo","OH",131,125,6,0,0,0
+"Topeka","KS",44,44,0,0,0,0
+"Trenton-Ewing","NJ",79,51,0,0,28,2
+"Tucson","AZ",480,438,14,15,13,1
+"Tulsa","OK",352,348,4,0,0,0
+"Tuscaloosa","AL",94,68,0,0,26,2
+"Tyler","TX",33,27,0,0,6,1
+"Utica-Rome","NY",2,2,0,0,0,0
+"Valdosta","GA",162,162,0,0,0,0
+"Vallejo-Fairfield","CA",17,15,2,0,0,0
+"Victoria","TX",15,15,0,0,0,0
+"Vineland-Millville-Bridgeton","NJ",44,44,0,0,0,0
+"Virginia Beach-Norfolk-Newport News","VA-NC",523,387,14,24,98,8
+"Visalia-Porterville","CA",335,267,24,44,0,0
+"Waco","TX",55,55,0,0,0,0
+"Warner Robins","GA",85,85,0,0,0,0
+"Washington-Arlington-Alexandria","DC-VA-MD-WV",2589,1294,10,3,1282,19
+"Waterloo-Cedar Falls","IA",34,34,0,0,0,0
+"Wausau","WI",37,29,4,4,0,0
+"Weirton-Steubenville","WV-OH",3,3,0,0,0,0
+"Wenatchee","WA",81,65,0,16,0,0
+"Wheeling","WV-OH",1,1,0,0,0,0
+"Wichita Falls","TX",17,17,0,0,0,0
+"Wichita","KS",171,167,4,0,0,0
+"Williamsport","PA",0,0,0,0,0,0
+"Wilmington","NC",367,359,2,0,6,1
+"Winchester","VA-WV",93,93,0,0,0,0
+"Winston-Salem","NC",241,238,0,3,0,0
+"Worcester","MA",150,145,2,3,0,0
+"Yakima","WA",18,18,0,0,0,0
+"York-Hanover","PA",183,171,2,0,10,2
+"Youngstown-Warren-Boardman","OH-PA",49,39,2,0,8,1
+"Yuba City","CA",268,268,0,0,0,0
+"Yuma","AZ",113,108,0,0,5,1
+"Abilene","TX",19,19,0,0,0,0
+"Akron","OH",112,98,0,0,14,1
+"Albany","GA",38,36,2,0,0,0
+"Albany-Schenectady-Troy","NY",99,86,0,0,13,2
+"Albuquerque","NM",345,345,0,0,0,0
+"Alexandria","LA",49,49,0,0,0,0
+"Allentown-Bethlehem-Easton","PA-NJ",310,295,2,7,6,1
+"Altoona","PA",1,1,0,0,0,0
+"Amarillo","TX",44,44,0,0,0,0
+"Ames","IA",40,20,0,0,20,1
+"Anchorage","AK",99,34,38,27,0,0
+"Anderson","IN",19,19,0,0,0,0
+"Anderson","SC",121,121,0,0,0,0
+"Ann Arbor","MI",41,36,0,0,5,1
+"Anniston-Oxford","AL",9,9,0,0,0,0
+"Appleton","WI",83,61,4,0,18,2
+"Asheville","NC",299,266,0,4,29,2
+"Athens-Clarke County","GA",67,67,0,0,0,0
+"Atlanta-Sandy Springs-Marietta","GA",5577,4104,8,36,1429,23
+"Atlantic City","NJ",151,138,2,0,11,2
+"Auburn-Opelika","AL",250,162,0,0,88,3
+"Augusta-Richmond County","GA-SC",460,460,0,0,0,0
+"Austin-Round Rock","TX",1667,1168,24,139,336,17
+"Bakersfield","CA",370,325,18,12,15,1
+"Baltimore-Towson","MD",542,443,2,0,97,6
+"Bangor","ME",27,23,4,0,0,0
+"Barnstable Town","MA",73,61,2,0,10,2
+"Baton Rouge","LA",414,359,0,0,55,6
+"Battle Creek","MI",14,8,0,0,6,1
+"Bay City","MI",1,1,0,0,0,0
+"Beaumont-Port Arthur","TX",52,52,0,0,0,0
+"Bellingham","WA",47,43,4,0,0,0
+"Bend","OR",171,151,6,6,8,1
+"Billings","MT",52,52,0,0,0,0
+"Binghamton","NY",4,4,0,0,0,0
+"Birmingham-Hoover","AL",577,417,0,0,160,13
+"Bismarck","ND",83,73,10,0,0,0
+"Bloomington","IN",42,31,6,0,5,1
+"Bloomington-Normal","IL",76,67,0,0,9,1
+"Boise City-Nampa","ID",488,432,36,20,0,0
+"Boston-Cambridge-Quincy","MA-NH",982,562,72,27,321,24
+"Boulder","CO",43,32,0,3,8,1
+"Bowling Green","KY",46,38,2,6,0,0
+"Bremerton-Silverdale","WA",100,100,0,0,0,0
+"Bridgeport-Stamford-Norwalk","CT",105,99,6,0,0,0
+"Brownsville-Harlingen","TX",199,175,6,18,0,0
+"Brunswick","GA",65,60,0,0,5,1
+"Buffalo-Niagara Falls","NY",145,143,2,0,0,0
+"Burlington","NC",124,124,0,0,0,0
+"Burlington-South Burlington","VT",67,32,4,3,28,2
+"Canton-Massillon","OH",46,44,2,0,0,0
+"Cape Coral-Fort Myers","FL",908,800,0,32,76,6
+"Carson City","NV",38,2,0,8,28,2
+"Casper","WY",18,18,0,0,0,0
+"Cedar Rapids","IA",95,78,4,13,0,0
+"Champaign-Urbana","IL",74,62,0,0,12,1
+"Charleston","WV",21,21,0,0,0,0
+"Charleston-North Charleston","SC",685,552,10,10,113,10
+"Charlotte-Gastonia-Concord","NC-SC",2075,1762,2,4,307,11
+"Charlottesville","VA",113,89,2,0,22,1
+"Chattanooga","TN-GA",165,152,6,0,7,1
+"Cheyenne","WY",43,30,0,4,9,1
+"Chicago-Naperville-Joliet","IL-IN-WI",3569,2236,54,152,1127,NA
+"Cincinnati-Middletown","OH-KY-IN",721,557,2,17,145,12
+"Clarksville","TN-KY",232,165,20,47,0,0
+"Cleveland","TN",55,50,2,3,0,0
+"Cleveland-Elyria-Mentor","OH",412,365,4,22,21,4
+"Coeur dAlene","ID",71,69,2,0,0,0
+"College Station-Bryan","TX",50,48,2,0,0,0
+"Colorado Springs","CO",231,221,4,6,0,0
+"Columbia","MO",66,60,6,0,0,0
+"Columbia","SC",463,409,0,0,54,4
+"Columbus","GA-AL",137,106,0,4,27,2
+"Columbus","IN",19,19,0,0,0,0
+"Columbus","OH",489,353,14,58,64,4
+"Corpus Christi","TX",204,125,2,0,77,7
+"Corvallis","OR",49,15,0,34,0,0
+"Cumberland","MD-WV",8,8,0,0,0,0
+"Dallas-Fort Worth-Arlington","TX",3600,3092,50,31,427,22
+"Dalton","GA",66,53,2,3,8,1
+"Danville","IL",0,0,0,0,0,0
+"Danville","VA",15,15,0,0,0,0
+"Davenport-Moline-Rock Island","IA-IL",49,47,2,0,0,NA
+"Decatur","AL",21,21,0,0,0,0
+"Decatur","IL",1,1,0,0,0,0
+"Deltona-Daytona Beach-Ormond Beach","FL",399,187,0,4,208,2
+"Denver-Aurora","CO",961,857,10,3,91,8
+"Des Moines-West Des Moines","IA",532,372,10,0,150,5
+"Detroit-Warren-Livonia","MI",632,574,8,18,32,5
+"Dothan","AL",53,53,0,0,0,0
+"Dover","DE",121,121,0,0,0,0
+"Dubuque","IA",23,21,2,0,0,0
+"Duluth","MN-WI",69,58,2,4,5,1
+"Durham","NC",275,275,0,0,0,0
+"Eau Claire","WI",79,64,10,0,5,1
+"El Centro","CA",98,92,0,0,6,1
+"El Paso","TX",274,274,0,0,0,0
+"Elizabethtown","KY",43,35,0,8,0,0
+"Elkhart-Goshen","IN",73,73,0,0,0,0
+"Elmira","NY",4,4,0,0,0,0
+"Erie","PA",30,26,0,4,0,0
+"Eugene-Springfield","OR",100,90,6,4,0,0
+"Evansville","IN-KY",66,66,0,0,0,0
+"Fairbanks","AK",18,16,2,0,0,0
+"Fargo","ND-MN",104,86,0,4,14,2
+"Farmington","NM",33,33,0,0,0,0
+"Fayetteville","NC",202,202,0,0,0,0
+"Fayetteville-Springdale-Rogers","AR-MO",242,180,22,3,37,4
+"Flagstaff","AZ",79,79,0,0,0,0
+"Flint","MI",29,29,0,0,0,0
+"Florence","SC",53,53,0,0,0,0
+"Florence-Muscle Shoals","AL",53,53,0,0,0,0
+"Fond du Lac","WI",7,7,0,0,0,0
+"Fort Collins-Loveland","CO",111,101,2,0,8,1
+"Fort Smith","AR-OK",42,32,4,6,0,0
+"Fort Walton Beach-Crestview-Destin","FL",123,66,0,0,57,1
+"Fort Wayne","IN",135,135,0,0,0,0
+"Fresno","CA",289,203,6,8,72,7
+"Gadsden","AL",11,11,0,0,0,0
+"Gainesville","FL",97,67,0,0,30,2
+"Gainesville","GA",128,116,2,10,0,0
+"Glens Falls","NY",52,48,0,4,0,0
+"Goldsboro","NC",28,28,0,0,0,0
+"Grand Forks","ND-MN",70,22,0,8,40,2
+"Grand Junction","CO",151,117,0,24,10,1
+"Grand Rapids-Wyoming","MI",220,206,0,3,11,1
+"Great Falls","MT",21,18,0,3,0,0
+"Greeley","CO",268,139,2,6,121,2
+"Green Bay","WI",130,118,0,0,12,1
+"Greensboro-High Point","NC",450,332,0,3,115,10
+"Greenville","NC",333,131,22,0,180,12
+"Greenville","SC",341,339,2,0,0,0
+"Gulfport-Biloxi","MS",311,276,0,29,6,1
+"Hagerstown-Martinsburg","MD-WV",198,188,10,0,0,0
+"Hanford-Corcoran","CA",29,27,2,0,0,0
+"Harrisburg-Carlisle","PA",112,100,0,0,12,1
+"Harrisonburg","VA",108,106,2,0,0,0
+"Hartford-West Hartford-East Hartford","CT",228,176,16,0,36,5
+"Hattiesburg","MS",46,6,0,0,40,6
+"Hickory-Lenoir-Morganton","NC",120,104,0,0,16,2
+"Hinesville-Fort Stewart","GA",5,5,0,0,0,0
+"Holland-Grand Haven","MI",129,129,0,0,0,0
+"Honolulu","HI",577,138,0,0,439,2
+"Hot Springs","AR",10,10,0,0,0,0
+"Houma-Bayou Cane-Thibodaux","LA",54,54,0,0,0,0
+"Houston-Sugar Land-Baytown","TX",5251,3888,22,8,1333,53
+"Huntington-Ashland","WV-KY-OH",5,5,0,0,0,0
+"Huntsville","AL",397,301,0,0,96,8
+"Idaho Falls","ID",109,98,0,11,0,0
+"Indianapolis-Carmel","IN",662,604,14,24,20,3
+"Iowa City","IA",73,62,0,11,0,0
+"Ithaca","NY",8,3,0,0,5,1
+"Jackson","MI",99,99,0,0,0,0
+"Jackson","MS",237,237,0,0,0,0
+"Jackson","TN",40,40,0,0,0,0
+"Jacksonville","FL",858,588,12,0,258,11
+"Jacksonville","NC",140,136,4,0,0,0
+"Janesville","WI",63,41,4,3,15,1
+"Jefferson City","MO",70,22,0,0,48,5
+"Johnson City","TN",62,52,2,0,8,1
+"Johnstown","PA",2,2,0,0,0,0
+"Jonesboro","AR",19,19,0,0,0,0
+"Joplin","MO",20,15,0,0,5,1
+"Kalamazoo-Portage","MI",133,42,0,3,88,9
+"Kankakee-Bradley","IL",9,9,0,0,0,0
+"Kansas City","MO-KS",1023,598,26,46,353,27
+"Kennewick-Richland-Pasco","WA",124,102,0,14,8,1
+"Killeen-Temple-Fort Hood","TX",469,183,34,12,240,14
+"Kingsport-Bristol-Bristol","TN-VA",58,50,0,3,5,1
+"Kingston","NY",21,21,0,0,0,0
+"Knoxville","TN",307,288,0,0,19,1
+"Kokomo","IN",11,11,0,0,0,0
+"La Crosse","WI-MN",93,27,2,0,64,1
+"Lafayette","IN",65,43,0,0,22,1
+"Lafayette","LA",124,124,0,0,0,0
+"Lake Charles","LA",29,21,0,3,5,1
+"Lakeland","FL",350,340,0,0,10,1
+"Lancaster","PA",91,77,0,0,14,1
+"Lansing-East Lansing","MI",69,57,2,0,10,1
+"Laredo","TX",138,115,2,3,18,1
+"Las Cruces","NM",130,114,16,0,0,0
+"Las Vegas-Paradise","NV",1414,846,0,27,541,22
+"Lawrence","KS",37,30,0,7,0,0
+"Lawton","OK",7,7,0,0,0,0
+"Lebanon","PA",45,45,0,0,0,0
+"Lewiston","ID-WA",4,2,2,0,0,0
+"Lewiston-Auburn","ME",22,22,0,0,0,0
+"Lexington-Fayette","KY",275,247,2,4,22,1
+"Lima","OH",5,5,0,0,0,0
+"Lincoln","NE",97,78,4,0,15,2
+"Little Rock-North Little Rock","AR",246,228,18,0,0,0
+"Logan","UT-ID",82,74,0,3,5,1
+"Longview","TX",16,16,0,0,0,0
+"Longview","WA",37,35,2,0,0,0
+"Los Angeles-Long Beach-Santa Ana","CA",2934,811,64,54,2005,73
+"Louisville-Jefferson County","KY-IN",453,381,0,4,68,2
+"Lubbock","TX",303,85,0,0,218,25
+"Lynchburg","VA",189,189,0,0,0,0
+"Macon","GA",53,53,0,0,0,0
+"Madera","CA",61,59,2,0,0,0
+"Madison","WI",404,146,10,17,231,8
+"Manchester-Nashua","NH",102,97,0,0,5,1
+"Mansfield","OH",24,18,6,0,0,0
+"McAllen-Edinburg-Mission","TX",555,406,16,92,41,6
+"Medford","OR",98,81,4,0,13,1
+"Memphis","TN-MS-AR",717,641,0,0,76,4
+"Merced","CA",88,88,0,0,0,0
+"Miami-Fort Lauderdale-Miami Beach","FL",1617,1013,82,24,498,38
+"Michigan City-La Porte","IN",18,18,0,0,0,0
+"Midland","TX",45,45,0,0,0,0
+"Milwaukee-Waukesha-West Allis","WI",520,212,12,0,296,10
+"Minneapolis-St. Paul-Bloomington","MN-WI",1084,953,8,18,105,10
+"Missoula","MT",57,51,6,0,0,0
+"Mobile","AL",201,196,0,0,5,1
+"Modesto","CA",125,75,10,24,16,1
+"Monroe","LA",50,36,0,3,11,1
+"Monroe","MI",17,17,0,0,0,0
+"Montgomery","AL",132,132,0,0,0,0
+"Morgantown","WV",11,5,0,6,0,0
+"Morristown","TN",40,33,4,3,0,0
+"Mount Vernon-Anacortes","WA",51,44,2,0,5,1
+"Muncie","IN",46,16,6,24,0,0
+"Muskegon-Norton Shores","MI",22,18,4,0,0,0
+"Myrtle Beach-Conway-North Myrtle Beach","SC",545,396,2,0,147,9
+"Napa","CA",66,22,0,0,44,2
+"Naples-Marco Island","FL",429,179,10,87,153,12
+"Nashville-Davidson--Murfreesboro","TN",1018,976,26,0,16,1
+"New Haven-Milford","CT",199,135,4,0,60,4
+"New Orleans-Metairie-Kenner","LA",645,443,84,0,118,6
+"New York-Northern New Jersey-Long Island","NY-NJ-PA",4260,1213,442,605,2000,95
+"Niles-Benton Harbor","MI",13,13,0,0,0,0
+"Norwich-New London","CT",153,90,2,4,57,2
+"Ocala","FL",414,408,0,6,0,0
+"Ocean City","NJ",94,84,10,0,0,0
+"Odessa","TX",21,21,0,0,0,0
+"Ogden-Clearfield","UT",345,341,0,4,0,0
+"Oklahoma City","OK",507,488,6,0,13,2
+"Olympia","WA",138,136,2,0,0,0
+"Omaha-Council Bluffs","NE-IA",713,335,2,0,376,18
+"Orlando-Kissimmee","FL",2369,1579,4,28,758,54
+"Oshkosh-Neenah","WI",54,37,10,7,0,0
+"Owensboro","KY",18,18,0,0,0,0
+"Oxnard-Thousand Oaks-Ventura","CA",87,56,2,3,26,1
+"Palm Bay-Melbourne-Titusville","FL",505,237,0,7,261,8
+"Panama City-Lynn Haven","FL",280,62,12,3,203,2
+"Parkersburg-Marietta-Vienna","WV-OH",12,12,0,0,0,0
+"Pascagoula","MS",309,148,0,0,161,6
+"Pensacola-Ferry Pass-Brent","FL",214,170,8,0,36,5
+"Peoria","IL",93,35,18,0,40,5
+"Philadelphia-Camden-Wilmington","PA-NJ-DE-MD",1020,823,0,15,182,11
+"Phoenix-Mesa-Scottsdale","AZ",2158,1662,2,98,396,25
+"Pine Bluff","AR",12,5,2,0,5,1
+"Pittsburgh","PA",359,314,4,11,30,6
+"Pittsfield","MA",3,3,0,0,0,0
+"Pocatello","ID",52,52,0,0,0,0
+"Port St. Lucie-Fort Pierce","FL",536,345,0,8,183,8
+"Portland-South Portland-Biddeford","ME",240,215,8,7,10,2
+"Portland-Vancouver-Beaverton","OR-WA",1053,636,24,20,373,NA
+"Prescott","AZ",142,139,0,3,0,0
+"Providence-New Bedford-Fall River","RI-MA",337,260,40,7,30,5
+"Provo-Orem","UT",528,395,6,19,108,5
+"Pueblo","CO",82,82,0,0,0,0
+"Punta Gorda","FL",194,118,10,24,42,2
+"Racine","WI",35,33,2,0,0,0
+"Raleigh-Cary","NC",1340,1074,0,0,266,11
+"Rapid City","SD",49,49,0,0,0,0
+"Reading","PA",58,44,14,0,0,0
+"Redding","CA",45,43,2,0,0,0
+"Reno-Sparks","NV",193,183,4,6,0,0
+"Richmond","VA",599,493,6,0,100,3
+"Riverside-San Bernardino-Ontario","CA",1540,1464,12,13,51,8
+"Roanoke","VA",76,76,0,0,0,0
+"Rochester","MN",81,57,0,0,24,2
+"Rochester","NY",118,106,0,12,0,0
+"Rockford","IL",143,135,8,0,0,0
+"Rocky Mount","NC",57,52,2,3,0,0
+"Rome","GA",40,25,8,0,7,1
+"Sacramento--Arden-Arcade--Roseville","CA",693,485,2,0,206,16
+"Saginaw-Saginaw Township North","MI",7,7,0,0,0,0
+"Salem","OR",96,72,4,3,17,2
+"Salinas","CA",36,36,0,0,0,0
+"Salisbury","MD",65,26,0,0,39,2
+"Salt Lake City","UT",539,473,6,14,46,5
+"San Angelo","TX",155,35,0,0,120,10
+"San Antonio","TX",1680,1106,4,8,562,25
+"San Diego-Carlsbad-San Marcos","CA",855,275,52,15,513,18
+"San Francisco-Oakland-Fremont","CA",836,475,6,19,336,12
+"San Jose-Sunnyvale-Santa Clara","CA",317,160,2,18,137,12
+"San Luis Obispo-Paso Robles","CA",58,39,4,0,15,3
+"Sandusky","OH",0,0,0,0,0,0
+"Santa Barbara-Santa Maria","CA",42,42,0,0,0,0
+"Santa Cruz-Watsonville","CA",46,31,0,0,15,1
+"Santa Fe","NM",25,25,0,0,0,0
+"Santa Rosa-Petaluma","CA",105,58,4,0,43,2
+"Sarasota-Bradenton-Venice","FL",414,278,6,12,118,11
+"Savannah","GA",292,271,8,8,5,1
+"Scranton--Wilkes-Barre","PA",29,26,0,3,0,0
+"Seattle-Tacoma-Bellevue","WA",1802,1213,78,144,367,22
+"Sebastian-Vero Beach","FL",127,114,0,0,13,2
+"Sheboygan","WI",12,12,0,0,0,0
+"Sherman-Denison","TX",2,2,0,0,0,0
+"Shreveport-Bossier City","LA",112,112,0,0,0,0
+"Sioux City","IA-NE-SD",17,17,0,0,0,0
+"Sioux Falls","SD",126,106,4,16,0,0
+"South Bend-Mishawaka","IN-MI",71,39,0,0,32,2
+"Spartanburg","SC",143,143,0,0,0,0
+"Spokane","WA",110,105,0,0,5,1
+"Springfield","IL",39,25,8,0,6,1
+"Springfield","MA",74,62,12,0,0,0
+"Springfield","MO",223,185,18,20,0,0
+"Springfield","OH",14,14,0,0,0,0
+"St. Cloud","MN",78,67,0,0,11,2
+"St. George","UT",134,122,0,0,12,2
+"St. Joseph","MO-KS",8,8,0,0,0,0
+"St. Louis","MO-IL",910,681,12,18,199,9
+"State College","PA",33,33,0,0,0,0
+"Stockton","CA",171,171,0,0,0,0
+"Sumter","SC",50,50,0,0,0,0
+"Syracuse","NY",192,74,2,0,116,4
+"Tallahassee","FL",280,180,4,19,77,3
+"Tampa-St. Petersburg-Clearwater","FL",1801,923,12,7,859,NA
+"Texarkana","TX-TexarkanaAR",17,15,2,0,0,0
+"Toledo","OH",114,97,2,4,11,2
+"Topeka","KS",48,48,0,0,0,0
+"Trenton-Ewing","NJ",55,50,0,0,5,1
+"Tucson","AZ",517,480,18,10,9,1
+"Tulsa","OK",349,341,4,4,0,0
+"Tuscaloosa","AL",86,58,0,0,28,2
+"Tyler","TX",34,28,0,0,6,1
+"Utica-Rome","NY",5,5,0,0,0,0
+"Valdosta","GA",152,86,2,0,64,8
+"Vallejo-Fairfield","CA",53,53,0,0,0,0
+"Victoria","TX",7,7,0,0,0,0
+"Vineland-Millville-Bridgeton","NJ",41,41,0,0,0,0
+"Virginia Beach-Norfolk-Newport News","VA-NC",833,556,38,31,208,8
+"Visalia-Porterville","CA",300,176,96,28,0,0
+"Waco","TX",76,73,0,3,0,0
+"Warner Robins","GA",126,126,0,0,0,0
+"Washington-Arlington-Alexandria","DC-VA-MD-WV",1958,1148,0,3,807,17
+"Waterloo-Cedar Falls","IA",29,29,0,0,0,0
+"Wausau","WI",53,51,2,0,0,0
+"Weirton-Steubenville","WV-OH",2,2,0,0,0,0
+"Wenatchee","WA",67,67,0,0,0,0
+"Wheeling","WV-OH",24,0,0,0,24,3
+"Wichita Falls","TX",13,13,0,0,0,0
+"Wichita","KS",337,176,10,0,151,2
+"Williamsport","PA",9,9,0,0,0,0
+"Wilmington","NC",504,439,2,0,63,4
+"Winchester","VA-WV",109,97,0,0,12,1
+"Winston-Salem","NC",419,419,0,0,0,0
+"Worcester","MA",158,142,2,3,11,2
+"Yakima","WA",17,17,0,0,0,0
+"York-Hanover","PA",214,184,30,0,0,0
+"Youngstown-Warren-Boardman","OH-PA",58,38,2,0,18,3
+"Yuba City","CA",44,44,0,0,0,0
+"Yuma","AZ",107,102,0,0,5,1
+"Abilene","TX",32,32,0,0,0,0
+"Akron","OH",109,89,0,6,14,1
+"Albany","GA",35,32,0,3,0,0
+"Albany-Schenectady-Troy","NY",101,63,0,20,18,1
+"Albuquerque","NM",675,276,0,0,399,28
+"Alexandria","LA",36,36,0,0,0,0
+"Allentown-Bethlehem-Easton","PA-NJ",280,257,2,0,21,2
+"Altoona","PA",0,0,0,0,0,0
+"Amarillo","TX",21,21,0,0,0,0
+"Ames","IA",57,15,0,0,42,4
+"Anchorage","AK",35,21,2,12,0,0
+"Anderson","IN",11,11,0,0,0,0
+"Anderson","SC",54,54,0,0,0,0
+"Ann Arbor","MI",32,27,0,0,5,1
+"Anniston-Oxford","AL",10,10,0,0,0,0
+"Appleton","WI",31,29,2,0,0,0
+"Asheville","NC",265,236,2,6,21,1
+"Athens-Clarke County","GA",324,46,0,0,278,4
+"Atlanta-Sandy Springs-Marietta","GA",4046,3234,20,14,778,19
+"Atlantic City","NJ",108,103,0,0,5,1
+"Auburn-Opelika","AL",81,71,0,0,10,2
+"Augusta-Richmond County","GA-SC",170,170,0,0,0,0
+"Austin-Round Rock","TX",1958,996,18,95,849,18
+"Bakersfield","CA",332,272,10,25,25,3
+"Baltimore-Towson","MD",520,280,14,9,217,8
+"Bangor","ME",43,7,6,0,30,5
+"Barnstable Town","MA",75,56,0,7,12,2
+"Baton Rouge","LA",414,368,0,3,43,4
+"Battle Creek","MI",12,7,0,0,5,1
+"Bay City","MI",8,8,0,0,0,0
+"Beaumont-Port Arthur","TX",127,43,0,0,84,8
+"Bellingham","WA",21,21,0,0,0,0
+"Bend","OR",170,166,4,0,0,0
+"Billings","MT",39,39,0,0,0,0
+"Binghamton","NY",2,2,0,0,0,0
+"Birmingham-Hoover","AL",351,351,0,0,0,0
+"Bismarck","ND",55,43,4,0,8,1
+"Bloomington","IN",37,33,4,0,0,0
+"Bloomington-Normal","IL",35,25,0,0,10,1
+"Boise City-Nampa","ID",424,379,2,23,20,2
+"Boston-Cambridge-Quincy","MA-NH",980,414,40,19,507,23
+"Boulder","CO",51,40,0,0,11,2
+"Bowling Green","KY",58,58,0,0,0,0
+"Bremerton-Silverdale","WA",56,42,0,0,14,1
+"Bridgeport-Stamford-Norwalk","CT",120,88,4,0,28,3
+"Brownsville-Harlingen","TX",161,154,0,7,0,0
+"Brunswick","GA",99,99,0,0,0,0
+"Buffalo-Niagara Falls","NY",49,49,0,0,0,0
+"Burlington","NC",152,92,0,0,60,5
+"Burlington-South Burlington","VT",38,26,4,3,5,1
+"Canton-Massillon","OH",49,44,0,0,5,1
+"Cape Coral-Fort Myers","FL",654,618,0,0,36,4
+"Carson City","NV",63,48,0,0,15,1
+"Casper","WY",15,15,0,0,0,0
+"Cedar Rapids","IA",65,52,0,13,0,0
+"Champaign-Urbana","IL",50,50,0,0,0,0
+"Charleston","WV",16,16,0,0,0,0
+"Charleston-North Charleston","SC",479,385,6,0,88,12
+"Charlotte-Gastonia-Concord","NC-SC",1454,980,0,3,471,23
+"Charlottesville","VA",77,59,0,0,18,1
+"Chattanooga","TN-GA",194,184,4,0,6,1
+"Cheyenne","WY",32,27,0,0,5,1
+"Chicago-Naperville-Joliet","IL-IN-WI",2783,1724,58,117,884,NA
+"Cincinnati-Middletown","OH-KY-IN",502,408,4,15,75,8
+"Clarksville","TN-KY",269,167,10,50,42,6
+"Cleveland","TN",45,40,2,3,0,0
+"Cleveland-Elyria-Mentor","OH",301,275,2,9,15,3
+"Coeur dAlene","ID",83,73,0,0,10,1
+"College Station-Bryan","TX",203,52,0,0,151,17
+"Colorado Springs","CO",181,177,0,4,0,0
+"Columbia","MO",64,64,0,0,0,0
+"Columbia","SC",507,345,6,0,156,4
+"Columbus","GA-AL",114,93,0,4,17,2
+"Columbus","IN",13,13,0,0,0,0
+"Columbus","OH",569,286,4,67,212,32
+"Corpus Christi","TX",125,97,4,3,21,2
+"Corvallis","OR",15,15,0,0,0,0
+"Cumberland","MD-WV",9,9,0,0,0,0
+"Dallas-Fort Worth-Arlington","TX",3501,2445,54,7,995,51
+"Dalton","GA",49,37,2,3,7,1
+"Danville","IL",1,1,0,0,0,0
+"Danville","VA",16,13,0,3,0,0
+"Davenport-Moline-Rock Island","IA-IL",62,49,4,3,6,NA
+"Decatur","AL",18,18,0,0,0,0
+"Decatur","IL",6,6,0,0,0,0
+"Deltona-Daytona Beach-Ormond Beach","FL",183,154,0,0,29,3
+"Denver-Aurora","CO",781,719,0,17,45,5
+"Des Moines-West Des Moines","IA",436,238,0,0,198,2
+"Detroit-Warren-Livonia","MI",501,422,12,7,60,8
+"Dothan","AL",16,16,0,0,0,0
+"Dover","DE",89,89,0,0,0,0
+"Dubuque","IA",20,20,0,0,0,0
+"Duluth","MN-WI",49,37,2,0,10,2
+"Durham","NC",200,200,0,0,0,0
+"Eau Claire","WI",83,37,8,0,38,1
+"El Centro","CA",77,72,0,0,5,1
+"El Paso","TX",234,224,0,0,10,2
+"Elizabethtown","KY",63,31,12,0,20,4
+"Elkhart-Goshen","IN",59,59,0,0,0,0
+"Elmira","NY",3,3,0,0,0,0
+"Erie","PA",25,13,0,12,0,0
+"Eugene-Springfield","OR",97,93,4,0,0,0
+"Evansville","IN-KY",89,61,0,4,24,2
+"Fairbanks","AK",6,6,0,0,0,0
+"Fargo","ND-MN",74,57,0,8,9,1
+"Farmington","NM",24,24,0,0,0,0
+"Fayetteville","NC",176,176,0,0,0,0
+"Fayetteville-Springdale-Rogers","AR-MO",329,223,44,0,62,7
+"Flagstaff","AZ",27,27,0,0,0,0
+"Flint","MI",14,14,0,0,0,0
+"Florence","SC",44,44,0,0,0,0
+"Florence-Muscle Shoals","AL",19,19,0,0,0,0
+"Fond du Lac","WI",21,12,4,0,5,1
+"Fort Collins-Loveland","CO",110,81,2,3,24,3
+"Fort Smith","AR-OK",53,25,8,4,16,1
+"Fort Walton Beach-Crestview-Destin","FL",109,58,0,3,48,1
+"Fort Wayne","IN",101,101,0,0,0,0
+"Fresno","CA",220,150,4,8,58,5
+"Gadsden","AL",14,14,0,0,0,0
+"Gainesville","FL",258,70,0,0,188,30
+"Gainesville","GA",127,127,0,0,0,0
+"Glens Falls","NY",37,33,4,0,0,0
+"Goldsboro","NC",22,22,0,0,0,0
+"Grand Forks","ND-MN",80,3,2,0,75,1
+"Grand Junction","CO",108,86,6,0,16,2
+"Grand Rapids-Wyoming","MI",152,143,0,0,9,1
+"Great Falls","MT",11,7,4,0,0,0
+"Greeley","CO",163,156,2,0,5,1
+"Green Bay","WI",78,68,0,0,10,1
+"Greensboro-High Point","NC",441,321,2,3,115,5
+"Greenville","NC",127,121,6,0,0,0
+"Greenville","SC",360,358,2,0,0,0
+"Gulfport-Biloxi","MS",208,208,0,0,0,0
+"Hagerstown-Martinsburg","MD-WV",199,187,0,0,12,1
+"Hanford-Corcoran","CA",35,35,0,0,0,0
+"Harrisburg-Carlisle","PA",79,75,0,4,0,0
+"Harrisonburg","VA",32,32,0,0,0,0
+"Hartford-West Hartford-East Hartford","CT",200,166,14,0,20,3
+"Hattiesburg","MS",9,9,0,0,0,0
+"Hickory-Lenoir-Morganton","NC",90,90,0,0,0,0
+"Hinesville-Fort Stewart","GA",7,7,0,0,0,0
+"Holland-Grand Haven","MI",78,44,0,3,31,2
+"Honolulu","HI",77,77,0,0,0,0
+"Hot Springs","AR",8,8,0,0,0,0
+"Houma-Bayou Cane-Thibodaux","LA",50,50,0,0,0,0
+"Houston-Sugar Land-Baytown","TX",4743,3155,24,31,1533,91
+"Huntington-Ashland","WV-KY-OH",3,3,0,0,0,0
+"Huntsville","AL",255,207,0,0,48,4
+"Idaho Falls","ID",171,91,0,0,80,10
+"Indianapolis-Carmel","IN",852,492,18,16,326,20
+"Iowa City","IA",70,39,10,3,18,2
+"Ithaca","NY",2,2,0,0,0,0
+"Jackson","MI",44,20,0,0,24,1
+"Jackson","MS",218,214,4,0,0,0
+"Jackson","TN",35,31,4,0,0,0
+"Jacksonville","FL",1199,508,12,0,679,49
+"Jacksonville","NC",221,101,0,0,120,6
+"Janesville","WI",26,22,4,0,0,0
+"Jefferson City","MO",15,15,0,0,0,0
+"Johnson City","TN",54,54,0,0,0,0
+"Johnstown","PA",1,1,0,0,0,0
+"Jonesboro","AR",29,26,0,3,0,0
+"Joplin","MO",12,12,0,0,0,0
+"Kalamazoo-Portage","MI",52,46,2,4,0,0
+"Kankakee-Bradley","IL",8,8,0,0,0,0
+"Kansas City","MO-KS",866,543,32,11,280,12
+"Kennewick-Richland-Pasco","WA",98,83,2,8,5,1
+"Killeen-Temple-Fort Hood","TX",173,155,18,0,0,0
+"Kingsport-Bristol-Bristol","TN-VA",48,48,0,0,0,0
+"Kingston","NY",22,18,0,4,0,0
+"Knoxville","TN",433,343,2,0,88,5
+"Kokomo","IN",7,7,0,0,0,0
+"La Crosse","WI-MN",39,29,6,4,0,0
+"Lafayette","IN",42,42,0,0,0,0
+"Lafayette","LA",110,110,0,0,0,0
+"Lake Charles","LA",20,15,0,0,5,1
+"Lakeland","FL",380,377,0,3,0,0
+"Lancaster","PA",69,69,0,0,0,0
+"Lansing-East Lansing","MI",97,40,0,0,57,5
+"Laredo","TX",110,96,0,4,10,1
+"Las Cruces","NM",113,111,2,0,0,0
+"Las Vegas-Paradise","NV",1001,793,0,60,148,6
+"Lawrence","KS",38,38,0,0,0,0
+"Lawton","OK",14,14,0,0,0,0
+"Lebanon","PA",27,27,0,0,0,0
+"Lewiston","ID-WA",3,1,2,0,0,0
+"Lewiston-Auburn","ME",25,20,0,0,5,1
+"Lexington-Fayette","KY",207,185,4,0,18,2
+"Lima","OH",4,4,0,0,0,0
+"Lincoln","NE",77,60,2,0,15,2
+"Little Rock-North Little Rock","AR",327,303,6,0,18,1
+"Logan","UT-ID",76,73,0,3,0,0
+"Longview","TX",15,15,0,0,0,0
+"Longview","WA",43,43,0,0,0,0
+"Los Angeles-Long Beach-Santa Ana","CA",2140,668,52,66,1354,42
+"Louisville-Jefferson County","KY-IN",412,316,6,0,90,11
+"Lubbock","TX",89,83,6,0,0,0
+"Lynchburg","VA",65,57,0,3,5,1
+"Macon","GA",75,75,0,0,0,0
+"Madera","CA",45,45,0,0,0,0
+"Madison","WI",228,125,10,6,87,7
+"Manchester-Nashua","NH",47,40,2,0,5,1
+"Mansfield","OH",9,9,0,0,0,0
+"McAllen-Edinburg-Mission","TX",479,381,14,72,12,2
+"Medford","OR",125,86,0,27,12,2
+"Memphis","TN-MS-AR",729,725,0,4,0,0
+"Merced","CA",81,69,0,7,5,1
+"Miami-Fort Lauderdale-Miami Beach","FL",1646,804,44,11,787,28
+"Michigan City-La Porte","IN",22,22,0,0,0,0
+"Midland","TX",38,38,0,0,0,0
+"Milwaukee-Waukesha-West Allis","WI",222,158,8,4,52,5
+"Minneapolis-St. Paul-Bloomington","MN-WI",911,705,0,15,191,16
+"Missoula","MT",57,43,2,0,12,1
+"Mobile","AL",202,161,0,0,41,5
+"Modesto","CA",152,133,4,0,15,1
+"Monroe","LA",39,29,0,0,10,2
+"Monroe","MI",11,11,0,0,0,0
+"Montgomery","AL",95,95,0,0,0,0
+"Morgantown","WV",1,1,0,0,0,0
+"Morristown","TN",39,37,2,0,0,0
+"Mount Vernon-Anacortes","WA",43,41,2,0,0,0
+"Muncie","IN",4,4,0,0,0,0
+"Muskegon-Norton Shores","MI",26,16,6,4,0,0
+"Myrtle Beach-Conway-North Myrtle Beach","SC",701,338,0,0,363,27
+"Napa","CA",2,2,0,0,0,0
+"Naples-Marco Island","FL",189,90,4,52,43,8
+"Nashville-Davidson--Murfreesboro","TN",991,959,22,0,10,1
+"New Haven-Milford","CT",111,87,4,0,20,2
+"New Orleans-Metairie-Kenner","LA",463,387,66,0,10,2
+"New York-Northern New Jersey-Long Island","NY-NJ-PA",4511,1101,424,348,2638,87
+"Niles-Benton Harbor","MI",47,7,0,0,40,5
+"Norwich-New London","CT",67,46,6,3,12,2
+"Ocala","FL",288,281,4,3,0,0
+"Ocean City","NJ",49,43,6,0,0,0
+"Odessa","TX",11,11,0,0,0,0
+"Ogden-Clearfield","UT",258,249,0,9,0,0
+"Oklahoma City","OK",383,363,2,6,12,1
+"Olympia","WA",178,127,0,0,51,3
+"Omaha-Council Bluffs","NE-IA",485,293,2,38,152,7
+"Orlando-Kissimmee","FL",1571,1376,0,0,195,12
+"Oshkosh-Neenah","WI",27,21,6,0,0,0
+"Owensboro","KY",24,24,0,0,0,0
+"Oxnard-Thousand Oaks-Ventura","CA",117,49,4,9,55,2
+"Palm Bay-Melbourne-Titusville","FL",315,303,0,0,12,1
+"Panama City-Lynn Haven","FL",215,30,12,0,173,2
+"Parkersburg-Marietta-Vienna","WV-OH",15,15,0,0,0,0
+"Pascagoula","MS",51,51,0,0,0,0
+"Pensacola-Ferry Pass-Brent","FL",197,120,0,0,77,14
+"Peoria","IL",70,35,8,3,24,2
+"Philadelphia-Camden-Wilmington","PA-NJ-DE-MD",1037,727,4,3,303,17
+"Phoenix-Mesa-Scottsdale","AZ",2031,1911,6,35,79,7
+"Pine Bluff","AR",11,6,0,0,5,1
+"Pittsburgh","PA",352,281,8,6,57,3
+"Pittsfield","MA",3,3,0,0,0,0
+"Pocatello","ID",66,34,8,24,0,0
+"Port St. Lucie-Fort Pierce","FL",379,350,2,7,20,1
+"Portland-South Portland-Biddeford","ME",171,151,8,7,5,1
+"Portland-Vancouver-Beaverton","OR-WA",1055,570,4,7,474,NA
+"Prescott","AZ",116,112,4,0,0,0
+"Providence-New Bedford-Fall River","RI-MA",268,199,36,9,24,3
+"Provo-Orem","UT",494,417,2,15,60,5
+"Pueblo","CO",69,69,0,0,0,0
+"Punta Gorda","FL",186,150,0,28,8,1
+"Racine","WI",21,19,2,0,0,0
+"Raleigh-Cary","NC",852,852,0,0,0,0
+"Rapid City","SD",54,42,0,0,12,2
+"Reading","PA",40,37,0,3,0,0
+"Redding","CA",32,32,0,0,0,0
+"Reno-Sparks","NV",104,101,0,3,0,0
+"Richmond","VA",462,440,0,22,0,0
+"Riverside-San Bernardino-Ontario","CA",1941,1741,80,8,112,17
+"Roanoke","VA",65,65,0,0,0,0
+"Rochester","MN",52,47,0,0,5,1
+"Rochester","NY",81,70,4,0,7,1
+"Rockford","IL",166,162,4,0,0,0
+"Rocky Mount","NC",30,30,0,0,0,0
+"Rome","GA",33,21,6,0,6,1
+"Sacramento--Arden-Arcade--Roseville","CA",597,554,8,6,29,4
+"Saginaw-Saginaw Township North","MI",4,4,0,0,0,0
+"Salem","OR",77,64,4,0,9,1
+"Salinas","CA",41,41,0,0,0,0
+"Salisbury","MD",9,9,0,0,0,0
+"Salt Lake City","UT",506,411,4,4,87,9
+"San Angelo","TX",27,27,0,0,0,0
+"San Antonio","TX",1426,1057,44,16,309,18
+"San Diego-Carlsbad-San Marcos","CA",533,279,10,7,237,7
+"San Francisco-Oakland-Fremont","CA",758,355,16,66,321,14
+"San Jose-Sunnyvale-Santa Clara","CA",575,133,0,9,433,17
+"San Luis Obispo-Paso Robles","CA",56,51,0,0,5,1
+"Sandusky","OH",0,0,0,0,0,0
+"Santa Barbara-Santa Maria","CA",20,20,0,0,0,0
+"Santa Cruz-Watsonville","CA",19,14,0,0,5,1
+"Santa Fe","NM",23,23,0,0,0,0
+"Santa Rosa-Petaluma","CA",122,64,10,0,48,2
+"Sarasota-Bradenton-Venice","FL",477,412,4,7,54,7
+"Savannah","GA",223,192,2,0,29,2
+"Scranton--Wilkes-Barre","PA",31,31,0,0,0,0
+"Seattle-Tacoma-Bellevue","WA",1222,784,54,61,323,13
+"Sebastian-Vero Beach","FL",139,139,0,0,0,0
+"Sheboygan","WI",10,8,2,0,0,0
+"Sherman-Denison","TX",2,2,0,0,0,0
+"Shreveport-Bossier City","LA",114,114,0,0,0,0
+"Sioux City","IA-NE-SD",17,15,2,0,0,0
+"Sioux Falls","SD",123,93,6,24,0,0
+"South Bend-Mishawaka","IN-MI",79,39,0,0,40,5
+"Spartanburg","SC",97,97,0,0,0,0
+"Spokane","WA",108,103,0,0,5,1
+"Springfield","IL",25,13,6,0,6,1
+"Springfield","MA",71,61,10,0,0,0
+"Springfield","MO",113,107,6,0,0,0
+"Springfield","OH",9,5,0,4,0,0
+"St. Cloud","MN",63,56,2,0,5,1
+"St. George","UT",129,127,2,0,0,0
+"St. Joseph","MO-KS",14,14,0,0,0,0
+"St. Louis","MO-IL",728,598,12,37,81,8
+"State College","PA",28,28,0,0,0,0
+"Stockton","CA",253,253,0,0,0,0
+"Sumter","SC",33,29,4,0,0,0
+"Syracuse","NY",62,62,0,0,0,0
+"Tallahassee","FL",245,158,8,16,63,3
+"Tampa-St. Petersburg-Clearwater","FL",1068,808,18,4,238,NA
+"Texarkana","TX-TexarkanaAR",14,14,0,0,0,0
+"Toledo","OH",126,126,0,0,0,0
+"Topeka","KS",76,25,0,0,51,3
+"Trenton-Ewing","NJ",43,43,0,0,0,0
+"Tucson","AZ",425,404,12,4,5,1
+"Tulsa","OK",377,292,24,0,61,6
+"Tuscaloosa","AL",86,50,0,0,36,1
+"Tyler","TX",33,24,0,3,6,1
+"Utica-Rome","NY",1,1,0,0,0,0
+"Valdosta","GA",48,46,2,0,0,0
+"Vallejo-Fairfield","CA",91,43,0,0,48,1
+"Victoria","TX",6,6,0,0,0,0
+"Vineland-Millville-Bridgeton","NJ",36,30,6,0,0,0
+"Virginia Beach-Norfolk-Newport News","VA-NC",644,366,12,192,74,5
+"Visalia-Porterville","CA",303,223,0,80,0,0
+"Waco","TX",73,73,0,0,0,0
+"Warner Robins","GA",89,89,0,0,0,0
+"Washington-Arlington-Alexandria","DC-VA-MD-WV",1518,1175,0,0,343,14
+"Waterloo-Cedar Falls","IA",28,28,0,0,0,0
+"Wausau","WI",31,29,2,0,0,0
+"Weirton-Steubenville","WV-OH",3,3,0,0,0,0
+"Wenatchee","WA",33,33,0,0,0,0
+"Wheeling","WV-OH",0,0,0,0,0,0
+"Wichita Falls","TX",14,14,0,0,0,0
+"Wichita","KS",227,203,24,0,0,0
+"Williamsport","PA",1,1,0,0,0,0
+"Wilmington","NC",446,357,4,16,69,6
+"Winchester","VA-WV",46,46,0,0,0,0
+"Winston-Salem","NC",175,175,0,0,0,0
+"Worcester","MA",118,101,10,7,0,0
+"Yakima","WA",16,16,0,0,0,0
+"York-Hanover","PA",123,123,0,0,0,0
+"Youngstown-Warren-Boardman","OH-PA",53,44,2,7,0,0
+"Yuba City","CA",145,145,0,0,0,0
+"Yuma","AZ",94,94,0,0,0,0
+"Abilene","TX",25,23,2,0,0,0
+"Akron","OH",74,59,0,0,15,1
+"Albany","GA",35,30,2,3,0,0
+"Albany-Schenectady-Troy","NY",77,69,0,8,0,0
+"Albuquerque","NM",306,278,0,3,25,1
+"Alexandria","LA",63,63,0,0,0,0
+"Allentown-Bethlehem-Easton","PA-NJ",237,215,4,3,15,3
+"Altoona","PA",3,3,0,0,0,0
+"Amarillo","TX",42,42,0,0,0,0
+"Ames","IA",47,24,0,0,23,1
+"Anchorage","AK",17,13,4,0,0,0
+"Anderson","IN",12,12,0,0,0,0
+"Anderson","SC",73,71,2,0,0,0
+"Ann Arbor","MI",27,27,0,0,0,0
+"Anniston-Oxford","AL",20,14,6,0,0,0
+"Appleton","WI",33,22,4,0,7,1
+"Asheville","NC",279,256,0,23,0,0
+"Athens-Clarke County","GA",60,52,0,0,8,1
+"Atlanta-Sandy Springs-Marietta","GA",3608,3008,6,29,565,12
+"Atlantic City","NJ",87,71,6,4,6,1
+"Auburn-Opelika","AL",183,169,4,0,10,1
+"Augusta-Richmond County","GA-SC",142,142,0,0,0,0
+"Austin-Round Rock","TX",2125,1007,18,0,1100,26
+"Bakersfield","CA",320,262,18,19,21,2
+"Baltimore-Towson","MD",763,443,10,12,298,20
+"Bangor","ME",17,9,0,8,0,0
+"Barnstable Town","MA",76,60,0,0,16,2
+"Baton Rouge","LA",1683,630,0,0,1053,66
+"Battle Creek","MI",4,4,0,0,0,0
+"Bay City","MI",0,0,0,0,0,0
+"Beaumont-Port Arthur","TX",32,32,0,0,0,0
+"Bellingham","WA",83,48,0,0,35,1
+"Bend","OR",147,140,4,3,0,0
+"Billings","MT",64,32,0,4,28,2
+"Binghamton","NY",5,3,2,0,0,0
+"Birmingham-Hoover","AL",370,370,0,0,0,0
+"Bismarck","ND",109,42,0,0,67,1
+"Bloomington","IN",22,22,0,0,0,0
+"Bloomington-Normal","IL",31,22,0,0,9,1
+"Boise City-Nampa","ID",410,347,12,51,0,0
+"Boston-Cambridge-Quincy","MA-NH",1361,408,38,25,890,21
+"Boulder","CO",41,16,0,0,25,2
+"Bowling Green","KY",34,34,0,0,0,0
+"Bremerton-Silverdale","WA",68,43,2,0,23,1
+"Bridgeport-Stamford-Norwalk","CT",142,121,6,0,15,2
+"Brownsville-Harlingen","TX",142,132,10,0,0,0
+"Brunswick","GA",43,43,0,0,0,0
+"Buffalo-Niagara Falls","NY",56,56,0,0,0,0
+"Burlington","NC",91,91,0,0,0,0
+"Burlington-South Burlington","VT",21,19,2,0,0,0
+"Canton-Massillon","OH",36,36,0,0,0,0
+"Cape Coral-Fort Myers","FL",582,488,0,11,83,10
+"Carson City","NV",14,2,0,0,12,1
+"Casper","WY",13,13,0,0,0,0
+"Cedar Rapids","IA",43,33,4,6,0,0
+"Champaign-Urbana","IL",46,24,2,12,8,1
+"Charleston","WV",15,15,0,0,0,0
+"Charleston-North Charleston","SC",770,398,0,3,369,18
+"Charlotte-Gastonia-Concord","NC-SC",2470,1612,20,23,815,44
+"Charlottesville","VA",77,50,0,3,24,1
+"Chattanooga","TN-GA",213,199,4,3,7,1
+"Cheyenne","WY",43,27,0,4,12,1
+"Chicago-Naperville-Joliet","IL-IN-WI",2428,1227,56,102,1043,NA
+"Cincinnati-Middletown","OH-KY-IN",480,371,6,14,89,9
+"Clarksville","TN-KY",182,142,0,8,32,4
+"Cleveland","TN",47,42,2,3,0,0
+"Cleveland-Elyria-Mentor","OH",264,241,0,8,15,3
+"Coeur dAlene","ID",102,60,0,0,42,2
+"College Station-Bryan","TX",385,36,18,4,327,23
+"Colorado Springs","CO",213,191,0,12,10,1
+"Columbia","MO",34,27,2,0,5,1
+"Columbia","SC",396,343,0,0,53,3
+"Columbus","GA-AL",326,91,2,4,229,15
+"Columbus","IN",14,14,0,0,0,0
+"Columbus","OH",356,256,6,41,53,6
+"Corpus Christi","TX",117,88,4,0,25,1
+"Corvallis","OR",27,24,0,3,0,0
+"Cumberland","MD-WV",3,3,0,0,0,0
+"Dallas-Fort Worth-Arlington","TX",3225,2042,26,23,1134,23
+"Dalton","GA",43,41,2,0,0,0
+"Danville","IL",0,0,0,0,0,0
+"Danville","VA",17,12,0,0,5,1
+"Davenport-Moline-Rock Island","IA-IL",25,23,2,0,0,NA
+"Decatur","AL",8,8,0,0,0,0
+"Decatur","IL",82,2,0,0,80,1
+"Deltona-Daytona Beach-Ormond Beach","FL",186,152,8,0,26,2
+"Denver-Aurora","CO",1404,713,0,43,648,13
+"Des Moines-West Des Moines","IA",346,208,0,0,138,1
+"Detroit-Warren-Livonia","MI",445,356,4,7,78,6
+"Dothan","AL",19,19,0,0,0,0
+"Dover","DE",121,97,0,0,24,1
+"Dubuque","IA",13,13,0,0,0,0
+"Duluth","MN-WI",42,30,2,0,10,2
+"Durham","NC",410,216,2,0,192,8
+"Eau Claire","WI",17,15,2,0,0,0
+"El Centro","CA",92,82,2,0,8,1
+"El Paso","TX",297,292,0,0,5,1
+"Elizabethtown","KY",28,24,0,4,0,0
+"Elkhart-Goshen","IN",47,47,0,0,0,0
+"Elmira","NY",2,2,0,0,0,0
+"Erie","PA",23,13,2,8,0,0
+"Eugene-Springfield","OR",90,86,4,0,0,0
+"Evansville","IN-KY",71,40,0,6,25,3
+"Fairbanks","AK",1,1,0,0,0,0
+"Fargo","ND-MN",87,15,0,0,72,2
+"Farmington","NM",28,28,0,0,0,0
+"Fayetteville","NC",344,230,0,44,70,10
+"Fayetteville-Springdale-Rogers","AR-MO",257,186,16,3,52,4
+"Flagstaff","AZ",39,39,0,0,0,0
+"Flint","MI",23,23,0,0,0,0
+"Florence","SC",43,43,0,0,0,0
+"Florence-Muscle Shoals","AL",22,22,0,0,0,0
+"Fond du Lac","WI",4,2,2,0,0,0
+"Fort Collins-Loveland","CO",261,83,20,0,158,3
+"Fort Smith","AR-OK",36,27,6,3,0,0
+"Fort Walton Beach-Crestview-Destin","FL",44,44,0,0,0,0
+"Fort Wayne","IN",121,121,0,0,0,0
+"Fresno","CA",235,134,6,3,92,8
+"Gadsden","AL",44,8,0,36,0,0
+"Gainesville","FL",101,61,0,0,40,3
+"Gainesville","GA",90,90,0,0,0,0
+"Glens Falls","NY",26,26,0,0,0,0
+"Goldsboro","NC",29,29,0,0,0,0
+"Grand Forks","ND-MN",14,2,0,0,12,1
+"Grand Junction","CO",89,89,0,0,0,0
+"Grand Rapids-Wyoming","MI",114,106,0,0,8,1
+"Great Falls","MT",13,13,0,0,0,0
+"Greeley","CO",110,102,0,3,5,1
+"Green Bay","WI",68,48,0,0,20,2
+"Greensboro-High Point","NC",399,290,0,0,109,6
+"Greenville","NC",106,84,22,0,0,0
+"Greenville","SC",250,248,2,0,0,0
+"Gulfport-Biloxi","MS",230,228,2,0,0,0
+"Hagerstown-Martinsburg","MD-WV",253,131,2,0,120,10
+"Hanford-Corcoran","CA",43,43,0,0,0,0
+"Harrisburg-Carlisle","PA",113,57,0,4,52,4
+"Harrisonburg","VA",31,31,0,0,0,0
+"Hartford-West Hartford-East Hartford","CT",206,97,10,0,99,5
+"Hattiesburg","MS",4,2,2,0,0,0
+"Hickory-Lenoir-Morganton","NC",86,84,2,0,0,0
+"Hinesville-Fort Stewart","GA",19,19,0,0,0,0
+"Holland-Grand Haven","MI",36,36,0,0,0,0
+"Honolulu","HI",230,188,0,0,42,1
+"Hot Springs","AR",8,8,0,0,0,0
+"Houma-Bayou Cane-Thibodaux","LA",123,115,8,0,0,0
+"Houston-Sugar Land-Baytown","TX",4984,3227,34,59,1664,101
+"Huntington-Ashland","WV-KY-OH",3,3,0,0,0,0
+"Huntsville","AL",306,270,0,0,36,3
+"Idaho Falls","ID",87,87,0,0,0,0
+"Indianapolis-Carmel","IN",514,478,4,8,24,2
+"Iowa City","IA",46,46,0,0,0,0
+"Ithaca","NY",8,3,0,0,5,1
+"Jackson","MI",8,8,0,0,0,0
+"Jackson","MS",184,184,0,0,0,0
+"Jackson","TN",33,33,0,0,0,0
+"Jacksonville","FL",739,455,40,8,236,2
+"Jacksonville","NC",123,77,0,40,6,1
+"Janesville","WI",45,26,2,3,14,1
+"Jefferson City","MO",17,12,0,0,5,1
+"Johnson City","TN",46,38,2,0,6,1
+"Johnstown","PA",0,0,0,0,0,0
+"Jonesboro","AR",24,18,2,4,0,0
+"Joplin","MO",11,11,0,0,0,0
+"Kalamazoo-Portage","MI",39,39,0,0,0,0
+"Kankakee-Bradley","IL",10,10,0,0,0,0
+"Kansas City","MO-KS",688,460,24,38,166,17
+"Kennewick-Richland-Pasco","WA",96,75,0,12,9,1
+"Killeen-Temple-Fort Hood","TX",167,87,16,64,0,0
+"Kingsport-Bristol-Bristol","TN-VA",49,49,0,0,0,0
+"Kingston","NY",6,6,0,0,0,0
+"Knoxville","TN",466,427,2,3,34,3
+"Kokomo","IN",2,2,0,0,0,0
+"La Crosse","WI-MN",17,15,2,0,0,0
+"Lafayette","IN",45,33,0,0,12,1
+"Lafayette","LA",117,117,0,0,0,0
+"Lake Charles","LA",23,18,0,0,5,1
+"Lakeland","FL",469,315,0,3,151,3
+"Lancaster","PA",68,68,0,0,0,0
+"Lansing-East Lansing","MI",39,26,0,0,13,1
+"Laredo","TX",118,93,0,6,19,2
+"Las Cruces","NM",127,127,0,0,0,0
+"Las Vegas-Paradise","NV",2108,1142,0,31,935,5
+"Lawrence","KS",28,28,0,0,0,0
+"Lawton","OK",7,7,0,0,0,0
+"Lebanon","PA",39,39,0,0,0,0
+"Lewiston","ID-WA",5,5,0,0,0,0
+"Lewiston-Auburn","ME",19,17,2,0,0,0
+"Lexington-Fayette","KY",167,151,2,0,14,2
+"Lima","OH",4,2,2,0,0,0
+"Lincoln","NE",62,48,0,0,14,1
+"Little Rock-North Little Rock","AR",190,170,20,0,0,0
+"Logan","UT-ID",59,50,0,4,5,1
+"Longview","TX",12,12,0,0,0,0
+"Longview","WA",34,32,2,0,0,0
+"Los Angeles-Long Beach-Santa Ana","CA",2578,640,56,75,1807,59
+"Louisville-Jefferson County","KY-IN",309,287,6,16,0,0
+"Lubbock","TX",68,68,0,0,0,0
+"Lynchburg","VA",105,105,0,0,0,0
+"Macon","GA",60,60,0,0,0,0
+"Madera","CA",10,10,0,0,0,0
+"Madison","WI",153,86,14,6,47,4
+"Manchester-Nashua","NH",84,64,12,0,8,1
+"Mansfield","OH",9,7,2,0,0,0
+"McAllen-Edinburg-Mission","TX",541,392,14,87,48,4
+"Medford","OR",97,69,6,0,22,1
+"Memphis","TN-MS-AR",520,412,0,108,0,0
+"Merced","CA",77,63,6,8,0,0
+"Miami-Fort Lauderdale-Miami Beach","FL",2350,716,36,93,1505,19
+"Michigan City-La Porte","IN",10,10,0,0,0,0
+"Midland","TX",28,28,0,0,0,0
+"Milwaukee-Waukesha-West Allis","WI",215,115,12,19,69,7
+"Minneapolis-St. Paul-Bloomington","MN-WI",1193,700,8,14,471,12
+"Missoula","MT",31,31,0,0,0,0
+"Mobile","AL",423,142,0,0,281,21
+"Modesto","CA",110,87,2,0,21,1
+"Monroe","LA",38,28,0,0,10,1
+"Monroe","MI",35,12,0,7,16,2
+"Montgomery","AL",143,141,2,0,0,0
+"Morgantown","WV",0,0,0,0,0,0
+"Morristown","TN",46,44,2,0,0,0
+"Mount Vernon-Anacortes","WA",23,23,0,0,0,0
+"Muncie","IN",4,4,0,0,0,0
+"Muskegon-Norton Shores","MI",12,12,0,0,0,0
+"Myrtle Beach-Conway-North Myrtle Beach","SC",677,311,2,0,364,4
+"Napa","CA",2,2,0,0,0,0
+"Naples-Marco Island","FL",205,128,2,31,44,5
+"Nashville-Davidson--Murfreesboro","TN",930,886,28,16,0,0
+"New Haven-Milford","CT",115,52,2,0,61,4
+"New Orleans-Metairie-Kenner","LA",638,596,42,0,0,0
+"New York-Northern New Jersey-Long Island","NY-NJ-PA",5014,1160,340,328,3186,94
+"Niles-Benton Harbor","MI",2,2,0,0,0,0
+"Norwich-New London","CT",79,44,2,0,33,1
+"Ocala","FL",309,305,4,0,0,0
+"Ocean City","NJ",100,72,8,4,16,1
+"Odessa","TX",38,38,0,0,0,0
+"Ogden-Clearfield","UT",233,200,6,0,27,1
+"Oklahoma City","OK",424,374,4,0,46,2
+"Olympia","WA",89,89,0,0,0,0
+"Omaha-Council Bluffs","NE-IA",289,230,18,16,25,3
+"Orlando-Kissimmee","FL",1328,1043,34,0,251,15
+"Oshkosh-Neenah","WI",23,19,4,0,0,0
+"Owensboro","KY",22,22,0,0,0,0
+"Oxnard-Thousand Oaks-Ventura","CA",73,37,0,3,33,1
+"Palm Bay-Melbourne-Titusville","FL",296,296,0,0,0,0
+"Panama City-Lynn Haven","FL",146,65,2,0,79,13
+"Parkersburg-Marietta-Vienna","WV-OH",7,7,0,0,0,0
+"Pascagoula","MS",86,74,0,0,12,1
+"Pensacola-Ferry Pass-Brent","FL",98,96,2,0,0,0
+"Peoria","IL",27,17,10,0,0,0
+"Philadelphia-Camden-Wilmington","PA-NJ-DE-MD",997,779,0,87,131,14
+"Phoenix-Mesa-Scottsdale","AZ",2395,2148,4,120,123,4
+"Pine Bluff","AR",12,5,2,0,5,1
+"Pittsburgh","PA",613,335,6,7,265,13
+"Pittsfield","MA",2,2,0,0,0,0
+"Pocatello","ID",42,42,0,0,0,0
+"Port St. Lucie-Fort Pierce","FL",335,287,0,0,48,2
+"Portland-South Portland-Biddeford","ME",153,135,10,3,5,1
+"Portland-Vancouver-Beaverton","OR-WA",663,541,26,15,81,NA
+"Prescott","AZ",131,127,4,0,0,0
+"Providence-New Bedford-Fall River","RI-MA",218,178,18,12,10,2
+"Provo-Orem","UT",374,331,4,3,36,3
+"Pueblo","CO",65,65,0,0,0,0
+"Punta Gorda","FL",226,140,12,16,58,4
+"Racine","WI",17,17,0,0,0,0
+"Raleigh-Cary","NC",1206,897,8,10,291,7
+"Rapid City","SD",33,31,2,0,0,0
+"Reading","PA",63,58,0,0,5,1
+"Redding","CA",37,37,0,0,0,0
+"Reno-Sparks","NV",89,77,0,12,0,0
+"Richmond","VA",426,412,2,7,5,1
+"Riverside-San Bernardino-Ontario","CA",2427,1658,58,30,681,61
+"Roanoke","VA",107,82,2,7,16,2
+"Rochester","MN",83,75,0,3,5,1
+"Rochester","NY",88,68,0,8,12,2
+"Rockford","IL",117,115,2,0,0,0
+"Rocky Mount","NC",44,38,2,4,0,0
+"Rome","GA",36,20,6,3,7,1
+"Sacramento--Arden-Arcade--Roseville","CA",1065,470,20,3,572,35
+"Saginaw-Saginaw Township North","MI",9,7,2,0,0,0
+"Salem","OR",66,49,2,0,15,1
+"Salinas","CA",50,50,0,0,0,0
+"Salisbury","MD",57,12,0,0,45,1
+"Salt Lake City","UT",426,342,4,4,76,3
+"San Angelo","TX",18,18,0,0,0,0
+"San Antonio","TX",1330,901,8,128,293,12
+"San Diego-Carlsbad-San Marcos","CA",379,313,6,29,31,6
+"San Francisco-Oakland-Fremont","CA",997,401,14,24,558,37
+"San Jose-Sunnyvale-Santa Clara","CA",448,112,0,0,336,14
+"San Luis Obispo-Paso Robles","CA",92,63,0,0,29,3
+"Sandusky","OH",0,0,0,0,0,0
+"Santa Barbara-Santa Maria","CA",22,6,0,0,16,1
+"Santa Cruz-Watsonville","CA",9,9,0,0,0,0
+"Santa Fe","NM",22,22,0,0,0,0
+"Santa Rosa-Petaluma","CA",52,45,2,0,5,1
+"Sarasota-Bradenton-Venice","FL",442,340,2,10,90,9
+"Savannah","GA",661,216,0,0,445,27
+"Scranton--Wilkes-Barre","PA",26,22,0,4,0,0
+"Seattle-Tacoma-Bellevue","WA",1736,783,104,63,786,23
+"Sebastian-Vero Beach","FL",48,48,0,0,0,0
+"Sheboygan","WI",5,5,0,0,0,0
+"Sherman-Denison","TX",2,2,0,0,0,0
+"Shreveport-Bossier City","LA",189,141,0,8,40,3
+"Sioux City","IA-NE-SD",10,10,0,0,0,0
+"Sioux Falls","SD",70,54,0,16,0,0
+"South Bend-Mishawaka","IN-MI",175,31,0,0,144,9
+"Spartanburg","SC",93,93,0,0,0,0
+"Spokane","WA",122,70,0,0,52,2
+"Springfield","IL",12,6,6,0,0,0
+"Springfield","MA",125,35,0,0,90,1
+"Springfield","MO",590,108,2,0,480,16
+"Springfield","OH",4,4,0,0,0,0
+"St. Cloud","MN",39,29,0,0,10,2
+"St. George","UT",121,121,0,0,0,0
+"St. Joseph","MO-KS",3,3,0,0,0,0
+"St. Louis","MO-IL",642,496,10,14,122,10
+"State College","PA",24,16,8,0,0,0
+"Stockton","CA",279,272,0,7,0,0
+"Sumter","SC",32,28,4,0,0,0
+"Syracuse","NY",43,43,0,0,0,0
+"Tallahassee","FL",241,129,4,19,89,4
+"Tampa-St. Petersburg-Clearwater","FL",791,720,16,24,31,NA
+"Texarkana","TX-TexarkanaAR",10,10,0,0,0,0
+"Toledo","OH",89,70,4,0,15,2
+"Topeka","KS",29,29,0,0,0,0
+"Trenton-Ewing","NJ",54,54,0,0,0,0
+"Tucson","AZ",402,371,12,10,9,1
+"Tulsa","OK",318,312,6,0,0,0
+"Tuscaloosa","AL",88,56,0,0,32,2
+"Tyler","TX",30,23,0,0,7,1
+"Utica-Rome","NY",1,1,0,0,0,0
+"Valdosta","GA",54,45,4,0,5,1
+"Vallejo-Fairfield","CA",113,63,2,0,48,1
+"Victoria","TX",6,6,0,0,0,0
+"Vineland-Millville-Bridgeton","NJ",45,45,0,0,0,0
+"Virginia Beach-Norfolk-Newport News","VA-NC",521,331,2,0,188,7
+"Visalia-Porterville","CA",179,146,2,31,0,0
+"Waco","TX",39,35,4,0,0,0
+"Warner Robins","GA",90,90,0,0,0,0
+"Washington-Arlington-Alexandria","DC-VA-MD-WV",1077,964,4,0,109,8
+"Waterloo-Cedar Falls","IA",37,27,2,8,0,0
+"Wausau","WI",85,23,0,0,62,9
+"Weirton-Steubenville","WV-OH",1,1,0,0,0,0
+"Wenatchee","WA",59,33,0,0,26,1
+"Wheeling","WV-OH",0,0,0,0,0,0
+"Wichita Falls","TX",17,17,0,0,0,0
+"Wichita","KS",162,158,4,0,0,0
+"Williamsport","PA",0,0,0,0,0,0
+"Wilmington","NC",347,343,4,0,0,0
+"Winchester","VA-WV",40,40,0,0,0,0
+"Winston-Salem","NC",233,229,4,0,0,0
+"Worcester","MA",82,78,0,4,0,0
+"Yakima","WA",16,16,0,0,0,0
+"York-Hanover","PA",102,86,0,16,0,0
+"Youngstown-Warren-Boardman","OH-PA",49,45,4,0,0,0
+"Yuba City","CA",23,23,0,0,0,0
+"Yuma","AZ",86,81,0,0,5,1
