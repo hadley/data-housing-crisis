@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"18020","Columbus, IN (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),2967,2938,3025,3303,3426,3640
+"18020","Columbus, IN (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),2725,2680,2756,3030,3137,3326
+"18020","Columbus, IN (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),14,8,16,29,17,15
+"18020","Columbus, IN (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",3,3,5
+"18020","Columbus, IN (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(L)",0,0,0,0,0
+"18020","Columbus, IN (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),45,42,42,45,50,53
+"18020","Columbus, IN (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),106,98,96,100,103,100
+"18020","Columbus, IN (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1377,1319,1332,1517,1581,1717
+"18020","Columbus, IN (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)",1118,1139,1320,1397,1528
+"18020","Columbus, IN (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1,1,"(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),7,9,7,7,7,7
+"18020","Columbus, IN (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),67,93,"(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),81,80,84,100,107,115
+"18020","Columbus, IN (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),778,625,604,797,869,986
+"18020","Columbus, IN (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),18,7,6,5,5,3
+"18020","Columbus, IN (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),167,207,243,208,215,265
+"18020","Columbus, IN (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),6,9,9,13,15,18
+"18020","Columbus, IN (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),60,"(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),13,6,"(D)","(D)","(D)",26
+"18020","Columbus, IN (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)",201,193,197,184,189
+"18020","Columbus, IN (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",48,"(D)"
+"18020","Columbus, IN (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),1,"(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),32,31,31,29,28,28
+"18020","Columbus, IN (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),4,5,5,4,4,5
+"18020","Columbus, IN (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"18020","Columbus, IN (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),47,57,64,73,76,78
+"18020","Columbus, IN (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),26,28,28,29,27,28
+"18020","Columbus, IN (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),100,92,104,104,116,123
+"18020","Columbus, IN (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),143,136,151,165,171,189
+"18020","Columbus, IN (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),80,82,91,102,99,89
+"18020","Columbus, IN (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),2,1,1,2,2,2
+"18020","Columbus, IN (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"18020","Columbus, IN (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),64,69,79,89,86,74
+"18020","Columbus, IN (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(L)","(L)","(D)","(D)"
+"18020","Columbus, IN (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"18020","Columbus, IN (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",7,"(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),1,2,"(D)","(D)","(D)",2
+"18020","Columbus, IN (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),32,33,34,38,44,45
+"18020","Columbus, IN (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),144,167,201,192,196,206
+"18020","Columbus, IN (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),71,79,104,103,104,116
+"18020","Columbus, IN (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),41,47,53,52,52,51
+"18020","Columbus, IN (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),255,223,179,178,170,179
+"18020","Columbus, IN (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),239,210,167,167,159,170
+"18020","Columbus, IN (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),16,13,12,11,10,9
+"18020","Columbus, IN (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),78,93,99,105,114,120
+"18020","Columbus, IN (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),38,38,39,49,49,48
+"18020","Columbus, IN (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),44,51,62,77,86,83
+"18020","Columbus, IN (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",48,55,"(D)",79,76
+"18020","Columbus, IN (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",4,7,"(D)",7,7
+"18020","Columbus, IN (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),5,5,6,8,9,10
+"18020","Columbus, IN (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),144,162,171,179,188,197
+"18020","Columbus, IN (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),98,111,117,121,128,134
+"18020","Columbus, IN (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),9,9,9,"(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),1,2,"(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),7,7,"(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),58,60,59,"(D)",67,70
+"18020","Columbus, IN (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),15,14,13,"(D)",15,16
+"18020","Columbus, IN (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),43,46,47,50,52,53
+"18020","Columbus, IN (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),47,51,52,56,57,57
+"18020","Columbus, IN (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),242,258,269,273,289,314
+"18020","Columbus, IN (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),17,19,17,18,19,19
+"18020","Columbus, IN (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),5,6,9,9,10,10
+"18020","Columbus, IN (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),220,233,243,246,259,285
+"18020","Columbus, IN (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),20,18,27,"(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),244,227,254,269,287,313
+"18020","Columbus, IN (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),125,124,133,146,149,142
+"18020","Columbus, IN (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),399,390,380,370,365,385
+"18020","Columbus, IN (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),160,183,200,232,249,252
+"18020","Columbus, IN (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),148,167,178,187,196,206
+"18020","Columbus, IN (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),67,69,68,"(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),41,30,31,32,37,36
+"18020","Columbus, IN (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),1500,1429,1447,"(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),1225,1251,1308,"(D)","(D)","(D)"
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"18020","Columbus, IN (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.697,99.969,107.843,109.517,114.490
+"18020","Columbus, IN (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.287,99.786,108.699,110.434,115.495
+"18020","Columbus, IN (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,64.981,108.435,163.294,110.702,109.998
+"18020","Columbus, IN (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,0.000,0.000,0.000,0.000,0.000
+"18020","Columbus, IN (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.177,95.206,99.181,103.613,99.020
+"18020","Columbus, IN (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.434,81.983,78.865,74.521,65.470
+"18020","Columbus, IN (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.060,98.167,113.572,116.951,127.170
+"18020","Columbus, IN (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,121.034,"(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,121.836,106.988,100.122,85.885,84.714
+"18020","Columbus, IN (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,138.566,"(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.916,103.764,121.063,122.627,130.895
+"18020","Columbus, IN (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,79.703,77.437,105.407,112.460,126.497
+"18020","Columbus, IN (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,41.296,41.037,37.070,48.662,32.966
+"18020","Columbus, IN (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,131.593,158.940,144.699,166.736,234.127
+"18020","Columbus, IN (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,165.212,147.692,217.107,242.658,271.513
+"18020","Columbus, IN (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,48.585,"(D)","(D)","(D)",208.015
+"18020","Columbus, IN (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.588,98.552,96.396,92.102,87.807
+"18020","Columbus, IN (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,131.843,113.573,102.760,89.134,121.801
+"18020","Columbus, IN (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"18020","Columbus, IN (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,121.345,132.609,146.895,142.573,138.263
+"18020","Columbus, IN (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.741,110.516,118.071,107.120,100.166
+"18020","Columbus, IN (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.020,101.552,96.398,103.545,106.420
+"18020","Columbus, IN (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.878,102.588,111.643,117.464,130.609
+"18020","Columbus, IN (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.629,109.236,118.522,113.254,99.067
+"18020","Columbus, IN (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,78.038,82.649,93.539,106.853,137.881
+"18020","Columbus, IN (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"18020","Columbus, IN (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.937,118.936,128.953,121.704,102.162
+"18020","Columbus, IN (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,8.658,7.755,11.207,15.000,16.531
+"18020","Columbus, IN (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.808,"(D)","(D)","(D)",122.836
+"18020","Columbus, IN (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.495,110.227,127.209,151.155,159.009
+"18020","Columbus, IN (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.153,134.084,123.143,123.297,127.915
+"18020","Columbus, IN (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.265,136.090,131.236,129.539,138.171
+"18020","Columbus, IN (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.998,117.138,107.698,103.182,100.920
+"18020","Columbus, IN (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,84.612,66.241,64.216,59.695,61.274
+"18020","Columbus, IN (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,84.861,65.845,64.061,59.846,62.154
+"18020","Columbus, IN (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,80.790,72.427,66.719,57.572,48.271
+"18020","Columbus, IN (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,117.274,124.524,132.816,140.306,145.924
+"18020","Columbus, IN (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.534,98.963,110.447,99.145,91.644
+"18020","Columbus, IN (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.566,136.625,164.606,176.679,163.284
+"18020","Columbus, IN (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.577,123.213,145.509,146.573,157.904
+"18020","Columbus, IN (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.860,114.223,116.393,119.480,122.897
+"18020","Columbus, IN (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.664,115.788,116.918,120.939,125.718
+"18020","Columbus, IN (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.746,94.119,"(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,126.485,"(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.493,"(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.069,97.474,"(D)",103.729,103.188
+"18020","Columbus, IN (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.798,81.238,"(D)",88.132,92.611
+"18020","Columbus, IN (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.273,103.100,107.668,109.134,106.794
+"18020","Columbus, IN (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.093,104.186,108.674,103.464,99.681
+"18020","Columbus, IN (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.257,102.100,99.286,100.347,104.441
+"18020","Columbus, IN (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.480,92.897,91.193,91.671,89.272
+"18020","Columbus, IN (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.365,149.394,146.191,148.001,132.490
+"18020","Columbus, IN (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.774,101.660,98.767,99.856,105.005
+"18020","Columbus, IN (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.005,132.622,"(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.116,102.162,105.303,111.703,120.367
+"18020","Columbus, IN (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.055,104.340,111.791,109.913,99.205
+"18020","Columbus, IN (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.576,90.684,85.459,82.615,85.285
+"18020","Columbus, IN (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.053,121.819,136.394,140.090,136.820
+"18020","Columbus, IN (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.754,114.524,117.377,120.392,124.093
+"18020","Columbus, IN (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.765,97.036,"(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,77.392,82.704,91.521,105.846,103.135
+"18020","Columbus, IN (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.176,97.020,"(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.845,103.123,"(D)","(D)","(D)"
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"18020","Columbus, IN (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2967,2898,2966,3199,3249,3396
+"18020","Columbus, IN (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2725,2651,2719,2962,3009,3147
+"18020","Columbus, IN (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),14,9,16,23,16,16
+"18020","Columbus, IN (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",2,2,3
+"18020","Columbus, IN (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)",0,0,0,0,0
+"18020","Columbus, IN (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),45,43,43,44,46,44
+"18020","Columbus, IN (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),106,94,87,84,79,69
+"18020","Columbus, IN (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1377,1322,1351,1563,1610,1751
+"18020","Columbus, IN (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",1124,1161,1368,1436,1580
+"18020","Columbus, IN (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,"(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,8,7,7,6,6
+"18020","Columbus, IN (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),67,93,"(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),81,80,84,99,100,107
+"18020","Columbus, IN (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),778,620,603,820,875,985
+"18020","Columbus, IN (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),18,8,7,7,9,6
+"18020","Columbus, IN (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),167,220,266,242,279,391
+"18020","Columbus, IN (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,9,8,12,14,15
+"18020","Columbus, IN (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),60,"(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,6,"(D)","(D)","(D)",26
+"18020","Columbus, IN (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",198,190,196,177,175
+"18020","Columbus, IN (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",48,"(D)"
+"18020","Columbus, IN (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,"(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),32,32,32,31,30,28
+"18020","Columbus, IN (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,5,5,4,4,5
+"18020","Columbus, IN (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"18020","Columbus, IN (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),47,57,62,69,67,65
+"18020","Columbus, IN (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),26,28,29,31,28,26
+"18020","Columbus, IN (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),100,91,102,97,104,107
+"18020","Columbus, IN (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),143,133,147,160,169,187
+"18020","Columbus, IN (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),80,80,88,95,91,80
+"18020","Columbus, IN (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,1,1,1,2,2
+"18020","Columbus, IN (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"18020","Columbus, IN (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),64,67,76,82,78,65
+"18020","Columbus, IN (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(L)","(L)","(D)","(D)"
+"18020","Columbus, IN (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"18020","Columbus, IN (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",7,"(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,2,"(D)","(D)","(D)",2
+"18020","Columbus, IN (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),32,34,35,41,49,51
+"18020","Columbus, IN (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),144,162,194,178,178,185
+"18020","Columbus, IN (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),71,75,97,94,93,99
+"18020","Columbus, IN (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),41,46,48,44,42,41
+"18020","Columbus, IN (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),255,216,169,164,152,156
+"18020","Columbus, IN (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),239,203,157,153,143,149
+"18020","Columbus, IN (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),16,13,12,11,9,8
+"18020","Columbus, IN (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),78,91,97,103,109,113
+"18020","Columbus, IN (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),38,38,38,42,38,35
+"18020","Columbus, IN (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),44,50,60,73,78,72
+"18020","Columbus, IN (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",47,54,"(D)",72,66
+"18020","Columbus, IN (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",4,7,"(D)",6,6
+"18020","Columbus, IN (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,5,6,7,7,7
+"18020","Columbus, IN (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),144,158,164,167,172,176
+"18020","Columbus, IN (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),98,109,113,115,118,123
+"18020","Columbus, IN (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9,8,8,"(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,2,"(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,7,"(D)","(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),58,57,57,"(D)",60,60
+"18020","Columbus, IN (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15,14,12,"(D)",14,14
+"18020","Columbus, IN (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),43,43,44,46,47,46
+"18020","Columbus, IN (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),47,49,49,51,48,47
+"18020","Columbus, IN (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),242,247,247,240,242,252
+"18020","Columbus, IN (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17,17,15,15,15,15
+"18020","Columbus, IN (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,6,8,7,8,7
+"18020","Columbus, IN (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),220,224,223,217,219,231
+"18020","Columbus, IN (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),20,19,26,"(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),244,225,249,257,272,294
+"18020","Columbus, IN (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),125,123,131,140,138,124
+"18020","Columbus, IN (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),399,378,362,341,330,340
+"18020","Columbus, IN (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),160,179,195,218,224,219
+"18020","Columbus, IN (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),148,163,170,174,178,184
+"18020","Columbus, IN (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),67,66,65,"(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),41,32,34,37,43,42
+"18020","Columbus, IN (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1500,1428,1456,"(D)","(D)","(D)"
+"18020","Columbus, IN (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1225,1223,1263,"(D)","(D)","(D)"
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"18020","Columbus, IN (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),41194,40406,41177,44102,44377,45898
+"18020","Columbus, IN (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"18020","Columbus, IN (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

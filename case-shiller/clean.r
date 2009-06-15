@@ -47,7 +47,7 @@ qplot(date, spcsi, data = spcsim, geom = "line", facets = ~ abbr)
 
 # We might also want to create new columns for the name of the city 
 # and the state.  The easiest way to add this information is to create
-# another data source that has the columns abbreviation, city and state.
+# another data source that has the columns abbreviation, city, and state.
 # For this number of cities, it's easiest to just create this table by hand
 # in Excel.  This is abbr-lookup.csv
 abbr <- read.csv("abbr-lookup.csv")
@@ -59,7 +59,7 @@ spcsim <- merge(spcsim, abbr, by = "abbr")
 # Now do a plot using those new columns
 qplot(date, spcsi, data = spcsim, geom = "line", group = city, facets = ~ state)
 
-# Finally we save out the cleaned file to a fresh csv file
+# Finally, we save out the cleaned file to a fresh csv file
 write.table(spcsim, "spcsim-clean.csv", sep = ",", row = FALSE)
 
 # You should alway check that you code is fully reproducible by exiting R

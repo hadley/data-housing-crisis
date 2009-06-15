@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),13556,14197,15030,16123,17696,18381
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),11606,12117,12838,13831,15249,15802
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),661,824,967,964,1039,1000
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),488,628,737,709,792,763
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),174,197,230,255,247,237
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),269,218,231,278,344,498
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),127,78,85,103,141,176
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),72,72,79,91,97,109
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),70,68,67,84,105,214
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),59,89,90,108,104,120
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),563,583,651,804,923,914
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1307,1182,1289,1221,1493,1575
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),991,868,962,864,1031,1106
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),8,8,8,9,10,11
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),23,25,20,26,24,26
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),84,85,82,73,72,73
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),30,24,27,34,29,34
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),290,246,240,245,311,300
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),58,50,47,54,57,53
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),13,16,20,20,19,17
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),230,261,296,228,304,372
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),316,314,326,358,462,469
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),159,186,173,154,171,186
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),2,1,3,3,4,"(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),17,15,"(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),21,21,18,18,19,21
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",52,131,105
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),41,42,57,108,112,125
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),16,15,15,10,12,15
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),608,555,503,571,584,634
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),1073,1169,1211,1270,1299,1367
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),127,148,157,181,192,211
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),10,9,14,15,20,26
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),5,4,4,4,5,5
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",1,"(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),31,37,37,48,57,62
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),11,15,15,17,18,20
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",20,24,"(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),46,48,"(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),13,14,14,12,16,16
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),503,479,506,560,690,606
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)",202,"(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),35,49,38,35,33,35
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),223,174,182,194,211,223
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",54,"(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),646,722,709,808,896,934
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),365,418,337,353,436,468
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),132,132,141,145,177,184
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),140,162,224,298,274,275
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),10,11,7,12,9,8
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),2287,2351,2391,2599,2918,2984
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),2145,2229,2283,2483,2816,2882
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),142,122,108,116,102,102
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),927,1004,1116,1256,1346,1400
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),113,110,154,190,216,231
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),420,492,534,522,606,575
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),365,458,494,482,566,532
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),55,34,40,40,40,42
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),120,114,127,144,151,147
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),854,942,1020,1104,1143,1215
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),488,525,572,621,657,714
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),253,297,318,352,350,370
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),113,121,129,132,135,131
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),127,138,144,151,155,161
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),69,78,77,80,83,81
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),58,60,67,71,72,80
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),557,591,633,687,717,768
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),234,239,243,267,276,294
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),323,352,390,419,442,474
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),386,403,407,414,436,460
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),1950,2080,2193,2292,2447,2579
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),271,296,313,329,341,352
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),239,278,293,304,308,314
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),1440,1507,1587,1659,1798,1913
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),930,1043,1198,1242,1383,1499
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),1681,1725,1714,1841,1882,2001
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),185,237,247,289,295,332
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),2934,3074,3100,3407,3814,3918
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),1460,1607,1803,1968,2168,2205
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),974,1056,1147,1248,1293,1362
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),684,729,777,838,872,930
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),615,"(D)",640,692,894,836
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),2626,2611,2907,3012,3551,3750
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),8981,9506,9931,10819,11698,12052
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.690,105.829,109.684,117.621,118.903
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.856,106.505,111.112,120.163,121.547
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,134.872,141.870,122.220,151.159,150.643
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,142.009,144.989,116.136,156.069,159.639
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.601,133.738,143.058,138.258,126.744
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,77.553,66.274,71.003,68.224,86.215
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,75.220,51.878,49.859,47.921,57.829
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.072,100.858,105.436,98.636,97.314
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,66.435,57.214,72.116,71.159,111.851
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,154.005,157.172,183.824,165.384,171.498
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.939,105.103,119.728,125.300,112.487
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.961,103.315,100.238,120.580,128.073
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,89.854,103.643,96.238,118.402,130.861
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.289,93.048,97.802,104.956,118.367
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.470,87.964,111.043,95.793,90.887
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.151,98.256,84.870,80.405,80.230
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,81.147,91.774,117.407,99.675,113.356
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.669,107.861,126.338,183.224,203.979
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.383,84.074,95.665,98.575,86.814
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,126.278,152.820,162.355,146.560,131.810
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.566,125.644,98.764,132.473,163.898
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.798,102.726,112.081,127.794,123.986
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.351,104.833,95.990,105.581,119.297
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,76.546,191.362,175.898,216.249,"(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.480,"(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.318,84.755,88.969,93.761,102.085
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.194,136.307,249.634,241.780,256.409
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.488,94.995,65.170,80.817,86.927
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.984,81.279,87.375,86.217,90.452
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.007,110.256,114.752,119.090,126.114
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.858,121.178,139.345,150.492,159.012
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.137,164.536,199.470,307.207,376.685
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,82.254,87.085,84.258,82.265,107.161
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.646,112.372,141.055,163.140,173.031
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,128.730,129.262,143.112,148.082,153.984
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.165,"(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.885,108.239,88.013,115.239,114.459
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.424,102.916,117.503,148.166,131.750
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,135.000,108.413,96.519,88.388,90.619
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,79.974,84.497,93.072,107.742,117.485
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.542,104.927,114.896,125.026,128.410
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.978,86.304,87.958,106.155,109.345
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.401,119.113,121.218,150.127,161.460
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.017,143.878,177.967,158.183,157.074
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.628,74.496,125.025,96.430,94.847
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.477,98.353,104.444,114.606,114.074
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.294,100.002,106.267,117.938,117.426
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,86.893,72.787,76.187,63.489,62.641
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.291,117.204,132.202,137.682,140.198
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.487,131.441,143.547,146.626,148.674
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.516,123.797,117.035,131.100,118.874
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,122.837,131.999,124.975,141.019,127.026
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,59.309,69.278,64.318,65.509,64.897
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.806,95.883,102.147,101.456,94.147
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.144,113.269,119.328,120.458,125.493
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.869,113.342,120.208,124.886,134.135
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.223,113.390,119.562,114.079,115.808
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.579,112.932,115.126,117.451,112.177
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.762,106.138,108.007,107.031,107.892
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.227,104.008,103.888,102.636,97.259
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.485,108.737,113.026,112.395,121.152
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.643,108.952,114.108,114.826,118.508
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.969,102.533,106.798,104.912,108.962
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.118,113.384,119.162,121.748,125.159
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.233,98.191,96.779,96.386,97.087
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.717,101.950,101.620,103.464,104.198
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.619,103.073,101.037,100.263,99.576
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.263,104.138,101.584,94.969,91.548
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.606,101.389,101.798,105.751,107.566
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,117.515,118.507,106.828,124.466,132.857
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.237,99.830,104.920,107.196,113.186
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,127.085,132.445,153.258,154.898,162.574
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.471,99.802,106.743,116.898,117.222
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.346,120.196,128.648,136.407,134.558
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.853,111.102,117.193,118.081,121.432
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.037,108.421,112.958,113.358,116.510
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",117.618,136.696,185.908,182.473
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.393,106.893,103.796,120.863,124.498
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.274,106.395,113.300,119.916,120.620
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13556,13921,14346,14869,15944,16118
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),11606,11938,12361,12896,13947,14107
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),661,892,938,808,999,996
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),488,692,707,566,761,778
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),174,201,232,248,240,220
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),269,208,178,191,183,232
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),127,96,66,63,61,74
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),72,68,73,76,71,70
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),70,46,40,50,49,78
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),59,90,92,108,97,100
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),563,557,591,674,705,633
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1307,1215,1350,1310,1576,1674
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),991,891,1027,954,1174,1297
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,8,7,8,8,9
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,25,20,25,22,20
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),84,84,83,71,68,67
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),30,24,27,35,29,33
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),290,277,313,366,531,591
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),58,51,49,55,57,50
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,16,19,21,19,17
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),230,254,288,227,304,376
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),316,324,324,354,403,391
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),159,177,167,153,168,190
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,1,4,3,4,"(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17,15,"(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),21,20,18,19,20,21
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",51,80,54
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),41,42,55,101,98,104
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),16,15,15,10,13,14
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),608,553,494,531,524,550
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1073,1148,1183,1231,1278,1353
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),127,146,154,177,191,202
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,10,16,20,30,37
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,4,4,4,4,5
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",1,"(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),31,35,35,44,51,54
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),11,14,14,16,16,17
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",21,27,"(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),46,47,"(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,14,14,11,15,15
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),503,480,518,591,745,663
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",201,"(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),35,47,38,34,31,32
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),223,178,189,208,240,262
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",53,"(D)","(D)","(D)","(D)"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),646,702,678,743,808,830
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),365,397,315,321,387,399
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),132,138,157,160,198,213
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),140,157,202,249,222,220
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,9,7,12,9,9
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2287,2275,2250,2389,2622,2609
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2145,2151,2145,2279,2530,2519
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),142,124,104,109,90,89
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),927,976,1087,1226,1277,1300
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),113,110,148,162,165,167
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),420,480,519,491,550,499
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),365,448,482,456,515,464
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),55,32,38,35,36,35
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),120,106,115,122,121,113
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),854,915,968,1019,1029,1072
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),488,517,554,587,610,655
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),253,279,287,303,289,294
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),113,119,127,130,132,126
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),127,133,135,137,136,137
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),69,75,72,71,71,67
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),58,58,63,66,66,71
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),557,572,607,635,639,660
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),234,238,240,250,245,255
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),323,333,366,385,393,404
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),386,387,379,374,372,375
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1950,1983,1988,1981,2017,2031
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),271,278,279,273,271,270
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),239,256,249,243,227,219
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1440,1449,1460,1466,1523,1549
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),930,1093,1102,993,1157,1236
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1681,1702,1678,1764,1802,1903
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),185,236,245,284,287,301
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2934,2977,2928,3132,3430,3439
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1460,1567,1754,1878,1991,1964
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),974,1021,1082,1142,1150,1183
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),684,705,742,773,775,797
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),615,"(D)",723,841,1143,1122
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2626,2662,2807,2725,3174,3269
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8981,9275,9555,10175,10769,10832
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),33749,34540,35513,36866,39590,40098
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"42060","Santa Barbara-Santa Maria-Goleta, CA (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

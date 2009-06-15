@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"34620","Muncie, IN (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),3058,3084,3227,3107,3104,3147
+"34620","Muncie, IN (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),2599,2608,2686,2609,2585,2617
+"34620","Muncie, IN (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),24,14,22,34,24,24
+"34620","Muncie, IN (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"34620","Muncie, IN (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"34620","Muncie, IN (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),54,52,54,56,61,63
+"34620","Muncie, IN (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),133,124,127,131,135,144
+"34620","Muncie, IN (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),639,691,740,620,533,488
+"34620","Muncie, IN (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)",627,677,556,470,422
+"34620","Muncie, IN (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1,1,1,1,2,2
+"34620","Muncie, IN (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),53,47,54,55,49,48
+"34620","Muncie, IN (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),28,35,22,31,26,23
+"34620","Muncie, IN (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),89,97,102,99,88,84
+"34620","Muncie, IN (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),110,81,73,82,90,94
+"34620","Muncie, IN (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),2,"(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),279,353,411,273,201,156
+"34620","Muncie, IN (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),4,4,4,5,4,5
+"34620","Muncie, IN (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),2,2,1,1,1,1
+"34620","Muncie, IN (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),5,5,7,7,8,7
+"34620","Muncie, IN (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)",65,63,63,63,66
+"34620","Muncie, IN (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),20,15,14,13,13,13
+"34620","Muncie, IN (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),23,22,20,20,21,23
+"34620","Muncie, IN (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"34620","Muncie, IN (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),14,16,"(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),97,101,103,108,111,109
+"34620","Muncie, IN (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),239,243,251,251,250,263
+"34620","Muncie, IN (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),146,86,67,72,77,82
+"34620","Muncie, IN (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(D)","(D)","(L)","(L)","(L)"
+"34620","Muncie, IN (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),14,15,16,19,23,26
+"34620","Muncie, IN (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"34620","Muncie, IN (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),99,40,20,23,23,23
+"34620","Muncie, IN (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),4,4,3,3,"(D)","(D)"
+"34620","Muncie, IN (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),10,11,9,9,10,10
+"34620","Muncie, IN (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),34,37,38,39,43,46
+"34620","Muncie, IN (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",3,3,"(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),125,139,147,146,137,152
+"34620","Muncie, IN (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),78,90,95,96,89,106
+"34620","Muncie, IN (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),31,33,34,32,29,29
+"34620","Muncie, IN (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),342,316,283,277,251,274
+"34620","Muncie, IN (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),291,275,245,241,217,243
+"34620","Muncie, IN (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),51,41,38,36,34,31
+"34620","Muncie, IN (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),103,107,"(D)",122,135,153
+"34620","Muncie, IN (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),25,24,"(D)",29,38,28
+"34620","Muncie, IN (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),56,64,66,66,85,94
+"34620","Muncie, IN (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),51,57,63,63,81,89
+"34620","Muncie, IN (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),5,6,3,3,4,5
+"34620","Muncie, IN (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),7,7,7,8,8,8
+"34620","Muncie, IN (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),399,420,453,448,486,472
+"34620","Muncie, IN (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),248,258,275,268,281,283
+"34620","Muncie, IN (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),13,15,17,18,19,19
+"34620","Muncie, IN (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),5,6,6,6,8,8
+"34620","Muncie, IN (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),8,9,11,12,11,11
+"34620","Muncie, IN (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),79,80,82,89,95,99
+"34620","Muncie, IN (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),9,7,8,7,9,9
+"34620","Muncie, IN (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),71,72,74,82,87,90
+"34620","Muncie, IN (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),78,82,86,90,92,95
+"34620","Muncie, IN (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),459,476,540,499,519,529
+"34620","Muncie, IN (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),30,30,29,30,30,31
+"34620","Muncie, IN (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),9,11,15,16,17,16
+"34620","Muncie, IN (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),420,435,496,452,472,482
+"34620","Muncie, IN (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),29,19,27,39,29,29
+"34620","Muncie, IN (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),336,344,354,360,361,372
+"34620","Muncie, IN (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),200,138,121,128,139,145
+"34620","Muncie, IN (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),467,455,430,423,388,426
+"34620","Muncie, IN (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),184,195,205,217,257,275
+"34620","Muncie, IN (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),406,427,460,456,494,480
+"34620","Muncie, IN (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),93,94,98,107,114,118
+"34620","Muncie, IN (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),41,49,51,52,59,63
+"34620","Muncie, IN (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),800,833,893,788,694,659
+"34620","Muncie, IN (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),1799,1775,1793,1821,1891,1958
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"34620","Muncie, IN (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.153,102.231,96.300,94.221,93.293
+"34620","Muncie, IN (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.081,101.182,96.506,94.099,93.440
+"34620","Muncie, IN (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,64.322,88.147,114.301,94.663,101.132
+"34620","Muncie, IN (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,179.409,103.323,120.971,39.601,41.281
+"34620","Muncie, IN (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"34620","Muncie, IN (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.186,102.071,102.090,105.795,97.553
+"34620","Muncie, IN (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.777,86.508,82.173,76.980,74.807
+"34620","Muncie, IN (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.867,121.295,103.702,90.862,84.444
+"34620","Muncie, IN (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,120.262,131.948,121.192,140.036,227.742
+"34620","Muncie, IN (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.685,102.561,100.260,83.194,73.309
+"34620","Muncie, IN (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,122.483,80.195,93.974,69.227,50.508
+"34620","Muncie, IN (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.190,116.571,109.690,92.537,88.361
+"34620","Muncie, IN (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,72.769,66.016,76.924,82.552,85.438
+"34620","Muncie, IN (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,134.420,161.146,113.920,93.304,82.460
+"34620","Muncie, IN (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.634,103.385,109.722,96.569,104.905
+"34620","Muncie, IN (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.376,75.230,80.190,67.924,57.283
+"34620","Muncie, IN (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.127,122.381,133.678,160.326,131.020
+"34620","Muncie, IN (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,75.536,72.556,68.762,70.287,63.929
+"34620","Muncie, IN (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.412,87.839,87.377,92.289,99.625
+"34620","Muncie, IN (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"34620","Muncie, IN (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,117.219,"(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.685,103.647,103.450,102.135,96.975
+"34620","Muncie, IN (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.792,102.522,101.970,102.991,108.759
+"34620","Muncie, IN (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,57.624,43.966,45.869,46.924,50.406
+"34620","Muncie, IN (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)",33.350,105.850,113.721
+"34620","Muncie, IN (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.041,109.045,125.169,130.495,168.402
+"34620","Muncie, IN (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"34620","Muncie, IN (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,39.212,19.325,21.258,21.458,20.501
+"34620","Muncie, IN (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.547,88.021,76.098,"(D)","(D)"
+"34620","Muncie, IN (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.383,93.175,88.950,95.275,97.390
+"34620","Muncie, IN (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.047,115.497,123.265,141.996,156.144
+"34620","Muncie, IN (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.853,111.289,106.803,98.372,106.381
+"34620","Muncie, IN (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.187,113.734,112.292,101.694,116.183
+"34620","Muncie, IN (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.774,98.148,85.496,75.507,75.368
+"34620","Muncie, IN (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,89.699,78.126,74.504,65.850,70.075
+"34620","Muncie, IN (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.207,79.174,76.112,66.946,73.224
+"34620","Muncie, IN (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,80.979,72.092,65.235,59.501,52.167
+"34620","Muncie, IN (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.703,"(D)",118.710,128.398,143.016
+"34620","Muncie, IN (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.750,"(D)",95.748,113.104,78.870
+"34620","Muncie, IN (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.028,115.028,111.393,137.804,145.714
+"34620","Muncie, IN (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.693,120.923,117.592,145.256,153.610
+"34620","Muncie, IN (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.218,60.015,53.694,68.400,72.182
+"34620","Muncie, IN (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.937,99.219,102.190,95.365,95.367
+"34620","Muncie, IN (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.176,107.339,103.059,109.062,103.497
+"34620","Muncie, IN (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.590,107.129,102.321,104.917,104.560
+"34620","Muncie, IN (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.999,117.780,125.065,127.854,122.962
+"34620","Muncie, IN (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,116.763,105.103,117.653,130.368,128.246
+"34620","Muncie, IN (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.761,125.494,129.536,126.077,119.419
+"34620","Muncie, IN (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.270,96.910,102.414,106.858,106.144
+"34620","Muncie, IN (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,86.996,86.740,75.316,89.146,88.010
+"34620","Muncie, IN (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.238,98.096,105.570,108.892,108.228
+"34620","Muncie, IN (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.691,103.071,104.104,100.399,98.925
+"34620","Muncie, IN (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.553,107.913,95.403,94.995,92.721
+"34620","Muncie, IN (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.315,87.542,84.900,80.932,80.852
+"34620","Muncie, IN (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.087,138.813,133.761,131.221,114.961
+"34620","Muncie, IN (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.738,108.669,95.243,95.156,93.079
+"34620","Muncie, IN (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,69.833,88.764,109.325,92.044,96.412
+"34620","Muncie, IN (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.913,102.848,102.400,102.712,105.063
+"34620","Muncie, IN (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,68.168,59.297,60.726,62.474,62.764
+"34620","Muncie, IN (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.565,87.015,83.161,74.570,79.809
+"34620","Muncie, IN (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.287,109.136,113.198,129.344,133.695
+"34620","Muncie, IN (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.087,107.199,103.048,108.816,103.356
+"34620","Muncie, IN (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.072,99.865,105.622,109.829,108.521
+"34620","Muncie, IN (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,120.269,128.342,134.436,152.764,162.170
+"34620","Muncie, IN (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.620,114.101,100.530,88.967,83.857
+"34620","Muncie, IN (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.223,95.627,94.623,95.897,96.987
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"34620","Muncie, IN (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3058,3032,3127,2945,2882,2853
+"34620","Muncie, IN (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2599,2575,2630,2509,2446,2429
+"34620","Muncie, IN (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),24,15,21,27,23,24
+"34620","Muncie, IN (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"34620","Muncie, IN (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"34620","Muncie, IN (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),54,53,55,55,57,53
+"34620","Muncie, IN (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),133,118,115,110,103,100
+"34620","Muncie, IN (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),639,709,775,663,581,540
+"34620","Muncie, IN (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",645,713,598,517,475
+"34620","Muncie, IN (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,1,1,1,2
+"34620","Muncie, IN (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),53,46,54,53,44,39
+"34620","Muncie, IN (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),28,35,23,27,20,14
+"34620","Muncie, IN (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),89,97,103,97,82,78
+"34620","Muncie, IN (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),110,80,73,85,91,94
+"34620","Muncie, IN (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,"(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),279,375,450,318,260,230
+"34620","Muncie, IN (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,4,4,4,4,4
+"34620","Muncie, IN (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,2,1,2,1,1
+"34620","Muncie, IN (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,5,6,7,8,7
+"34620","Muncie, IN (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",64,63,65,64,63
+"34620","Muncie, IN (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),20,15,15,14,14,13
+"34620","Muncie, IN (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,22,20,20,21,23
+"34620","Muncie, IN (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"34620","Muncie, IN (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),14,16,"(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),97,101,101,101,99,94
+"34620","Muncie, IN (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),239,239,245,244,246,260
+"34620","Muncie, IN (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),146,84,64,67,68,73
+"34620","Muncie, IN (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(D)","(D)","(L)","(L)","(L)"
+"34620","Muncie, IN (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),14,14,15,18,18,24
+"34620","Muncie, IN (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"34620","Muncie, IN (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),99,39,19,21,21,20
+"34620","Muncie, IN (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,4,3,3,"(D)","(D)"
+"34620","Muncie, IN (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,11,9,9,9,9
+"34620","Muncie, IN (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),34,37,39,41,48,53
+"34620","Muncie, IN (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",2,2,"(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),125,135,139,133,123,133
+"34620","Muncie, IN (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),78,86,89,88,79,91
+"34620","Muncie, IN (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),31,32,31,27,24,24
+"34620","Muncie, IN (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),342,307,267,255,225,240
+"34620","Muncie, IN (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),291,265,230,221,194,213
+"34620","Muncie, IN (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),51,42,37,34,31,27
+"34620","Muncie, IN (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),103,105,"(D)",122,132,147
+"34620","Muncie, IN (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),25,24,"(D)",24,29,20
+"34620","Muncie, IN (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),56,62,64,62,77,82
+"34620","Muncie, IN (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),51,56,61,60,74,78
+"34620","Muncie, IN (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,6,3,3,4,4
+"34620","Muncie, IN (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,7,7,7,6,6
+"34620","Muncie, IN (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),399,408,429,411,435,413
+"34620","Muncie, IN (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),248,255,266,254,260,259
+"34620","Muncie, IN (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"34620","Muncie, IN (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,14,16,17,17,16
+"34620","Muncie, IN (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,6,5,6,6,6
+"34620","Muncie, IN (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,9,10,11,10,10
+"34620","Muncie, IN (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),79,76,77,81,85,84
+"34620","Muncie, IN (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9,7,7,6,8,8
+"34620","Muncie, IN (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),71,68,70,75,77,77
+"34620","Muncie, IN (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),78,79,80,81,78,77
+"34620","Muncie, IN (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),459,457,495,438,436,426
+"34620","Muncie, IN (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),30,28,26,25,24,24
+"34620","Muncie, IN (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9,10,13,13,12,11
+"34620","Muncie, IN (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),420,419,456,400,399,391
+"34620","Muncie, IN (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),29,20,26,32,27,28
+"34620","Muncie, IN (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),336,340,346,345,346,353
+"34620","Muncie, IN (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),200,136,118,121,125,125
+"34620","Muncie, IN (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),467,441,406,388,348,373
+"34620","Muncie, IN (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),184,192,201,208,238,246
+"34620","Muncie, IN (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),406,414,435,418,442,420
+"34620","Muncie, IN (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),93,90,93,98,102,101
+"34620","Muncie, IN (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),41,49,53,55,63,66
+"34620","Muncie, IN (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),800,845,913,805,712,671
+"34620","Muncie, IN (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1799,1731,1720,1702,1725,1745
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"34620","Muncie, IN (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),25485,25396,26270,25002,24688,24664
+"34620","Muncie, IN (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"34620","Muncie, IN (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce
