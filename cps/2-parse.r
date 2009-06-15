@@ -52,7 +52,9 @@ parse_year <- function(year) {
 
   # Save as compressed csv file
   message("Saving output")
-  write.table(outdf, gzfile("migration/2001.csv.gz"), sep = ",", row = F)
+  out_path <- paste("migration/", year, ".csv.gz", sep = "")
+  write.table(outdf, gzfile(out_path), sep = ",", row = F)
+  closeAllConnections()
 }
 
 l_ply(2001:2008, parse_year)
