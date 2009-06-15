@@ -22,3 +22,16 @@ const_year <- data.frame(
 all <- rbind(vari, const_year)
 all <- all[order(all$year, all$start), c("year", "start", "length", "abbr")]
 
+# Need to turn this into a format that read.fwf can deal with
+one <- subset(all, year == 2001)
+one$end <- one$start + one$length
+
+pos <- as.vector(t(one[c("start", "end")]))
+widths <- c(pos[1], diff(pos))
+
+con <- gzfile("march-supplement/2001.txt.gz")
+read.fwf(con, widths)
+
+con <- gzfile("march-supplement/2001.txt.gz")
+fwf <- read.fwf("march-supplement/2003.txt", widths, stringsAsFactors = FALSE, n= 500)[, seq(2, length(widths), by = 2)]
+names(fwf) <- tolower(one$abbr)
