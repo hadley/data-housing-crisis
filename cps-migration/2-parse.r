@@ -34,7 +34,7 @@ parse_line <- function(line, fields) {
 }
 
 parse_year <- function(year) {
-  path <- paste("march-supplement/", year, ".txt.gz", sep = "")
+  path <- paste("raw/", year, ".txt.gz", sep = "")
   message("Loading raw data")
   lines <- readLines(gzfile(path))
   closeAllConnections()
@@ -52,9 +52,10 @@ parse_year <- function(year) {
 
   # Save as compressed csv file
   message("Saving output")
-  out_path <- paste("migration/", year, ".csv.gz", sep = "")
+  out_path <- paste("clean/", year, ".csv.gz", sep = "")
   write.table(outdf, gzfile(out_path), sep = ",", row = F)
   closeAllConnections()
 }
 
+dir.create("clean") 
 l_ply(2001:2008, parse_year)
