@@ -1,0 +1,60 @@
+D NXTRES      2    850  (0:18)
+     What was ... main reason for moving?
+5 .To look for work or lost job
+9 .Wanted to own home, not rent
+12 .Cheaper housing 
+Migration: 
+D MIGSAME     1    214  (0:3)
+     Was ... living in this house (apt.) 1
+     year ago; that is, on March 1, 20..?
+1 .Yes (nonmover)
+2 .No, difference house in U.S.(mover) 
+D MIG-ST      2    216  (00:56, 96)
+     Recode - FIPS State code of previous
+     residence 
+D GTCO        3     49  (000:810)
+     FIPS County Code 
+D MIG-MTR1    2    222  (01:09)
+01 .Nonmover
+02 .Metro to metro
+03 .Metro to non-metro
+04 .Non-metro to metro
+05 .Non-metro to non-metro 
+D MIG-MTR3    1    224  (1:8)
+2 .Same county
+3 .Different county, same state
+4 .Different state, same division
+5 .Different division, same region
+6 .Different region 
+ 
+D HLORENT     1     75  (0:2)
+     Item 89 - Are you paying lower rent
+     because the federal, state, or local
+     government is paying part
+     of the cost?
+U HPUBLIC = 2
+V          0 .Not in universe
+V          1 .Yes
+V          2 .No 
+D HHINC       2    272  (00:41)    
+U H-HHTYPE = 1
+      Recode -total household income 
+ 
+D PEAFWHN1    2    120  (-1:9)
+     When did you serve?     
+U PEAFEVER=1
+V         -1 .Not in universe
+V          1 .September 2001 or later
+V          2 .August 1990 to August 2001
+V          3 .May 1975 to July 1990
+V          4 .Vietnam Era (August 1964 to
+V            .April 1975)            
+V          5 .February 1955 to July 1964
+V          6 .Korean War (July 1950 to
+V            .January 1955)
+V          7 .January 1947 to June 1950
+V          8 .World War II (December 1941
+V            .to December 1946)
+V          9 .November 1941 o 
+ 
+ 
