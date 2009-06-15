@@ -1,3 +1,5 @@
+# Load variable specification from vars-constant and vars-variable.
+
 vars <- c(
   year = 5,
   code = 2,
@@ -22,16 +24,23 @@ const_year <- data.frame(
 all <- rbind(vari, const_year)
 all <- all[order(all$year, all$start), c("year", "start", "length", "abbr")]
 
-# Need to turn this into a format that read.fwf can deal with
-one <- subset(all, year == 2001)
-one$end <- one$start + one$length
+# Manually parse and load into R.  
+# Not using read.fwf because the specification is annoying (need to load 
+# all fields and then discard) and because it doesn't seem to work with 
+# the gzfile connection.
 
-pos <- as.vector(t(one[c("start", "end")]))
-widths <- c(pos[1], diff(pos))
+m2001 <- gzfile("march-supplement/2001.txt.gz")
+lines <- readLines(m2001, n = 10000)
 
-con <- gzfile("march-supplement/2001.txt.gz")
-read.fwf(con, widths)
+parse_line <- function(line, fields) {
+  substring(line, fields$start, fields$start + fields$length - 1)  
+}
 
-con <- gzfile("march-supplement/2001.txt.gz")
-fwf <- read.fwf("march-supplement/2003.txt", widths, stringsAsFactors = FALSE, n= 500)[, seq(2, length(widths), by = 2)]
-names(fwf) <- tolower(one$abbr)
+parsed <- llply(lines, parse_line, fields = one, .progress = "text")
+
+out <- do.call("rbind", parsed)
+outdf <- as.data.frame(alply(out, 2, type.convert))
+names(outdf) <- tolower(one$abbr)
+outdf$year <- 2001
+
+write.table(outdf, gzfile("migration/2001.csv.gz"), sep = ",", row = F)
