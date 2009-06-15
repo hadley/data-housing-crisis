@@ -3,7 +3,7 @@ Census: Population
 
 Cleaned Data set contains information regarding population:
 
-* population estimate
+* Population estimate
 * Numeric in resident total population change
 * Births
 * Deaths
@@ -14,6 +14,7 @@ Cleaned Data set contains information regarding population:
 Data set also includes yearly rates (2001-2008) for all of the above categories. 
 
 All of this information is organized by:
+
 * State
 * County
 * Year (2000-2008)
