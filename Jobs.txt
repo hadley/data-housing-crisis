@@ -1,0 +1,14 @@
+Jobs
+
+1. clean census-population
+  result should have columns state, county, year, births, deaths, pop etc
+
+2. we still need more data on house prices etc
+
+3. find an index for msa codes to names of cities, and then the lat and long of each city
+
+4.  start listing the datasets we have, their current status (i.e. downloaded, cleaned etc) and who is working on them and put it on the github wiki
+
+5.  clean construction data
+    -Barret is working on.
+
