@@ -1,0 +1,276 @@
+"","City_State","Total","1_Units","2_Units","3-4_Units","5-Inf_Units"
+"1","Abilene* TX MSA","1792",1792,0,0,0
+"2","Albany* GA MSA","4613",4448,165,0,0
+"3","Albany-Schenectady-Troy* NY  MSA","30915",29921,127,0,867
+"4","Albuquerque* NM MSA","59080",59080,0,0,0
+"5","Alexandria* LA MSA","3378",3378,0,0,0
+"6","Allentown-Bethlehem-Easton*  PA MSA","24437",24437,0,0,0
+"7","Altoona* PA MSA","510",510,0,0,0
+"8","Amarillo* TX MSA","19777",12177,0,0,7600
+"9","Anchorage* AK MSA","52501",23025,18948,0,10528
+"10","Anniston* AL MSA","2555",2555,0,0,0
+"11","Appleton-Oshkosh-Neenah* WI  MSA","28837",23112,2711,0,3014
+"12","Asheville* NC MSA","18818",17865,183,0,770
+"13","Athens* GA MSA","13451",11481,473,0,1497
+"14","Atlanta  GA MSA","514364",450187,1669,1595,60913
+"15","Auburn-Opelika* AL MSA","6701",4444,236,0,2021
+"16","Augusta-Aiken* GA-SC MSA","24001",23941,60,0,0
+"17","Austin-San Marcos* TX MSA","81666",67073,906,801,12886
+"18","Bakersfield* CA MSA","36328",36328,0,0,0
+"19","Bangor* ME MSA","3225",3061,164,0,0
+"20","Barnstable-Yarmouth* MA MSA","18269",18269,0,0,0
+"21","Baton Rouge* LA MSA","10633",10633,0,0,0
+"22","Beaumont-Port Arthur* TX MSA","5030",5030,0,0,0
+"23","Bellingham* WA MSA","17476",14956,417,170,1933
+"24","Benton Harbor* MI MSA","3419",2947,0,472,0
+"25","Billings* MT MSA","6651",6651,0,0,0
+"26","Biloxi-Gulfport-Pascagoula*  MS MSA","21020",20840,0,180,0
+"27","Binghamton* NY MSA","1121",1121,0,0,0
+"28","Birmingham* AL MSA","44859",44859,0,0,0
+"29","Bismarck* ND MSA","15349",11442,0,1507,2400
+"30","Bloomington* IN MSA","7076",5455,1621,0,0
+"31","Bloomington-Normal* IL MSA","13557",11814,0,319,1424
+"32","Boise City* ID MSA","69140",67409,414,1317,0
+"33","Boston-Worcester-Lawrence  MA-NH-ME-CT CMSA","226816",204914,4605,2404,14893
+"34","Brownsville-Harlingen-San  Benito* TX MSA","14430",13644,279,118,389
+"35","Bryan-College Station* TX MSA","6757",6051,86,0,620
+"36","Buffalo-Niagara Falls* NY MSA","33194",26183,545,1080,5386
+"37","Burlington* VT MSA","5949",5661,288,0,0
+"38","Canton-Massillon* OH MSA","17726",16609,862,255,0
+"39","Casper* WY MSA","2853",2653,0,0,200
+"40","Cedar Rapids* IA MSA","13730",7998,1222,0,4510
+"41","Champaign-Urbana* IL MSA","7779",7779,0,0,0
+"42","Charleston-North  Charleston* SC MSA","52152",49771,0,277,2104
+"43","Charleston* WV MSA","2729",2729,0,0,0
+"44","Charlotte-Gastonia-Rock  Hill  NC-SC MSA","183264",177106,884,410,4864
+"45","Charlottesville* VA MSA","15877",14229,147,0,1501
+"46","Chattanooga* TN-GA MSA","18992",18328,292,125,247
+"47","Cheyenne* WY MSA","5269",4836,0,0,433
+"48","Chicago-Gary-Kenosha  IL-IN-  WI CMSA","604364",517789,7682,18132,60761
+"49","Chico-Paradise* CA MSA","11844",11600,0,244,0
+"50","Cincinnati-Hamilton  OH-KY-  IN CMSA","119333",109898,485,2466,6484
+"51","Clarksville-Hopkinsville*  TN-KY MSA","10359",9859,0,0,500
+"52","Cleveland-Akron  OH CMSA","141209",123899,1235,2216,13859
+"53","Colorado Springs* CO MSA","93824",46919,160,0,46745
+"54","Columbia* MO MSA","17774",13521,253,0,4000
+"55","Columbia* SC MSA","30555",29851,121,456,127
+"56","Columbus* GA-AL MSA","15588",15588,0,0,0
+"57","Columbus  OH MSA","172957",144551,3945,7894,16567
+"58","Corpus Christi* TX MSA","7589",7052,129,408,0
+"59","Corvallis OR MSA*","7844",4926,369,209,2340
+"60","Cumberland* MD-WV MSA","2041",2041,0,0,0
+"61","Dallas-Fort Worth  TX CMSA","543895",486765,972,1164,54994
+"62","Danville* VA MSA","2596",2596,0,0,0
+"63","Davenport-Moline-Rock  Island* IA-IL MSA","6037",5857,180,0,0
+"64","Dayton-Springfield* OH MSA","35070",28140,1061,5869,0
+"65","Daytona Beach* FL MSA","68736",63873,1076,0,3787
+"66","Decatur* Al MSA","3343",3343,0,0,0
+"67","Decatur* IL MSA","4897",296,0,0,4601
+"68","Denver-Boulder-Greeley  CO  CMSA","340690",248729,2142,6327,83492
+"69","Des Moines* IA MSA","44855",40364,405,0,4086
+"70","Detroit-Ann Arbor-Flint  MI  CMSA","285385",255290,3692,5556,20847
+"71","Dothan* AL MSA","1645",1645,0,0,0
+"72","Dover* DE MSA","13203",13203,0,0,0
+"73","Dubuque* IA MSA","3099",2560,539,0,0
+"74","Duluth-Superior* MN-WI MSA","6651",6528,123,0,0
+"75","Eau Claire* WI MSA","10881",10094,787,0,0
+"76","El Paso* TX MSA","15737",14806,258,195,478
+"77","Elkhart-Goshen* IN MSA","8726",8339,135,0,252
+"78","Elmira* NY MSA","917",917,0,0,0
+"79","Enid* OK MSA","2772",2772,0,0,0
+"80","Erie* PA MSA","3373",3373,0,0,0
+"81","Eugene-Springfield* OR MSA","19957",18624,882,0,451
+"82","Evansville-Henderson* IN-KY  MSA","13501",13366,135,0,0
+"83","Fargo-Moorhead* ND-MN MSA","20988",17508,0,760,2720
+"84","Fayetteville* NC MSA","16116",11534,0,0,4582
+"85","Fayetteville-Springdale-  Rogers* AR MSA","19726",16470,374,431,2451
+"86","Flagstaff* AZ-UT MSA","10648",10228,368,52,0
+"87","Florence* AL MSA","1005",501,0,75,429
+"88","Florence* SC MSA","511",511,0,0,0
+"89","Fort Collins-Loveland* CO MSA","38450",32224,533,297,5396
+"90","Fort Myers-Cape Coral* FL MSA","104880",86549,4779,5221,8331
+"91","Fort Pierce-Port St. Lucie*  FL MSA","36448",35886,0,0,562
+"92","Fort Smith* AR-OK MSA","12610",6859,407,0,5344
+"93","Fort Walton Beach* FL MSA","36220",11857,95,0,24268
+"94","Fort Wayne* IN MSA","33016",32484,532,0,0
+"95","Fresno  CA MSA","75048",72872,116,266,1794
+"96","Gadsden* AL MSA","729",729,0,0,0
+"97","Gainesville* FL MSA","10573",10573,0,0,0
+"98","Glens Falls* NY MSA","6835",6248,437,150,0
+"99","Goldsboro* NC MSA","3884",3884,0,0,0
+"100","Grand Forks* ND-MN MSA","2831",2654,177,0,0
+"101","Grand Junction* CO MSA","11398",11398,0,0,0
+"102","Grand Rapids-Muskegon-  Holland  MI MSA","77418",73883,657,1746,1132
+"103","Great Falls* MT MSA","2710",2710,0,0,0
+"104","Green Bay* WI MSA","20016",16014,1453,0,2549
+"105","Greensboro--Winston-Salem--  High Point  NC MSA","96497",91662,452,655,3728
+"106","Greenville* NC MSA","10507",8473,260,0,1774
+"107","Greenville-Spartanburg-  Anderson* SC MSA","47591",47087,82,422,0
+"108","Harrisburg-Lebanon-  Carlisle* PA MSA","17716",17616,0,100,0
+"109","Hartford* CT MSA","40771",36274,1250,459,2788
+"110","Hattiesburg* MS MSA","301",301,0,0,0
+"111","Hickory-Morganton-Lenoir*  NC MSA","17283",17283,0,0,0
+"112","Honolulu  HI MSA","73176",38178,0,0,34998
+"113","Houma* LA MSA","5705",5629,76,0,0
+"114","Houston-Galveston-Brazoria  TX CMSA","346766",313106,396,20597,12667
+"115","Huntington-Ashland* WV-KY-  OH MSA","262",262,0,0,0
+"116","Huntsville* AL MSA","6479",4746,0,0,1733
+"117","Indianapolis  IN MSA","189134",181007,3143,352,4632
+"118","Iowa City* IA MSA","10645",9303,0,567,775
+"119","Jackson* MI MSA","2069",1801,268,0,0
+"120","Jackson* MS MSA","24506",24506,0,0,0
+"121","Jackson* TN MSA","4454",4454,0,0,0
+"122","Jacksonville  FL MSA","136373",122448,0,0,13925
+"123","Jacksonville* NC MSA","6760",6575,80,105,0
+"124","Jamestown* NY MSA","224",224,0,0,0
+"125","Janesville-Beloit* WI MSA","4033",3235,398,225,175
+"126","Johnson City-Kingsport-  Bristol* TN-VA MSA","10951",10951,0,0,0
+"127","Johnstown* PA MSA","730",446,0,284,0
+"128","Jonesboro* AR MSA","4115",3564,0,551,0
+"129","Joplin* MO MSA","1856",1856,0,0,0
+"130","Kalamazoo-Battle Creek* MI  MSA","13249",12941,0,0,308
+"131","Kansas City  MO-KS MSA","165642",131021,5933,4482,24206
+"132","Killeen-Temple* TX MSA","13094",11927,731,436,0
+"133","Knoxville* TN MSA","71604",33819,225,4279,33281
+"134","Kokomo* IN MSA","2429",2429,0,0,0
+"135","La Crosse* WI-MN MSA","6372",6372,0,0,0
+"136","Lafayette* LA MSA","12983",12983,0,0,0
+"137","Lafayette* IN MSA","13641",13461,180,0,0
+"138","Lake Charles* LA MSA","7400",6339,53,0,1008
+"139","Lakeland-Winter Haven* FL MSA","31221",31008,0,0,213
+"140","Lancaster* PA MSA","15080",14920,160,0,0
+"141","Lansing-East Lansing* MI MSA","18239",17031,0,0,1208
+"142","Laredo* TX MSA","9870",9004,0,112,754
+"143","Las Cruces* NM MSA","13138",13138,0,0,0
+"144","Las Vegas  NV-AZ MSA","296482",258255,884,0,37343
+"145","Lawrence* KS MSA","10294",5330,4964,0,0
+"146","Lawton* OK MSA","1331",1331,0,0,0
+"147","Lewiston-Auburn* ME MSA","2281",2281,0,0,0
+"148","Lexington* KY MSA","33056",32286,0,170,600
+"149","Lima* OH MSA","969",969,0,0,0
+"150","Lincoln* NE MSA","18250",16437,569,0,1244
+"151","Little Rock-North Little  Rock* AR MSA","52677",28935,0,0,23742
+"152","Longview-Marshall* TX MSA","963",963,0,0,0
+"153","Los Angeles-Riverside-  Orange County  CA CMSA","762513",623341,6784,5069,127319
+"154","Louisville  KY-IN MSA","72718",56674,291,185,15568
+"155","Lubbock* TX MSA","19045",18146,899,0,0
+"156","Lynchburg* VA MSA","14857",14584,273,0,0
+"157","Macon* GA MSA","15247",15067,180,0,0
+"158","Madison* WI MSA","63794",34896,1366,2834,24698
+"159","Mansfield* OH MSA","4833",4178,655,0,0
+"160","McAllen-Edinburg-Mission*  TX MSA","29153",25429,396,2486,842
+"161","Medford-Ashland* OR MSA","18172",16316,363,580,913
+"162","Melbourne-Titusville-Palm  Bay* FL MSA","60060",51362,0,574,8124
+"163","Memphis  TN-AR-MS MSA","119267",76257,415,0,42595
+"164","Merced* CA MSA","21598",21598,0,0,0
+"165","Miami-Fort Lauderdale  FL  CMSA","168419",108799,1579,4370,53671
+"166","Milwaukee-Racine  WI CMSA","79103",69282,4606,1722,3493
+"167","Minneapolis-St. Paul  MN-WI  MSA","312374",252721,6442,9915,43296
+"168","Missoula* MT MSA","6541",3712,953,0,1876
+"169","Mobile* AL MSA","33207",32323,0,0,884
+"170","Modesto* CA MSA","21092",20200,295,259,338
+"171","Monroe* LA MSA","4754",4754,0,0,0
+"172","Montgomery* AL MSA","12344",12344,0,0,0
+"173","Muncie* IN MSA","3095",3095,0,0,0
+"174","Myrtle Beach* SC MSA","89228",22851,308,0,66069
+"175","Naples* FL MSA","55577",46028,345,350,8854
+"176","Nashville  TN MSA","116694",111868,1013,791,3022
+"177","New London-Norwich* CT-RI MSA","14348",13988,360,0,0
+"178","New Orleans* LA MSA","45420",43581,507,340,992
+"179","New York-Northern New  Jersey-Long Island  NY-NJ-  CT-PA CMSA","588034",404453,46627,23511,113443
+"180","Norfolk-Virginia Beach-  Newport News  VA-NC MSA","82475",80778,538,0,1159
+"181","Ocala* FL MSA","68119",67949,170,0,0
+"182","Odessa-Midland* TX MSA","2613",2613,0,0,0
+"183","Oklahoma City* OK MSA","77980",68196,0,0,9784
+"184","Omaha* NE-IA MSA","61723",45411,151,0,16161
+"185","Orlando  FL MSA","250770",205068,1612,908,43182
+"186","Owensboro* KY MSA","5095",5095,0,0,0
+"187","Panama City* FL MSA","12631",10125,0,0,2506
+"188","Parkersburg-Marietta* WV-OH  MSA","1567",1504,0,63,0
+"189","Pensacola* FL MSA","30091",30091,0,0,0
+"190","Peoria-Pekin* IL MSA","13669",12050,619,0,1000
+"191","Philadelphia-Wilmington-  Atlantic City  PA-NJ-DE-MD  CMSA","215789",190630,6115,1274,17770
+"192","Phoenix-Mesa  AZ MSA","527504",473758,0,1280,52466
+"193","Pine Bluff* AR MSA","1914",1637,277,0,0
+"194","Pittsburgh  PA MSA","75133",58440,1086,2146,13461
+"195","Pittsfield* MA MSA","483",483,0,0,0
+"196","Pocatello* ID MSA","1371",1371,0,0,0
+"197","Portland* ME MSA","20189",17777,126,1617,669
+"198","Portland-Salem  OR-WA CMSA","218978",171352,3594,2221,41811
+"199","Providence-Fall River-  Warwick* RI-MA MSA","32015",29969,855,967,224
+"200","Provo-Orem* UT MSA","37215",33263,587,524,2841
+"201","Pueblo* CO MSA","10559",10559,0,0,0
+"202","Punta Gorda* FL MSA","20625",18999,346,1280,0
+"203","Raleigh-Durham-Chapel Hill  NC MSA","165141",140680,1012,350,23099
+"204","Rapid City* SD MSA","4668",4668,0,0,0
+"205","Reading* PA MSA","11339",10356,0,0,983
+"206","Redding* CA MSA","14725",14461,0,264,0
+"207","Reno* NV MSA","60556",56573,0,0,3983
+"208","Richland-Kennewick-Pasco*  WA MSA","13120",12253,0,319,548
+"209","Richmond-Petersburg  VA MSA","73191",67151,58,0,5982
+"210","Roanoke* VA MSA","6875",6780,95,0,0
+"211","Rochester* MN MSA","16601",14801,0,0,1800
+"212","Rochester* NY MSA","31882",27254,120,1614,2894
+"213","Rockford* IL MSA","17176",13093,1049,1267,1767
+"214","Rocky Mount* NC MSA","5834",3495,1200,0,1139
+"215","Sacramento-Yolo  CA CMSA","285192",263433,420,1526,19813
+"216","Saginaw-Bay City-Midland*  MI MSA","5722",4668,393,333,328
+"217","St. Cloud* MN MSA","10570",9355,0,250,965
+"218","St. Joseph* MO MSA","1842",1367,475,0,0
+"219","St. Louis  MO-IL MSA","155415",128988,7570,2338,16519
+"220","Salinas* CA MSA","28024",28024,0,0,0
+"221","Salt Lake City-Ogden  UT MSA","95385",80685,1761,2774,10165
+"222","San Angelo* TX MSA","1131",1131,0,0,0
+"223","San Antonio* TX MSA","65167",64483,654,0,30
+"224","San Diego  CA MSA","159363",129216,422,355,29370
+"225","San Francisco-Oakland-San  Jose  CA CMSA","410803",316497,1756,2390,90160
+"226","San Luis Obispo-Atascadero-  Paso Robles* CA MSA","30181",28116,230,0,1835
+"227","Santa Barbara-Santa Maria-  Lompoc* CA MSA","17535",17535,0,0,0
+"228","Santa Fe* NM MSA","16754",16754,0,0,0
+"229","Sarasota-Bradenton* FL MSA","100034",92522,0,500,7012
+"230","Savannah* GA MSA","17320",14734,358,173,2055
+"231","Scranton--Wilkes-Barre--  Hazleton* PA MSA","6708",6328,380,0,0
+"232","Seattle-Tacoma-Bremerton  WA CMSA","277768",236660,7448,4853,28807
+"233","Sharon* PA MSA","930",930,0,0,0
+"234","Sheboygan* WI MSA","409",409,0,0,0
+"235","Sherman-Denison* TX MSA","3098",3098,0,0,0
+"236","Shreveport-Bossier City* LA  MSA","15282",15282,0,0,0
+"237","Sioux City* IA-NE MSA","1135",933,202,0,0
+"238","Sioux Falls* SD MSA","18751",11979,261,624,5887
+"239","South Bend* IN MSA","12285",12285,0,0,0
+"240","Spokane* WA MSA","17976",15825,182,0,1969
+"241","Springfield* IL MSA","8147",6990,1157,0,0
+"242","Springfield* MO MSA","33938",20960,292,206,12480
+"243","Springfield* MA MSA","8412",8332,80,0,0
+"244","State College* PA MSA","7622",7622,0,0,0
+"245","Steubenville-Weirton* OH-WV  MSA","1023",1023,0,0,0
+"246","Stockton-Lodi* CA MSA","70293",70147,146,0,0
+"247","Sumter* SC MSA","3000",2501,205,0,294
+"248","Syracuse* NY MSA","10489",10385,0,0,104
+"249","Tallahassee* FL MSA","13326",12670,0,656,0
+"250","Tampa-St. Petersburg-  Clearwater  FL MSA","164902",156281,2908,1457,4256
+"251","Terre Haute* IN MSA","3486",3486,0,0,0
+"252","Texarkana* TX-Texarkana  AR  MSA","1222",1222,0,0,0
+"253","Toledo* OH MSA","22928",21849,829,250,0
+"254","Topeka* KS MSA","9498",9498,0,0,0
+"255","Tucson* AZ MSA","80793",67667,997,0,12129
+"256","Tulsa* OK MSA","44229",38242,0,0,5987
+"257","Tuscaloosa* AL MSA","7520",5014,0,0,2506
+"258","Tyler* TX MSA","5087",4764,0,0,323
+"259","Utica-Rome* NY MSA","1217",1217,0,0,0
+"260","Victoria* TX MSA","1360",1360,0,0,0
+"261","Visalia-Tulare-Porterville*  CA MSA","25138",25138,0,0,0
+"262","Waco* TX MSA","5679",5679,0,0,0
+"263","Washington-Baltimore  DC-MD-  VA-WV CMSA","519882",451113,694,198,67877
+"264","Waterloo-Cedar Falls* IA MSA","5423",2735,0,0,2688
+"265","Wausau* WI MSA","8959",7899,1060,0,0
+"266","West Palm Beach-Boca Raton  FL MSA","142795",133818,275,150,8552
+"267","Wheeling* WV-OH MSA","139",139,0,0,0
+"268","Wichita* KS MSA","15603",14512,766,325,0
+"269","Wichita Falls* TX MSA","2152",2152,0,0,0
+"270","Wilmington* NC MSA","41536",34890,0,400,6246
+"271","Yakima* WA MSA","5679",3128,255,1308,988
+"272","York* PA MSA","17884",15875,1742,267,0
+"273","Youngstown-Warren* OH MSA","12897",11465,1160,0,272
+"274","Yuba City* CA MSA","11409",11409,0,0,0
+"275","Yuma* AZ MSA","18611",15748,997,1507,359

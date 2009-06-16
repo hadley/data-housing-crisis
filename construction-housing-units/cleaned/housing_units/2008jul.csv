@@ -1,0 +1,347 @@
+"","City_State","Total","1_Units","2_Units","3-4_Units","5-Inf_Units","5-Inf_Units_Stucture","Monthly_Coverage_Percent"
+"1","Abilene, TX","20",20,0,0,0,0,98
+"2","Akron, OH","66",51,0,3,12,1,68
+"3","Albany, GA","24",19,2,3,0,0,96
+"4","Albany-Schenectady-Troy, NY","106",72,0,0,34,4,75
+"5","Albuquerque,  NM","204",166,2,3,33,1,100
+"6","Alexandria, LA","30",30,0,0,0,0,99
+"7","Allentown-Bethlehem-Easton,  PA-NJ","199",181,2,4,12,2,100
+"8","Altoona, PA","0",0,0,0,0,0,9
+"9","Amarillo, TX","41",41,0,0,0,0,97
+"10","Ames, IA","19",12,0,0,7,1,94
+"11","Anchorage,  AK","52",44,0,8,0,0,100
+"12","Anderson, IN","5",5,0,0,0,0,64
+"13","Anderson, SC","39",39,0,0,0,0,89
+"14","Ann Arbor, MI","27",22,0,0,5,1,71
+"15","Anniston-Oxford, AL","12",10,2,0,0,0,83
+"16","Appleton, WI","49",45,4,0,0,0,81
+"17","Asheville, NC","195",180,2,0,13,1,94
+"18","Athens-Clarke County, GA","26",24,2,0,0,0,79
+"19","Atlanta-Sandy Springs-Marietta,  GA","1509",873,0,6,630,12,100
+"20","Atlantic City-Hammonton,  NJ","61",59,2,0,0,0,100
+"21","Auburn-Opelika,  AL","61",54,4,3,0,0,100
+"22","Augusta-Richmond County, GA-SC","109",107,2,0,0,0,75
+"23","Austin-Round Rock,  TX","1094",766,12,11,305,7,100
+"24","Bakersfield, CA","197",128,12,52,5,1,86
+"25","Baltimore-Towson,  MD","763",275,0,0,488,9,100
+"26","Bangor, ME","18",16,2,0,0,0,53
+"27","Barnstable Town, MA","69",33,0,3,33,2,87
+"28","Baton Rouge, LA","353",203,2,0,148,5,93
+"29","Battle Creek, MI","8",3,0,0,5,1,68
+"30","Bay City, MI","3",3,0,0,0,0,17
+"31","Beaumont-Port Arthur, TX","48",48,0,0,0,0,71
+"32","Bellingham, WA","63",44,0,0,19,1,77
+"33","Bend,  OR","88",81,2,0,5,1,100
+"34","Billings, MT","47",47,0,0,0,0,92
+"35","Binghamton, NY","5",5,0,0,0,0,15
+"36","Birmingham-Hoover,  AL","420",194,0,0,226,2,100
+"37","Bismarck, ND","60",51,0,0,9,1,98
+"38","Bloomington, IN","27",25,2,0,0,0,85
+"39","Bloomington-Normal, IL","23",15,0,0,8,1,86
+"40","Boise City-Nampa,  ID","209",178,12,19,0,0,100
+"41","Boston-Cambridge-Quincy,  MA-NH","565",291,18,26,230,18,100
+"42","Boulder, CO","26",13,0,8,5,1,72
+"43","Bowling Green, KY","42",42,0,0,0,0,99
+"44","Bradenton-Sarasota-Venice,  FL","169",139,2,3,25,2,100
+"45","Bremerton-Silverdale, WA","84",69,0,15,0,0,79
+"46","Bridgeport-Stamford-Norwalk, CT","97",51,2,0,44,3,89
+"47","Brownsville-Harlingen, TX","88",80,4,4,0,0,83
+"48","Brunswick, GA","37",37,0,0,0,0,82
+"49","Buffalo-Niagara Falls, NY","101",85,0,0,16,2,78
+"50","Burlington, NC","66",66,0,0,0,0,95
+"51","Burlington-South Burlington, VT","42",28,0,0,14,1,86
+"52","Canton-Massillon, OH","34",29,0,0,5,1,82
+"53","Cape Coral-Fort Myers,  FL","125",125,0,0,0,0,100
+"54","Carson City,  NV","2",2,0,0,0,0,100
+"55","Casper, WY","42",42,0,0,0,0,85
+"56","Cedar Rapids, IA","103",61,6,30,6,1,91
+"57","Champaign-Urbana, IL","29",25,0,4,0,0,83
+"58","Charleston, WV","21",9,0,6,6,1,47
+"59","Charleston-North Charleston-Summerville,  SC","414",312,6,0,96,6,NA
+"60","Charlottesville, VA","42",42,0,0,0,0,70
+"61","Chattanooga, TN-GA","109",94,2,0,13,1,75
+"62","Cheyenne, WY","17",17,0,0,0,0,98
+"63","Chicago-Naperville-Joliet,  IL-IN-WI","1558",831,18,73,636,24,NA
+"64","Cincinnati-Middletown,  OH-KY-IN","429",311,6,30,82,10,100
+"65","Clarksville, TN-KY","99",95,0,4,0,0,22
+"66","Cleveland, TN","57",43,2,12,0,0,74
+"67","Cleveland-Elyria-Mentor,  OH","249",219,4,7,19,3,100
+"68","Coeur dAlene, ID","52",47,2,3,0,0,99
+"69","College Station-Bryan, TX","271",67,2,0,202,1,99
+"70","Colorado Springs,  CO","345",165,2,0,178,4,100
+"71","Columbia, MO","48",48,0,0,0,0,100
+"72","Columbia,  SC","574",295,0,0,279,5,100
+"73","Columbus, GA-AL","77",55,0,0,22,1,73
+"74","Columbus, IN","20",20,0,0,0,0,99
+"75","Columbus,  OH","449",264,2,61,122,11,100
+"76","Corpus Christi, TX","89",86,0,3,0,0,83
+"77","Corvallis, OR","8",8,0,0,0,0,54
+"78","Cumberland, MD-WV","9",9,0,0,0,0,5
+"79","Dallas-Fort Worth-Arlington,  TX","3269",1780,18,8,1463,23,100
+"80","Dalton, GA","36",25,2,3,6,1,95
+"81","Danville, IL","0",0,0,0,0,0,4
+"82","Danville, VA","8",8,0,0,0,0,55
+"83","Davenport-Moline-Rock Island,  IA-IL","41",41,0,0,0,0,NA
+"84","Decatur, AL","11",11,0,0,0,0,67
+"85","Decatur, IL","0",0,0,0,0,0,18
+"86","Deltona-Daytona Beach-Ormond Beach,  FL","124",96,2,0,26,2,NA
+"87","Des Moines-West Des Moines,  IA","205",172,4,0,29,1,100
+"88","Detroit-Warren-Livonia,  MI","242",207,2,3,30,3,100
+"89","Dothan, AL","37",37,0,0,0,0,85
+"90","Dover,  DE","92",92,0,0,0,0,100
+"91","Dubuque, IA","16",16,0,0,0,0,84
+"92","Duluth, MN-WI","39",39,0,0,0,0,69
+"93","Durham,  NC","233",212,0,0,21,2,100
+"94","Eau Claire, WI","48",20,20,8,0,0,91
+"95","El Centro, CA","35",26,0,4,5,1,71
+"96","El Paso, TX","254",254,0,0,0,0,96
+"97","Elizabethtown, KY","66",22,4,0,40,5,62
+"98","Elkhart-Goshen, IN","35",30,2,3,0,0,97
+"99","Elmira, NY","0",0,0,0,0,0,11
+"100","Erie, PA","28",14,0,0,14,1,74
+"101","Eugene-Springfield, OR","69",55,0,3,11,1,100
+"102","Evansville, IN-KY","61",48,0,3,10,2,89
+"103","Fairbanks,  AK","6",6,0,0,0,0,100
+"104","Fargo, ND-MN","177",117,0,0,60,1,78
+"105","Farmington,  NM","25",21,0,4,0,0,100
+"106","Fayetteville, NC","160",160,0,0,0,0,93
+"107","Fayetteville-Springdale-Rogers,  AR-MO","175",102,10,4,59,3,93
+"108","Flagstaff, AZ","27",25,2,0,0,0,91
+"109","Flint, MI","10",10,0,0,0,0,63
+"110","Florence, SC","63",41,0,0,22,1,99
+"111","Florence-Muscle Shoals, AL","23",16,2,0,5,1,88
+"112","Fond du Lac, WI","119",7,2,4,106,11,44
+"113","Fort Collins-Loveland,  CO","83",56,0,3,24,1,100
+"114","Fort Smith, AR-OK","41",29,8,4,0,0,92
+"115","Fort Walton Beach-Crestview-Destin,  FL","34",24,0,0,10,1,77
+"116","Fort Wayne,  IN","109",109,0,0,0,0,100
+"117","Fresno, CA","116",114,2,0,0,0,81
+"118","Gadsden, AL","11",11,0,0,0,0,62
+"119","Gainesville, FL","69",31,0,0,38,1,99
+"120","Gainesville, GA","21",21,0,0,0,0,94
+"121","Glens Falls, NY","31",31,0,0,0,0,77
+"122","Goldsboro, NC","18",16,2,0,0,0,79
+"123","Grand Forks, ND-MN","6",6,0,0,0,0,221
+"124","Grand Junction,  CO","44",44,0,0,0,0,100
+"125","Grand Rapids-Wyoming,  MI","106",99,2,0,5,1,100
+"126","Great Falls, MT","16",16,0,0,0,0,91
+"127","Greeley,  CO","84",74,0,0,10,1,100
+"128","Green Bay, WI","91",79,0,0,12,1,80
+"129","Greensboro-High Point,  NC","319",208,0,0,111,6,100
+"130","Greenville, NC","232",41,10,0,181,19,99
+"131","Greenville,  SC","251",190,2,0,59,2,100
+"132","Gulfport-Biloxi, MS","137",118,16,3,0,0,93
+"133","Hagerstown-Martinsburg, MD-WV","112",88,0,0,24,2,96
+"134","Hanford-Corcoran, CA","21",21,0,0,0,0,78
+"135","Harrisburg-Carlisle, PA","113",93,2,4,14,2,54
+"136","Harrisonburg,  VA","173",61,2,0,110,3,100
+"137","Hartford-West Hartford-East Hartford,  CT","146",93,2,3,48,5,88
+"138","Hattiesburg, MS","363",3,0,0,360,15,92
+"139","Hickory-Lenoir-Morganton, NC","83",77,6,0,0,0,98
+"140","Hinesville-Fort Stewart, GA","1",1,0,0,0,0,68
+"141","Holland-Grand Haven, MI","60",26,0,0,34,4,77
+"142","Honolulu,  HI","151",55,0,8,88,2,100
+"143","Hot Springs, AR","5",5,0,0,0,0,97
+"144","Houma-Bayou Cane-Thibodaux, LA","39",39,0,0,0,0,94
+"145","Houston-Sugar Land-Baytown,  TX","4461",2806,22,4,1629,51,100
+"146","Huntington-Ashland, WV-KY-OH","2",2,0,0,0,0,8
+"147","Huntsville, AL","184",184,0,0,0,0,98
+"148","Idaho Falls, ID","59",59,0,0,0,0,97
+"149","Indianapolis-Carmel,  IN","586",405,10,3,168,10,100
+"150","Iowa City, IA","51",40,0,0,11,1,94
+"151","Ithaca, NY","16",6,0,0,10,2,58
+"152","Jackson, MI","4",4,0,0,0,0,61
+"153","Jackson, MS","201",201,0,0,0,0,94
+"154","Jackson, TN","25",25,0,0,0,0,92
+"155","Jacksonville,  FL","549",515,4,0,30,2,100
+"156","Jacksonville, NC","104",104,0,0,0,0,97
+"157","Janesville, WI","9",9,0,0,0,0,79
+"158","Jefferson City, MO","14",11,0,3,0,0,70
+"159","Johnson City, TN","45",45,0,0,0,0,99
+"160","Johnstown, PA","0",0,0,0,0,0,7
+"161","Jonesboro, AR","30",27,0,3,0,0,92
+"162","Joplin, MO","7",7,0,0,0,0,49
+"163","Kalamazoo-Portage, MI","72",35,2,0,35,2,70
+"164","Kankakee-Bradley, IL","8",8,0,0,0,0,30
+"165","Kansas City,  MO-KS","411",266,42,35,68,6,100
+"166","Kennewick-Pasco-Richland, WA","73",63,2,0,8,1,89
+"167","Killeen-Temple-Fort Hood, TX","152",114,38,0,0,0,81
+"168","Kingsport-Bristol-Bristol, TN-VA","46",39,2,0,5,1,58
+"169","Kingston, NY","72",18,0,0,54,1,70
+"170","Knoxville, TN","139",133,6,0,0,0,84
+"171","Kokomo, IN","5",5,0,0,0,0,79
+"172","La Crosse, WI-MN","39",30,0,3,6,1,3
+"173","Lafayette, IN","48",48,0,0,0,0,90
+"174","Lafayette, LA","87",69,0,0,18,1,85
+"175","Lake Charles, LA","66",28,4,0,34,1,83
+"176","Lake Havasu City-Kingman, AZ","29",29,0,0,0,0,100
+"177","Lakeland-Winter Haven,  FL","255",243,0,0,12,1,100
+"178","Lancaster, PA","79",76,0,3,0,0,63
+"179","Lansing-East Lansing, MI","33",23,0,0,10,2,81
+"180","Laredo,  TX","94",69,0,4,21,1,100
+"181","Las Cruces,  NM","64",64,0,0,0,0,100
+"182","Las Vegas-Paradise,  NV","1160",715,0,18,427,6,100
+"183","Lawrence, KS","339",13,2,0,324,14,96
+"184","Lawton, OK","15",15,0,0,0,0,89
+"185","Lebanon, PA","40",40,0,0,0,0,92
+"186","Lewiston, ID-WA","2",2,0,0,0,0,55
+"187","Lewiston-Auburn, ME","12",10,2,0,0,0,71
+"188","Lexington-Fayette, KY","469",111,2,0,356,6,98
+"189","Lima, OH","0",0,0,0,0,0,11
+"190","Lincoln, NE","49",37,12,0,0,0,87
+"191","Little Rock-North Little Rock, AR","343",125,2,0,216,10,91
+"192","Logan, UT-ID","49",44,0,0,5,1,3
+"193","Longview, TX","13",13,0,0,0,0,73
+"194","Longview, WA","12",12,0,0,0,0,73
+"195","Los Angeles-Long Beach-Santa Ana,  CA","1133",333,56,14,730,22,NA
+"196","Lubbock, TX","106",106,0,0,0,0,96
+"197","Lynchburg, VA","96",82,0,0,14,1,86
+"198","Macon, GA","28",28,0,0,0,0,54
+"199","Madera, CA","30",30,0,0,0,0,89
+"200","Madison,  WI","187",82,4,3,98,4,100
+"201","Manchester-Nashua, NH","51",24,4,0,23,4,91
+"202","Mansfield, OH","10",8,2,0,0,0,74
+"203","McAllen-Edinburg-Mission,  TX","282",243,10,16,13,2,100
+"204","Medford, OR","50",50,0,0,0,0,100
+"205","Memphis,  TN-MS-AR","616",263,0,0,353,3,100
+"206","Merced, CA","13",13,0,0,0,0,81
+"207","Miami-Fort Lauderdale-Miami Beach,  FL","614",272,28,11,303,19,NA
+"208","Midland,  TX","31",31,0,0,0,0,100
+"209","Milwaukee-Waukesha-West Allis,  WI","207",125,6,4,72,3,100
+"210","Minneapolis-St. Paul-Bloomington,  MN-WI","627",488,4,3,132,8,NA
+"211","Mobile, AL","89",89,0,0,0,0,95
+"212","Modesto, CA","37",34,0,3,0,0,85
+"213","Monroe, LA","27",21,0,0,6,1,85
+"214","Monroe, MI","5",5,0,0,0,0,54
+"215","Montgomery, AL","49",49,0,0,0,0,91
+"216","Morgantown, WV","2",2,0,0,0,0,91
+"217","Morristown, TN","35",33,2,0,0,0,80
+"218","Mount Vernon-Anacortes, WA","30",30,0,0,0,0,83
+"219","Muncie, IN","10",6,4,0,0,0,77
+"220","Muskegon-Norton Shores, MI","5",5,0,0,0,0,60
+"221","Myrtle Beach-North Myrtle Beach-Conway,  SC","700",162,0,0,538,17,99
+"222","Napa, CA","31",31,0,0,0,0,69
+"223","Naples-Marco Island,  FL","110",76,0,28,6,1,100
+"224","Nashville-Davidson--Murfreesboro,  TN","703",495,2,3,203,14,NA
+"225","New Orleans-Metairie-Kenner,  LA","341",257,20,0,64,5,100
+"226","New York-Northern New Jersey-Long Island,  NY-NJ-PA","3334",727,262,197,2148,71,NA
+"227","Norwich-New London, CT","35",27,8,0,0,0,94
+"228","Ocala,  FL","149",149,0,0,0,0,100
+"229","Ocean City,  NJ","33",27,0,6,0,0,100
+"230","Odessa,  TX","59",29,0,0,30,1,100
+"231","Ogden-Clearfield, UT","208",126,0,0,82,4,84
+"232","Oklahoma City,  OK","359",332,2,0,25,1,100
+"233","Olympia, WA","94",88,6,0,0,0,82
+"234","Omaha-Council Bluffs,  NE-IA","477",382,0,0,95,4,100
+"235","Orlando-Kissimmee,  FL","641",620,6,0,15,2,100
+"236","Oshkosh-Neenah, WI","44",42,2,0,0,0,83
+"237","Owensboro, KY","29",29,0,0,0,0,97
+"238","Oxnard-Thousand Oaks-Ventura, CA","38",18,0,0,20,2,97
+"239","Palm Bay-Melbourne-Titusville,  FL","151",139,0,0,12,2,100
+"240","Palm Coast, FL","258",34,0,0,224,7,100
+"241","Panama City-Lynn Haven, FL","35",31,0,4,0,0,97
+"242","Parkersburg-Marietta-Vienna, WV-OH","65",17,0,0,48,6,0
+"243","Pascagoula, MS","50",30,0,3,17,1,98
+"244","Pensacola-Ferry Pass-Brent,  FL","87",87,0,0,0,0,100
+"245","Peoria, IL","134",38,0,0,96,2,59
+"246","Philadelphia-Camden-Wilmington,  PA-NJ-DE-MD","711",602,8,15,86,10,NA
+"247","Pine Bluff, AR","11",9,2,0,0,0,89
+"248","Pittsburgh,  PA","311",280,14,7,10,2,100
+"249","Pittsfield, MA","2",2,0,0,0,0,19
+"250","Pocatello, ID","17",14,0,3,0,0,92
+"251","Port St. Lucie,  FL","54",54,0,0,0,0,100
+"252","Portland-South Portland-Biddeford,  ME","114",96,8,0,10,2,89
+"253","Portland-Vancouver-Beaverton,  OR-WA","972",416,10,4,542,14,NA
+"254","Prescott, AZ","42",42,0,0,0,0,84
+"255","Providence-New Bedford-Fall River,  RI-MA","159",133,12,4,10,2,86
+"256","Provo-Orem, UT","139",84,0,7,48,4,97
+"257","Pueblo,  CO","38",34,4,0,0,0,100
+"258","Punta Gorda,  FL","76",54,4,0,18,1,100
+"259","Racine, WI","23",23,0,0,0,0,69
+"260","Raleigh-Cary,  NC","2850",769,4,3,2074,54,100
+"261","Rapid City, SD","66",66,0,0,0,0,98
+"262","Reading, PA","23",23,0,0,0,0,48
+"263","Redding, CA","27",22,0,0,5,1,93
+"264","Reno-Sparks,  NV","81",54,2,0,25,5,100
+"265","Richmond,  VA","447",387,2,8,50,3,100
+"266","Riverside-San Bernardino-Ontario,  CA","817",659,8,26,124,15,NA
+"267","Rochester, MN","100",33,0,0,67,1,87
+"268","Rochester, NY","112",96,4,12,0,0,62
+"269","Rockford, IL","36",32,4,0,0,0,97
+"270","Rocky Mount, NC","34",32,2,0,0,0,78
+"271","Rome, GA","44",12,2,0,30,1,99
+"272","Sacramento--Arden-Arcade--Roseville,  CA","414",362,2,0,50,3,NA
+"273","Salem, OR","55",45,2,0,8,1,85
+"274","Salinas, CA","29",13,2,0,14,2,92
+"275","Salisbury, MD","33",19,0,0,14,1,67
+"276","Salt Lake City,  UT","375",170,4,3,198,13,100
+"277","San Angelo,  TX","18",18,0,0,0,0,100
+"278","San Antonio,  TX","754",641,4,52,57,3,100
+"279","San Diego-Carlsbad-San Marcos,  CA","331",171,4,4,152,2,100
+"280","San Francisco-Oakland-Fremont,  CA","537",259,6,16,256,4,100
+"281","San Jose-Sunnyvale-Santa Clara,  CA","178",100,0,4,74,9,100
+"282","San Luis Obispo-Paso Robles, CA","74",67,0,0,7,1,67
+"283","Sandusky, OH","0",0,0,0,0,0,0
+"284","Santa Barbara-Santa Maria, CA","11",11,0,0,0,0,71
+"285","Santa Cruz-Watsonville, CA","49",31,0,0,18,1,64
+"286","Santa Fe,  NM","13",13,0,0,0,0,100
+"287","Santa Rosa-Petaluma, CA","69",40,8,4,17,1,92
+"288","Savannah, GA","168",103,0,0,65,3,87
+"289","Scranton--Wilkes-Barre, PA","21",18,0,3,0,0,24
+"290","Seattle-Tacoma-Bellevue,  WA","1116",590,68,83,375,19,100
+"291","Sebastian-Vero Beach,  FL","59",59,0,0,0,0,100
+"292","Sheboygan, WI","11",6,0,0,5,1,47
+"293","Sherman-Denison, TX","0",0,0,0,0,0,2
+"294","Shreveport-Bossier City, LA","94",86,8,0,0,0,98
+"295","Sioux City, IA-NE-SD","13",13,0,0,0,0,96
+"296","Sioux Falls, SD","228",131,8,8,81,8,88
+"297","South Bend-Mishawaka, IN-MI","30",30,0,0,0,0,98
+"298","Spartanburg, SC","106",106,0,0,0,0,94
+"299","Spokane, WA","73",60,0,0,13,1,66
+"300","Springfield, IL","21",10,8,3,0,0,53
+"301","Springfield, MA","39",35,4,0,0,0,58
+"302","Springfield, MO","189",88,16,0,85,2,83
+"303","Springfield, OH","12",12,0,0,0,0,100
+"304","St. Cloud, MN","36",31,0,0,5,1,74
+"305","St. George, UT","63",60,0,3,0,0,96
+"306","St. Joseph, MO-KS","5",5,0,0,0,0,0
+"307","St. Louis,  MO-IL","534",460,10,30,34,5,100
+"308","State College, PA","30",30,0,0,0,0,62
+"309","Stockton,  CA","85",85,0,0,0,0,100
+"310","Sumter,  SC","57",31,2,0,24,1,100
+"311","Syracuse, NY","86",62,0,0,24,1,61
+"312","Tallahassee, FL","141",79,2,0,60,1,100
+"313","Tampa-St. Petersburg-Clearwater,  FL","570",518,10,30,12,2,NA
+"314","Texarkana, TX-Texarkana, AR","20",7,2,0,11,1,100
+"315","Toledo, OH","61",50,0,6,5,1,92
+"316","Topeka, KS","33",33,0,0,0,0,90
+"317","Trenton-Ewing,  NJ","48",32,2,0,14,1,100
+"318","Tucson,  AZ","282",266,4,3,9,1,100
+"319","Tulsa,  OK","256",256,0,0,0,0,100
+"320","Tuscaloosa, AL","42",42,0,0,0,0,93
+"321","Tyler, TX","22",15,0,0,7,1,79
+"322","Utica-Rome, NY","2",2,0,0,0,0,5
+"323","Valdosta, GA","64",51,2,0,11,2,87
+"324","Vallejo-Fairfield, CA","261",33,0,0,228,7,92
+"325","Victoria, TX","6",6,0,0,0,0,55
+"326","Vineland-Millville-Bridgeton,  NJ","40",35,0,0,5,1,100
+"327","Virginia Beach-Norfolk-Newport News,  VA-NC","345",255,6,0,84,8,NA
+"328","Waco, TX","84",34,2,0,48,1,77
+"329","Warner Robins, GA","52",52,0,0,0,0,82
+"330","Washington-Arlington-Alexandria,  DC-VA-MD-WV","1320",846,6,0,468,10,NA
+"331","Wausau, WI","82",14,0,0,68,1,74
+"332","Weirton-Steubenville, WV-OH","1",1,0,0,0,0,53
+"333","Wenatchee, WA","37",37,0,0,0,0,72
+"334","Wheeling, WV-OH","0",0,0,0,0,0,68
+"335","Wichita Falls, TX","8",8,0,0,0,0,89
+"336","Wichita, KS","152",126,4,0,22,2,88
+"337","Williamsport, PA","2",2,0,0,0,0,16
+"338","Wilmington,  NC","306",299,2,0,5,1,100
+"339","Winchester, VA-WV","44",44,0,0,0,0,84
+"340","Winston-Salem, NC","135",121,0,0,14,1,90
+"341","Worcester, MA","73",64,4,0,5,1,69
+"342","Yakima, WA","44",44,0,0,0,0,40
+"343","York-Hanover, PA","88",83,0,0,5,1,79
+"344","Youngstown-Warren-Boardman, OH-PA","45",29,2,4,10,2,96
+"345","Yuba City, CA","19",17,2,0,0,0,91
+"346","Yuma, AZ","52",50,2,0,0,0,72

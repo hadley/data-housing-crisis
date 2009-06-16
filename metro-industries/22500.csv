@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"22500","Florence, SC (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),5456,5603,5839,6011,6236,6535
+"22500","Florence, SC (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),4726,4826,5009,5137,5321,5585
+"22500","Florence, SC (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),62,11,64,54,25,37
+"22500","Florence, SC (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"22500","Florence, SC (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),277,266,259,251,273,285
+"22500","Florence, SC (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1553,1622,1672,1577,1682,1722
+"22500","Florence, SC (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),671,767,818,768,"(D)","(D)"
+"22500","Florence, SC (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),44,42,65,90,"(D)",109
+"22500","Florence, SC (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",28,"(D)","(D)"
+"22500","Florence, SC (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),86,98,99,"(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),160,154,145,173,178,134
+"22500","Florence, SC (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),187,246,296,131,"(D)","(D)"
+"22500","Florence, SC (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),6,12,15,17,"(D)",15
+"22500","Florence, SC (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),881,855,854,809,"(D)","(D)"
+"22500","Florence, SC (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",27
+"22500","Florence, SC (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)",8,"(D)",8,8,8
+"22500","Florence, SC (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",1,1,1
+"22500","Florence, SC (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),316,313,304,320,362,382
+"22500","Florence, SC (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),457,457,444,479,504,522
+"22500","Florence, SC (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),36,37,37,47,52,58
+"22500","Florence, SC (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"22500","Florence, SC (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),63,62,67,75,81,83
+"22500","Florence, SC (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(L)","(L)"
+"22500","Florence, SC (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"22500","Florence, SC (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),4,"(D)","(D)",9,9,9
+"22500","Florence, SC (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),102,104,110,109,119,134
+"22500","Florence, SC (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",33,36,38
+"22500","Florence, SC (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),414,462,471,528,512,560
+"22500","Florence, SC (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),220,"(D)","(D)",248,"(D)","(D)"
+"22500","Florence, SC (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",16
+"22500","Florence, SC (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),187,"(D)","(D)","(D)","(D)",277
+"22500","Florence, SC (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)",0,0,"(D)",0,"(D)"
+"22500","Florence, SC (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),172,170,193,217,161,177
+"22500","Florence, SC (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),153,141,"(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),18,29,"(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),171,173,171,182,196,210
+"22500","Florence, SC (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),13,13,26,31,36,39
+"22500","Florence, SC (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),79,96,119,128,134,146
+"22500","Florence, SC (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),70,87,109,117,123,134
+"22500","Florence, SC (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),9,9,10,10,10,11
+"22500","Florence, SC (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),276,283,299,297,312,329
+"22500","Florence, SC (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)",20,21,19,21,25
+"22500","Florence, SC (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),27,25,31,29,29,33
+"22500","Florence, SC (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),5,6,5,"(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),22,19,26,"(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),120,131,135,145,146,153
+"22500","Florence, SC (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),35,36,35,36,36,40
+"22500","Florence, SC (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),84,95,100,109,109,113
+"22500","Florence, SC (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),138,137,136,142,147,152
+"22500","Florence, SC (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),731,778,830,873,915,950
+"22500","Florence, SC (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),60,62,63,66,70,73
+"22500","Florence, SC (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),18,23,32,34,37,33
+"22500","Florence, SC (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),652,693,735,773,809,843
+"22500","Florence, SC (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),82,30,85,73,45,59
+"22500","Florence, SC (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),773,770,748,799,866,904
+"22500","Florence, SC (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),376,370,380,437,461,454
+"22500","Florence, SC (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),586,631,664,745,673,737
+"22500","Florence, SC (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),263,282,316,340,366,394
+"22500","Florence, SC (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),431,456,474,491,516,557
+"22500","Florence, SC (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),146,157,166,174,175,187
+"22500","Florence, SC (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),30,33,31,42,48,91
+"22500","Florence, SC (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),1893,1900,1996,1881,1979,2045
+"22500","Florence, SC (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),2832,2926,3013,3256,3342,3540
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"22500","Florence, SC (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.875,103.450,103.201,103.714,104.662
+"22500","Florence, SC (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.694,103.360,102.951,103.508,104.747
+"22500","Florence, SC (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,18.939,98.536,68.586,38.561,60.771
+"22500","Florence, SC (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,537.840,1022.793,2299.307,854.474,1444.742
+"22500","Florence, SC (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.801,84.968,75.907,75.188,71.358
+"22500","Florence, SC (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.607,108.736,101.032,104.349,101.899
+"22500","Florence, SC (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.721,121.718,109.243,"(D)","(D)"
+"22500","Florence, SC (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.109,143.845,171.725,"(D)",221.886
+"22500","Florence, SC (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.772,119.871,"(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.459,90.743,105.695,103.573,77.647
+"22500","Florence, SC (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,130.872,158.070,72.174,"(D)","(D)"
+"22500","Florence, SC (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,189.891,245.785,272.104,"(D)",256.997
+"22500","Florence, SC (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.627,98.767,94.826,"(D)","(D)"
+"22500","Florence, SC (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.697,94.422,94.161,102.961,104.944
+"22500","Florence, SC (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.213,94.961,101.706,108.438,113.093
+"22500","Florence, SC (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.463,97.755,119.572,116.589,146.190
+"22500","Florence, SC (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"22500","Florence, SC (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.245,102.191,110.789,116.717,116.606
+"22500","Florence, SC (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"22500","Florence, SC (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)",185.225,190.239,177.875
+"22500","Florence, SC (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.980,111.190,113.833,129.555,149.045
+"22500","Florence, SC (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.014,104.422,111.356,104.852,112.059
+"22500","Florence, SC (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)",102.370,"(D)","(D)"
+"22500","Florence, SC (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)",118.678
+"22500","Florence, SC (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.190,106.064,116.354,84.205,89.872
+"22500","Florence, SC (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.889,"(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,157.979,"(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.336,96.848,102.825,106.931,111.702
+"22500","Florence, SC (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.100,190.735,195.313,208.137,210.661
+"22500","Florence, SC (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,119.228,146.865,152.052,153.903,160.109
+"22500","Florence, SC (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,122.025,152.655,159.264,161.134,168.125
+"22500","Florence, SC (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.300,103.883,98.899,100.596,101.016
+"22500","Florence, SC (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.018,104.573,101.564,104.613,109.331
+"22500","Florence, SC (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.877,109.784,99.018,96.935,108.217
+"22500","Florence, SC (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,120.059,89.274,"(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,85.221,114.762,"(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.597,107.695,111.926,108.792,110.051
+"22500","Florence, SC (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.653,97.229,95.672,91.517,98.019
+"22500","Florence, SC (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.805,111.918,118.506,115.805,114.869
+"22500","Florence, SC (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.377,91.985,92.979,91.090,89.856
+"22500","Florence, SC (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.033,104.049,104.758,105.011,104.253
+"22500","Florence, SC (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.385,93.981,91.640,92.095,93.555
+"22500","Florence, SC (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.788,148.966,145.781,146.637,125.241
+"22500","Florence, SC (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.162,103.661,104.786,105.001,104.700
+"22500","Florence, SC (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,38.417,101.179,76.009,52.616,70.312
+"22500","Florence, SC (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.410,94.742,98.592,106.211,109.706
+"22500","Florence, SC (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.074,101.507,113.242,113.246,104.930
+"22500","Florence, SC (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.856,104.867,112.755,99.020,105.792
+"22500","Florence, SC (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.374,116.536,122.180,126.084,131.099
+"22500","Florence, SC (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.806,104.111,104.603,106.989,112.942
+"22500","Florence, SC (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.089,108.085,109.561,106.620,109.692
+"22500","Florence, SC (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.448,108.255,152.184,172.498,337.839
+"22500","Florence, SC (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.980,104.824,95.972,97.403,95.442
+"22500","Florence, SC (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.167,102.413,107.463,107.452,110.809
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"22500","Florence, SC (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5456,5504,5645,5631,5659,5711
+"22500","Florence, SC (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4726,4758,4884,4865,4891,4950
+"22500","Florence, SC (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),62,12,61,43,24,38
+"22500","Florence, SC (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"22500","Florence, SC (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),277,254,235,210,208,198
+"22500","Florence, SC (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1553,1624,1688,1569,1620,1582
+"22500","Florence, SC (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),671,763,817,733,"(D)","(D)"
+"22500","Florence, SC (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),44,42,63,75,"(D)",97
+"22500","Florence, SC (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",27,"(D)","(D)"
+"22500","Florence, SC (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),86,98,104,"(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),160,153,146,169,166,125
+"22500","Florence, SC (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),187,245,296,135,"(D)","(D)"
+"22500","Florence, SC (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,12,15,17,"(D)",16
+"22500","Florence, SC (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),881,860,870,836,"(D)","(D)"
+"22500","Florence, SC (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",28
+"22500","Florence, SC (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",8,"(D)",8,8,8
+"22500","Florence, SC (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",1,1,1
+"22500","Florence, SC (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),316,312,298,298,325,332
+"22500","Florence, SC (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),457,449,434,465,495,517
+"22500","Florence, SC (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),36,36,35,43,42,52
+"22500","Florence, SC (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"22500","Florence, SC (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),63,60,64,70,73,73
+"22500","Florence, SC (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(L)","(L)"
+"22500","Florence, SC (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"22500","Florence, SC (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,"(D)","(D)",8,9,8
+"22500","Florence, SC (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),102,106,114,116,132,152
+"22500","Florence, SC (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",35,39,41
+"22500","Florence, SC (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),414,443,433,461,434,464
+"22500","Florence, SC (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),220,"(D)","(D)",225,"(D)","(D)"
+"22500","Florence, SC (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",18
+"22500","Florence, SC (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),187,"(D)","(D)","(D)","(D)",222
+"22500","Florence, SC (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",0,0,"(D)",0,"(D)"
+"22500","Florence, SC (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),172,165,182,200,144,154
+"22500","Florence, SC (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),153,136,"(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),18,29,"(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),171,168,166,176,183,191
+"22500","Florence, SC (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,13,25,26,28,28
+"22500","Florence, SC (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),79,94,116,120,121,126
+"22500","Florence, SC (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),70,85,106,111,112,117
+"22500","Florence, SC (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9,9,10,9,9,9
+"22500","Florence, SC (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),276,279,289,281,289,302
+"22500","Florence, SC (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",20,20,18,21,24
+"22500","Florence, SC (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),27,25,29,27,26,29
+"22500","Florence, SC (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,6,5,"(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),22,19,25,"(D)","(D)","(D)"
+"22500","Florence, SC (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),120,126,129,134,130,132
+"22500","Florence, SC (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),35,36,34,34,32,35
+"22500","Florence, SC (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),84,90,94,100,97,97
+"22500","Florence, SC (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),138,131,127,128,125,124
+"22500","Florence, SC (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),731,746,760,765,767,762
+"22500","Florence, SC (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),60,58,57,55,55,56
+"22500","Florence, SC (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),18,21,27,27,27,23
+"22500","Florence, SC (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),652,666,676,683,685,683
+"22500","Florence, SC (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),82,31,83,62,43,57
+"22500","Florence, SC (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),773,761,732,762,821,848
+"22500","Florence, SC (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),376,372,381,425,425,394
+"22500","Florence, SC (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),586,608,614,660,580,620
+"22500","Florence, SC (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),263,275,307,322,332,345
+"22500","Florence, SC (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),431,443,448,451,461,486
+"22500","Florence, SC (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),146,151,158,160,156,161
+"22500","Florence, SC (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),30,33,32,45,51,100
+"22500","Florence, SC (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1893,1893,1985,1817,1844,1807
+"22500","Florence, SC (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2832,2865,2901,3044,3043,3138
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"22500","Florence, SC (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),28153,28261,28852,28703,28749,28881
+"22500","Florence, SC (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22500","Florence, SC (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

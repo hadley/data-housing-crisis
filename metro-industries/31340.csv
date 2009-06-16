@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"31340","Lynchburg, VA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),6238,6206,6431,6740,7218,7701
+"31340","Lynchburg, VA (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),5660,5601,5801,6063,6495,6939
+"31340","Lynchburg, VA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),10,9,13,19,16,8
+"31340","Lynchburg, VA (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)",1,"(L)","(L)"
+"31340","Lynchburg, VA (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,"(D)","(D)"
+"31340","Lynchburg, VA (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),2213,2042,2055,2067,2215,2343
+"31340","Lynchburg, VA (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),12,0,0,"(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",88,"(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),477,481,504,516,550,577
+"31340","Lynchburg, VA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),20,22,24,27,32,36
+"31340","Lynchburg, VA (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),0,"(L)","(L)","(L)","(L)","(L)"
+"31340","Lynchburg, VA (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",14
+"31340","Lynchburg, VA (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),86,83,94,94,101,111
+"31340","Lynchburg, VA (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),377,394,383,409,476,558
+"31340","Lynchburg, VA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),154,184,181,188,238,267
+"31340","Lynchburg, VA (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),457,452,473,510,550,591
+"31340","Lynchburg, VA (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),419,"(D)",427,"(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),39,"(D)",46,"(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",141,"(D)"
+"31340","Lynchburg, VA (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),203,213,226,245,261,276
+"31340","Lynchburg, VA (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),160,165,181,184,193,199
+"31340","Lynchburg, VA (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),579,605,631,678,723,763
+"31340","Lynchburg, VA (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),57,59,60,65,64,67
+"31340","Lynchburg, VA (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),17,21,30,36,37,34
+"31340","Lynchburg, VA (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),505,525,541,577,622,661
+"31340","Lynchburg, VA (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),36,32,40,50,46,42
+"31340","Lynchburg, VA (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),197,194,212,232,248,270
+"31340","Lynchburg, VA (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),834,845,856,920,1025,1150
+"31340","Lynchburg, VA (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),363,373,398,414,464,503
+"31340","Lynchburg, VA (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),532,580,629,670,710,745
+"31340","Lynchburg, VA (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),139,146,151,167,175,193
+"31340","Lynchburg, VA (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),342,160,126,108,90,89
+"31340","Lynchburg, VA (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),2550,2396,2427,2496,2649,2787
+"31340","Lynchburg, VA (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),3110,3205,3374,3567,3846,4151
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"31340","Lynchburg, VA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.564,99.953,102.092,106.019,110.123
+"31340","Lynchburg, VA (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.290,99.991,102.062,106.187,110.662
+"31340","Lynchburg, VA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.172,115.949,145.626,149.442,83.320
+"31340","Lynchburg, VA (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,121.575,153.237,299.433,83.979,88.063
+"31340","Lynchburg, VA (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,"(D)","(D)"
+"31340","Lynchburg, VA (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.341,94.659,95.184,99.451,103.849
+"31340","Lynchburg, VA (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,0.000,0.000,"(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.033,103.144,104.965,113.465,119.767
+"31340","Lynchburg, VA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.732,110.567,119.254,125.715,160.211
+"31340","Lynchburg, VA (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"31340","Lynchburg, VA (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.969,112.361,116.038,131.097,149.107
+"31340","Lynchburg, VA (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.889,94.636,96.428,109.257,125.561
+"31340","Lynchburg, VA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.159,109.505,110.802,136.901,147.662
+"31340","Lynchburg, VA (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.736,97.363,102.637,107.892,113.057
+"31340","Lynchburg, VA (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",95.753,"(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",115.401,"(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.632,107.530,114.083,119.360,124.880
+"31340","Lynchburg, VA (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.832,105.423,103.794,102.943,101.143
+"31340","Lynchburg, VA (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.207,99.678,102.440,104.607,105.457
+"31340","Lynchburg, VA (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.199,93.460,95.226,90.007,90.994
+"31340","Lynchburg, VA (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.754,149.325,165.961,158.766,137.744
+"31340","Lynchburg, VA (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.012,98.629,100.996,104.407,106.098
+"31340","Lynchburg, VA (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.192,108.457,124.002,118.811,104.308
+"31340","Lynchburg, VA (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.953,105.065,111.670,115.013,121.318
+"31340","Lynchburg, VA (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.066,96.116,99.797,108.543,118.836
+"31340","Lynchburg, VA (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.725,106.403,106.839,114.074,119.221
+"31340","Lynchburg, VA (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.483,110.255,112.983,115.849,118.030
+"31340","Lynchburg, VA (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.105,103.241,110.449,112.258,119.219
+"31340","Lynchburg, VA (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,51.663,45.856,43.522,39.296,42.404
+"31340","Lynchburg, VA (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.447,95.402,96.763,99.146,101.668
+"31340","Lynchburg, VA (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.405,103.699,106.324,111.802,117.803
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"31340","Lynchburg, VA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6238,6086,6235,6369,6614,6870
+"31340","Lynchburg, VA (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5660,5506,5659,5776,6010,6263
+"31340","Lynchburg, VA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,10,12,15,15,9
+"31340","Lynchburg, VA (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)",1,"(L)","(L)"
+"31340","Lynchburg, VA (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,"(D)","(D)"
+"31340","Lynchburg, VA (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2213,2044,2095,2106,2201,2298
+"31340","Lynchburg, VA (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),12,0,0,"(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",86,"(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),477,472,492,501,541,571
+"31340","Lynchburg, VA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),20,21,23,24,26,33
+"31340","Lynchburg, VA (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,"(L)","(L)","(L)","(L)","(L)"
+"31340","Lynchburg, VA (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",13
+"31340","Lynchburg, VA (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),86,84,97,100,113,128
+"31340","Lynchburg, VA (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),377,380,356,363,412,473
+"31340","Lynchburg, VA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),154,174,169,171,211,228
+"31340","Lynchburg, VA (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),457,438,445,469,493,517
+"31340","Lynchburg, VA (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),419,"(D)",401,"(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),39,"(D)",45,"(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",128,"(D)"
+"31340","Lynchburg, VA (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),203,210,218,232,242,253
+"31340","Lynchburg, VA (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),160,158,169,166,165,162
+"31340","Lynchburg, VA (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),579,580,577,593,605,610
+"31340","Lynchburg, VA (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),57,55,53,54,51,52
+"31340","Lynchburg, VA (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17,20,25,28,27,24
+"31340","Lynchburg, VA (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),505,505,498,510,527,536
+"31340","Lynchburg, VA (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),36,33,39,45,43,38
+"31340","Lynchburg, VA (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"31340","Lynchburg, VA (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),197,191,207,220,227,240
+"31340","Lynchburg, VA (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),834,818,801,832,905,991
+"31340","Lynchburg, VA (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),363,366,386,388,414,433
+"31340","Lynchburg, VA (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),532,556,586,601,616,628
+"31340","Lynchburg, VA (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),139,141,144,154,156,166
+"31340","Lynchburg, VA (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),342,177,157,149,134,145
+"31340","Lynchburg, VA (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2550,2383,2433,2467,2528,2593
+"31340","Lynchburg, VA (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3110,3122,3225,3306,3477,3663
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"31340","Lynchburg, VA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),27218,26506,26953,27339,27987,28562
+"31340","Lynchburg, VA (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"31340","Lynchburg, VA (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

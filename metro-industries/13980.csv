@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),3809,3841,4007,4136,4473,4702
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),2965,2964,3131,3200,3457,3616
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),15,9,8,18,20,14
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1193,1202,1236,1231,1355,1367
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),31,37,39,40,37,41
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,"(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,"(L)","(L)","(L)","(L)","(L)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),277,286,313,310,319,327
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(L)","(L)","(D)","(L)",1
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),13,14,15,18,23,25
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",1,1,1
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),1,"(L)","(L)","(L)","(L)",1
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),"(D)",54,58,57,62,61
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),81,95,94,98,113,132
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",70,68,67,78,94
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)",17,21,"(D)",22,23
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),0,"(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),348,284,286,282,300,316
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",152,"(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",27,"(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),64,"(D)","(D)",79,"(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),103,107,115,119,129,133
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),75,78,84,92,94,101
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),"(D)",96,103,114,114,119
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),845,877,877,936,1016,1086
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),34,37,38,41,41,43
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),16,19,26,27,29,28
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),794,821,813,868,946,1015
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),23,17,15,25,28,22
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),134,124,146,164,175,208
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),430,379,381,380,413,448
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),201,227,245,259,270,307
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),216,230,249,265,280,290
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),105,111,117,127,133,141
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),65,58,62,64,62,61
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),1341,1353,1408,1407,1558,1573
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),1624,1612,1723,1793,1898,2043
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.245,101.890,103.056,109.538,113.213
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.118,103.903,104.739,112.055,116.215
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,68.271,50.650,94.415,128.919,93.993
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,9.559,34.570,57.512,28.845,36.660
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,3808.424,6154.710,9665.030,6923.600,6570.848
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.456,106.133,106.837,119.843,124.234
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,118.853,127.332,127.128,112.196,124.000
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,"(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.266,110.363,108.631,113.193,116.994
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.691,110.369,128.585,140.534,179.083
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,33.242,36.374,58.266,97.173,114.167
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.944,108.624,108.985,123.347,139.972
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,"(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,78.856,77.365,74.512,77.345,79.277
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)",117.494,"(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.162,107.396,108.875,115.979,117.662
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.863,105.902,112.800,112.906,115.874
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.680,95.187,97.413,101.255,103.443
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.098,98.010,99.516,94.753,95.870
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.808,134.957,131.817,132.394,118.232
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.451,94.207,96.587,100.903,103.528
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,74.452,63.279,88.294,108.310,86.478
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.369,108.222,117.067,118.519,133.981
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,85.137,83.298,81.060,86.098,90.840
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.391,119.362,123.547,124.318,137.174
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.410,107.834,111.199,113.898,114.963
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.309,106.152,112.008,113.048,115.386
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.310,103.708,111.434,112.126,110.785
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.957,106.200,105.984,118.292,120.824
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.815,102.026,103.677,107.199,112.535
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3809,3780,3881,3926,4172,4312
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2965,2938,3080,3105,3322,3445
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15,10,8,14,19,14
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1193,1222,1266,1275,1430,1482
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),31,36,39,39,34,38
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,"(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,"(L)","(L)","(L)","(L)","(L)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),277,280,306,301,313,324
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(L)","(L)","(D)","(L)",1
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,13,14,17,18,23
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",1,1,1
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,"(L)","(L)","(L)","(L)",1
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",55,60,61,69,70
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),81,91,88,89,100,114
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",66,64,61,69,80
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",17,19,"(D)",18,19
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,"(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),348,275,269,259,269,276
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",151,"(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",23,"(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),64,"(D)","(D)",75,"(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),103,106,111,113,120,122
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),75,74,79,84,84,86
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",92,96,103,97,97
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),845,842,804,823,855,874
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),34,34,34,34,33,33
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),16,18,22,21,21,19
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),794,790,748,767,801,822
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,17,15,21,25,20
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),134,124,145,157,159,179
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),430,366,358,348,370,390
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),201,222,240,249,250,276
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),216,222,233,241,246,249
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),105,106,111,117,118,121
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),65,60,67,72,72,71
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1341,1367,1424,1421,1586,1620
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1624,1572,1656,1683,1740,1827
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),24881,24757,25366,25591,26971,27609
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"13980","Blacksburg-Christiansburg-Radford, VA (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce
