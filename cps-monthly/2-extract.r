@@ -15,7 +15,10 @@ parse_line <- function(line, fields) {
 
 parse_year <- function(year, month) {
   path <- paste("raw/", year, "-", sprintf("%02i", month), ".txt.gz", sep = "")
+  out_path <- paste("clean/", year, "-", sprintf("%02i", month), ".csv.gz", sep = "")
+  
   if (!file.exists(path)) return() # Skip if file doesn't exist
+  if (file.exists(out_path)) return() # Skip if already processed
   
   message("Processing ", path)
   lines <- readLines(gzfile(path))
@@ -31,7 +34,6 @@ parse_year <- function(year, month) {
   outdf$month <- month
 
   # Save as compressed csv file
-  out_path <- paste("clean/", year, "-", sprintf("%02i", month), ".csv.gz", sep = "")
   write.table(outdf, gzfile(out_path), sep = ",", row = F)
   closeAllConnections()
 }
