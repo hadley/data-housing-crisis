@@ -62,6 +62,7 @@
 "Chattanooga","TN-GA",238,226,6,0,6,1
 "Cheyenne","WY",55,40,0,3,12,1
 "Chicago-Naperville-Joliet","IL-IN-WI",3323,1902,66,91,1264,45
+"Chico","CA",74,53,0,21,0,0
 "Cincinnati-Middletown","OH-KY-IN",795,612,6,21,156,18
 "Clarksville","TN-KY",216,158,16,20,22,4
 "Cleveland","TN",41,36,2,3,0,0
@@ -82,6 +83,7 @@
 "Danville","IL",0,0,0,0,0,0
 "Danville","VA",16,16,0,0,0,0
 "Davenport-Moline-Rock Island","IA-IL",80,48,0,0,32,4
+"Dayton","OH",126,126,0,0,0,0
 "Decatur","AL",20,20,0,0,0,0
 "Decatur","IL",0,0,0,0,0,0
 "Deltona-Daytona Beach-Ormond Beach","FL",311,246,12,4,49,6
@@ -259,6 +261,7 @@
 "Port St. Lucie","FL",271,238,0,8,25,1
 "Portland-South Portland-Biddeford","ME",163,141,10,7,5,1
 "Portland-Vancouver-Beaverton","OR-WA",1356,928,28,44,356,15
+"Poughkeepsie-Newburgh-Middletown","NY",95,62,2,0,31,3
 "Prescott","AZ",120,118,2,0,0,0
 "Providence-New Bedford-Fall River","RI-MA",233,194,26,8,5,1
 "Provo-Orem","UT",463,406,6,35,16,3
@@ -322,7 +325,8 @@
 "Syracuse","NY",66,52,0,0,14,2
 "Tallahassee","FL",314,207,4,20,83,4
 "Tampa-St. Petersburg-Clearwater","FL",1589,833,26,35,695,40
-"Texarkana","TX-TexarkanaAR",17,17,0,0,0,0
+"Terre Haute","IN",48,31,2,0,15,2
+"Texarkana","TX-Texarkana",17,17,0,0,0,0
 "Toledo","OH",96,86,2,0,8,1
 "Topeka","KS",187,70,2,0,115,4
 "Trenton-Ewing","NJ",40,40,0,0,0,0

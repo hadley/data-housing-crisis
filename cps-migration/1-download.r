@@ -1,5 +1,6 @@
 # Download each file and save with nice name
 
+dir.create("raw") 
 base_url <- "ftp://www.bls.census.gov/pub/cps/march/"
 path <- c(
   "2008" = "asec2008_pubuse.dat.gz", 
@@ -14,7 +15,7 @@ path <- c(
   
 
 url <- paste(base_url, path, sep = "")
-destfile <- paste("march-supplement/", names(path), ".txt.gz", sep = "")
+destfile <- paste("raw/", names(path), ".txt.gz", sep = "")
 
 library(plyr)
 m_ply(cbind(url, destfile), download.file)

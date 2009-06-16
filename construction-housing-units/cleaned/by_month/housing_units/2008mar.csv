@@ -58,10 +58,12 @@
 "Champaign-Urbana","IL",35,27,0,0,8,1,66
 "Charleston","WV",13,13,0,0,0,0,43
 "Charleston-North Charleston-Summerville","SC",667,357,6,0,304,14,100
+"Charlotte-Gastonia-Concord","NC-SC",834,662,4,0,168,16,100
 "Charlottesville","VA",58,58,0,0,0,0,66
 "Chattanooga","TN-GA",138,121,2,0,15,1,82
 "Cheyenne","WY",17,15,2,0,0,0,100
 "Chicago-Naperville-Joliet","IL-IN-WI",1424,718,16,40,650,24,100
+"Chico","CA",42,42,0,0,0,0,89
 "Cincinnati-Middletown","OH-KY-IN",412,339,10,7,56,9,100
 "Clarksville","TN-KY",273,79,2,0,192,14,54
 "Cleveland","TN",36,26,2,8,0,0,81
@@ -82,9 +84,11 @@
 "Danville","IL",0,0,0,0,0,0,11
 "Danville","VA",13,8,0,0,5,1,81
 "Davenport-Moline-Rock Island","IA-IL",43,27,0,16,0,0,18
+"Dayton","OH",75,70,0,0,5,1,83
 "Decatur","AL",15,15,0,0,0,0,77
 "Decatur","IL",8,8,0,0,0,0,67
 "Deltona-Daytona Beach-Ormond Beach","FL",163,134,0,0,29,2,100
+"Denver-Aurora","CO",731,394,0,0,337,4,100
 "Des Moines-West Des Moines","IA",206,182,0,0,24,1,100
 "Detroit-Warren-Livonia","MI",180,131,8,29,12,2,100
 "Dothan","AL",24,24,0,0,0,0,87
@@ -194,6 +198,7 @@
 "Longview","TX",26,12,0,0,14,1,78
 "Longview","WA",14,14,0,0,0,0,77
 "Los Angeles-Long Beach-Santa Ana","CA",681,347,44,9,281,29,100
+"Louisville-Jefferson County","KY-IN",266,258,0,0,8,1,100
 "Lubbock","TX",77,77,0,0,0,0,92
 "Lynchburg","VA",54,54,0,0,0,0,81
 "Macon","GA",18,18,0,0,0,0,50
@@ -206,9 +211,11 @@
 "Memphis","TN-MS-AR",352,313,0,6,33,2,100
 "Merced","CA",16,16,0,0,0,0,85
 "Miami-Fort Lauderdale-Miami Beach","FL",980,354,16,10,600,23,100
+"Michigan City-La Porte","IN",9,9,0,0,0,0,69
 "Midland","TX",64,64,0,0,0,0,100
 "Milwaukee-Waukesha-West Allis","WI",152,111,4,11,26,3,100
 "Minneapolis-St. Paul-Bloomington","MN-WI",501,271,4,6,220,4,100
+"Missoula","MT",57,55,2,0,0,0,100
 "Mobile","AL",154,154,0,0,0,0,98
 "Modesto","CA",29,29,0,0,0,0,92
 "Monroe","LA",27,20,0,0,7,1,68
@@ -223,8 +230,10 @@
 "Napa","CA",11,11,0,0,0,0,86
 "Naples-Marco Island","FL",39,35,0,4,0,0,100
 "Nashville-Davidson--Murfreesboro","TN",674,536,16,0,122,4,100
+"New Haven-Milford","CT",56,43,0,0,13,1,87
 "New Orleans-Metairie-Kenner","LA",434,308,40,0,86,12,100
 "New York-Northern New Jersey-Long Island","NY-NJ-PA",2788,763,262,194,1569,88,100
+"Niles-Benton Harbor","MI",2,2,0,0,0,0,38
 "Norwich-New London","CT",35,33,2,0,0,0,87
 "Ocala","FL",127,123,4,0,0,0,100
 "Ocean City","NJ",46,44,2,0,0,0,100
@@ -245,6 +254,7 @@
 "Pensacola-Ferry Pass-Brent","FL",131,115,16,0,0,0,100
 "Peoria","IL",43,43,0,0,0,0,50
 "Philadelphia-Camden-Wilmington","PA-NJ-DE-MD",1023,551,6,10,456,30,100
+"Phoenix-Mesa-Scottsdale","AZ",1551,1180,0,23,348,20,100
 "Pine Bluff","AR",10,10,0,0,0,0,88
 "Pittsburgh","PA",343,260,2,0,81,7,100
 "Pittsfield","MA",1,1,0,0,0,0,9
@@ -252,6 +262,7 @@
 "Port St. Lucie","FL",121,98,0,0,23,2,100
 "Portland-South Portland-Biddeford","ME",85,73,4,3,5,1,88
 "Portland-Vancouver-Beaverton","OR-WA",778,368,14,0,396,10,100
+"Poughkeepsie-Newburgh-Middletown","NY",54,47,0,0,7,1,60
 "Prescott","AZ",93,47,0,0,46,1,87
 "Providence-New Bedford-Fall River","RI-MA",136,90,22,24,0,0,83
 "Provo-Orem","UT",158,112,0,8,38,3,98
@@ -265,12 +276,14 @@
 "Reno-Sparks","NV",98,84,0,4,10,1,100
 "Richmond","VA",714,450,2,0,262,18,100
 "Riverside-San Bernardino-Ontario","CA",714,639,8,3,64,9,100
+"Roanoke","VA",58,58,0,0,0,0,96
 "Rochester","MN",34,24,0,0,10,1,89
 "Rochester","NY",71,67,0,4,0,0,62
 "Rockford","IL",19,19,0,0,0,0,97
 "Rocky Mount","NC",38,36,2,0,0,0,94
 "Rome","GA",8,8,0,0,0,0,100
 "Sacramento--Arden-Arcade--Roseville","CA",307,271,0,0,36,6,100
+"Saginaw-Saginaw Township North","MI",2,2,0,0,0,0,49
 "Salem","OR",75,69,6,0,0,0,74
 "Salinas","CA",76,32,0,44,0,0,74
 "Salisbury","MD",33,18,0,0,15,1,80
@@ -312,7 +325,8 @@
 "Syracuse","NY",42,42,0,0,0,0,63
 "Tallahassee","FL",136,98,0,3,35,2,100
 "Tampa-St. Petersburg-Clearwater","FL",428,337,12,21,58,9,100
-"Texarkana","TX-TexarkanaAR",8,8,0,0,0,0,100
+"Terre Haute","IN",12,7,0,0,5,1,79
+"Texarkana","TX-Texarkana",8,8,0,0,0,0,100
 "Toledo","OH",57,53,4,0,0,0,88
 "Topeka","KS",37,37,0,0,0,0,86
 "Trenton-Ewing","NJ",101,41,0,0,60,1,100
@@ -326,9 +340,11 @@
 "Victoria","TX",6,6,0,0,0,0,60
 "Vineland-Millville-Bridgeton","NJ",33,33,0,0,0,0,100
 "Virginia Beach-Norfolk-Newport News","VA-NC",405,293,12,4,96,4,100
+"Visalia-Porterville","CA",100,100,0,0,0,0,93
 "Waco","TX",29,27,2,0,0,0,69
 "Warner Robins","GA",41,41,0,0,0,0,70
 "Washington-Arlington-Alexandria","DC-VA-MD-WV",1336,837,12,0,487,10,100
+"Waterloo-Cedar Falls","IA",23,18,0,0,5,1,81
 "Wausau","WI",24,10,2,0,12,1,67
 "Weirton-Steubenville","WV-OH",3,3,0,0,0,0,0
 "Wenatchee","WA",23,23,0,0,0,0,70
