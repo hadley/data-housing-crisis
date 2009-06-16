@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"35300","New Haven-Milford, CT (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),29048,30209,30764,33107,34246,36070
+"35300","New Haven-Milford, CT (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),26107,27135,27632,29772,30792,32472
+"35300","New Haven-Milford, CT (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),39,39,42,47,48,"(D)"
+"35300","New Haven-Milford, CT (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),26,28,33,40,42,46
+"35300","New Haven-Milford, CT (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),13,11,9,7,6,"(D)"
+"35300","New Haven-Milford, CT (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),21,22,23,23,28,"(D)"
+"35300","New Haven-Milford, CT (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,"(L)","(L)","(L)"
+"35300","New Haven-Milford, CT (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",28,"(D)"
+"35300","New Haven-Milford, CT (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(L)","(L)"
+"35300","New Haven-Milford, CT (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),249,273,303,334,369,429
+"35300","New Haven-Milford, CT (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),1211,1239,1185,1318,1429,1461
+"35300","New Haven-Milford, CT (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),4002,3961,3446,4085,4245,4670
+"35300","New Haven-Milford, CT (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),2715,2472,2256,2496,2636,2736
+"35300","New Haven-Milford, CT (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),20,26,24,23,22,19
+"35300","New Haven-Milford, CT (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),84,70,58,62,62,55
+"35300","New Haven-Milford, CT (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),219,214,115,233,203,261
+"35300","New Haven-Milford, CT (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),626,650,625,707,758,765
+"35300","New Haven-Milford, CT (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),342,269,248,221,273,252
+"35300","New Haven-Milford, CT (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),330,248,221,220,232,252
+"35300","New Haven-Milford, CT (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),217,224,193,198,212,212
+"35300","New Haven-Milford, CT (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),40,36,31,27,25,34
+"35300","New Haven-Milford, CT (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),454,336,361,410,472,438
+"35300","New Haven-Milford, CT (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),1286,1489,1190,1589,1609,1935
+"35300","New Haven-Milford, CT (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",238,"(D)","(D)",246,"(D)"
+"35300","New Haven-Milford, CT (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),18,"(D)",24,27,"(D)",36
+"35300","New Haven-Milford, CT (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),104,101,124,119,108,96
+"35300","New Haven-Milford, CT (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),120,119,131,138,135,147
+"35300","New Haven-Milford, CT (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),8,17,22,27,19,17
+"35300","New Haven-Milford, CT (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),654,831,523,935,926,1239
+"35300","New Haven-Milford, CT (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),145,152,136,126,123,135
+"35300","New Haven-Milford, CT (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),2011,1990,2078,2272,2395,2553
+"35300","New Haven-Milford, CT (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),2183,2287,2262,2315,2320,2361
+"35300","New Haven-Milford, CT (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),507,498,609,642,669,644
+"35300","New Haven-Milford, CT (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),27,19,30,24,26,35
+"35300","New Haven-Milford, CT (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",13
+"35300","New Haven-Milford, CT (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),172,168,164,186,198,185
+"35300","New Haven-Milford, CT (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),128,134,134,145,143,144
+"35300","New Haven-Milford, CT (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),4,"(D)","(D)","(D)","(D)",1
+"35300","New Haven-Milford, CT (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),56,64,130,127,137,107
+"35300","New Haven-Milford, CT (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),1737,1712,1721,1673,1860,1866
+"35300","New Haven-Milford, CT (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),274,254,245,266,266,262
+"35300","New Haven-Milford, CT (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),23,22,19,19,20,19
+"35300","New Haven-Milford, CT (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),1359,1320,1362,1290,1446,1448
+"35300","New Haven-Milford, CT (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),80,116,95,98,129,136
+"35300","New Haven-Milford, CT (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),1888,1975,2092,2244,2400,2590
+"35300","New Haven-Milford, CT (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),654,809,879,913,1040,1132
+"35300","New Haven-Milford, CT (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),216,190,208,210,211,227
+"35300","New Haven-Milford, CT (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),1001,957,979,1091,1116,1201
+"35300","New Haven-Milford, CT (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),17,18,25,29,32,30
+"35300","New Haven-Milford, CT (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),3301,3629,3726,4190,3989,4231
+"35300","New Haven-Milford, CT (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),2980,3317,3453,3918,3723,3918
+"35300","New Haven-Milford, CT (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),322,312,273,271,266,314
+"35300","New Haven-Milford, CT (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),2125,2205,2307,2463,2495,2629
+"35300","New Haven-Milford, CT (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),466,487,589,537,573,540
+"35300","New Haven-Milford, CT (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),728,776,831,858,934,997
+"35300","New Haven-Milford, CT (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),615,658,701,741,806,853
+"35300","New Haven-Milford, CT (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),113,118,130,117,128,145
+"35300","New Haven-Milford, CT (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),1168,1301,1415,1498,1527,1625
+"35300","New Haven-Milford, CT (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),2946,3151,3353,3541,3704,3910
+"35300","New Haven-Milford, CT (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),1404,1497,1579,1664,1744,1847
+"35300","New Haven-Milford, CT (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),1310,1397,1507,1589,1652,1728
+"35300","New Haven-Milford, CT (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),232,256,268,287,308,336
+"35300","New Haven-Milford, CT (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),208,205,226,236,236,243
+"35300","New Haven-Milford, CT (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),71,55,55,61,63,63
+"35300","New Haven-Milford, CT (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),137,150,171,175,173,180
+"35300","New Haven-Milford, CT (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),560,603,617,666,698,744
+"35300","New Haven-Milford, CT (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),86,81,77,88,97,102
+"35300","New Haven-Milford, CT (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),474,522,540,578,602,642
+"35300","New Haven-Milford, CT (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),757,782,808,830,871,899
+"35300","New Haven-Milford, CT (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),2941,3074,3131,3335,3454,3598
+"35300","New Haven-Milford, CT (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),553,571,584,618,607,621
+"35300","New Haven-Milford, CT (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),49,61,82,82,84,82
+"35300","New Haven-Milford, CT (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),2339,2443,2465,2636,2763,2895
+"35300","New Haven-Milford, CT (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),60,61,66,69,76,82
+"35300","New Haven-Milford, CT (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),4194,4277,4340,4587,4715,4913
+"35300","New Haven-Milford, CT (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),757,771,912,977,1038,1073
+"35300","New Haven-Milford, CT (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),5190,5604,5818,6433,6389,6821
+"35300","New Haven-Milford, CT (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),3319,3468,3726,3859,4003,4166
+"35300","New Haven-Milford, CT (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),4114,4452,4768,5039,5232,5535
+"35300","New Haven-Milford, CT (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),767,807,843,902,935,987
+"35300","New Haven-Milford, CT (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),5260,5250,4688,5464,5744,6206
+"35300","New Haven-Milford, CT (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),20847,21884,22945,24308,25048,26266
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"35300","New Haven-Milford, CT (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.649,101.621,106.246,106.851,109.309
+"35300","New Haven-Milford, CT (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.837,102.131,107.117,107.897,110.696
+"35300","New Haven-Milford, CT (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.703,105.422,99.966,119.553,"(D)"
+"35300","New Haven-Milford, CT (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,119.832,124.233,122.394,156.157,180.114
+"35300","New Haven-Milford, CT (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,84.554,69.195,55.317,44.672,"(D)"
+"35300","New Haven-Milford, CT (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.580,101.010,87.632,95.675,"(D)"
+"35300","New Haven-Milford, CT (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"35300","New Haven-Milford, CT (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.481,124.475,133.102,138.429,143.446
+"35300","New Haven-Milford, CT (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.658,88.921,91.196,90.114,83.512
+"35300","New Haven-Milford, CT (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.566,87.349,103.131,104.104,111.918
+"35300","New Haven-Milford, CT (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.914,85.724,94.516,98.345,101.061
+"35300","New Haven-Milford, CT (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,130.327,112.890,94.448,91.076,84.956
+"35300","New Haven-Milford, CT (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,81.279,68.554,70.762,66.410,52.131
+"35300","New Haven-Milford, CT (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.841,54.986,90.548,68.875,73.406
+"35300","New Haven-Milford, CT (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.248,100.438,110.861,113.176,113.530
+"35300","New Haven-Milford, CT (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,78.171,72.512,66.706,80.519,73.695
+"35300","New Haven-Milford, CT (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,84.620,87.204,99.718,120.145,150.726
+"35300","New Haven-Milford, CT (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.279,92.918,94.529,99.211,92.839
+"35300","New Haven-Milford, CT (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,89.742,76.490,69.920,61.864,82.812
+"35300","New Haven-Milford, CT (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,72.032,77.425,89.588,104.272,97.536
+"35300","New Haven-Milford, CT (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.609,91.014,120.933,116.284,133.904
+"35300","New Haven-Milford, CT (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",143.978,159.779,"(D)",211.315
+"35300","New Haven-Milford, CT (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.168,123.086,121.632,109.459,91.901
+"35300","New Haven-Milford, CT (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.342,108.205,115.837,113.843,122.358
+"35300","New Haven-Milford, CT (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,397.982,314.461,344.969,150.688,114.903
+"35300","New Haven-Milford, CT (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,127.559,77.553,134.953,124.312,157.376
+"35300","New Haven-Milford, CT (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.521,94.681,90.845,87.197,85.191
+"35300","New Haven-Milford, CT (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.575,101.558,105.127,107.006,110.154
+"35300","New Haven-Milford, CT (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.909,101.262,102.846,104.561,107.054
+"35300","New Haven-Milford, CT (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.275,114.553,118.367,122.195,114.399
+"35300","New Haven-Milford, CT (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,79.701,125.962,120.278,150.364,190.132
+"35300","New Haven-Milford, CT (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.115,91.677,100.677,104.498,94.842
+"35300","New Haven-Milford, CT (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.836,97.668,103.814,100.103,97.984
+"35300","New Haven-Milford, CT (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)",21.919
+"35300","New Haven-Milford, CT (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.241,227.770,212.250,229.545,176.094
+"35300","New Haven-Milford, CT (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.196,102.229,102.587,119.778,123.628
+"35300","New Haven-Milford, CT (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.205,91.874,103.677,103.883,101.474
+"35300","New Haven-Milford, CT (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.296,84.880,81.246,81.543,76.410
+"35300","New Haven-Milford, CT (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.527,103.951,101.584,121.002,125.409
+"35300","New Haven-Milford, CT (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,140.456,114.722,122.680,165.706,185.067
+"35300","New Haven-Milford, CT (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.315,103.751,106.122,110.700,117.318
+"35300","New Haven-Milford, CT (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,117.663,125.395,126.858,141.282,147.522
+"35300","New Haven-Milford, CT (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.622,107.434,106.938,108.845,121.543
+"35300","New Haven-Milford, CT (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.683,88.171,91.403,90.225,96.078
+"35300","New Haven-Milford, CT (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.984,156.547,170.486,191.837,197.625
+"35300","New Haven-Milford, CT (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.551,106.298,116.746,108.565,112.127
+"35300","New Haven-Milford, CT (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.447,108.872,120.744,112.241,114.921
+"35300","New Haven-Milford, CT (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.065,81.715,78.676,73.551,85.208
+"35300","New Haven-Milford, CT (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.864,106.848,114.143,112.604,115.818
+"35300","New Haven-Milford, CT (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.053,121.562,98.166,94.074,83.922
+"35300","New Haven-Milford, CT (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.008,110.774,110.282,116.381,118.574
+"35300","New Haven-Milford, CT (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.697,111.212,114.080,119.159,120.763
+"35300","New Haven-Milford, CT (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.285,108.380,90.641,102.053,107.386
+"35300","New Haven-Milford, CT (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.238,109.374,109.209,105.523,106.962
+"35300","New Haven-Milford, CT (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.239,106.995,109.402,111.271,114.554
+"35300","New Haven-Milford, CT (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.110,108.814,112.140,115.259,120.709
+"35300","New Haven-Milford, CT (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.300,104.014,104.554,104.214,104.579
+"35300","New Haven-Milford, CT (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.905,113.209,121.605,130.009,139.153
+"35300","New Haven-Milford, CT (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.306,102.824,104.565,102.010,101.506
+"35300","New Haven-Milford, CT (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,74.485,72.671,76.926,76.397,72.694
+"35300","New Haven-Milford, CT (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.088,118.481,118.874,115.234,116.510
+"35300","New Haven-Milford, CT (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.731,104.210,109.581,111.222,113.659
+"35300","New Haven-Milford, CT (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.783,88.363,96.205,100.419,103.237
+"35300","New Haven-Milford, CT (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.308,106.976,111.914,113.092,115.459
+"35300","New Haven-Milford, CT (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.132,99.502,99.148,98.279,96.776
+"35300","New Haven-Milford, CT (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.999,97.223,98.843,98.015,97.712
+"35300","New Haven-Milford, CT (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.908,94.102,92.794,87.426,85.938
+"35300","New Haven-Milford, CT (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.647,144.060,133.999,127.229,117.722
+"35300","New Haven-Milford, CT (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.407,96.949,99.561,100.013,100.229
+"35300","New Haven-Milford, CT (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.594,103.842,95.533,110.715,116.897
+"35300","New Haven-Milford, CT (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.838,101.399,103.945,105.740,108.564
+"35300","New Haven-Milford, CT (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.221,117.841,123.179,127.493,124.023
+"35300","New Haven-Milford, CT (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.646,105.374,112.851,109.401,114.096
+"35300","New Haven-Milford, CT (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.641,109.780,110.742,110.486,111.206
+"35300","New Haven-Milford, CT (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.526,107.683,109.332,109.532,112.253
+"35300","New Haven-Milford, CT (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.730,103.837,108.225,108.732,110.379
+"35300","New Haven-Milford, CT (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.200,87.984,100.051,100.679,104.401
+"35300","New Haven-Milford, CT (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.497,105.630,108.884,109.703,112.269
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"35300","New Haven-Milford, CT (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),29048,29527,29518,30862,31038,31752
+"35300","New Haven-Milford, CT (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),26107,26586,26663,27965,28168,28899
+"35300","New Haven-Milford, CT (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),39,42,41,39,46,"(D)"
+"35300","New Haven-Milford, CT (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),26,31,32,32,40,46
+"35300","New Haven-Milford, CT (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,11,9,7,6,"(D)"
+"35300","New Haven-Milford, CT (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),21,21,21,19,20,"(D)"
+"35300","New Haven-Milford, CT (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,"(L)","(L)","(L)"
+"35300","New Haven-Milford, CT (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",20,"(D)"
+"35300","New Haven-Milford, CT (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(L)","(L)"
+"35300","New Haven-Milford, CT (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),249,278,310,332,345,357
+"35300","New Haven-Milford, CT (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1211,1183,1077,1105,1091,1011
+"35300","New Haven-Milford, CT (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4002,3985,3496,4127,4166,4479
+"35300","New Haven-Milford, CT (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2715,2496,2328,2567,2670,2744
+"35300","New Haven-Milford, CT (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),20,26,23,19,18,17
+"35300","New Haven-Milford, CT (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),84,69,58,60,56,44
+"35300","New Haven-Milford, CT (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),219,215,121,199,151,161
+"35300","New Haven-Milford, CT (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),626,646,629,694,709,711
+"35300","New Haven-Milford, CT (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),342,267,248,228,275,252
+"35300","New Haven-Milford, CT (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),330,279,287,329,396,497
+"35300","New Haven-Milford, CT (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),217,228,201,205,215,201
+"35300","New Haven-Milford, CT (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),40,36,30,28,25,33
+"35300","New Haven-Milford, CT (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),454,327,351,407,473,443
+"35300","New Haven-Milford, CT (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1286,1487,1171,1556,1496,1723
+"35300","New Haven-Milford, CT (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",227,"(D)","(D)",241,"(D)"
+"35300","New Haven-Milford, CT (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),18,"(D)",26,28,"(D)",37
+"35300","New Haven-Milford, CT (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),104,102,128,127,114,96
+"35300","New Haven-Milford, CT (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),120,117,130,139,137,147
+"35300","New Haven-Milford, CT (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,30,24,26,11,9
+"35300","New Haven-Milford, CT (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),654,834,507,882,813,1029
+"35300","New Haven-Milford, CT (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),145,150,138,132,127,124
+"35300","New Haven-Milford, CT (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2011,1983,2043,2114,2152,2215
+"35300","New Haven-Milford, CT (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2183,2246,2210,2245,2282,2336
+"35300","New Haven-Milford, CT (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),507,488,581,601,620,580
+"35300","New Haven-Milford, CT (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),27,21,34,32,40,51
+"35300","New Haven-Milford, CT (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",9
+"35300","New Haven-Milford, CT (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),172,163,157,173,179,163
+"35300","New Haven-Milford, CT (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),128,130,125,132,128,125
+"35300","New Haven-Milford, CT (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,"(D)","(D)","(D)","(D)",1
+"35300","New Haven-Milford, CT (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),56,62,127,118,128,98
+"35300","New Haven-Milford, CT (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1737,1740,1775,1781,2080,2147
+"35300","New Haven-Milford, CT (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),274,253,252,284,285,278
+"35300","New Haven-Milford, CT (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,21,19,18,19,17
+"35300","New Haven-Milford, CT (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1359,1353,1413,1381,1645,1705
+"35300","New Haven-Milford, CT (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),80,113,92,99,133,149
+"35300","New Haven-Milford, CT (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1888,1913,1959,2004,2090,2215
+"35300","New Haven-Milford, CT (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),654,769,820,829,924,965
+"35300","New Haven-Milford, CT (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),216,198,233,231,236,263
+"35300","New Haven-Milford, CT (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1001,928,882,915,903,962
+"35300","New Haven-Milford, CT (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17,16,27,30,33,34
+"35300","New Haven-Milford, CT (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3301,3518,3509,3854,3584,3702
+"35300","New Haven-Milford, CT (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2980,3201,3244,3598,3344,3424
+"35300","New Haven-Milford, CT (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),322,316,263,253,237,274
+"35300","New Haven-Milford, CT (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2125,2165,2271,2426,2393,2462
+"35300","New Haven-Milford, CT (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),466,485,567,458,438,391
+"35300","New Haven-Milford, CT (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),728,757,806,803,847,863
+"35300","New Haven-Milford, CT (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),615,644,684,702,733,743
+"35300","New Haven-Milford, CT (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),113,113,122,102,115,121
+"35300","New Haven-Milford, CT (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1168,1218,1278,1276,1233,1249
+"35300","New Haven-Milford, CT (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2946,3041,3152,3222,3278,3374
+"35300","New Haven-Milford, CT (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1404,1475,1527,1574,1618,1694
+"35300","New Haven-Milford, CT (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1310,1314,1363,1370,1365,1370
+"35300","New Haven-Milford, CT (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),232,253,263,282,302,323
+"35300","New Haven-Milford, CT (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),208,198,214,217,212,211
+"35300","New Haven-Milford, CT (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),71,53,51,55,54,52
+"35300","New Haven-Milford, CT (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),137,145,162,163,158,160
+"35300","New Haven-Milford, CT (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),560,575,583,613,622,636
+"35300","New Haven-Milford, CT (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),86,80,76,82,86,88
+"35300","New Haven-Milford, CT (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),474,494,507,530,536,547
+"35300","New Haven-Milford, CT (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),757,750,753,750,744,732
+"35300","New Haven-Milford, CT (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2941,2941,2859,2907,2883,2874
+"35300","New Haven-Milford, CT (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),553,536,521,513,484,475
+"35300","New Haven-Milford, CT (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),49,56,70,65,62,57
+"35300","New Haven-Milford, CT (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2339,2349,2268,2329,2340,2345
+"35300","New Haven-Milford, CT (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),60,62,62,57,66,70
+"35300","New Haven-Milford, CT (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4194,4229,4252,4359,4434,4553
+"35300","New Haven-Milford, CT (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),757,766,892,932,965,938
+"35300","New Haven-Milford, CT (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5190,5431,5469,5857,5678,5921
+"35300","New Haven-Milford, CT (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3319,3407,3644,3676,3667,3691
+"35300","New Haven-Milford, CT (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4114,4259,4430,4497,4506,4618
+"35300","New Haven-Milford, CT (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),767,773,797,831,834,847
+"35300","New Haven-Milford, CT (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35300","New Haven-Milford, CT (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5260,5218,4628,5263,5296,5492
+"35300","New Haven-Milford, CT (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),20847,21367,22020,22699,22869,23404
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"35300","New Haven-Milford, CT (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),35050,35442,35205,36732,36872,37645
+"35300","New Haven-Milford, CT (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35300","New Haven-Milford, CT (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

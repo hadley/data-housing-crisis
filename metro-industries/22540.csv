@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"22540","Fond du Lac, WI (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),2937,2961,3075,3215,3315,3434
+"22540","Fond du Lac, WI (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),2672,2680,2787,2920,3005,3115
+"22540","Fond du Lac, WI (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),65,60,"(D)",74,73,57
+"22540","Fond du Lac, WI (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),61,56,73,70,69,53
+"22540","Fond du Lac, WI (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),4,4,"(D)",4,4,4
+"22540","Fond du Lac, WI (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),10,11,13,15,17,24
+"22540","Fond du Lac, WI (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"22540","Fond du Lac, WI (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),10,11,13,15,17,24
+"22540","Fond du Lac, WI (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(L)",0,0,0,0,0
+"22540","Fond du Lac, WI (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),186,181,183,196,213,202
+"22540","Fond du Lac, WI (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),949,959,986,999,999,1050
+"22540","Fond du Lac, WI (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),633,"(D)",653,669,"(D)",718
+"22540","Fond du Lac, WI (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",23
+"22540","Fond du Lac, WI (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),15,12,15,15,21,24
+"22540","Fond du Lac, WI (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),20,24,22,"(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),45,54,49,66,69,74
+"22540","Fond du Lac, WI (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),395,338,348,439,473,493
+"22540","Fond du Lac, WI (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",2,2,"(D)"
+"22540","Fond du Lac, WI (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",25,"(D)","(D)",18
+"22540","Fond du Lac, WI (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"22540","Fond du Lac, WI (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),30,35,54,51,33,37
+"22540","Fond du Lac, WI (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),316,"(D)",333,330,"(D)",331
+"22540","Fond du Lac, WI (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),125,159,142,133,133,120
+"22540","Fond du Lac, WI (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),19,13,14,12,3,6
+"22540","Fond du Lac, WI (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",2,"(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",61,"(D)",20,23,21
+"22540","Fond du Lac, WI (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),27,35,41,42,37,50
+"22540","Fond du Lac, WI (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"22540","Fond du Lac, WI (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),32,56,56,89,81,"(D)"
+"22540","Fond du Lac, WI (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),28,30,27,31,32,36
+"22540","Fond du Lac, WI (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),121,132,135,150,168,178
+"22540","Fond du Lac, WI (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),187,194,206,222,226,233
+"22540","Fond du Lac, WI (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"22540","Fond du Lac, WI (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),64,65,62,64,71,81
+"22540","Fond du Lac, WI (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"22540","Fond du Lac, WI (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),78,73,65,73,77,82
+"22540","Fond du Lac, WI (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),5,5,5,6,6,6
+"22540","Fond du Lac, WI (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(L)","(L)","(L)","(L)","(L)"
+"22540","Fond du Lac, WI (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),11,12,12,"(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),72,87,89,104,113,106
+"22540","Fond du Lac, WI (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)",19,"(D)",19,"(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),1,"(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",82,91,97
+"22540","Fond du Lac, WI (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),1,1,1,"(D)",1,1
+"22540","Fond du Lac, WI (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),117,132,142,154,156,167
+"22540","Fond du Lac, WI (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),58,67,64,75,76,85
+"22540","Fond du Lac, WI (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)",6,5,5,5,4
+"22540","Fond du Lac, WI (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),46,59,72,75,74,78
+"22540","Fond du Lac, WI (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)",0,0,0,0,0
+"22540","Fond du Lac, WI (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),266,201,206,218,226,232
+"22540","Fond du Lac, WI (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),259,197,200,212,219,225
+"22540","Fond du Lac, WI (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),7,5,6,5,7,7
+"22540","Fond du Lac, WI (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),64,64,69,73,75,78
+"22540","Fond du Lac, WI (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),12,13,14,11,6,6
+"22540","Fond du Lac, WI (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),45,46,49,51,52,62
+"22540","Fond du Lac, WI (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",42,43,48
+"22540","Fond du Lac, WI (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",9,9,14
+"22540","Fond du Lac, WI (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),28,29,29,32,33,35
+"22540","Fond du Lac, WI (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),204,227,247,256,271,288
+"22540","Fond du Lac, WI (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),108,114,128,133,141,143
+"22540","Fond du Lac, WI (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),11,11,11,12,13,13
+"22540","Fond du Lac, WI (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),1,1,1,1,1,1
+"22540","Fond du Lac, WI (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),10,10,11,11,12,12
+"22540","Fond du Lac, WI (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),62,66,68,73,74,77
+"22540","Fond du Lac, WI (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),10,9,9,9,11,13
+"22540","Fond du Lac, WI (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),52,57,60,64,63,64
+"22540","Fond du Lac, WI (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),72,76,77,82,86,88
+"22540","Fond du Lac, WI (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),265,281,288,296,310,319
+"22540","Fond du Lac, WI (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),23,24,25,28,29,30
+"22540","Fond du Lac, WI (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),7,9,12,13,13,13
+"22540","Fond du Lac, WI (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),235,247,250,255,268,276
+"22540","Fond du Lac, WI (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),75,70,"(D)",89,90,81
+"22540","Fond du Lac, WI (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),308,326,341,372,394,410
+"22540","Fond du Lac, WI (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),200,192,"(D)",196,205,220
+"22540","Fond du Lac, WI (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),383,333,348,372,382,399
+"22540","Fond du Lac, WI (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),121,123,132,135,133,146
+"22540","Fond du Lac, WI (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),232,256,276,288,303,323
+"22540","Fond du Lac, WI (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),73,77,80,85,86,90
+"22540","Fond du Lac, WI (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),19,"(D)",24,"(D)","(D)",13
+"22540","Fond du Lac, WI (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),1206,1207,"(D)",1279,1299,1328
+"22540","Fond du Lac, WI (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),1465,1473,"(D)",1641,1707,1787
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"22540","Fond du Lac, WI (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.781,100.995,103.049,103.496,104.716
+"22540","Fond du Lac, WI (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.515,101.175,103.622,104.091,105.617
+"22540","Fond du Lac, WI (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.282,"(D)",91.886,108.011,88.619
+"22540","Fond du Lac, WI (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.296,115.451,90.926,108.165,87.972
+"22540","Fond du Lac, WI (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.053,"(D)",111.024,107.104,100.109
+"22540","Fond du Lac, WI (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.538,115.717,120.090,123.791,149.140
+"22540","Fond du Lac, WI (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,238.453,449.636,269.879,467.821,829.422
+"22540","Fond du Lac, WI (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.598,115.785,120.163,123.864,149.225
+"22540","Fond du Lac, WI (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,0.000,0.000,0.000,0.000,0.000
+"22540","Fond du Lac, WI (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.737,89.462,87.968,87.381,75.010
+"22540","Fond du Lac, WI (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.383,104.179,106.587,104.045,107.686
+"22540","Fond du Lac, WI (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",104.072,107.454,"(D)",111.201
+"22540","Fond du Lac, WI (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,74.443,94.007,95.576,121.798,123.422
+"22540","Fond du Lac, WI (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,119.151,113.613,"(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,119.745,108.909,142.906,143.543,152.829
+"22540","Fond du Lac, WI (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,84.992,88.029,114.590,120.777,124.530
+"22540","Fond du Lac, WI (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"22540","Fond du Lac, WI (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.218,173.363,166.624,110.651,123.106
+"22540","Fond du Lac, WI (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",104.496,104.979,"(D)",100.845
+"22540","Fond du Lac, WI (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,121.454,110.054,106.333,104.961,98.100
+"22540","Fond du Lac, WI (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,73.143,81.952,68.770,19.190,30.347
+"22540","Fond du Lac, WI (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,126.053,147.622,156.749,137.344,182.291
+"22540","Fond du Lac, WI (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"22540","Fond du Lac, WI (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,174.768,167.447,259.577,221.161,"(D)"
+"22540","Fond du Lac, WI (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.169,96.051,115.825,118.827,116.881
+"22540","Fond du Lac, WI (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.940,110.314,115.522,124.791,127.716
+"22540","Fond du Lac, WI (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.558,107.351,115.252,118.730,123.006
+"22540","Fond du Lac, WI (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,60.546,173.547,121.068,433.808,574.563
+"22540","Fond du Lac, WI (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.550,91.082,89.922,89.099,114.569
+"22540","Fond du Lac, WI (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"22540","Fond du Lac, WI (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.055,79.554,87.123,89.483,92.390
+"22540","Fond du Lac, WI (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.936,97.664,100.987,98.517,95.660
+"22540","Fond du Lac, WI (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.777,101.794,"(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,123.020,127.731,153.985,175.513,169.367
+"22540","Fond du Lac, WI (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.838,222.841,"(D)",242.291,250.424
+"22540","Fond du Lac, WI (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.209,112.220,116.243,114.210,119.893
+"22540","Fond du Lac, WI (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.828,103.446,117.666,117.670,125.949
+"22540","Fond du Lac, WI (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,125.014,141.735,135.855,130.106,135.519
+"22540","Fond du Lac, WI (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,73.011,72.708,75.188,76.328,76.096
+"22540","Fond du Lac, WI (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,73.217,72.439,75.304,76.075,75.910
+"22540","Fond du Lac, WI (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,65.239,83.078,71.066,85.879,83.201
+"22540","Fond du Lac, WI (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.947,104.920,111.100,110.281,111.500
+"22540","Fond du Lac, WI (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.176,108.385,78.793,40.205,37.337
+"22540","Fond du Lac, WI (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.273,106.662,105.488,104.313,120.408
+"22540","Fond du Lac, WI (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.187,93.952,96.697,93.303,96.102
+"22540","Fond du Lac, WI (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.571,114.118,114.881,117.989,122.251
+"22540","Fond du Lac, WI (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.417,114.665,117.122,121.398,122.145
+"22540","Fond du Lac, WI (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.642,102.711,107.400,108.303,112.028
+"22540","Fond du Lac, WI (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,194.695,127.159,147.501,161.040,154.593
+"22540","Fond du Lac, WI (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.801,101.462,105.308,105.513,109.817
+"22540","Fond du Lac, WI (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.748,103.994,108.350,105.468,105.803
+"22540","Fond du Lac, WI (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.538,89.267,90.024,97.329,112.149
+"22540","Fond du Lac, WI (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.600,106.648,111.653,106.891,104.548
+"22540","Fond du Lac, WI (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.211,99.636,102.663,102.027,99.623
+"22540","Fond du Lac, WI (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.423,99.326,97.688,97.936,96.387
+"22540","Fond du Lac, WI (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.040,96.463,99.760,99.747,99.984
+"22540","Fond du Lac, WI (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,116.744,144.000,141.427,135.886,123.342
+"22540","Fond du Lac, WI (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.176,98.162,96.046,96.524,95.181
+"22540","Fond du Lac, WI (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.880,"(D)",95.780,109.941,99.005
+"22540","Fond du Lac, WI (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.440,108.511,115.344,121.183,124.891
+"22540","Fond du Lac, WI (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.607,"(D)",91.357,89.657,96.910
+"22540","Fond du Lac, WI (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,84.057,84.770,87.722,87.864,89.486
+"22540","Fond du Lac, WI (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.832,105.908,105.521,100.166,106.466
+"22540","Fond du Lac, WI (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.292,111.612,112.629,114.889,118.963
+"22540","Fond du Lac, WI (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.020,103.810,108.214,105.874,106.690
+"22540","Fond du Lac, WI (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",137.311,"(D)","(D)",77.484
+"22540","Fond du Lac, WI (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.207,"(D)",102.700,101.677,101.281
+"22540","Fond du Lac, WI (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.952,"(D)",104.338,105.989,109.046
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"22540","Fond du Lac, WI (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2937,2901,2966,3026,3039,3075
+"22540","Fond du Lac, WI (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2672,2632,2703,2768,2781,2822
+"22540","Fond du Lac, WI (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),65,66,"(D)",59,70,57
+"22540","Fond du Lac, WI (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),61,62,70,56,66,54
+"22540","Fond du Lac, WI (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,4,"(D)",4,4,4
+"22540","Fond du Lac, WI (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,10,12,12,13,15
+"22540","Fond du Lac, WI (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"22540","Fond du Lac, WI (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,10,12,12,13,15
+"22540","Fond du Lac, WI (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)",0,0,0,0,0
+"22540","Fond du Lac, WI (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),186,173,167,164,163,140
+"22540","Fond du Lac, WI (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),949,952,988,1011,987,1022
+"22540","Fond du Lac, WI (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),633,"(D)",658,680,"(D)",703
+"22540","Fond du Lac, WI (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",20
+"22540","Fond du Lac, WI (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15,12,15,15,19,19
+"22540","Fond du Lac, WI (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),20,24,23,"(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),45,54,49,64,65,69
+"22540","Fond du Lac, WI (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),395,336,347,452,477,492
+"22540","Fond du Lac, WI (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",3,3,"(D)"
+"22540","Fond du Lac, WI (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",27,"(D)","(D)",27
+"22540","Fond du Lac, WI (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"22540","Fond du Lac, WI (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),30,34,52,50,33,37
+"22540","Fond du Lac, WI (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),316,"(D)",330,332,"(D)",319
+"22540","Fond du Lac, WI (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),125,151,137,132,131,122
+"22540","Fond du Lac, WI (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),19,14,15,13,4,6
+"22540","Fond du Lac, WI (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",3,"(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",62,"(D)",22,24,21
+"22540","Fond du Lac, WI (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),27,34,40,43,38,50
+"22540","Fond du Lac, WI (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"22540","Fond du Lac, WI (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),32,56,54,84,71,"(D)"
+"22540","Fond du Lac, WI (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),28,30,27,32,33,33
+"22540","Fond du Lac, WI (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),121,131,133,139,151,154
+"22540","Fond du Lac, WI (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),187,190,201,216,222,230
+"22540","Fond du Lac, WI (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"22540","Fond du Lac, WI (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),64,62,58,57,57,73
+"22540","Fond du Lac, WI (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"22540","Fond du Lac, WI (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),78,71,62,68,70,72
+"22540","Fond du Lac, WI (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,5,5,5,5,5
+"22540","Fond du Lac, WI (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(L)","(L)","(L)","(L)","(L)"
+"22540","Fond du Lac, WI (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),11,12,11,"(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),72,89,92,111,127,122
+"22540","Fond du Lac, WI (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",19,"(D)",20,"(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,"(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",88,103,114
+"22540","Fond du Lac, WI (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,1,"(D)",1,1
+"22540","Fond du Lac, WI (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),117,128,131,136,133,140
+"22540","Fond du Lac, WI (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),58,64,60,68,68,73
+"22540","Fond du Lac, WI (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",6,6,5,6,5
+"22540","Fond du Lac, WI (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),46,58,65,62,60,62
+"22540","Fond du Lac, WI (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",0,0,0,0,0
+"22540","Fond du Lac, WI (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),266,194,193,200,203,202
+"22540","Fond du Lac, WI (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),259,190,188,195,197,197
+"22540","Fond du Lac, WI (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,5,6,5,6,6
+"22540","Fond du Lac, WI (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),64,62,67,71,71,72
+"22540","Fond du Lac, WI (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),12,13,13,10,5,5
+"22540","Fond du Lac, WI (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),45,44,48,47,47,54
+"22540","Fond du Lac, WI (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",40,39,42
+"22540","Fond du Lac, WI (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",8,8,12
+"22540","Fond du Lac, WI (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),28,27,26,27,26,27
+"22540","Fond du Lac, WI (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),204,220,233,234,241,249
+"22540","Fond du Lac, WI (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),108,112,123,126,131,132
+"22540","Fond du Lac, WI (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"22540","Fond du Lac, WI (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),11,11,11,11,11,12
+"22540","Fond du Lac, WI (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,1,1,1,1,1
+"22540","Fond du Lac, WI (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,10,10,11,11,11
+"22540","Fond du Lac, WI (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),62,63,65,67,66,66
+"22540","Fond du Lac, WI (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,9,9,9,10,11
+"22540","Fond du Lac, WI (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),52,54,56,59,56,55
+"22540","Fond du Lac, WI (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),72,72,72,74,74,72
+"22540","Fond du Lac, WI (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),265,269,263,259,260,256
+"22540","Fond du Lac, WI (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,23,22,23,23,23
+"22540","Fond du Lac, WI (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,8,10,10,10,9
+"22540","Fond du Lac, WI (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),235,238,230,225,227,223
+"22540","Fond du Lac, WI (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),75,76,"(D)",72,82,74
+"22540","Fond du Lac, WI (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),308,322,334,355,373,385
+"22540","Fond du Lac, WI (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),200,187,"(D)",183,179,194
+"22540","Fond du Lac, WI (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),383,322,325,336,336,343
+"22540","Fond du Lac, WI (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),121,120,128,128,121,129
+"22540","Fond du Lac, WI (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),232,247,259,262,267,276
+"22540","Fond du Lac, WI (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),73,74,76,79,77,78
+"22540","Fond du Lac, WI (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),19,"(D)",26,"(D)","(D)",14
+"22540","Fond du Lac, WI (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1206,1197,"(D)",1239,1227,1222
+"22540","Fond du Lac, WI (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1465,1435,"(D)",1529,1553,1598
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"22540","Fond du Lac, WI (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),30073,29693,30311,30826,30889,31145
+"22540","Fond du Lac, WI (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"22540","Fond du Lac, WI (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

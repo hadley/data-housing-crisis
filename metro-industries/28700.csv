@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),7475,7429,7568,8364,8215,8757
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),6795,6704,6821,7588,7399,7897
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),30,35,29,44,28,26
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(L)",1,3,"(D)","(D)",11
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",349,348,388,415
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),2497,2323,2229,2828,2504,2515
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",68,53,"(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),15,"(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",12,19,"(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),377,397,"(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),643,679,719,704,736,768
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",32,36
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)",105,112,130,143,154
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)",8,7,5,4,4
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),195,212,222,"(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),216,245,251,259,273,293
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",156,"(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),517,406,389,408,273,"(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),204,221,"(D)",247,258,275
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",245,"(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",13,"(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",33,"(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)",703,"(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),366,404,"(D)",444,"(D)",512
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),148,154,159,164,176,195
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),202,211,223,230,240,245
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),680,725,747,776,817,859
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),96,117,120,123,123,128
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),23,29,40,41,44,41
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),560,579,587,611,650,690
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",129,154,189
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),1020,1075,"(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",330,354,380
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),733,651,640,667,546,"(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",580,610,669
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),"(D)",736,"(D)",822,861,948
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",248,268,293
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),89,99,106,98,100,105
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),2938,2759,2662,3296,3037,3109
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),3857,3945,4158,4291,4362,4788
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.840,97.843,105.173,99.712,102.665
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.420,97.604,105.809,99.680,102.889
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,126.219,92.918,115.990,89.856,87.272
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,310.614,992.088,"(D)","(D)",2308.841
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.728,89.306,111.898,94.656,91.429
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.915,"(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.646,109.141,106.209,112.554,118.214
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.392,117.403,"(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.182,108.426,107.215,110.377,115.352
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,76.384,70.900,72.659,47.191,"(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.763,"(D)",113.709,114.628,116.945
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.786,"(D)",114.778,"(D)",128.302
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.714,101.000,102.027,106.248,112.532
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.653,103.245,103.281,101.537,99.096
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.973,100.241,99.470,100.114,100.743
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.418,110.499,106.251,101.236,101.554
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,116.414,147.237,141.655,139.788,122.526
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.365,96.408,96.482,98.282,99.829
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.112,"(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,86.089,82.013,82.884,66.034,"(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.164,125.272,122.082,126.550,134.312
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.959,89.304,107.862,94.335,91.870
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.026,103.814,104.327,103.780,111.394
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7475,7314,7314,7862,7454,7674
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6795,6620,6633,7190,6774,6992
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),30,38,28,35,27,27
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)",1,2,"(D)","(D)",5
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",317,292,297,287
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2497,2340,2230,2794,2363,2283
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",68,56,"(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15,"(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",21,21,"(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),377,395,"(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),643,667,702,683,724,760
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",25,32
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",102,108,121,130,135
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",7,7,4,4,4
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),195,215,229,"(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),216,236,235,232,239,250
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",148,"(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),517,395,366,376,244,"(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),204,216,"(D)",232,234,239
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",223,"(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",12,"(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",31,"(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",680,"(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),366,398,"(D)",420,"(D)",470
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),148,146,149,151,157,166
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),202,203,208,208,205,200
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),680,693,681,676,681,685
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),96,109,107,103,98,98
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,27,34,33,32,28
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),560,556,540,540,550,559
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",107,120,134
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1020,1062,"(D)","(D)","(D)","(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",320,336,350
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),733,631,601,608,484,"(D)"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",542,545,576
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",711,"(D)",748,760,817
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",228,238,250
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),89,100,112,109,113,120
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2938,2761,2624,3169,2772,2699
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3857,3858,4004,4024,4003,4297
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),25063,24499,24455,26296,24817,25437
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"28700","Kingsport-Bristol-Bristol, TN-VA (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce
