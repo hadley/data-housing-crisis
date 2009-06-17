@@ -20,15 +20,18 @@ for(i in 1:length(data_names))
   vac <- read.dbf(paste("original/", data_names[i], ".dbf", sep="", collapse=""))
   names(vac) <- tolower(names(vac))
 
-  vac$fips <- substr(vac$geoid, 0, 5)
+  vac$fips <- as.character(substr(vac$geoid, 0, 5))
+  vac$stateFIPS <- substr(vac$fips,1,2)
+  vac$countyFIPS <- substr(vac$fips,3,5)
+  
   
   length(table(vac$fips))
   # 3219 = 3141 USA counties + 78 Pueto Rico Municipios
   
   # Only interested in residental data
   
-  res <- vac[, c("fips", "ams_res", "res_vac", "avg_vac_r", "nostat_res", "avg_ns_res")]
-  names(res) <- c("fips", "total", "vac","vac_avg", "nostat", "nostat_avg")
+  res <- vac[, c("stateFIPS", "countyFIPS", "ams_res", "res_vac", "avg_vac_r", "nostat_res", "avg_ns_res")]
+  names(res) <- c("stateFIPS","countyFIPS", "total", "vac","vac_avg", "nostat", "nostat_avg")
   
   # Convert average days to total number of days so can aggregate into fips
   res <- transform(res, 
@@ -39,7 +42,7 @@ for(i in 1:length(data_names))
   )
   
   
-  county <- ddply(res, .(fips), numcolwise(sum), .progress = "text")
+  county <- ddply(res, .(stateFIPS, countyFIPS), numcolwise(sum), .progress = "text")
   
   write.table(county, paste("cleaned/by-quarter/", data_names[i], ".csv", sep="", collapse=""), sep = ",", row = F)
 }

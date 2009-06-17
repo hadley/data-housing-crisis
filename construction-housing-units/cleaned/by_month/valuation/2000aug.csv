@@ -31,7 +31,7 @@
 "Bloomington","IN MSA",5811,5401,410,0,0
 "Bloomington-Normal","IL MSA",4542,4262,0,280,0
 "Boise City","ID MSA",67863,67240,361,262,0
-"Boston-Worcester-Lawrence MA-NH-ME-CT CMSA","211327",197279,3715,2577,7756,NA
+"Boston-Worcester-Lawrence","Boston-Worcester-Lawrence MA-NH-ME-CT CMSA",211327,197279,3715,2577,7756
 "Brownsville-Harlingen-San Benito","TX MSA",10361,10019,178,164,0
 "Bryan-College Station","TX MSA",5948,5948,0,0,0
 "Buffalo-Niagara Falls","NY MSA",22393,21899,130,0,364
@@ -57,7 +57,7 @@
 "Columbus","GA-AL MSA",23316,11936,0,0,11380
 "Columbus","OH MSA",134463,113413,1063,2825,17162
 "Corpus Christi","TX MSA",5151,5151,0,0,0
-"Corvallis OR MSA","4587",4069,0,0,518,NA
+"Corvallis","Corvallis OR MSA",4587,4069,0,0,518
 "Cumberland","MD-WV MSA",1248,1248,0,0,0
 "Dallas-Fort Worth","TX CMSA",492741,466802,947,1400,23592
 "Danville","VA MSA",2325,2325,0,0,0
@@ -112,7 +112,7 @@
 "Hickory-Morganton-Lenoir","NC MSA",21671,21281,192,0,198
 "Honolulu","HI MSA",28234,28234,0,0,0
 "Houma","LA MSA",5813,5813,0,0,0
-"Houston-Galveston-Brazoria TX CMSA","337237",321239,490,7821,7687,NA
+"Houston-Galveston-Brazoria","Houston-Galveston-Brazoria TX CMSA",337237,321239,490,7821,7687
 "Huntington-Ashland","WV-KY- OH MSA",1833,1833,0,0,0
 "Huntsville","AL MSA",5834,5834,0,0,0
 "Indianapolis","IN MSA",204154,184168,3343,1249,15394
@@ -201,7 +201,7 @@
 "Provo-Orem","UT MSA",34076,31901,501,1064,610
 "Pueblo","CO MSA",9411,9220,191,0,0
 "Punta Gorda","FL MSA",14916,11115,0,2820,981
-"Raleigh-Durham-Chapel Hill NC MSA","185864",167047,248,764,17805,NA
+"Raleigh-Durham-Chapel Hill","Hill NC MSA",185864,167047,248,764,17805
 "Rapid City","SD MSA",4080,3771,0,0,309
 "Reading","PA MSA",10221,9981,240,0,0
 "Redding","CA MSA",11811,11554,0,257,0
@@ -230,7 +230,7 @@
 "Sarasota-Bradenton","FL MSA",73779,70641,211,1322,1605
 "Savannah","GA MSA",18873,18689,0,0,184
 "Scranton--Wilkes-Barre-- Hazleton","PA MSA",5429,5429,0,0,0
-"Seattle-Tacoma-Bremerton WA CMSA","288969",215607,10551,10336,52475,NA
+"Seattle-Tacoma-Bremerton","Seattle-Tacoma-Bremerton WA CMSA",288969,215607,10551,10336,52475
 "Sharon","PA MSA",1000,1000,0,0,0
 "Sheboygan","WI MSA",717,717,0,0,0
 "Sherman-Denison","TX MSA",562,462,100,0,0
@@ -250,7 +250,7 @@
 "Tallahassee","FL MSA",14641,13146,245,0,1250
 "Tampa-St. Petersburg- Clearwater","FL MSA",141124,137153,1918,648,1405
 "Terre Haute","IN MSA",2205,2205,0,0,0
-"Texarkana","TX-TexarkanaAR MSA",1768,1490,0,0,278
+"Texarkana  TX-Texarkana "," AR MSA",1768,1490,0,0,278
 "Toledo","OH MSA",17934,15923,1345,0,666
 "Topeka","KS MSA",8172,7456,0,0,716
 "Tucson","AZ MSA",74534,69701,776,487,3570
@@ -264,7 +264,7 @@
 "Washington-Baltimore","DC-MD- VA-WV CMSA",420311,387507,245,962,31597
 "Waterloo-Cedar Falls","IA MSA",5569,3574,0,0,1995
 "Wausau","WI MSA",5440,5145,295,0,0
-"West Palm Beach-Boca Raton FL MSA","109270",84761,0,701,23808,NA
+"West Palm Beach-Boca Raton","Raton FL MSA",109270,84761,0,701,23808
 "Wheeling","WV-OH MSA",139,139,0,0,0
 "Wichita","KS MSA",15099,15099,0,0,0
 "Wichita Falls","TX MSA",2121,2121,0,0,0
