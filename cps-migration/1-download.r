@@ -1,5 +1,7 @@
 # Download each file and save with nice name
 
+dir.create("raw") 
+
 base_url <- "ftp://www.bls.census.gov/pub/cps/march/"
 path <- c(
   "2008" = "asec2008_pubuse.dat.gz", 
