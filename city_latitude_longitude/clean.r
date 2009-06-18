@@ -41,4 +41,4 @@ latlng <- within(latlng, {
 
 # save file
 save(latlng, file = "latlng.rdata")
-write.csv(latlng, file = "latlng.csv")
+write.table(latlng, file = "latlng.csv", sep = ",", row = F)
