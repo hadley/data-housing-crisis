@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),50492,49303,53703,59655,63695,66450
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),45469,43795,47765,53417,57816,61117
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),13,14,15,21,16,21
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),8219,"(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),1776,1800,1942,2022,2171,2534
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),3614,4539,5902,7967,11690,13259
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)",1348,1257,1482,1852,1914
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",149,146,"(D)",140,157
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)",3191,4644,6485,9838,11345
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",36,"(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),947,1377,1116,"(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),2832,"(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",2202,2214
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),120,116,126,111,102,114
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),288,293,297,332,353,376
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),1446,"(D)",1157,1247,"(D)",1188
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),2191,2360,2375,2602,2538,2423
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",1129,"(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),5567,5780,6004,6461,5940,6180
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),"(D)",5226,"(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),"(D)",554,"(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),2994,"(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),799,"(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),1272,1288,1413,1497,1639,1871
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",1603
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",268
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),1745,1804,1874,1951,1620,1453
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",1275,"(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),"(D)",1046,1158,1194,1168,977
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",528,"(D)","(D)",435
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",630,"(D)","(D)",542
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),2183,2312,2281,2418,2227,2054
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),977,1035,"(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),1206,1277,"(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),1091,1124,1149,1175,1114,1014
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),5023,5508,5938,6239,5878,5333
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),1120,1203,1289,1337,1043,1251
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),430,479,579,612,653,565
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),3472,3826,4070,4290,4181,3517
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",6193,7388,9122,"(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",6272,6631,6550,"(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),3824,"(D)",4104,4550,"(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),7758,8140,8379,9064,8478,8602
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),5066,"(D)",5210,5541,5608,"(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),3632,"(D)",4018,4220,3846,"(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),"(D)",3358,3440,3612,3395,3031
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),519,580,594,616,623,585
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)",10736,13981,17322,22926,26520
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)",33059,33784,36095,34890,34598
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.374,98.967,103.728,98.937,97.706
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.673,98.020,103.313,99.174,99.145
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.120,107.956,127.324,114.324,166.744
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.754,99.348,95.460,93.362,98.803
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,143.152,156.411,198.397,220.380,222.363
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,146.049,114.347,"(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.602,99.389,83.903,68.160,85.929
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.870,98.631,106.776,111.005,114.897
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",82.471,91.557,"(D)",93.340
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.187,101.607,106.382,101.256,94.807
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.699,101.611,106.802,95.842,97.097
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.787,107.951,110.426,116.990,127.460
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.868,103.875,105.733,86.139,76.382
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.617,100.244,102.535,90.946,80.848
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.624,"(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.244,"(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.839,98.042,97.292,87.158,75.719
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.525,107.250,107.290,96.503,83.712
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.877,102.483,99.082,74.223,85.514
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.585,114.410,113.568,111.651,91.333
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.962,107.859,109.182,101.986,82.034
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",103.971,113.057,"(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.685,101.608,106.680,97.400,96.443
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",98.970,101.239,97.671,"(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",103.668,105.087,92.745,"(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.558,118.662,128.022,131.378,124.415
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),50492,49671,49970,52374,49955,49333
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),45469,44411,44568,46975,45093,45080
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,15,14,17,15,22
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8219,"(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1776,1718,1764,1695,1658,1755
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3614,5174,5653,7171,7965,8037
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",1334,1232,1420,1721,1719
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",148,147,"(D)",131,146
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",3887,4496,5840,6371,6440
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",36,"(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),947,1383,1083,"(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2832,"(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",2001,1973
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),120,112,119,100,82,103
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),288,285,284,308,320,331
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1446,"(D)",1192,1324,"(D)",1349
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2191,2283,2226,2331,2219,2077
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",947,"(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5567,5606,5657,5946,5336,5406
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",5044,"(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",560,"(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2994,"(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),799,"(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1272,1257,1374,1405,1489,1622
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",1396
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",224
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1745,1778,1813,1845,1503,1333
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",1054,"(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",1012,1092,1092,1034,836
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",492,"(D)","(D)",357
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",599,"(D)","(D)",480
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2183,2240,2188,2238,1985,1765
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),977,1032,"(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1206,1209,"(D)","(D)","(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1091,1078,1070,1062,951,826
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5023,5250,5387,5389,4847,4204
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1120,1130,1148,1110,832,958
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),430,441,492,489,480,393
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3472,3679,3745,3791,3541,2848
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",4736,4600,4036,"(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",6146,6308,6171,"(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3824,"(D)",3975,4323,"(D)","(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7758,7889,7883,8277,7557,7482
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5066,"(D)",5014,5129,4948,"(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3632,"(D)",3765,3817,3369,"(D)"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",3252,3281,3331,3020,2601
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),519,584,616,665,682,646
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",12014,12087,13188,13118,13866
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",32314,32392,33620,31638,30401
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),38533,37915,38147,39924,38135,49808
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35380","New Orleans-Metairie-Kenner, LA (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

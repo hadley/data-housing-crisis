@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"44700","Stockton, CA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),12973,14102,15162,16404,17406,18305
+"44700","Stockton, CA (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),11035,11990,12934,14075,14953,15713
+"44700","Stockton, CA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),667,627,785,890,901,753
+"44700","Stockton, CA (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),442,394,536,618,642,501
+"44700","Stockton, CA (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),225,233,249,272,259,252
+"44700","Stockton, CA (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),37,40,46,56,64,89
+"44700","Stockton, CA (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),6,7,9,12,"(D)","(D)"
+"44700","Stockton, CA (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),28,31,34,40,50,"(D)"
+"44700","Stockton, CA (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),3,2,3,4,"(D)","(D)"
+"44700","Stockton, CA (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),195,288,305,324,305,368
+"44700","Stockton, CA (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),926,999,1127,1267,1517,1419
+"44700","Stockton, CA (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1459,1413,1418,1467,1518,1635
+"44700","Stockton, CA (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),727,682,700,741,760,801
+"44700","Stockton, CA (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),110,110,102,91,97,101
+"44700","Stockton, CA (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),139,146,148,191,207,202
+"44700","Stockton, CA (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),23,22,22,23,27,32
+"44700","Stockton, CA (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),213,182,191,203,198,231
+"44700","Stockton, CA (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),35,32,30,27,24,25
+"44700","Stockton, CA (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),21,15,14,11,13,16
+"44700","Stockton, CA (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),9,8,8,8,8,12
+"44700","Stockton, CA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),69,"(D)","(D)",69,65,68
+"44700","Stockton, CA (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),20,"(D)","(D)",17,22,25
+"44700","Stockton, CA (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),53,56,69,64,72,66
+"44700","Stockton, CA (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),34,29,31,36,28,23
+"44700","Stockton, CA (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),732,732,718,725,758,833
+"44700","Stockton, CA (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),507,491,480,454,492,540
+"44700","Stockton, CA (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",5,"(D)"
+"44700","Stockton, CA (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),68,84,78,81,71,94
+"44700","Stockton, CA (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),17,18,18,16,16,16
+"44700","Stockton, CA (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),47,44,54,71,63,66
+"44700","Stockton, CA (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),83,87,79,94,92,108
+"44700","Stockton, CA (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),677,743,814,870,998,1150
+"44700","Stockton, CA (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),1319,1464,1450,1575,1638,1729
+"44700","Stockton, CA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),737,801,906,945,986,1053
+"44700","Stockton, CA (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(L)","(L)","(D)","(D)"
+"44700","Stockton, CA (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),36,31,35,33,38,44
+"44700","Stockton, CA (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),1,"(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),367,386,421,442,437,472
+"44700","Stockton, CA (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),19,29,32,15,16,16
+"44700","Stockton, CA (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),219,232,285,295,327,338
+"44700","Stockton, CA (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),331,291,295,324,334,332
+"44700","Stockton, CA (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)",47,50,"(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),5,"(D)","(D)",7,6,6
+"44700","Stockton, CA (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),273,220,220,"(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",11,10,12
+"44700","Stockton, CA (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),585,699,747,748,843,934
+"44700","Stockton, CA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),362,466,470,"(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)",34,37,37,40,44
+"44700","Stockton, CA (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),170,186,228,200,196,225
+"44700","Stockton, CA (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)",13,12,"(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),1405,1615,1780,2024,2210,2376
+"44700","Stockton, CA (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),1291,1496,1643,1897,2097,2260
+"44700","Stockton, CA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),114,120,137,127,114,117
+"44700","Stockton, CA (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),357,411,494,579,480,510
+"44700","Stockton, CA (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),154,160,156,174,171,137
+"44700","Stockton, CA (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),399,432,458,485,505,563
+"44700","Stockton, CA (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),354,394,411,436,454,506
+"44700","Stockton, CA (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),46,38,47,50,51,57
+"44700","Stockton, CA (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),101,108,113,126,138,143
+"44700","Stockton, CA (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),957,1076,1152,1270,1378,1489
+"44700","Stockton, CA (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),460,513,492,532,597,643
+"44700","Stockton, CA (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),375,431,533,597,630,679
+"44700","Stockton, CA (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),121,132,126,141,151,166
+"44700","Stockton, CA (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),67,74,93,124,83,106
+"44700","Stockton, CA (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),14,15,14,14,15,16
+"44700","Stockton, CA (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),53,59,79,110,68,90
+"44700","Stockton, CA (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),284,326,361,380,405,426
+"44700","Stockton, CA (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),38,39,40,45,50,47
+"44700","Stockton, CA (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),246,287,320,336,355,379
+"44700","Stockton, CA (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),381,422,436,449,477,500
+"44700","Stockton, CA (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),1938,2112,2227,2329,2453,2592
+"44700","Stockton, CA (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),271,290,300,311,327,343
+"44700","Stockton, CA (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),23,29,45,47,50,47
+"44700","Stockton, CA (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),1644,1793,1882,1971,2076,2202
+"44700","Stockton, CA (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),704,668,831,945,965,842
+"44700","Stockton, CA (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),1996,2207,2263,2445,2636,2879
+"44700","Stockton, CA (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),932,1088,1211,1268,1290,1421
+"44700","Stockton, CA (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),1989,2314,2527,2771,3054,3310
+"44700","Stockton, CA (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),910,1003,1108,1238,1157,1211
+"44700","Stockton, CA (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),1058,1184,1265,1396,1516,1632
+"44700","Stockton, CA (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),351,400,454,504,489,532
+"44700","Stockton, CA (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),93,"(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),2863,2848,3127,3407,3741,3643
+"44700","Stockton, CA (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),8172,9142,9808,10669,11211,12070
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"44700","Stockton, CA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.173,111.367,115.955,120.185,122.474
+"44700","Stockton, CA (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.482,112.488,117.930,122.778,125.281
+"44700","Stockton, CA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.993,114.860,113.442,130.827,112.237
+"44700","Stockton, CA (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.459,116.498,111.623,139.690,115.552
+"44700","Stockton, CA (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.783,111.554,117.813,112.001,104.166
+"44700","Stockton, CA (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.458,107.145,114.839,110.657,135.171
+"44700","Stockton, CA (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,137.528,112.640,113.868,"(D)","(D)"
+"44700","Stockton, CA (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.613,111.807,117.959,128.886,"(D)"
+"44700","Stockton, CA (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,55.690,59.540,91.791,"(D)","(D)"
+"44700","Stockton, CA (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,149.702,160.248,164.432,145.755,156.985
+"44700","Stockton, CA (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.052,110.593,114.717,125.177,106.176
+"44700","Stockton, CA (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.459,96.582,99.768,100.642,107.034
+"44700","Stockton, CA (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.928,96.861,100.037,99.856,102.740
+"44700","Stockton, CA (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.817,89.207,68.830,74.734,81.858
+"44700","Stockton, CA (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.017,105.855,133.556,134.235,115.994
+"44700","Stockton, CA (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.111,97.977,84.554,86.412,85.549
+"44700","Stockton, CA (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,84.931,90.319,93.634,86.686,100.779
+"44700","Stockton, CA (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.994,84.910,81.282,68.733,72.414
+"44700","Stockton, CA (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,80.202,84.384,78.226,109.036,151.003
+"44700","Stockton, CA (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.974,94.631,89.256,91.298,121.530
+"44700","Stockton, CA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)",116.211,121.477,145.789
+"44700","Stockton, CA (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)",80.026,96.640,108.294
+"44700","Stockton, CA (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.530,125.615,120.473,132.206,117.360
+"44700","Stockton, CA (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,83.995,88.883,105.153,81.320,68.387
+"44700","Stockton, CA (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.954,96.331,99.532,101.485,111.500
+"44700","Stockton, CA (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.190,91.538,89.031,95.178,108.822
+"44700","Stockton, CA (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,125.379,119.241,127.377,110.551,138.862
+"44700","Stockton, CA (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.070,101.345,94.546,93.577,94.636
+"44700","Stockton, CA (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.065,112.025,144.553,118.419,118.460
+"44700","Stockton, CA (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.819,96.704,118.188,113.800,119.119
+"44700","Stockton, CA (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.367,118.092,119.539,132.431,147.332
+"44700","Stockton, CA (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.970,107.384,115.831,122.154,129.777
+"44700","Stockton, CA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.942,118.711,119.746,123.712,128.978
+"44700","Stockton, CA (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,84.450,93.043,84.277,85.606,111.528
+"44700","Stockton, CA (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.203,110.167,111.865,108.057,113.339
+"44700","Stockton, CA (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,151.257,159.753,75.346,77.746,75.658
+"44700","Stockton, CA (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.997,127.441,126.015,139.850,142.043
+"44700","Stockton, CA (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,89.451,92.123,104.383,112.650,115.045
+"44700","Stockton, CA (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)",124.790,101.626,107.003
+"44700","Stockton, CA (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,82.471,83.495,"(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.826,119.479,115.001,126.663,136.601
+"44700","Stockton, CA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,122.402,121.014,"(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.206,121.306,98.894,93.352,106.356
+"44700","Stockton, CA (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.395,119.280,132.472,141.350,147.943
+"44700","Stockton, CA (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.841,119.586,134.935,145.938,153.027
+"44700","Stockton, CA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.232,115.772,104.009,88.702,89.652
+"44700","Stockton, CA (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.435,132.225,151.570,121.020,125.159
+"44700","Stockton, CA (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.313,97.749,96.509,85.121,64.703
+"44700","Stockton, CA (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.688,111.681,114.211,114.994,122.448
+"44700","Stockton, CA (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.882,113.504,116.734,116.814,124.714
+"44700","Stockton, CA (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,81.104,97.423,94.818,100.799,104.860
+"44700","Stockton, CA (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.348,101.511,106.378,110.695,109.306
+"44700","Stockton, CA (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.740,113.451,121.187,127.836,134.640
+"44700","Stockton, CA (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.837,103.430,109.281,120.227,128.197
+"44700","Stockton, CA (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.969,128.468,137.035,138.715,143.476
+"44700","Stockton, CA (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.019,102.108,114.420,122.028,131.989
+"44700","Stockton, CA (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.871,131.669,171.585,112.630,139.208
+"44700","Stockton, CA (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.453,91.866,92.465,92.543,93.945
+"44700","Stockton, CA (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.508,142.245,192.747,117.699,151.232
+"44700","Stockton, CA (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.638,120.171,123.303,127.242,128.246
+"44700","Stockton, CA (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.259,105.288,110.019,117.460,106.647
+"44700","Stockton, CA (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.594,122.374,125.267,128.670,131.479
+"44700","Stockton, CA (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.207,106.620,106.393,107.059,106.995
+"44700","Stockton, CA (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.433,105.164,105.122,106.050,107.206
+"44700","Stockton, CA (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.503,98.760,95.306,96.256,96.994
+"44700","Stockton, CA (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,117.150,165.154,160.874,159.511,140.493
+"44700","Stockton, CA (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.904,105.345,105.958,106.919,108.477
+"44700","Stockton, CA (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.239,114.387,113.502,129.408,114.387
+"44700","Stockton, CA (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.104,110.993,117.033,125.675,135.933
+"44700","Stockton, CA (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.963,127.307,128.975,128.326,134.871
+"44700","Stockton, CA (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.406,119.336,127.279,136.991,144.583
+"44700","Stockton, CA (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.556,117.468,125.928,112.286,113.045
+"44700","Stockton, CA (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.929,112.291,119.742,126.156,132.107
+"44700","Stockton, CA (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.114,122.346,132.466,124.512,130.319
+"44700","Stockton, CA (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.531,104.302,106.545,115.034,107.879
+"44700","Stockton, CA (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.248,115.335,121.922,125.434,131.472
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"44700","Stockton, CA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),12973,13774,14448,15043,15592,15889
+"44700","Stockton, CA (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),11035,11751,12413,13014,13549,13825
+"44700","Stockton, CA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),667,673,766,756,872,748
+"44700","Stockton, CA (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),442,435,515,493,617,510
+"44700","Stockton, CA (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),225,238,251,265,252,234
+"44700","Stockton, CA (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),37,39,40,43,41,50
+"44700","Stockton, CA (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,9,7,7,"(D)","(D)"
+"44700","Stockton, CA (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),28,30,32,33,36,"(D)"
+"44700","Stockton, CA (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3,1,2,2,"(D)","(D)"
+"44700","Stockton, CA (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),195,293,313,321,285,307
+"44700","Stockton, CA (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),926,954,1024,1062,1159,983
+"44700","Stockton, CA (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1459,1392,1409,1455,1468,1561
+"44700","Stockton, CA (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),727,683,704,727,726,747
+"44700","Stockton, CA (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),110,111,98,76,82,90
+"44700","Stockton, CA (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),139,143,147,186,187,161
+"44700","Stockton, CA (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,22,23,20,20,20
+"44700","Stockton, CA (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),213,181,193,200,185,215
+"44700","Stockton, CA (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),35,32,29,28,24,25
+"44700","Stockton, CA (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),21,17,18,17,23,32
+"44700","Stockton, CA (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9,8,9,8,8,11
+"44700","Stockton, CA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),69,"(D)","(D)",80,84,101
+"44700","Stockton, CA (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),20,"(D)","(D)",16,19,22
+"44700","Stockton, CA (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),53,54,67,64,71,63
+"44700","Stockton, CA (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),34,29,30,36,28,23
+"44700","Stockton, CA (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),732,709,705,728,742,816
+"44700","Stockton, CA (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),507,467,464,451,482,552
+"44700","Stockton, CA (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",5,"(D)"
+"44700","Stockton, CA (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),68,85,81,87,75,94
+"44700","Stockton, CA (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17,18,18,16,16,16
+"44700","Stockton, CA (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),47,44,52,67,55,55
+"44700","Stockton, CA (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),83,86,80,98,95,99
+"44700","Stockton, CA (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),677,741,800,810,897,998
+"44700","Stockton, CA (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1319,1437,1416,1528,1611,1712
+"44700","Stockton, CA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),737,780,874,882,911,950
+"44700","Stockton, CA (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(L)","(L)","(D)","(D)"
+"44700","Stockton, CA (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),36,30,33,30,30,40
+"44700","Stockton, CA (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,"(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),367,375,404,410,396,416
+"44700","Stockton, CA (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),19,28,30,14,15,14
+"44700","Stockton, CA (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),219,228,279,276,306,311
+"44700","Stockton, CA (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),331,296,305,345,373,381
+"44700","Stockton, CA (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",46,51,"(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,"(D)","(D)",6,5,6
+"44700","Stockton, CA (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),273,225,228,"(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",11,10,13
+"44700","Stockton, CA (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),585,671,698,672,740,799
+"44700","Stockton, CA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),362,443,438,"(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",36,42,40,45,51
+"44700","Stockton, CA (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),170,180,206,168,158,180
+"44700","Stockton, CA (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",11,12,"(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1405,1565,1675,1861,1985,2078
+"44700","Stockton, CA (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1291,1443,1543,1741,1883,1975
+"44700","Stockton, CA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),114,121,132,119,101,102
+"44700","Stockton, CA (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),357,398,473,542,433,447
+"44700","Stockton, CA (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),154,159,150,148,131,99
+"44700","Stockton, CA (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),399,422,446,456,459,489
+"44700","Stockton, CA (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),354,385,401,413,413,441
+"44700","Stockton, CA (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),46,37,44,43,46,48
+"44700","Stockton, CA (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),101,101,102,107,111,110
+"44700","Stockton, CA (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),957,1041,1086,1160,1223,1288
+"44700","Stockton, CA (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),460,506,476,503,553,590
+"44700","Stockton, CA (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),375,405,482,514,521,539
+"44700","Stockton, CA (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),121,130,124,139,148,160
+"44700","Stockton, CA (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),67,71,88,115,75,93
+"44700","Stockton, CA (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),14,15,13,13,13,13
+"44700","Stockton, CA (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),53,57,75,102,62,80
+"44700","Stockton, CA (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),284,311,341,350,361,364
+"44700","Stockton, CA (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),38,39,40,42,44,40
+"44700","Stockton, CA (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),246,272,301,308,316,323
+"44700","Stockton, CA (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),381,404,406,405,408,407
+"44700","Stockton, CA (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1938,2024,2038,2037,2055,2077
+"44700","Stockton, CA (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),271,272,267,258,261,263
+"44700","Stockton, CA (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,27,38,37,37,33
+"44700","Stockton, CA (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1644,1725,1732,1742,1758,1783
+"44700","Stockton, CA (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),704,712,805,799,911,805
+"44700","Stockton, CA (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1996,2178,2216,2336,2509,2713
+"44700","Stockton, CA (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),932,1071,1186,1202,1196,1257
+"44700","Stockton, CA (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1989,2236,2374,2532,2725,2876
+"44700","Stockton, CA (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),910,979,1069,1146,1022,1029
+"44700","Stockton, CA (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1058,1141,1188,1266,1334,1397
+"44700","Stockton, CA (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),351,383,429,464,437,457
+"44700","Stockton, CA (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),93,"(D)","(D)","(D)","(D)","(D)"
+"44700","Stockton, CA (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2863,2821,2986,3051,3294,3089
+"44700","Stockton, CA (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8172,8928,9425,9964,10251,10744
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"44700","Stockton, CA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),21929,22594,23038,23374,23708,23907
+"44700","Stockton, CA (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"44700","Stockton, CA (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

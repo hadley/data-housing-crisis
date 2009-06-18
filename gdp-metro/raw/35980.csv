@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"35980","Norwich-New London, CT (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),9123,9653,9967,10862,11567,12568
+"35980","Norwich-New London, CT (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),6737,7062,7317,8104,8627,9480
+"35980","Norwich-New London, CT (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),88,"(D)",86,102,103,84
+"35980","Norwich-New London, CT (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),82,75,79,95,95,75
+"35980","Norwich-New London, CT (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),6,"(D)",7,8,8,8
+"35980","Norwich-New London, CT (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),7,"(D)",9,9,13,18
+"35980","Norwich-New London, CT (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,"(L)","(L)","(L)"
+"35980","Norwich-New London, CT (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),7,"(D)",9,9,13,18
+"35980","Norwich-New London, CT (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),0,"(L)","(L)","(L)","(L)","(L)"
+"35980","Norwich-New London, CT (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),472,436,469,498,525,615
+"35980","Norwich-New London, CT (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),363,343,337,387,424,394
+"35980","Norwich-New London, CT (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1763,1844,1664,2232,2250,2781
+"35980","Norwich-New London, CT (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",2,2,"(D)"
+"35980","Norwich-New London, CT (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),4,4,4,5,4,5
+"35980","Norwich-New London, CT (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),38,40,25,50,46,64
+"35980","Norwich-New London, CT (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",27,28,31
+"35980","Norwich-New London, CT (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),83,62,51,45,45,55
+"35980","Norwich-New London, CT (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",17,"(D)"
+"35980","Norwich-New London, CT (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),15,15,16,20,22,23
+"35980","Norwich-New London, CT (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),6,5,5,6,7,7
+"35980","Norwich-New London, CT (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),42,30,30,33,39,37
+"35980","Norwich-New London, CT (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),23,"(D)","(D)",27,35,55
+"35980","Norwich-New London, CT (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),8,6,5,"(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),1,"(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),60,57,65,55,49,46
+"35980","Norwich-New London, CT (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),14,9,10,10,13,11
+"35980","Norwich-New London, CT (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),3,4,"(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",17,17
+"35980","Norwich-New London, CT (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),216,230,242,246,250,277
+"35980","Norwich-New London, CT (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),643,667,693,702,727,739
+"35980","Norwich-New London, CT (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),133,139,166,176,186,193
+"35980","Norwich-New London, CT (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",2,2,2,2
+"35980","Norwich-New London, CT (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),4,2,"(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),22,"(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),42,36,43,49,51,51
+"35980","Norwich-New London, CT (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),22,30,36,37,37,39
+"35980","Norwich-New London, CT (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),3,2,1,2,2,2
+"35980","Norwich-New London, CT (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)",43,"(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",14,19,"(D)"
+"35980","Norwich-New London, CT (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),164,173,180,198,216,229
+"35980","Norwich-New London, CT (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),6,4,5,6,7,8
+"35980","Norwich-New London, CT (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),"(D)",95,93,116,125,"(D)"
+"35980","Norwich-New London, CT (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),18,"(D)","(D)","(D)","(D)",33
+"35980","Norwich-New London, CT (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),240,267,266,287,300,314
+"35980","Norwich-New London, CT (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),128,173,153,168,182,192
+"35980","Norwich-New London, CT (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",56
+"35980","Norwich-New London, CT (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),55,61,58,63,64,65
+"35980","Norwich-New London, CT (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",1
+"35980","Norwich-New London, CT (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),529,452,691,653,948,992
+"35980","Norwich-New London, CT (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),464,347,590,565,831,886
+"35980","Norwich-New London, CT (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),65,105,101,88,118,106
+"35980","Norwich-New London, CT (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),533,697,700,730,743,811
+"35980","Norwich-New London, CT (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),19,32,30,29,32,32
+"35980","Norwich-New London, CT (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),197,201,197,193,192,196
+"35980","Norwich-New London, CT (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),168,152,148,136,133,142
+"35980","Norwich-New London, CT (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),29,49,49,57,59,53
+"35980","Norwich-New London, CT (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),97,101,109,118,115,126
+"35980","Norwich-New London, CT (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),706,751,813,864,901,945
+"35980","Norwich-New London, CT (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),328,346,373,396,415,435
+"35980","Norwich-New London, CT (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),113,119,132,141,148,151
+"35980","Norwich-New London, CT (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),67,67,74,74,74,74
+"35980","Norwich-New London, CT (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),45,52,59,67,74,77
+"35980","Norwich-New London, CT (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),283,330,333,326,333,349
+"35980","Norwich-New London, CT (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),116,132,130,106,108,110
+"35980","Norwich-New London, CT (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),167,198,203,220,225,239
+"35980","Norwich-New London, CT (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),170,191,200,214,220,235
+"35980","Norwich-New London, CT (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),2386,2592,2650,2758,2940,3088
+"35980","Norwich-New London, CT (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),198,213,216,231,240,257
+"35980","Norwich-New London, CT (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),515,590,609,675,717,771
+"35980","Norwich-New London, CT (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),1672,1788,1824,1852,1983,2060
+"35980","Norwich-New London, CT (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),95,88,95,111,116,102
+"35980","Norwich-New London, CT (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),859,898,935,949,977,1016
+"35980","Norwich-New London, CT (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),605,576,635,674,710,808
+"35980","Norwich-New London, CT (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),769,719,957,940,1248,1306
+"35980","Norwich-New London, CT (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),749,930,928,952,967,1039
+"35980","Norwich-New London, CT (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),803,852,921,982,1017,1071
+"35980","Norwich-New London, CT (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),396,449,466,467,481,500
+"35980","Norwich-New London, CT (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),231,234,254,245,260,291
+"35980","Norwich-New London, CT (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),2216,2269,2089,2722,2782,3268
+"35980","Norwich-New London, CT (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),4521,4793,5228,5382,5844,6212
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"35980","Norwich-New London, CT (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.093,103.439,109.107,112.003,117.011
+"35980","Norwich-New London, CT (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.019,104.675,112.822,116.384,123.283
+"35980","Norwich-New London, CT (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",94.014,94.004,112.559,96.289
+"35980","Norwich-New London, CT (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.328,92.528,91.943,111.002,93.625
+"35980","Norwich-New London, CT (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",114.010,122.930,133.341,131.623
+"35980","Norwich-New London, CT (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",110.436,101.453,132.443,156.888
+"35980","Norwich-New London, CT (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"35980","Norwich-New London, CT (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",109.552,100.727,131.441,156.503
+"35980","Norwich-New London, CT (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"35980","Norwich-New London, CT (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.018,101.807,104.572,103.806,108.460
+"35980","Norwich-New London, CT (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.137,84.275,89.173,89.145,75.028
+"35980","Norwich-New London, CT (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.118,91.603,120.064,115.298,136.421
+"35980","Norwich-New London, CT (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.183,90.071,127.626,102.438,93.416
+"35980","Norwich-New London, CT (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.712,70.266,112.002,89.635,105.136
+"35980","Norwich-New London, CT (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,73.482,61.312,55.222,54.528,65.957
+"35980","Norwich-New London, CT (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.786,106.354,138.367,146.815,141.587
+"35980","Norwich-New London, CT (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,73.890,80.776,97.844,102.553,100.079
+"35980","Norwich-New London, CT (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,69.670,68.897,78.437,92.414,88.664
+"35980","Norwich-New London, CT (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)",119.381,151.401,250.904
+"35980","Norwich-New London, CT (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,76.998,70.643,"(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.785,112.332,97.663,86.254,76.391
+"35980","Norwich-New London, CT (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,61.786,65.828,72.333,89.563,80.192
+"35980","Norwich-New London, CT (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,254.869,"(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.220,110.075,106.274,103.911,111.372
+"35980","Norwich-New London, CT (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.877,105.273,105.850,111.196,113.660
+"35980","Norwich-New London, CT (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.646,111.705,117.040,122.548,124.118
+"35980","Norwich-New London, CT (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,52.603,"(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,84.691,98.587,109.155,111.514,108.052
+"35980","Norwich-New London, CT (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,128.599,149.335,149.404,147.357,151.304
+"35980","Norwich-New London, CT (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,49.672,42.947,57.637,72.276,68.059
+"35980","Norwich-New London, CT (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.205,112.534,127.503,144.667,157.057
+"35980","Norwich-New London, CT (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,64.818,86.484,98.683,123.619,125.134
+"35980","Norwich-New London, CT (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)",199.381
+"35980","Norwich-New London, CT (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.885,105.662,110.280,113.189,116.236
+"35980","Norwich-New London, CT (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,127.799,111.261,119.020,125.909,127.345
+"35980","Norwich-New London, CT (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.235,95.041,96.753,94.466,95.596
+"35980","Norwich-New London, CT (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,83.100,123.176,113.672,160.921,163.895
+"35980","Norwich-New London, CT (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,72.078,119.445,111.829,160.700,166.753
+"35980","Norwich-New London, CT (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,163.744,149.307,126.105,161.377,142.404
+"35980","Norwich-New London, CT (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,128.073,129.330,135.998,135.237,144.893
+"35980","Norwich-New London, CT (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,168.615,155.431,130.114,128.276,124.373
+"35980","Norwich-New London, CT (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.645,97.214,90.904,88.735,86.128
+"35980","Norwich-New London, CT (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.898,86.422,76.824,72.108,73.957
+"35980","Norwich-New London, CT (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,161.303,159.104,170.501,182.356,154.606
+"35980","Norwich-New London, CT (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.026,100.842,103.042,95.712,99.199
+"35980","Norwich-New London, CT (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.668,108.209,111.365,112.944,115.547
+"35980","Norwich-New London, CT (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.928,109.958,114.254,117.259,121.650
+"35980","Norwich-New London, CT (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.544,110.553,113.762,116.089,113.898
+"35980","Norwich-New London, CT (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.631,102.122,98.392,93.947,90.504
+"35980","Norwich-New London, CT (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.332,123.115,136.929,149.832,149.662
+"35980","Norwich-New London, CT (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.585,112.671,106.575,105.015,105.846
+"35980","Norwich-New London, CT (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.376,110.303,85.153,82.837,81.657
+"35980","Norwich-New London, CT (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,112.049,114.228,120.985,119.954,122.173
+"35980","Norwich-New London, CT (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.577,109.628,113.779,110.607,112.680
+"35980","Norwich-New London, CT (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.301,100.123,99.309,100.492,100.712
+"35980","Norwich-New London, CT (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.015,97.102,96.782,96.379,99.264
+"35980","Norwich-New London, CT (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.596,100.440,104.544,102.283,104.038
+"35980","Norwich-New London, CT (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.853,100.412,97.877,100.459,99.796
+"35980","Norwich-New London, CT (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.164,95.392,94.692,114.331,102.441
+"35980","Norwich-New London, CT (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.962,106.473,105.935,109.247,113.075
+"35980","Norwich-New London, CT (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.506,104.058,107.440,108.152,112.124
+"35980","Norwich-New London, CT (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,90.821,117.725,112.608,146.067,149.062
+"35980","Norwich-New London, CT (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,121.601,121.519,123.815,122.633,128.493
+"35980","Norwich-New London, CT (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.976,107.302,110.337,110.759,113.482
+"35980","Norwich-New London, CT (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.729,112.084,108.667,108.225,108.189
+"35980","Norwich-New London, CT (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.183,114.956,115.273,124.067,139.100
+"35980","Norwich-New London, CT (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.611,90.499,113.523,110.671,123.824
+"35980","Norwich-New London, CT (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.704,111.592,112.341,119.149,122.802
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"35980","Norwich-New London, CT (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9123,9405,9436,9954,10218,10675
+"35980","Norwich-New London, CT (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6737,6941,7052,7601,7841,8306
+"35980","Norwich-New London, CT (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),88,"(D)",83,83,99,85
+"35980","Norwich-New London, CT (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),82,82,76,75,91,77
+"35980","Norwich-New London, CT (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,"(D)",7,7,8,8
+"35980","Norwich-New London, CT (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,"(D)",8,7,10,11
+"35980","Norwich-New London, CT (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,"(L)","(L)","(L)"
+"35980","Norwich-New London, CT (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,"(D)",8,7,10,11
+"35980","Norwich-New London, CT (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,"(L)","(L)","(L)","(L)","(L)"
+"35980","Norwich-New London, CT (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),472,444,481,494,490,512
+"35980","Norwich-New London, CT (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),363,328,306,324,324,273
+"35980","Norwich-New London, CT (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1763,1836,1615,2117,2033,2405
+"35980","Norwich-New London, CT (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",2,2,"(D)"
+"35980","Norwich-New London, CT (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,4,3,5,4,4
+"35980","Norwich-New London, CT (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),38,40,27,42,34,40
+"35980","Norwich-New London, CT (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",27,26,29
+"35980","Norwich-New London, CT (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),83,61,51,46,45,55
+"35980","Norwich-New London, CT (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",29,"(D)"
+"35980","Norwich-New London, CT (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15,15,16,21,22,22
+"35980","Norwich-New London, CT (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,5,5,6,6,6
+"35980","Norwich-New London, CT (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),42,29,29,33,39,37
+"35980","Norwich-New London, CT (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,"(D)","(D)",27,34,57
+"35980","Norwich-New London, CT (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,6,6,"(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1,"(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),60,57,67,58,52,46
+"35980","Norwich-New London, CT (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),14,9,9,10,13,12
+"35980","Norwich-New London, CT (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3,7,"(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",17,16
+"35980","Norwich-New London, CT (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),216,229,238,229,224,240
+"35980","Norwich-New London, CT (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),643,655,677,681,715,731
+"35980","Norwich-New London, CT (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),133,134,148,155,163,165
+"35980","Norwich-New London, CT (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",3,2,3,3
+"35980","Norwich-New London, CT (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,2,"(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),22,"(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),42,35,41,45,46,45
+"35980","Norwich-New London, CT (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),22,29,33,33,33,34
+"35980","Norwich-New London, CT (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3,1,1,2,2,2
+"35980","Norwich-New London, CT (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",43,"(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",13,18,"(D)"
+"35980","Norwich-New London, CT (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),164,174,185,209,237,258
+"35980","Norwich-New London, CT (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,4,5,6,7,7
+"35980","Norwich-New London, CT (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",97,97,124,142,"(D)"
+"35980","Norwich-New London, CT (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),18,"(D)","(D)","(D)","(D)",36
+"35980","Norwich-New London, CT (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),240,259,254,265,272,279
+"35980","Norwich-New London, CT (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),128,164,143,153,162,163
+"35980","Norwich-New London, CT (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",65
+"35980","Norwich-New London, CT (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),55,59,52,53,52,52
+"35980","Norwich-New London, CT (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",1
+"35980","Norwich-New London, CT (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),529,440,652,602,852,867
+"35980","Norwich-New London, CT (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),464,335,555,519,746,774
+"35980","Norwich-New London, CT (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),65,106,97,82,105,92
+"35980","Norwich-New London, CT (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),533,683,690,725,721,773
+"35980","Norwich-New London, CT (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),19,32,29,24,24,23
+"35980","Norwich-New London, CT (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),197,196,191,179,174,169
+"35980","Norwich-New London, CT (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),168,149,145,129,121,124
+"35980","Norwich-New London, CT (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),29,47,46,49,53,45
+"35980","Norwich-New London, CT (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),97,94,98,100,93,97
+"35980","Norwich-New London, CT (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),706,725,764,786,797,816
+"35980","Norwich-New London, CT (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),328,341,361,375,385,399
+"35980","Norwich-New London, CT (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"35980","Norwich-New London, CT (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),113,115,124,128,131,128
+"35980","Norwich-New London, CT (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),67,65,69,66,63,61
+"35980","Norwich-New London, CT (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),45,50,56,62,68,68
+"35980","Norwich-New London, CT (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),283,319,319,302,297,300
+"35980","Norwich-New London, CT (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),116,132,128,99,96,95
+"35980","Norwich-New London, CT (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),167,187,191,202,200,204
+"35980","Norwich-New London, CT (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),170,183,186,193,188,192
+"35980","Norwich-New London, CT (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2386,2464,2388,2369,2397,2403
+"35980","Norwich-New London, CT (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),198,200,193,192,191,197
+"35980","Norwich-New London, CT (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),515,544,517,539,527,536
+"35980","Norwich-New London, CT (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1672,1720,1679,1636,1680,1669
+"35980","Norwich-New London, CT (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),95,96,91,90,109,98
+"35980","Norwich-New London, CT (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),859,885,915,910,939,971
+"35980","Norwich-New London, CT (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),605,578,630,650,654,678
+"35980","Norwich-New London, CT (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),769,699,906,866,1124,1147
+"35980","Norwich-New London, CT (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),749,910,910,927,918,962
+"35980","Norwich-New London, CT (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),803,819,862,886,890,912
+"35980","Norwich-New London, CT (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),396,434,444,430,428,428
+"35980","Norwich-New London, CT (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),231,239,266,267,287,322
+"35980","Norwich-New London, CT (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2216,2252,2006,2516,2453,2744
+"35980","Norwich-New London, CT (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4521,4689,5045,5079,5387,5552
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"35980","Norwich-New London, CT (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),34959,35751,35565,37291,38484,39800
+"35980","Norwich-New London, CT (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"35980","Norwich-New London, CT (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

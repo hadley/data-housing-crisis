@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"11500","Anniston-Oxford, AL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),2422,2601,2777,3092,3308,3507
+"11500","Anniston-Oxford, AL (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),1852,1934,2055,2299,2398,2522
+"11500","Anniston-Oxford, AL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),11,7,9,17,25,22
+"11500","Anniston-Oxford, AL (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),0,"(L)","(L)","(L)","(L)","(L)"
+"11500","Anniston-Oxford, AL (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"11500","Anniston-Oxford, AL (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),74,71,70,71,77,83
+"11500","Anniston-Oxford, AL (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),79,72,72,82,88,98
+"11500","Anniston-Oxford, AL (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),484,495,510,629,634,643
+"11500","Anniston-Oxford, AL (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),340,354,363,454,472,490
+"11500","Anniston-Oxford, AL (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),17,17,19,25,26,30
+"11500","Anniston-Oxford, AL (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),8,11,11,13,14,23
+"11500","Anniston-Oxford, AL (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),53,69,56,100,102,126
+"11500","Anniston-Oxford, AL (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),145,131,130,132,135,126
+"11500","Anniston-Oxford, AL (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),3,2,2,4,5,6
+"11500","Anniston-Oxford, AL (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),10,10,11,12,12,13
+"11500","Anniston-Oxford, AL (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),16,16,15,17,19,18
+"11500","Anniston-Oxford, AL (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),144,141,147,175,162,154
+"11500","Anniston-Oxford, AL (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),62,52,"(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),13,13,"(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)",41,53,51
+"11500","Anniston-Oxford, AL (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),2,10,13,9,2,2
+"11500","Anniston-Oxford, AL (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"11500","Anniston-Oxford, AL (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",31
+"11500","Anniston-Oxford, AL (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",20
+"11500","Anniston-Oxford, AL (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),179,180,210,227,241,256
+"11500","Anniston-Oxford, AL (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),243,251,253,256,266,286
+"11500","Anniston-Oxford, AL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),43,63,68,74,85,91
+"11500","Anniston-Oxford, AL (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(L)","(L)","(L)"
+"11500","Anniston-Oxford, AL (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"11500","Anniston-Oxford, AL (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"11500","Anniston-Oxford, AL (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),23,49,51,56,63,65
+"11500","Anniston-Oxford, AL (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",5,4
+"11500","Anniston-Oxford, AL (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),13,"(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),2,"(D)",5,5,6,6
+"11500","Anniston-Oxford, AL (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),98,97,101,118,97,115
+"11500","Anniston-Oxford, AL (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),14,15,"(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),"(D)",1,1,1,1,1
+"11500","Anniston-Oxford, AL (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),83,"(D)","(D)","(D)","(D)",94
+"11500","Anniston-Oxford, AL (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(L)","(L)","(L)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),76,77,76,86,93,102
+"11500","Anniston-Oxford, AL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),55,57,56,66,74,83
+"11500","Anniston-Oxford, AL (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",5,5
+"11500","Anniston-Oxford, AL (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),16,16,16,16,15,15
+"11500","Anniston-Oxford, AL (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(L)","(L)"
+"11500","Anniston-Oxford, AL (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),91,103,107,115,125,127
+"11500","Anniston-Oxford, AL (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),66,81,85,92,100,103
+"11500","Anniston-Oxford, AL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),25,22,22,23,25,24
+"11500","Anniston-Oxford, AL (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),66,80,110,116,128,156
+"11500","Anniston-Oxford, AL (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),2,2,3,4,17,6
+"11500","Anniston-Oxford, AL (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),71,74,82,95,95,90
+"11500","Anniston-Oxford, AL (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),65,69,73,85,84,77
+"11500","Anniston-Oxford, AL (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),7,5,9,10,11,13
+"11500","Anniston-Oxford, AL (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),15,17,19,21,18,18
+"11500","Anniston-Oxford, AL (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),162,176,189,202,213,227
+"11500","Anniston-Oxford, AL (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),113,121,130,138,145,157
+"11500","Anniston-Oxford, AL (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",55,"(D)"
+"11500","Anniston-Oxford, AL (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",13,"(D)"
+"11500","Anniston-Oxford, AL (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),5,6,6,6,7,6
+"11500","Anniston-Oxford, AL (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),2,1,1,1,1,1
+"11500","Anniston-Oxford, AL (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),4,5,5,5,6,5
+"11500","Anniston-Oxford, AL (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),74,81,84,93,97,99
+"11500","Anniston-Oxford, AL (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),9,9,9,10,10,10
+"11500","Anniston-Oxford, AL (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),65,72,75,83,87,89
+"11500","Anniston-Oxford, AL (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),69,74,77,79,85,90
+"11500","Anniston-Oxford, AL (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),570,667,722,793,909,986
+"11500","Anniston-Oxford, AL (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),249,325,362,410,502,552
+"11500","Anniston-Oxford, AL (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),16,20,26,32,34,33
+"11500","Anniston-Oxford, AL (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),305,322,334,352,373,400
+"11500","Anniston-Oxford, AL (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),20,14,16,24,33,28
+"11500","Anniston-Oxford, AL (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),422,432,463,482,507,542
+"11500","Anniston-Oxford, AL (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),117,134,139,146,162,174
+"11500","Anniston-Oxford, AL (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),167,180,183,201,219,229
+"11500","Anniston-Oxford, AL (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),140,156,195,215,239,252
+"11500","Anniston-Oxford, AL (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),178,194,208,223,231,244
+"11500","Anniston-Oxford, AL (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),79,86,90,99,104,105
+"11500","Anniston-Oxford, AL (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),21,22,25,28,28,28
+"11500","Anniston-Oxford, AL (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),577,576,594,731,749,764
+"11500","Anniston-Oxford, AL (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),1275,1358,1461,1568,1650,1757
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"11500","Anniston-Oxford, AL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.955,110.063,118.246,122.961,125.982
+"11500","Anniston-Oxford, AL (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.004,108.687,118.140,120.485,122.768
+"11500","Anniston-Oxford, AL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,65.953,73.359,120.505,213.205,194.454
+"11500","Anniston-Oxford, AL (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"11500","Anniston-Oxford, AL (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"11500","Anniston-Oxford, AL (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.459,97.614,95.866,96.811,93.167
+"11500","Anniston-Oxford, AL (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.256,83.154,87.324,85.237,85.430
+"11500","Anniston-Oxford, AL (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.566,107.228,127.994,125.372,122.330
+"11500","Anniston-Oxford, AL (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.042,108.112,129.003,129.778,129.422
+"11500","Anniston-Oxford, AL (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.407,105.790,122.603,128.367,156.846
+"11500","Anniston-Oxford, AL (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,129.569,137.640,161.666,159.411,231.862
+"11500","Anniston-Oxford, AL (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,129.227,109.686,159.436,142.335,146.282
+"11500","Anniston-Oxford, AL (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,89.722,90.065,89.316,86.730,80.599
+"11500","Anniston-Oxford, AL (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,78.076,62.018,125.337,158.387,194.374
+"11500","Anniston-Oxford, AL (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.307,104.074,127.148,116.925,127.754
+"11500","Anniston-Oxford, AL (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.196,91.608,104.375,115.234,110.678
+"11500","Anniston-Oxford, AL (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.054,105.134,125.599,114.330,104.374
+"11500","Anniston-Oxford, AL (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,86.674,"(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.799,"(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,452.191,562.336,395.700,98.535,90.950
+"11500","Anniston-Oxford, AL (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"11500","Anniston-Oxford, AL (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.398,115.545,117.730,121.176,123.971
+"11500","Anniston-Oxford, AL (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.753,101.829,102.288,107.900,116.634
+"11500","Anniston-Oxford, AL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,141.810,151.405,159.440,180.043,187.319
+"11500","Anniston-Oxford, AL (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.248,92.786,100.245,93.291,127.018
+"11500","Anniston-Oxford, AL (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"11500","Anniston-Oxford, AL (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,204.788,210.861,225.410,246.851,249.963
+"11500","Anniston-Oxford, AL (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)",240.146,225.606,254.187,281.945
+"11500","Anniston-Oxford, AL (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.319,106.986,129.089,111.493,136.140
+"11500","Anniston-Oxford, AL (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.994,"(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)",133.013
+"11500","Anniston-Oxford, AL (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.786,93.688,102.821,108.915,115.657
+"11500","Anniston-Oxford, AL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.892,96.073,109.052,120.181,129.344
+"11500","Anniston-Oxford, AL (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.108,90.550,83.850,75.386,76.396
+"11500","Anniston-Oxford, AL (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.582,111.294,116.814,123.544,122.144
+"11500","Anniston-Oxford, AL (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,119.079,121.593,128.478,136.723,136.808
+"11500","Anniston-Oxford, AL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,87.907,83.753,85.628,88.356,83.111
+"11500","Anniston-Oxford, AL (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,117.953,162.573,171.555,184.165,219.488
+"11500","Anniston-Oxford, AL (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,88.495,139.124,146.702,560.261,198.340
+"11500","Anniston-Oxford, AL (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.008,111.131,125.059,120.503,109.952
+"11500","Anniston-Oxford, AL (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.504,109.855,124.576,117.107,104.068
+"11500","Anniston-Oxford, AL (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,76.585,122.869,129.415,152.299,165.779
+"11500","Anniston-Oxford, AL (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.561,111.921,117.262,96.514,88.229
+"11500","Anniston-Oxford, AL (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.858,110.764,115.148,118.540,124.051
+"11500","Anniston-Oxford, AL (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.360,111.135,116.007,119.112,127.659
+"11500","Anniston-Oxford, AL (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.853,113.303,110.670,115.555,102.553
+"11500","Anniston-Oxford, AL (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,71.760,62.664,54.466,48.349,48.689
+"11500","Anniston-Oxford, AL (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,121.820,134.960,134.784,144.559,125.652
+"11500","Anniston-Oxford, AL (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.529,107.340,114.791,117.058,114.505
+"11500","Anniston-Oxford, AL (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.909,98.829,102.955,99.292,99.897
+"11500","Anniston-Oxford, AL (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.878,108.455,116.346,119.416,116.435
+"11500","Anniston-Oxford, AL (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.378,104.699,103.829,105.232,106.894
+"11500","Anniston-Oxford, AL (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.180,114.536,118.994,130.572,135.705
+"11500","Anniston-Oxford, AL (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,122.654,129.830,136.860,160.964,170.222
+"11500","Anniston-Oxford, AL (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.536,133.680,153.481,150.002,138.488
+"11500","Anniston-Oxford, AL (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.742,100.758,102.124,103.827,106.465
+"11500","Anniston-Oxford, AL (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,75.377,77.067,103.360,155.707,137.621
+"11500","Anniston-Oxford, AL (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.180,107.619,108.817,113.462,119.488
+"11500","Anniston-Oxford, AL (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,114.087,117.843,119.853,128.251,128.594
+"11500","Anniston-Oxford, AL (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.743,103.252,110.430,116.870,119.211
+"11500","Anniston-Oxford, AL (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.838,135.959,147.488,158.805,162.268
+"11500","Anniston-Oxford, AL (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,105.920,110.866,115.338,116.451,120.625
+"11500","Anniston-Oxford, AL (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.745,107.728,114.520,116.957,113.730
+"11500","Anniston-Oxford, AL (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.214,128.088,149.180,147.158,145.954
+"11500","Anniston-Oxford, AL (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,99.622,103.114,121.724,121.137,118.308
+"11500","Anniston-Oxford, AL (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.523,111.175,116.583,120.246,124.850
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"11500","Anniston-Oxford, AL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2422,2542,2665,2863,2978,3051
+"11500","Anniston-Oxford, AL (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1852,1908,2013,2188,2231,2274
+"11500","Anniston-Oxford, AL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),11,8,8,14,24,22
+"11500","Anniston-Oxford, AL (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,"(L)","(L)","(L)","(L)","(L)"
+"11500","Anniston-Oxford, AL (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"11500","Anniston-Oxford, AL (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),74,72,72,71,72,69
+"11500","Anniston-Oxford, AL (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),79,69,66,69,67,68
+"11500","Anniston-Oxford, AL (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),484,497,519,620,607,592
+"11500","Anniston-Oxford, AL (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),340,354,368,439,442,441
+"11500","Anniston-Oxford, AL (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17,17,18,21,22,26
+"11500","Anniston-Oxford, AL (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),8,10,11,13,13,18
+"11500","Anniston-Oxford, AL (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),53,69,58,85,76,78
+"11500","Anniston-Oxford, AL (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),145,130,131,130,126,117
+"11500","Anniston-Oxford, AL (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3,2,2,4,5,6
+"11500","Anniston-Oxford, AL (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10,10,10,13,12,13
+"11500","Anniston-Oxford, AL (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),16,15,15,17,19,18
+"11500","Anniston-Oxford, AL (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),144,142,151,180,164,150
+"11500","Anniston-Oxford, AL (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),62,54,"(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,13,"(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)",44,56,51
+"11500","Anniston-Oxford, AL (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,10,12,9,2,2
+"11500","Anniston-Oxford, AL (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"11500","Anniston-Oxford, AL (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",25
+"11500","Anniston-Oxford, AL (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",18
+"11500","Anniston-Oxford, AL (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),179,180,207,211,217,222
+"11500","Anniston-Oxford, AL (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),243,247,247,248,262,283
+"11500","Anniston-Oxford, AL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),43,62,66,69,78,81
+"11500","Anniston-Oxford, AL (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(L)","(L)","(L)"
+"11500","Anniston-Oxford, AL (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(L)","(L)","(L)","(L)","(L)","(L)"
+"11500","Anniston-Oxford, AL (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"11500","Anniston-Oxford, AL (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),23,47,49,52,57,58
+"11500","Anniston-Oxford, AL (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",4,4
+"11500","Anniston-Oxford, AL (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),13,"(D)","(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,"(D)",5,5,5,6
+"11500","Anniston-Oxford, AL (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),98,99,104,126,109,133
+"11500","Anniston-Oxford, AL (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),14,15,"(D)","(D)","(D)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",1,1,1,1,1
+"11500","Anniston-Oxford, AL (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),83,"(D)","(D)","(D)","(D)",110
+"11500","Anniston-Oxford, AL (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(L)","(L)","(L)","(D)"
+"11500","Anniston-Oxford, AL (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),76,74,71,78,82,87
+"11500","Anniston-Oxford, AL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),55,55,53,60,66,71
+"11500","Anniston-Oxford, AL (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",5,5
+"11500","Anniston-Oxford, AL (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),16,16,14,13,12,12
+"11500","Anniston-Oxford, AL (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(L)","(L)"
+"11500","Anniston-Oxford, AL (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),91,101,101,106,112,111
+"11500","Anniston-Oxford, AL (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),66,78,80,84,90,90
+"11500","Anniston-Oxford, AL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),25,22,21,22,22,21
+"11500","Anniston-Oxford, AL (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),66,78,108,113,122,145
+"11500","Anniston-Oxford, AL (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,2,3,3,13,5
+"11500","Anniston-Oxford, AL (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),71,72,79,89,86,78
+"11500","Anniston-Oxford, AL (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),65,67,71,81,76,67
+"11500","Anniston-Oxford, AL (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),7,5,8,8,10,11
+"11500","Anniston-Oxford, AL (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),15,16,17,18,15,14
+"11500","Anniston-Oxford, AL (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),162,172,180,187,193,201
+"11500","Anniston-Oxford, AL (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),113,119,125,131,134,144
+"11500","Anniston-Oxford, AL (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",45,"(D)"
+"11500","Anniston-Oxford, AL (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",13,"(D)"
+"11500","Anniston-Oxford, AL (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,6,6,6,6,5
+"11500","Anniston-Oxford, AL (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,1,1,1,1,1
+"11500","Anniston-Oxford, AL (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),4,4,5,5,5,5
+"11500","Anniston-Oxford, AL (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),74,77,80,85,87,85
+"11500","Anniston-Oxford, AL (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9,9,9,9,9,9
+"11500","Anniston-Oxford, AL (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),65,68,71,76,78,76
+"11500","Anniston-Oxford, AL (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),69,71,72,72,72,74
+"11500","Anniston-Oxford, AL (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),570,633,652,678,744,773
+"11500","Anniston-Oxford, AL (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),249,305,323,340,400,423
+"11500","Anniston-Oxford, AL (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),16,18,22,25,25,23
+"11500","Anniston-Oxford, AL (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),305,310,307,311,316,324
+"11500","Anniston-Oxford, AL (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),20,15,15,21,31,27
+"11500","Anniston-Oxford, AL (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),422,427,454,459,478,504
+"11500","Anniston-Oxford, AL (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),117,134,138,141,150,151
+"11500","Anniston-Oxford, AL (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),167,174,172,184,195,199
+"11500","Anniston-Oxford, AL (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),140,152,190,206,222,227
+"11500","Anniston-Oxford, AL (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),178,188,197,205,207,214
+"11500","Anniston-Oxford, AL (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),79,82,85,91,93,90
+"11500","Anniston-Oxford, AL (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),21,22,26,31,30,30
+"11500","Anniston-Oxford, AL (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),577,575,595,703,699,683
+"11500","Anniston-Oxford, AL (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1275,1332,1417,1486,1533,1592
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"11500","Anniston-Oxford, AL (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),21812,22926,23933,25657,26573,27069
+"11500","Anniston-Oxford, AL (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"11500","Anniston-Oxford, AL (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce

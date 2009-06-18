@@ -17,3 +17,5 @@ Orig <- a[,c(1:6)]
 Orig <- rbind(Orig,Orig,Orig,Orig,Orig,Orig,Orig,Orig)
 
 new <- cbind(Orig, Year, HousingUnitEst)
+
+write.table(new, "HUnit-00-07Clean.csv", sep = ",", row = FALSE)

@@ -1,0 +1,357 @@
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"49620","York-Hanover, PA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",200,GDP by Metropolitan Area (millions of current dollars),10327,10660,11476,12183,13531,13921
+"49620","York-Hanover, PA (MSA)",2," Private industries",200,GDP by Metropolitan Area (millions of current dollars),9413,9684,10409,11006,12256,12567
+"49620","York-Hanover, PA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",200,GDP by Metropolitan Area (millions of current dollars),33,18,84,"(D)",60,57
+"49620","York-Hanover, PA (MSA)",4,"     Crop and animal production (Farms)",200,GDP by Metropolitan Area (millions of current dollars),27,11,77,75,53,50
+"49620","York-Hanover, PA (MSA)",5,"     Forestry, fishing, and related activities",200,GDP by Metropolitan Area (millions of current dollars),6,6,6,"(D)",7,7
+"49620","York-Hanover, PA (MSA)",6,"   Mining",200,GDP by Metropolitan Area (millions of current dollars),35,30,33,"(D)",39,44
+"49620","York-Hanover, PA (MSA)",7,"     Oil and gas extraction",200,GDP by Metropolitan Area (millions of current dollars),0,0,"(L)","(L)","(L)","(L)"
+"49620","York-Hanover, PA (MSA)",8,"     Mining, except oil and gas",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",37,"(D)"
+"49620","York-Hanover, PA (MSA)",9,"     Support activities for mining",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)",2,"(D)"
+"49620","York-Hanover, PA (MSA)",10,"   Utilities",200,GDP by Metropolitan Area (millions of current dollars),580,579,805,892,871,813
+"49620","York-Hanover, PA (MSA)",11,"   Construction",200,GDP by Metropolitan Area (millions of current dollars),611,631,649,734,844,871
+"49620","York-Hanover, PA (MSA)",12,"   Manufacturing",200,GDP by Metropolitan Area (millions of current dollars),3009,3106,3097,3151,3566,3527
+"49620","York-Hanover, PA (MSA)",13,"     Durable goods",200,GDP by Metropolitan Area (millions of current dollars),1794,1763,1705,1871,2302,2209
+"49620","York-Hanover, PA (MSA)",14,"       Wood product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),30,31,29,36,39,33
+"49620","York-Hanover, PA (MSA)",15,"       Nonmetallic mineral product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),171,169,155,159,245,142
+"49620","York-Hanover, PA (MSA)",16,"       Primary metal manufacturing",200,GDP by Metropolitan Area (millions of current dollars),43,66,70,123,134,183
+"49620","York-Hanover, PA (MSA)",17,"       Fabricated metal product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),389,370,344,347,372,374
+"49620","York-Hanover, PA (MSA)",18,"       Machinery manufacturing",200,GDP by Metropolitan Area (millions of current dollars),390,360,355,410,599,457
+"49620","York-Hanover, PA (MSA)",19,"       Computer and electronic product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),68,58,55,51,51,59
+"49620","York-Hanover, PA (MSA)",20,"       Electrical equipment and appliance manufacturing",200,GDP by Metropolitan Area (millions of current dollars),113,89,71,61,57,43
+"49620","York-Hanover, PA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",64
+"49620","York-Hanover, PA (MSA)",22,"       Other transportation equipment manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)",590
+"49620","York-Hanover, PA (MSA)",23,"       Furniture and related product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),75,74,88,81,74,72
+"49620","York-Hanover, PA (MSA)",24,"       Miscellaneous manufacturing",200,GDP by Metropolitan Area (millions of current dollars),98,112,118,148,159,193
+"49620","York-Hanover, PA (MSA)",25,"     Nondurable goods",200,GDP by Metropolitan Area (millions of current dollars),1215,1343,1392,1280,1264,1317
+"49620","York-Hanover, PA (MSA)",26,"       Food product manufacturing",200,GDP by Metropolitan Area (millions of current dollars),388,443,482,432,454,468
+"49620","York-Hanover, PA (MSA)",27,"       Textile and textile product mills",200,GDP by Metropolitan Area (millions of current dollars),17,17,13,5,4,3
+"49620","York-Hanover, PA (MSA)",28,"       Apparel manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",58,49,29,26,22
+"49620","York-Hanover, PA (MSA)",29,"       Paper manufacturing",200,GDP by Metropolitan Area (millions of current dollars),320,392,429,385,368,425
+"49620","York-Hanover, PA (MSA)",30,"       Printing and related support activities",200,GDP by Metropolitan Area (millions of current dollars),216,205,205,215,215,213
+"49620","York-Hanover, PA (MSA)",31,"       Petroleum and coal products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),"(D)",9,15,14,12,11
+"49620","York-Hanover, PA (MSA)",32,"       Chemical manufacturing",200,GDP by Metropolitan Area (millions of current dollars),46,53,62,51,40,39
+"49620","York-Hanover, PA (MSA)",33,"       Plastics and rubber products manufacturing",200,GDP by Metropolitan Area (millions of current dollars),177,165,139,148,145,137
+"49620","York-Hanover, PA (MSA)",34,"   Wholesale trade",200,GDP by Metropolitan Area (millions of current dollars),490,529,600,676,707,708
+"49620","York-Hanover, PA (MSA)",35,"   Retail trade",200,GDP by Metropolitan Area (millions of current dollars),852,853,904,925,958,977
+"49620","York-Hanover, PA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",200,GDP by Metropolitan Area (millions of current dollars),304,339,365,428,464,473
+"49620","York-Hanover, PA (MSA)",37,"     Air transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(L)","(L)","(L)","(L)"
+"49620","York-Hanover, PA (MSA)",38,"     Rail transportation",200,GDP by Metropolitan Area (millions of current dollars),5,6,6,8,8,9
+"49620","York-Hanover, PA (MSA)",39,"     Water transportation",200,GDP by Metropolitan Area (millions of current dollars),0,0,0,0,0,0
+"49620","York-Hanover, PA (MSA)",40,"     Truck transportation",200,GDP by Metropolitan Area (millions of current dollars),185,178,192,217,230,240
+"49620","York-Hanover, PA (MSA)",41,"     Transit and ground passenger transportation",200,GDP by Metropolitan Area (millions of current dollars),18,18,18,21,22,22
+"49620","York-Hanover, PA (MSA)",42,"     Pipeline transportation",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",43,"     Other transportation and support activities",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",44,"     Warehousing and storage",200,GDP by Metropolitan Area (millions of current dollars),36,48,52,69,88,98
+"49620","York-Hanover, PA (MSA)",45,"   Information",200,GDP by Metropolitan Area (millions of current dollars),211,191,217,222,275,292
+"49620","York-Hanover, PA (MSA)",46,"     Publishing including software",200,GDP by Metropolitan Area (millions of current dollars),32,"(D)","(D)","(D)","(D)",49
+"49620","York-Hanover, PA (MSA)",47,"     Motion picture and sound recording industries",200,GDP by Metropolitan Area (millions of current dollars),2,"(D)","(D)","(D)","(D)",3
+"49620","York-Hanover, PA (MSA)",48,"     Broadcasting and telecommunications",200,GDP by Metropolitan Area (millions of current dollars),147,123,145,148,186,181
+"49620","York-Hanover, PA (MSA)",49,"     Information and data processing services",200,GDP by Metropolitan Area (millions of current dollars),30,32,"(D)",24,38,59
+"49620","York-Hanover, PA (MSA)",50,"   Finance and insurance",200,GDP by Metropolitan Area (millions of current dollars),389,388,423,424,479,535
+"49620","York-Hanover, PA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",200,GDP by Metropolitan Area (millions of current dollars),217,"(D)","(D)",240,292,314
+"49620","York-Hanover, PA (MSA)",52,"     Securities, commodity contracts, investments",200,GDP by Metropolitan Area (millions of current dollars),"(D)",28,31,"(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",53,"     Insurance carriers and related activities",200,GDP by Metropolitan Area (millions of current dollars),141,135,149,153,154,185
+"49620","York-Hanover, PA (MSA)",54,"     Funds, trusts, and other financial vehicles",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",55,"   Real estate and rental and leasing",200,GDP by Metropolitan Area (millions of current dollars),583,678,804,820,1105,1197
+"49620","York-Hanover, PA (MSA)",56,"     Real estate",200,GDP by Metropolitan Area (millions of current dollars),"(D)",546,652,681,948,1041
+"49620","York-Hanover, PA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",200,GDP by Metropolitan Area (millions of current dollars),"(D)",132,152,138,157,156
+"49620","York-Hanover, PA (MSA)",58,"   Professional and technical services",200,GDP by Metropolitan Area (millions of current dollars),364,351,365,393,443,480
+"49620","York-Hanover, PA (MSA)",62,"   Management of companies and enterprises",200,GDP by Metropolitan Area (millions of current dollars),145,137,127,176,230,254
+"49620","York-Hanover, PA (MSA)",63,"   Administrative and waste services",200,GDP by Metropolitan Area (millions of current dollars),312,260,223,251,291,348
+"49620","York-Hanover, PA (MSA)",64,"     Administrative and support services",200,GDP by Metropolitan Area (millions of current dollars),271,202,204,220,254,280
+"49620","York-Hanover, PA (MSA)",65,"     Waste management and remediation services",200,GDP by Metropolitan Area (millions of current dollars),41,58,19,32,37,69
+"49620","York-Hanover, PA (MSA)",66,"   Educational services",200,GDP by Metropolitan Area (millions of current dollars),57,63,66,71,76,86
+"49620","York-Hanover, PA (MSA)",67,"   Health care and social assistance",200,GDP by Metropolitan Area (millions of current dollars),816,869,957,1005,1060,1125
+"49620","York-Hanover, PA (MSA)",68,"     Ambulatory health care services",200,GDP by Metropolitan Area (millions of current dollars),391,402,443,460,498,528
+"49620","York-Hanover, PA (MSA)",69,"     Hospitals and nursing and residential care facilities",200,GDP by Metropolitan Area (millions of current dollars),373,408,453,477,487,514
+"49620","York-Hanover, PA (MSA)",70,"     Social assistance",200,GDP by Metropolitan Area (millions of current dollars),53,59,61,68,75,84
+"49620","York-Hanover, PA (MSA)",71,"   Arts, entertainment, and recreation",200,GDP by Metropolitan Area (millions of current dollars),55,62,55,56,58,63
+"49620","York-Hanover, PA (MSA)",72,"     Performing arts, museums, and related activities",200,GDP by Metropolitan Area (millions of current dollars),6,5,8,9,10,12
+"49620","York-Hanover, PA (MSA)",73,"     Amusement, gambling, and recreation",200,GDP by Metropolitan Area (millions of current dollars),50,57,47,47,48,51
+"49620","York-Hanover, PA (MSA)",74,"   Accommodation and food services",200,GDP by Metropolitan Area (millions of current dollars),255,270,291,303,323,295
+"49620","York-Hanover, PA (MSA)",75,"     Accommodation",200,GDP by Metropolitan Area (millions of current dollars),39,37,40,39,43,44
+"49620","York-Hanover, PA (MSA)",76,"     Food services and drinking places",200,GDP by Metropolitan Area (millions of current dollars),215,233,251,263,281,251
+"49620","York-Hanover, PA (MSA)",77,"   Other services, except government",200,GDP by Metropolitan Area (millions of current dollars),313,330,346,362,406,422
+"49620","York-Hanover, PA (MSA)",78," Government",200,GDP by Metropolitan Area (millions of current dollars),913,976,1067,1177,1275,1354
+"49620","York-Hanover, PA (MSA)",79,"   Federal civilian",200,GDP by Metropolitan Area (millions of current dollars),236,258,286,338,382,412
+"49620","York-Hanover, PA (MSA)",80,"   Federal military",200,GDP by Metropolitan Area (millions of current dollars),62,70,81,85,94,95
+"49620","York-Hanover, PA (MSA)",81,"   State and local",200,GDP by Metropolitan Area (millions of current dollars),616,648,700,754,799,847
+"49620","York-Hanover, PA (MSA)",99,"Natural resources and mining",200,GDP by Metropolitan Area (millions of current dollars),68,47,117,115,99,101
+"49620","York-Hanover, PA (MSA)",100,"Trade",200,GDP by Metropolitan Area (millions of current dollars),1342,1382,1504,1602,1666,1685
+"49620","York-Hanover, PA (MSA)",101,"Transportation and utilities",200,GDP by Metropolitan Area (millions of current dollars),884,918,1169,1320,1334,1286
+"49620","York-Hanover, PA (MSA)",102,"Financial activities",200,GDP by Metropolitan Area (millions of current dollars),972,1067,1226,1244,1584,1732
+"49620","York-Hanover, PA (MSA)",103,"Professional and business services",200,GDP by Metropolitan Area (millions of current dollars),821,747,715,821,964,1083
+"49620","York-Hanover, PA (MSA)",104,"Education and health services",200,GDP by Metropolitan Area (millions of current dollars),873,932,1023,1077,1137,1211
+"49620","York-Hanover, PA (MSA)",105,"Leisure and hospitality",200,GDP by Metropolitan Area (millions of current dollars),310,333,346,359,382,358
+"49620","York-Hanover, PA (MSA)",106,"Information, Communication, and Technology (ICT)",200,GDP by Metropolitan Area (millions of current dollars),"(D)","(D)",158,"(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",108,"Private goods-producing industries",200,GDP by Metropolitan Area (millions of current dollars),3682,3778,3857,3993,4502,4491
+"49620","York-Hanover, PA (MSA)",109,"Private services-providing industries",200,GDP by Metropolitan Area (millions of current dollars),5731,5906,6552,7013,7754,8075
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"49620","York-Hanover, PA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.077,107.306,110.919,119.341,118.380
+"49620","York-Hanover, PA (MSA)",2," Private industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.003,107.448,110.892,119.796,118.525
+"49620","York-Hanover, PA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,58.249,248.660,"(D)",176.999,176.622
+"49620","York-Hanover, PA (MSA)",4,"     Crop and animal production (Farms)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,45.974,279.998,225.812,192.863,193.281
+"49620","York-Hanover, PA (MSA)",5,"     Forestry, fishing, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.569,106.391,"(D)",107.635,103.878
+"49620","York-Hanover, PA (MSA)",6,"   Mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,77.805,85.229,"(D)",78.355,77.115
+"49620","York-Hanover, PA (MSA)",7,"     Oil and gas extraction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"49620","York-Hanover, PA (MSA)",8,"     Mining, except oil and gas",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",9,"     Support activities for mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",10,"   Utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.469,142.126,152.529,140.152,116.740
+"49620","York-Hanover, PA (MSA)",11,"   Construction",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.603,96.593,100.675,105.463,98.735
+"49620","York-Hanover, PA (MSA)",12,"   Manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.472,102.928,105.042,115.987,111.866
+"49620","York-Hanover, PA (MSA)",13,"     Durable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.834,95.023,103.100,123.087,114.904
+"49620","York-Hanover, PA (MSA)",14,"       Wood product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.484,93.286,99.474,108.737,95.818
+"49620","York-Hanover, PA (MSA)",15,"       Nonmetallic mineral product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,97.233,90.462,90.091,129.434,66.531
+"49620","York-Hanover, PA (MSA)",16,"       Primary metal manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,152.483,168.612,240.630,228.377,259.698
+"49620","York-Hanover, PA (MSA)",17,"       Fabricated metal product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,94.755,89.100,87.682,89.601,89.323
+"49620","York-Hanover, PA (MSA)",18,"       Machinery manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.787,90.839,108.294,154.753,117.077
+"49620","York-Hanover, PA (MSA)",19,"       Computer and electronic product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.287,106.130,112.570,129.787,171.673
+"49620","York-Hanover, PA (MSA)",20,"       Electrical equipment and appliance manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,79.465,65.506,55.864,50.461,36.091
+"49620","York-Hanover, PA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",22,"       Other transportation equipment manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",23,"       Furniture and related product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.144,113.513,109.338,96.853,91.416
+"49620","York-Hanover, PA (MSA)",24,"       Miscellaneous manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.789,118.071,150.531,162.729,199.296
+"49620","York-Hanover, PA (MSA)",25,"     Nondurable goods",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.285,114.549,107.708,104.720,106.925
+"49620","York-Hanover, PA (MSA)",26,"       Food product manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.708,119.982,110.708,114.701,123.195
+"49620","York-Hanover, PA (MSA)",27,"       Textile and textile product mills",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.324,82.365,32.867,24.445,19.951
+"49620","York-Hanover, PA (MSA)",28,"       Apparel manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",29,"       Paper manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,124.090,139.212,128.497,121.919,133.195
+"49620","York-Hanover, PA (MSA)",30,"       Printing and related support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.955,94.539,100.714,101.216,99.035
+"49620","York-Hanover, PA (MSA)",31,"       Petroleum and coal products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",32,"       Chemical manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,115.372,130.369,105.737,77.350,70.418
+"49620","York-Hanover, PA (MSA)",33,"       Plastics and rubber products manufacturing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.664,79.704,87.752,84.304,71.052
+"49620","York-Hanover, PA (MSA)",34,"   Wholesale trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,107.561,120.446,128.513,129.792,125.437
+"49620","York-Hanover, PA (MSA)",35,"   Retail trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,98.352,103.667,105.332,110.677,113.553
+"49620","York-Hanover, PA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,108.743,115.737,131.902,141.246,139.851
+"49620","York-Hanover, PA (MSA)",37,"     Air transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",38,"     Rail transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.305,113.407,130.378,125.529,153.345
+"49620","York-Hanover, PA (MSA)",39,"     Water transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),0.000,0.000,0.000,0.000,0.000,0.000
+"49620","York-Hanover, PA (MSA)",40,"     Truck transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.309,99.443,109.029,112.753,114.463
+"49620","York-Hanover, PA (MSA)",41,"     Transit and ground passenger transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.405,92.844,106.741,105.746,106.939
+"49620","York-Hanover, PA (MSA)",42,"     Pipeline transportation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",43,"     Other transportation and support activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",44,"     Warehousing and storage",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,129.120,140.140,176.742,225.470,247.127
+"49620","York-Hanover, PA (MSA)",45,"   Information",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,91.694,105.300,111.736,144.452,157.740
+"49620","York-Hanover, PA (MSA)",46,"     Publishing including software",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)",163.207
+"49620","York-Hanover, PA (MSA)",47,"     Motion picture and sound recording industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)","(D)","(D)",165.081
+"49620","York-Hanover, PA (MSA)",48,"     Broadcasting and telecommunications",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,85.933,102.456,107.934,144.029,144.694
+"49620","York-Hanover, PA (MSA)",49,"     Information and data processing services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,103.930,"(D)",80.116,128.273,211.994
+"49620","York-Hanover, PA (MSA)",50,"   Finance and insurance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,96.270,101.547,97.651,107.696,117.390
+"49620","York-Hanover, PA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,"(D)","(D)",100.402,119.090,123.215
+"49620","York-Hanover, PA (MSA)",52,"     Securities, commodity contracts, investments",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",53,"     Insurance carriers and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,92.375,94.860,90.761,88.005,104.943
+"49620","York-Hanover, PA (MSA)",54,"     Funds, trusts, and other financial vehicles",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",55,"   Real estate and rental and leasing",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,113.480,130.329,129.763,170.412,179.827
+"49620","York-Hanover, PA (MSA)",56,"     Real estate",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",58,"   Professional and technical services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.725,97.798,105.268,115.118,122.150
+"49620","York-Hanover, PA (MSA)",62,"   Management of companies and enterprises",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,93.689,83.870,103.401,121.094,126.586
+"49620","York-Hanover, PA (MSA)",63,"   Administrative and waste services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,81.321,69.484,75.523,84.750,96.783
+"49620","York-Hanover, PA (MSA)",64,"     Administrative and support services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,73.070,73.669,76.910,85.448,90.138
+"49620","York-Hanover, PA (MSA)",65,"     Waste management and remediation services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,135.220,43.537,66.934,80.504,139.763
+"49620","York-Hanover, PA (MSA)",66,"   Educational services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.466,106.031,107.318,109.092,116.390
+"49620","York-Hanover, PA (MSA)",67,"   Health care and social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.597,109.998,111.765,114.544,118.543
+"49620","York-Hanover, PA (MSA)",68,"     Ambulatory health care services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.219,109.657,111.318,118.168,123.853
+"49620","York-Hanover, PA (MSA)",69,"     Hospitals and nursing and residential care facilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.926,109.940,110.206,107.976,109.313
+"49620","York-Hanover, PA (MSA)",70,"     Social assistance",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,110.432,113.013,127.401,139.740,153.091
+"49620","York-Hanover, PA (MSA)",71,"   Arts, entertainment, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,109.075,93.393,94.232,95.109,99.212
+"49620","York-Hanover, PA (MSA)",72,"     Performing arts, museums, and related activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,85.778,125.473,147.080,153.319,173.934
+"49620","York-Hanover, PA (MSA)",73,"     Amusement, gambling, and recreation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,111.787,89.595,87.946,88.167,90.226
+"49620","York-Hanover, PA (MSA)",74,"   Accommodation and food services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.334,108.241,109.417,113.180,99.055
+"49620","York-Hanover, PA (MSA)",75,"     Accommodation",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,95.075,100.997,94.081,97.040,97.460
+"49620","York-Hanover, PA (MSA)",76,"     Food services and drinking places",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.443,109.521,112.121,116.027,99.286
+"49620","York-Hanover, PA (MSA)",77,"   Other services, except government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.067,102.768,104.481,110.708,109.756
+"49620","York-Hanover, PA (MSA)",78," Government",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.826,105.946,111.155,115.096,116.981
+"49620","York-Hanover, PA (MSA)",79,"   Federal civilian",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.647,108.215,118.992,129.250,133.810
+"49620","York-Hanover, PA (MSA)",80,"   Federal military",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.198,110.575,109.725,111.042,106.225
+"49620","York-Hanover, PA (MSA)",81,"   State and local",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.264,104.572,108.218,109.888,111.469
+"49620","York-Hanover, PA (MSA)",99,"Natural resources and mining",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,68.814,158.434,133.726,122.380,121.421
+"49620","York-Hanover, PA (MSA)",100,"Trade",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.698,109.758,113.783,117.569,117.617
+"49620","York-Hanover, PA (MSA)",101,"Transportation and utilities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,104.003,132.685,145.146,140.405,124.411
+"49620","York-Hanover, PA (MSA)",102,"Financial activities",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,106.568,118.756,116.841,145.068,154.608
+"49620","York-Hanover, PA (MSA)",103,"Professional and business services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,89.004,84.577,93.768,104.967,113.557
+"49620","York-Hanover, PA (MSA)",104,"Education and health services",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.720,109.730,111.465,114.174,118.409
+"49620","York-Hanover, PA (MSA)",105,"Leisure and hospitality",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,102.709,105.610,106.726,109.977,99.063
+"49620","York-Hanover, PA (MSA)",106,"Information, Communication, and Technology (ICT)",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",108,"Private goods-producing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,101.190,102.900,104.816,114.084,109.479
+"49620","York-Hanover, PA (MSA)",109,"Private services-providing industries",800,Quantity Indexes for Real GDP by Metropolitan Area (2001=100.000),100.000,100.884,110.330,114.734,123.413,124.243
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"49620","York-Hanover, PA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),10327,10438,11081,11454,12324,12225
+"49620","York-Hanover, PA (MSA)",2," Private industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),9413,9508,10115,10439,11277,11157
+"49620","York-Hanover, PA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),33,19,81,"(D)",58,57
+"49620","York-Hanover, PA (MSA)",4,"     Crop and animal production (Farms)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),27,12,74,60,51,51
+"49620","York-Hanover, PA (MSA)",5,"     Forestry, fishing, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,7,6,"(D)",6,6
+"49620","York-Hanover, PA (MSA)",6,"   Mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),35,28,30,"(D)",28,27
+"49620","York-Hanover, PA (MSA)",7,"     Oil and gas extraction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,"(L)","(L)","(L)","(L)"
+"49620","York-Hanover, PA (MSA)",8,"     Mining, except oil and gas",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",27,"(D)"
+"49620","York-Hanover, PA (MSA)",9,"     Support activities for mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)",1,"(D)"
+"49620","York-Hanover, PA (MSA)",10,"   Utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),580,589,825,885,813,678
+"49620","York-Hanover, PA (MSA)",11,"   Construction",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),611,602,590,615,644,603
+"49620","York-Hanover, PA (MSA)",12,"   Manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3009,3084,3097,3161,3490,3366
+"49620","York-Hanover, PA (MSA)",13,"     Durable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1794,1755,1705,1850,2208,2061
+"49620","York-Hanover, PA (MSA)",14,"       Wood product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),30,32,28,30,33,29
+"49620","York-Hanover, PA (MSA)",15,"       Nonmetallic mineral product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),171,166,155,154,221,114
+"49620","York-Hanover, PA (MSA)",16,"       Primary metal manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),43,66,73,105,99,113
+"49620","York-Hanover, PA (MSA)",17,"       Fabricated metal product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),389,368,346,341,348,347
+"49620","York-Hanover, PA (MSA)",18,"       Machinery manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),390,358,354,422,603,456
+"49620","York-Hanover, PA (MSA)",19,"       Computer and electronic product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),68,65,72,76,88,116
+"49620","York-Hanover, PA (MSA)",20,"       Electrical equipment and appliance manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),113,90,74,63,57,41
+"49620","York-Hanover, PA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",95
+"49620","York-Hanover, PA (MSA)",22,"       Other transportation equipment manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)",509
+"49620","York-Hanover, PA (MSA)",23,"       Furniture and related product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),75,72,85,82,73,69
+"49620","York-Hanover, PA (MSA)",24,"       Miscellaneous manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),98,109,115,147,159,194
+"49620","York-Hanover, PA (MSA)",25,"     Nondurable goods",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1215,1328,1392,1309,1273,1300
+"49620","York-Hanover, PA (MSA)",26,"       Food product manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),388,422,466,430,445,478
+"49620","York-Hanover, PA (MSA)",27,"       Textile and textile product mills",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),17,18,14,5,4,3
+"49620","York-Hanover, PA (MSA)",28,"       Apparel manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",59,49,30,28,23
+"49620","York-Hanover, PA (MSA)",29,"       Paper manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),320,397,445,411,390,426
+"49620","York-Hanover, PA (MSA)",30,"       Printing and related support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),216,203,204,217,218,214
+"49620","York-Hanover, PA (MSA)",31,"       Petroleum and coal products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",16,16,14,7,6
+"49620","York-Hanover, PA (MSA)",32,"       Chemical manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),46,53,60,49,36,32
+"49620","York-Hanover, PA (MSA)",33,"       Plastics and rubber products manufacturing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),177,164,141,155,149,126
+"49620","York-Hanover, PA (MSA)",34,"   Wholesale trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),490,527,590,629,636,614
+"49620","York-Hanover, PA (MSA)",35,"   Retail trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),852,838,883,897,943,967
+"49620","York-Hanover, PA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),304,330,352,401,429,425
+"49620","York-Hanover, PA (MSA)",37,"     Air transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(L)","(L)","(L)","(L)"
+"49620","York-Hanover, PA (MSA)",38,"     Rail transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5,6,6,7,7,8
+"49620","York-Hanover, PA (MSA)",39,"     Water transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),0,0,0,0,0,0
+"49620","York-Hanover, PA (MSA)",40,"     Truck transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),185,173,184,202,208,212
+"49620","York-Hanover, PA (MSA)",41,"     Transit and ground passenger transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),18,18,17,20,19,20
+"49620","York-Hanover, PA (MSA)",42,"     Pipeline transportation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",43,"     Other transportation and support activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",44,"     Warehousing and storage",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),36,47,51,64,82,90
+"49620","York-Hanover, PA (MSA)",45,"   Information",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),211,193,222,236,305,333
+"49620","York-Hanover, PA (MSA)",46,"     Publishing including software",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),32,"(D)","(D)","(D)","(D)",52
+"49620","York-Hanover, PA (MSA)",47,"     Motion picture and sound recording industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),2,"(D)","(D)","(D)","(D)",3
+"49620","York-Hanover, PA (MSA)",48,"     Broadcasting and telecommunications",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),147,126,150,159,212,213
+"49620","York-Hanover, PA (MSA)",49,"     Information and data processing services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),30,32,"(D)",24,39,65
+"49620","York-Hanover, PA (MSA)",50,"   Finance and insurance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),389,374,395,380,419,456
+"49620","York-Hanover, PA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),217,"(D)","(D)",218,259,268
+"49620","York-Hanover, PA (MSA)",52,"     Securities, commodity contracts, investments",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",29,35,"(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",53,"     Insurance carriers and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),141,131,134,128,124,148
+"49620","York-Hanover, PA (MSA)",54,"     Funds, trusts, and other financial vehicles",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)","(D)","(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",55,"   Real estate and rental and leasing",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),583,661,760,756,993,1048
+"49620","York-Hanover, PA (MSA)",56,"     Real estate",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",527,612,626,852,909
+"49620","York-Hanover, PA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)",134,146,129,139,137
+"49620","York-Hanover, PA (MSA)",58,"   Professional and technical services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),364,341,356,383,419,445
+"49620","York-Hanover, PA (MSA)",62,"   Management of companies and enterprises",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),145,136,122,150,176,184
+"49620","York-Hanover, PA (MSA)",63,"   Administrative and waste services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),312,253,216,235,264,302
+"49620","York-Hanover, PA (MSA)",64,"     Administrative and support services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),271,198,199,208,231,244
+"49620","York-Hanover, PA (MSA)",65,"     Waste management and remediation services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),41,55,18,27,33,57
+"49620","York-Hanover, PA (MSA)",66,"   Educational services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),57,59,60,61,62,66
+"49620","York-Hanover, PA (MSA)",67,"   Health care and social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),816,838,898,912,935,968
+"49620","York-Hanover, PA (MSA)",68,"     Ambulatory health care services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),391,396,429,435,462,484
+"49620","York-Hanover, PA (MSA)",69,"     Hospitals and nursing and residential care facilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),373,384,410,411,403,408
+"49620","York-Hanover, PA (MSA)",70,"     Social assistance",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),53,58,59,67,74,81
+"49620","York-Hanover, PA (MSA)",71,"   Arts, entertainment, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),55,60,52,52,53,55
+"49620","York-Hanover, PA (MSA)",72,"     Performing arts, museums, and related activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),6,5,7,8,9,10
+"49620","York-Hanover, PA (MSA)",73,"     Amusement, gambling, and recreation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),50,55,44,44,44,45
+"49620","York-Hanover, PA (MSA)",74,"   Accommodation and food services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),255,258,276,279,288,252
+"49620","York-Hanover, PA (MSA)",75,"     Accommodation",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),39,37,40,37,38,38
+"49620","York-Hanover, PA (MSA)",76,"     Food services and drinking places",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),215,221,236,242,250,214
+"49620","York-Hanover, PA (MSA)",77,"   Other services, except government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),313,317,322,327,347,344
+"49620","York-Hanover, PA (MSA)",78," Government",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),913,930,968,1015,1051,1068
+"49620","York-Hanover, PA (MSA)",79,"   Federal civilian",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),236,242,255,280,305,315
+"49620","York-Hanover, PA (MSA)",80,"   Federal military",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),62,65,69,68,69,66
+"49620","York-Hanover, PA (MSA)",81,"   State and local",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),616,623,644,666,676,686
+"49620","York-Hanover, PA (MSA)",99,"Natural resources and mining",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),68,47,108,91,83,83
+"49620","York-Hanover, PA (MSA)",100,"Trade",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),1342,1364,1472,1526,1577,1578
+"49620","York-Hanover, PA (MSA)",101,"Transportation and utilities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),884,920,1173,1283,1241,1100
+"49620","York-Hanover, PA (MSA)",102,"Financial activities",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),972,1035,1154,1135,1409,1502
+"49620","York-Hanover, PA (MSA)",103,"Professional and business services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),821,731,694,770,862,932
+"49620","York-Hanover, PA (MSA)",104,"Education and health services",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),873,897,958,973,997,1034
+"49620","York-Hanover, PA (MSA)",105,"Leisure and hospitality",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),310,318,327,331,341,307
+"49620","York-Hanover, PA (MSA)",106,"Information, Communication, and Technology (ICT)",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),"(D)","(D)",176,"(D)","(D)","(D)"
+"49620","York-Hanover, PA (MSA)",108,"Private goods-producing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),3682,3726,3789,3860,4201,4031
+"49620","York-Hanover, PA (MSA)",109,"Private services-providing industries",900,Real GDP by Metropolitan Area (millions of chained 2001 dollars),5731,5782,6323,6576,7073,7121
+"FIPS","Metropolitan Area","Industry Code","Industry","Component Code","Component","2001","2002","2003","2004","2005","2006"
+"49620","York-Hanover, PA (MSA)",1,"Total Gross Domestic Product by Metropolitan Area",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),26798,26842,28155,28674,30316,29493
+"49620","York-Hanover, PA (MSA)",2," Private industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",3,"   Agriculture, forestry, fishing, and hunting",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",4,"     Crop and animal production (Farms)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",5,"     Forestry, fishing, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",6,"   Mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",7,"     Oil and gas extraction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",8,"     Mining, except oil and gas",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",9,"     Support activities for mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",10,"   Utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",11,"   Construction",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",12,"   Manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",13,"     Durable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",14,"       Wood product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",15,"       Nonmetallic mineral product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",16,"       Primary metal manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",17,"       Fabricated metal product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",18,"       Machinery manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",19,"       Computer and electronic product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",20,"       Electrical equipment and appliance manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",21,"       Motor vehicle, body, trailer, and parts manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",22,"       Other transportation equipment manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",23,"       Furniture and related product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",24,"       Miscellaneous manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",25,"     Nondurable goods",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",26,"       Food product manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",27,"       Textile and textile product mills",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",28,"       Apparel manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",29,"       Paper manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",30,"       Printing and related support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",31,"       Petroleum and coal products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",32,"       Chemical manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",33,"       Plastics and rubber products manufacturing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",34,"   Wholesale trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",35,"   Retail trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",36,"   Transportation and warehousing, excluding Postal Service",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",37,"     Air transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",38,"     Rail transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",39,"     Water transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",40,"     Truck transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",41,"     Transit and ground passenger transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",42,"     Pipeline transportation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",43,"     Other transportation and support activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",44,"     Warehousing and storage",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",45,"   Information",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",46,"     Publishing including software",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",47,"     Motion picture and sound recording industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",48,"     Broadcasting and telecommunications",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",49,"     Information and data processing services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",50,"   Finance and insurance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",51,"     Federal Reserve banks, credit intermediation and related services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",52,"     Securities, commodity contracts, investments",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",53,"     Insurance carriers and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",54,"     Funds, trusts, and other financial vehicles",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",55,"   Real estate and rental and leasing",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",56,"     Real estate",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",57,"     Rental and leasing services and lessors of intangible assets",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",58,"   Professional and technical services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",62,"   Management of companies and enterprises",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",63,"   Administrative and waste services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",64,"     Administrative and support services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",65,"     Waste management and remediation services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",66,"   Educational services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",67,"   Health care and social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",68,"     Ambulatory health care services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",69,"     Hospitals and nursing and residential care facilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",70,"     Social assistance",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",71,"   Arts, entertainment, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",72,"     Performing arts, museums, and related activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",73,"     Amusement, gambling, and recreation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",74,"   Accommodation and food services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",75,"     Accommodation",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",76,"     Food services and drinking places",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",77,"   Other services, except government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",78," Government",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",79,"   Federal civilian",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",80,"   Federal military",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",81,"   State and local",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",99,"Natural resources and mining",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",100,"Trade",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",101,"Transportation and utilities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",102,"Financial activities",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",103,"Professional and business services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",104,"Education and health services",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",105,"Leisure and hospitality",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",106,"Information, Communication, and Technology (ICT)",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",108,"Private goods-producing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+"49620","York-Hanover, PA (MSA)",109,"Private services-providing industries",1000,Per capita real GDP by Metropolitan Area (chained 2001 dollars),"n/a","n/a","n/a","n/a","n/a","n/a"
+Source: Bureau of Economic Analysis, U.S. Department of Commerce
