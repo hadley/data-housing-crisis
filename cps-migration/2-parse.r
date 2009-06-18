@@ -38,7 +38,7 @@ parse_year <- function(year) {
   message("Loading raw data")
   lines <- readLines(gzfile(path))
   closeAllConnections()
-  
+  print(head(lines))
   message("Extracting fields")
   fields <- field_desc[field_desc$year == year, ]
   parsed <- llply(lines, parse_line, fields = one, .progress = "text")
