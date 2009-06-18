@@ -41,13 +41,13 @@ parse_year <- function(year) {
   
   message("Extracting fields")
   fields <- field_desc[field_desc$year == year, ]
-  parsed <- llply(lines, parse_line, fields = one, .progress = "text")
+  parsed <- llply(lines, parse_line, fields = fields, .progress = "text")
 
   # Convert to data frame
   message("Converting to data frame")
   out <- do.call("rbind", parsed)
   outdf <- as.data.frame(alply(out, 2, type.convert))
-  names(outdf) <- tolower(one$abbr)
+  names(outdf) <- tolower(fields$abbr)
   outdf$year <- year
 
   # Save as compressed csv file
