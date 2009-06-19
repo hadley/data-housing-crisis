@@ -326,7 +326,7 @@ all <- ldply(2000:2009, clean_all)
 colnames(all) <- tolower(colnames(all))
 all <- all[,c("year","month","city","state","bedrooms","housing_units","valuation")]
 
-write.table(all, gzfile("all_data.csv.gz"), sep = ",", row = F)
+write.table(all, gzfile("new-construction.csv.gz"), sep = ",", row = F)
 closeAllConnections()
 
 
