@@ -52,18 +52,30 @@ analyze_gdp <- function(df){
 	#					df$gdp[df$indust == 74 ],
 	#					df$gdp[df$indust == 105 ],
 	#					na.rm = T)
-	tourism <- df$gdp[df$indust == 105 ]
+	leisure <- df$gdp[df$indust == 105 ]
+	accomodations <- df$gdp[df$indust == 74 ]
+	entertainment <- df$gdp[df$indust == 71]
 	
 	# growth a combination of construction and real estate
-	growth <- sum(df$gdp[df$indust == 11],
-						df$gdp[df$indust == 55 ],
-						na.rm = T)
+	# growth <- sum(df$gdp[df$indust == 11],
+	#					df$gdp[df$indust == 55 ],
+	#					na.rm = T)
+	real_estate <- df$gdp[df$indust == 55 ]
+	construction <- df$gdp[df$indust == 11]
+	
 						
-	c( total = total,
-		tourism = tourism,
-		growth = growth,
-		percent_tourism = round(tourism/total * 100, 2),
-		percent_growth = round(growth/total * 100, 2))
+	# c( total = total,
+	#	tourism = tourism,
+	#	growth = growth,
+	#	percent_tourism = round(tourism/total * 100, 2),
+	#	percent_growth = round(growth/total * 100, 2))
+	
+	c(total = total,
+		leisure = leisure,
+		accomodations = accomodations,
+		entertainment = entertainment,
+		real_estate = real_estate,
+		construction = construction)
 }
 
 # analyzing the gdp by location for each year
@@ -74,7 +86,7 @@ new_gdp <- ddply(gdp, .(fips, year), analyze_gdp)
 # adding city and state information to new_gdp
 fips$fips <- as.numeric(fips$msa_fips)
 gdp_w_cs <- merge(new_gdp, fips, by.x = "fips", by.y = "fips", all.x = T)
-gdp_w_cs <- gdp_w_cs[,c(8, 1, 9:10, 2:7)]		
+	
 
 # adding latitude and longitude information to gdp
 gdp_final <- merge(gdp_w_cs, latitude, by.x = c("city", "state"), by.y = c("city", "state"), all.x = T)			
@@ -88,14 +100,22 @@ write.table(gdp_final, "tourism_and_growth.csv", sep = ",", row = F)
 
 # Plotting results
 library(ggplot2)
-# tourism
-a <- qplot(longitude, latitude, data = gdp_final[gdp_final$year == 2004,], colour = percent_tourism, size = tourism, main = "Cities by amount of  tourism dollars spent in 2004")
+# tourism measures
+a <- qplot(longitude, latitude, data = gdp_final[gdp_final$year == 2004,], colour = leisure/total, size = leisure, main = "Cities by amount of leisure dollars spent in 2004")
 a + scale_colour_gradient("percent of GDP", trans = "sqrt") + scale_size("total dollars", trans = "log10")
+
+b <- qplot(longitude, latitude, data = gdp_final[gdp_final$year == 2004,], colour = accomodations/total, size = accomodations, main = "Cities by amount of accomodation and food service dollars spent in 2004")
+b + scale_colour_gradient("percent of GDP", trans = "log") + scale_size("total dollars", trans = "log10")
+
+d <- qplot(longitude, latitude, data = gdp_final[gdp_final$year == 2004,], colour = entertainment/total, size = entertainment, main = "Cities by amount of arts, entertainment, and recreation dollars spent in 2004")
+d + scale_colour_gradient("percent of GDP", trans = "log") + scale_size("total dollars", trans = "log10")
 
 
 # growth
-b <- qplot(longitude, latitude, data = gdp_final[gdp_final$year == 2004,], colour = percent_growth, size = growth, main = "Cities by amount of Real Estate and Construction dollars spent 2004")
-b + scale_colour_gradient("percent of GDP") + scale_size("total dollars", trans = "log10")
+f <- qplot(longitude, latitude, data = gdp_final[gdp_final$year == 2004,], colour = real_estate/total, size = real_estate, main = "Cities by amount of Real Estate dollars spent 2004")
+f + scale_colour_gradient("percent of GDP") + scale_size("total dollars", trans = "log10")
 
+g <- qplot(longitude, latitude, data = gdp_final[gdp_final$year == 2004,], colour = construction/total, size = construction, main = "Cities by amount of construction dollars spent 2004")
+g + scale_colour_gradient("percent of GDP") + scale_size("total dollars", trans = "log10")
 
 
