@@ -1,0 +1,1241 @@
+RT         1      
+    Record Type
+           H .Housing Record or Group Quarters Unit
+
+SERIALNO   7      
+    Housing unit/GQ person serial number    
+           0000001..9999999 .Unique identifier assigned within
+                            .state          
+
+DIVISION   1      
+    Division code
+           0 .Puerto Rico
+           1 .New England (Northeast region)
+           2 .Middle Atlantic (Northeast region)
+           3 .East North Central (Midwest region)
+           4 .West North Central (Midwest region)
+           5 .South Atlantic (South region)       
+           6 .East South Central (South region)
+           7 .West South Central (South Region)
+           8 .Mountain (West region)
+           9 .Pacific (West region)
+
+PUMA       5      
+    Public use microdata area code (PUMA)          
+    Designates area of 100,000 or more population.  Use with ST for unique
+    code.
+           00100..08200 
+          77777 .combination of 01801, 01802, and 01905 in Louisiana 
+
+REGION     1      
+    Region code
+           1 .Northeast
+           2 .Midwest
+           3 .South
+           4 .West
+           9 .Puerto Rico
+
+ST         2      
+    State Code
+           01 .Alabama/AL                              
+           02 .Alaska/AK                               
+           04 .Arizona/AZ                              
+           05 .Arkansas/AR                             
+           06 .California/CA                           
+           08 .Colorado/CO                             
+           09 .Connecticut/CT                          
+           10 .Delaware/DE                             
+           11 .District of Columbia/DC                 
+           12 .Florida/FL                              
+           13 .Georgia/GA                              
+           15 .Hawaii/HI                               
+           16 .Idaho/ID                                
+           17 .Illinois/IL                             
+           18 .Indiana/IN                              
+           19 .Iowa/IA                                 
+           20 .Kansas/KS                               
+           21 .Kentucky/KY                             
+           22 .Louisiana/LA                            
+           23 .Maine/ME                                
+           24 .Maryland/MD                             
+           25 .Massachusetts/MA                        
+           26 .Michigan/MI                             
+           27 .Minnesota/MN                            
+           28 .Mississippi/MS                          
+           29 .Missouri/MO                             
+           30 .Montana/MT                              
+           31 .Nebraska/NE                             
+           32 .Nevada/NV                               
+           33 .New Hampshire/NH                        
+           34 .New Jersey/NJ                           
+           35 .New Mexico/NM                           
+           36 .New York/NY                             
+           37 .North Carolina/NC                       
+           38 .North Dakota/ND                         
+           39 .Ohio/OH                                 
+           40 .Oklahoma/OK                             
+           41 .Oregon/OR                               
+           42 .Pennsylvania/PA                         
+           44 .Rhode Island/RI                         
+           45 .South Carolina/SC                       
+           46 .South Dakota/SD                         
+           47 .Tennessee/TN                            
+           48 .Texas/TX                                
+           49 .Utah/UT                                 
+           50 .Vermont/VT                              
+           51 .Virginia/VA                             
+           53 .Washington/WA                           
+           54 .West Virginia/WV                        
+           55 .Wisconsin/WI                            
+           56 .Wyoming/WY                              
+           72 .Puerto Rico/PR
+
+ADJUST     7      
+    Adjustment factor for dollar amounts (6 implied decimal places)
+           1016787 .2007 factor (1.016787)
+
+WGTP       4      
+    Housing Weight   
+           0001..9999 .Integer weight of housing unit
+
+NP         2      
+    Number of person records following this housing record
+               00 .Vacant unit
+               01 .One person record (one person in household or  
+                  .any person in group quarters)
+           02..20 .Number of person records (number of persons in
+                  .household)
+
+TYPE       1      
+    Type of unit               
+           1 .Housing unit       
+           2 .Institutional group quarters
+           3 .Noninstitutional group quarters
+
+ACR        1      
+    Lot size            
+           b .N/A (GQ/not a one-family house or mobile home)
+           1 .House on less than one acre
+           2 .House on one to less than ten acres 
+           3 .House on ten or more acres
+
+AGS        1         
+    Sales of Agriculture Products
+           b .N/A (less than 1 acre/GQ/vacant/
+             .2 or more units in structure)
+           1 .None
+           2 .$    1 - $  999
+           3 .$ 1000 - $ 2499
+           4 .$ 2500 - $ 4999
+           5 .$ 5000 - $ 9999
+           6 .$10000+  
+
+BDS        1      
+    Bedrooms
+           b .N/A (GQ)
+           0 .No bedrooms
+           1 .1 Bedroom
+           2 .2 Bedrooms
+           3 .3 Bedrooms
+           4 .4 Bedrooms
+           5 .5 or more bedrooms
+
+BLD        2      
+    Units in structure
+           bb .N/A (GQ)
+           01 .Mobile home or trailer
+           02 .One-family house detached
+           03 .One-family house attached
+           04 .2 Apartments
+           05 .3-4 Apartments
+           06 .5-9 Apartments
+           07 .10-19 Apartments
+           08 .20-49 Apartments
+           09 .50 or more apartments
+           10 .Boat, RV, van, etc.
+
+BUS        1      
+    Business or medical office on property
+           b .N/A (GQ/not a one-family house or mobile home)
+           1 .Yes
+           2 .No
+
+CONP       4      
+    Condo fee (monthly amount)
+                 bbbb .N/A (not owned or being bought/not
+                      .condo/GQ/vacant/no condo fee)            
+           0001..9999 .$1 - $9999 (Rounded and top-coded)
+
+ELEP       3      
+    Electricity (monthly cost)
+                bbb .N/A (GQ/vacant)
+                001 .Included in rent or in condo fee
+                002 .No charge or electricity not used
+           003..999 .$3 to $999 (Rounded and top-coded)
+               
+FS         5
+    Food stamp amount (yearly amount)
+              bbbbb .N/A (vacant)
+                  0 .None
+           1..99999 .$1 to $99999 (Rounded)
+
+FULP       4      
+    Other fuel cost(yearly cost)
+                 bbbb .N/A (GQ/vacant)
+                 0001 .Included in rent or in condo fee
+                 0002 .No charge or these fuels not used
+           0003..9999 .$3 to $9999 (Rounded and top-coded)
+
+GASP       3      
+    Gas (monthly cost)
+                bbb .N/A (GQ/vacant)                   
+                001 .Included in rent or in condo fee
+                002 .Included in electricity payment
+                003 .No charge or gas not used
+           004..999 .$4 to $999 (Rounded and top-coded)
+
+HFL        1      
+    House heating fuel
+           b .N/A (GQ/vacant)
+           1 .Utility gas 
+           2 .Bottled, tank, or LP gas
+           3 .Electricity
+           4 .Fuel oil, kerosene, etc.
+           5 .Coal or coke
+           6 .Wood
+           7 .Solar energy
+           8 .Other fuel
+           9 .No fuel used
+
+INSP       4      
+    Fire/hazard/flood insurance (yearly amount)
+                 bbbb .N/A (not owned or being bought/not a one   
+                      .family house, mobile home, or        
+                      .condo/GQ/vacant)
+                 0000 .None
+           0001..9999 .$1 to $9999 (Rounded and top-coded)
+
+KIT        1      
+    Complete kitchen facilities
+           b .N/A (GQ)
+           1 .Yes, has all three facilities
+           2 .No
+
+MHP        5      
+    Mobile home costs (yearly amount)
+                  bbbbb .N/A (GQ/vacant/not owned or being bought/
+                        .not mobile home/no costs)
+           00000..99999 .$0 to $99999 (Rounded and top-coded)
+                
+MRGI       1      
+    Payment include fire/hazard/flood insurance
+           b .N/A (GQ/vacant/not owned or being bought/
+             .Not a one family house, MHT or condo/not
+             .mortgaged/no regular mortgage payment)
+           1 .Yes, insurance included in payment
+           2 .No, insurance paid separately or no insurance
+
+MRGP       5      
+    Mortgage payment (monthly amount)
+                  bbbbb .N/A (not owned or being bought/not a one 
+                        .family house, mobile home, or            
+                        .condo/GQ/vacant)
+           00001..99999 .$1 to $99999 (Rounded and top-coded)
+                
+MRGT       1      
+    Payment includes real estate taxes
+           b .N/A (GQ/vacant/not owned or being bought/not a
+             .one family house or condo/not mortgaged/
+             .No regular mortgage payment)
+           1 .Yes, taxes included in payment
+           2 .No, taxes paid separately or taxes not required
+
+MRGX       1      
+    Mortgage status
+           b .N/A (not owned or being bought/not a one family
+             .house, mobile home, or condo/GQ/vacant)
+           1 .Mortgage deed of trust, or similar debt
+           2 .Contract to purchase
+           3 .None
+
+PLM        1      
+    Complete plumbing facilities
+           b .N/A (GQ)
+           1 .Yes, has all three facilities
+           2 .No
+
+RMS        1      
+    Rooms
+           b .N/A (GQ)
+           1 .1 Room
+           2 .2 Rooms
+           3 .3 Rooms
+           4 .4 Rooms
+           5 .5 Rooms
+           6 .6 Rooms
+           7 .7 Rooms
+           8 .8 Rooms
+           9 .9 or more rooms
+
+RNTM       1      
+    Meals included in rent
+           b .N/A (GQ/not a rental unit/rental-NCR)
+           1 .Yes
+           2 .No
+
+RNTP       5      
+    Monthly rent
+                  bbbbb .N/A (GQ/not a rental unit)               
+           00001..99999 .$1 to $99999 (Rounded and top-coded)
+
+SMP        5      
+    Second mortgage payment (monthly amount)
+                  bbbbb .N/A (GQ/vacant/condo/not owned or being
+                        .bought/not a one family house/not        
+                        .mortgaged/ no second mortgage)
+           00001..99999 .$1 to $99999 (Rounded and top-coded)
+
+TEL        1      
+    Telephone in Unit
+           b .N/A (GQ/vacant)
+           1 .Yes
+           2 .No
+
+TEN        1      
+    Tenure
+           b .N/A (GQ/vacant)
+           1 .Owned with mortgage or loan
+           2 .Owned free and clear
+           3 .Rented for cash rent
+           4 .No cash rent
+
+VACS       1      
+    Vacancy status
+           b .N/A (occupied/GQ)
+           1 .For rent
+           2 .Rented, not occupied
+           3 .For sale only
+           4 .Sold, not occupied
+           5 .For seasonal/recreational/occasional use
+           6 .For migratory workers
+           7 .Other vacant
+
+VAL        2      
+    Property value
+           bb .N/A (GQ/rental unit/vacant, not for sale only)
+           01 .Less than $ 10000
+           02 .$ 10000 - $ 14999
+           03 .$ 15000 - $ 19999
+           04 .$ 20000 - $ 24999
+           05 .$ 25000 - $ 29999
+           06 .$ 30000 - $ 34999
+           07 .$ 35000 - $ 39999
+           08 .$ 40000 - $ 49999
+           09 .$ 50000 - $ 59999
+           10 .$ 60000 - $ 69999
+           11 .$ 70000 - $ 79999
+           12 .$ 80000 - $ 89999
+           13 .$ 90000 - $ 99999
+           14 .$100000 - $124999
+           15 .$125000 - $149999
+           16 .$150000 - $174999
+           17 .$175000 - $199999
+           18 .$200000 - $249999
+           19 .$250000 - $299999
+           20 .$300000 - $399999
+           21 .$400000 - $499999
+           22 .$500000 - $749999
+           23 .$750000 - $999999
+           24 .$1000000+
+
+VEH        1      
+    Vehicles (1 ton or less) available
+           b .N/A (GQ/vacant)
+           0 .No vehicles
+           1 .1 vehicle
+           2 .2 vehicles
+           3 .3 vehicles
+           4 .4 vehicles
+           5 .5 vehicles
+           6 .6 or more vehicles
+
+WATP       4      
+    Water (yearly cost)
+                 bbbb .N/A (GQ/vacant)
+                 0001 .Included in rent or in condo fee
+                 0002 .No charge
+           0003..9999 .$3 to $9999 (Rounded and top-coded)
+                
+YBL        1      
+    When structure first built
+           b .N/A (GQ)
+           1 .2005 or later
+           2 .2000 to 2004
+           3 .1990 to 1999
+           4 .1980 to 1989
+           5 .1970 to 1979
+           6 .1960 to 1969
+           7 .1950 to 1959
+           8 .1940 to 1949
+           9 .1939 or earlier
+
+FES        1      
+    Family type and employment status    
+           b .N/A (GQ/vacant/not a family)
+           1 .Married-couple family: Husband and wife in LF
+           2 .Married-couple family: Husband in labor force, wife
+             .not in LF
+           3 .Married-couple family: Husband not in LF,
+             .wife in LF
+           4 .Married-couple family: Neither husband nor wife in
+             .LF
+           5 .Other family: Male householder, no wife present, in
+             .LF
+           6 .Other family: Male householder, no wife present, 
+             .not in LF
+           7 .Other family: Female householder, no husband
+             .present, in LF
+           8 .Other family: Female householder, no husband     
+             .present, not in LF    
+
+FINCP      8      
+    Family income (past 12 months)
+                   bbbbbbbb .N/A(GQ/vacant)   
+                   00000000 .No family income
+           -59999..99999999 .Total family income in dollars (Components are
+                        .rounded) 
+
+FPARC      1      
+     Family presence and age of related children
+           b .N/A (GQ/vacant/not a family)
+           1 .With related children under 5 years only
+           2 .With related children 5 to 17 years only
+           3 .With related children under 5 years and 5 to 17     
+             .years
+           4 .No related children
+
+GRNTP      4      
+    Gross rent (monthly amount)
+                 bbbb .N/A (GQ/vacant, not rented for cash rent)
+           0001..9999 .$1 - $9999 (Components are rounded)
+
+GRPIP      3      
+    Gross rent as a percentage of household income past 12 months   
+                bbb .N/A (GQ/vacant/not rented for cash           
+                    .rent/owner occupied/no household income)
+           001..100 .1% to 100%
+                101 .101% or more
+
+HHL        1      
+    Household language
+           b .N/A (GQ/vacant)                     
+           1 .English only
+           2 .Spanish
+           3 .Other Indo-European language
+           4 .Asian or Pacific Island language
+           5 .Other language 
+
+HHT        1      
+    Household/family type
+           b .N/A (GQ/vacant)
+           1 .Married-couple family household
+             .Other family household:
+           2 .Male householder, no wife present
+           3 .Female householder, no husband present
+             .Nonfamily household:
+             .Male householder:
+           4 .Living alone
+           5 .Not living alone
+             .Female householder:
+           6 .Living alone
+           7 .Not living alone
+
+HINCP      8      
+    Household income (past 12 months)
+                   bbbbbbbb .N/A(GQ/vacant)
+                   00000000 .No household income
+           -59999..99999999 .Total household income in dollars (Components are
+                        .rounded) 
+ 
+
+HUGCL      1      
+     Flag to indicate grandchild living in housing unit
+           b .N/A (GQ/vacant)
+           0 .HU does not contain grandchildren
+           1 .HU does contain grandchildren   
+ 
+HUPAC      1      
+     Family presence and age of children
+           b .N/A (GQ/vacant)
+           1 .With children under 6 years only
+           2 .With children 6 to 17 years only
+           3 .With children under 6 years and 6 to 17 years
+           4 .No children 
+
+HUPAOC     1      
+     HH presence and age of own children
+           b .N/A (GQ/vacant)
+           1 .Presence of own children under 6 years only
+           2 .Presence of own children 6 to 17 years only
+           3 .Presence of own children under 6 years and 6 to 17 years
+           4 .No own children present
+
+HUPARC     1      
+     HH presence and age of related children
+           b .N/A (GQ/vacant)
+           1 .Presence of related children under 6 years only
+           2 .Presence of related children 6 to 17 years only
+           3 .Presence of related children under 6 years and 6 to 17 years
+           4 .No related children present
+
+LNGI       1      
+    Linguistic isolation
+           b .N/A (GQ/vacant)
+           1 .Not linguistically isolated
+           2 .Linguistically isolated
+
+MV         1       
+    When moved into this house or apartment
+           b .N/A (GQ/vacant)
+           1 .12 months or less
+           2 .13 to 23 months
+           3 .2 to 4 years
+           4 .5 to 9 years
+           5 .10 to 19 years
+           6 .20 to 29 years 
+           7 .30 years or more
+
+NOC        2      
+    Number of own children in household (unweighted)
+               bb .N/A(GQ/vacant)
+               00 .No own children
+           01..19 .Number of own children in household
+
+NPF        2      
+    Number of persons in family (unweighted)
+               bb .N/A (GQ/vacant/non-family household)
+           02..20 .Number of persons in family
+
+NPP        1      
+     Grandparent headed household with no parent present
+           b .N/A (GQ/vacant)
+           0 .Not a grandparent headed household with no parent present
+           1 .Grandparent headed household with no parent present
+
+NR         1      
+     Presence of nonrelative in household
+           b .N/A (GQ/vacant)
+           0 .None                                                     
+           1 .1 or more nonrelatives                             
+
+NRC        2      
+    Number of related children in household (unweighted)
+               bb .N/A (GQ/vacant)
+               00 .No related children
+           01..19 .Number of related children in household
+
+OCPIP
+           3      
+    Selected monthly owner costs as a percentage of household 
+    income during the past 12 months   
+                bbb .N/A (not owned or being bought/not a one
+                    .family house, mobile home, or          
+                    .condo/GQ/vacant/no HH income)
+           001..100 .1% to 100%
+                101 .101% or more
+
+PARTNER    1      
+     Unmarried partner household          
+           b .N/A (GQ/vacant)
+           0 .No unmarried partner in household                        
+           1 .Male householder, male partner                     
+           2 .Male householder, female partner
+           3 .Female householder, female partner
+           4 .Female householder, male partner
+
+PSF        1      
+    Presence of subfamilies in Household
+           b .N/A (GQ/vacant)
+           0 .No subfamilies
+           1 .1 or more subfamilies
+
+R18        1      
+    Presence of persons under 18 years in household (unweighted)
+           b .N/A (GQ/vacant)
+           0 .No person under 18 in household
+           1 .1 or more persons under 18 in household
+
+R60        1      
+    Presence of persons 60 years and over in household (unweighted)
+           b .N/A (GQ/vacant)
+           0 .No person 60 and over
+           1 .1 person 60 and over
+           2 .2 or more persons 60 and over
+
+R65        1      
+    Presence of persons 65 years and over in household (unweighted)
+           b .N/A (GQ/vacant)
+           0 .No person 65 and over
+           1 .1 person 65 and over
+           2 .2 or more persons 65 and over
+
+RESMODE    1      
+     Response mode                      
+           b .N/A (GQ)
+           1 .Mail                                                     
+           2 .CATI/CAPI                                          
+
+SMOCP      5      
+    Selected monthly owner costs
+                  bbbbb .N/A (not owned or being bought/not a one
+                        .family house, mobile home, or      
+                        .condo/GQ/vacant/no costs )
+                  00000 .No costs
+           00001..99999 .$1 - $99999 (Components are rounded) 
+ 
+                
+SMX        1      
+    Second mortgage or home equity loan status
+           b .N/A (GQ/vacant/not owned or being bought/
+             .not a one family house, mobile home, trailer or
+             .condo/not mortgaged/no second mortgage)
+           1 .Yes, a second mortgage                        
+           2 .Yes, a home equity loan
+           3 .No
+           4 .Both a second mortgage and a home equity loan
+
+SRNT       1      
+    Specified rent unit
+           0 .Not specified rent unit
+           1 .Specified rent unit
+
+SVAL       1      
+    Specified value unit
+           0 .Not specified owner unit
+           1 .Specified value unit
+
+TAXP       2      
+    Property taxes (yearly amount)   
+           bb .N/A (GQ/vacant/not owned or being bought/not a
+              .one-family house, mobile home or trailer or
+              .condo)
+           01 .None
+           02 .$   1 - $  49
+           03 .$  50 - $  99
+           04 .$ 100 - $ 149
+           05 .$ 150 - $ 199
+           06 .$ 200 - $ 249
+           07 .$ 250 - $ 299
+           08 .$ 300 - $ 349
+           09 .$ 350 - $ 399
+           10 .$ 400 - $ 449
+           11 .$ 450 - $ 499
+           12 .$ 500 - $ 549
+           13 .$ 550 - $ 599
+           14 .$ 600 - $ 649
+           15 .$ 650 - $ 699
+           16 .$ 700 - $ 749
+           17 .$ 750 - $ 799
+           18 .$ 800 - $ 849
+           19 .$ 850 - $ 899
+           20 .$ 900 - $ 949
+           21 .$ 950 - $ 999
+           22 .$1000 - $1099
+           23 .$1100 - $1199
+           24 .$1200 - $1299
+           25 .$1300 - $1399
+           26 .$1400 - $1499
+           27 .$1500 - $1599
+           28 .$1600 - $1699
+           29 .$1700 - $1799
+           30 .$1800 - $1899
+           31 .$1900 - $1999
+           32 .$2000 - $2099
+           33 .$2100 - $2199
+           34 .$2200 - $2299
+           35 .$2300 - $2399
+           36 .$2400 - $2499
+           37 .$2500 - $2599
+           38 .$2600 - $2699
+           39 .$2700 - $2799
+           40 .$2800 - $2899
+           41 .$2900 - $2999
+           42 .$3000 - $3099
+           43 .$3100 - $3199
+           44 .$3200 - $3299
+           45 .$3300 - $3399
+           46 .$3400 - $3499
+           47 .$3500 - $3599
+           48 .$3600 - $3699
+           49 .$3700 - $3799
+           50 .$3800 - $3899
+           51 .$3900 - $3999
+           52 .$4000 - $4099
+           53 .$4100 - $4199
+           54 .$4200 - $4299
+           55 .$4300 - $4399
+           56 .$4400 - $4499
+           57 .$4500 - $4599 
+           58 .$4600 - $4699
+           59 .$4700 - $4799
+           60 .$4800 - $4899
+           61 .$4900 - $4999
+           62 .$5000 - $5499
+           63 .$5500 - $5999
+           64 .$6000 - $6999
+           65 .$7000 - $7999
+           66 .$8000 - $8999
+           67 .$9000 - $9999
+           68 .$10000+
+
+WIF        1      
+    Workers in family during the past 12 months
+           b .N/A (GQ/vacant/non-family household)
+           0 .No workers
+           1 .1 worker
+           2 .2 workers
+           3 .3 or more workers in family
+
+WKEXREL    2      
+    Work experience of householder and spouse
+            b .N/A (GQ/vacant/not a family)
+            1 .Householder and spouse worked FT 
+            2 .Householder worked FT; spouse worked < FT
+            3 .Householder worked FT; spouse did not work
+            4 .Householder worked < FT; spouse worked FT
+            5 .Householder worked < FT; spouse worked < FT
+            6 .Householder worked < FT; spouse did not work
+            7 .Householder did not work; spouse worked FT
+            8 .Householder did not work; spouse worked < FT
+            9 .Householder did not work; spouse did not work
+           10 .Male householder worked FT; no spouse present
+           11 .Male householder worked < FT; no spouse present
+           12 .Male householder did not work; no spouse present
+           13 .Female householder worked FT; no spouse present
+           14 .Female householder worked < FT; no spouse present
+           15 .Female householder did not work; no spouse present
+
+WORKSTAT   2      
+     Work status of householder or spouse in family households
+           bb .N/A (GQ/not a family household)
+            1 .Husband and wife both in labor force, both employed or in 
+              .Armed Forces
+            2 .Husband and wife both in labor force, husband employed or in 
+              .Armed Forces, wife unemployed
+            3 .Husband in labor force and wife not in labor force, husband     
+              .employed or in Armed Forces 
+            4 .Husband and wife both in labor force, husband unemployed, wife
+              .employed or in Armed Forces 
+            5 .Husband and wife both in labor force, husband unemployed, wife
+              .unemployed
+            6 .Husband in labor force, husband unemployed, wife not in labor
+              .force
+            7 .Husband not in labor force, wife in labor force, wife       
+              .employed or in Armed Forces
+            8 .Husband not in labor force, wife in labor force, wife 
+              .unemployed
+            9 .Neither husband nor wife in labor force
+           10 .Male householder with no wife present, householder in 
+              .labor force, employed or in Armed Forces
+           11 .Male householder with no wife present, householder in
+              .labor force and unemployed
+           12 .Male householder with no wife present, householder not in 
+              .labor force
+           13 .Female householder with no husband present, householder in 
+              .labor force, employed or in Armed Forces
+           14 .Female householder with no husband present, householder in
+              .labor force and unemployed
+           15 .Female householder with no husband present, householder not in 
+              .labor force
+
+FACRP      1      
+    Lot size allocation
+           0 .No
+           1 .Yes
+
+FAGSP      1      
+    Sales of Agricultural Products allocation
+           0 .No
+           1 .Yes
+
+FBDSP      1      
+    Number of bedrooms allocation
+           0 .No
+           1 .Yes
+
+FBLDP      1      
+    Units in structure allocation
+           0 .No
+           1 .Yes
+
+FBUSP      1      
+    Business or medical office on property allocation
+           0 .No
+           1 .Yes
+
+FCONP      1      
+    Condominium fee allocation
+           0 .No
+           1 .Yes
+
+FELEP      1      
+    Electricity (monthly cost) allocation
+           0 .No
+           1 .Yes
+
+FFSP       1      
+    Food stamp amount (yearly amount) allocation
+           0 .No
+           1 .Yes
+
+FFULP      1      
+    House heating fuel (yearly cost) allocation
+           0 .No
+           1 .Yes
+
+FGASP      1      
+    Gas (monthly cost) allocation
+           0 .No
+           1 .Yes
+
+FHFLP      1      
+    House heating fuel allocation
+           0 .No
+           1 .Yes
+
+FINSP      1      
+    Fire, hazard, flood insurance allocation
+           0 .No
+           1 .Yes
+
+FKITP      1      
+    Complete kitchen facilities allocation
+           0 .No
+           1 .Yes
+
+FMHP       1      
+    Mobile home costs allocation
+           0 .No
+           1 .Yes
+
+FMRGIP     1      
+    Payment include fire, hazard, flood insurance
+    allocation
+           0 .No
+           1 .Yes
+
+FMRGP      1      
+    Regular mortgage payment allocation
+           0 .No
+           1 .Yes
+
+FMRGTP     1      
+    Payment include real estate taxes allocation
+           0 .No
+           1 .Yes
+
+FMRGXP     1      
+    Mortgage status allocation
+           0 .No
+           1 .Yes
+          
+FMVYP      1      
+    When moved into this house or apartment allocation
+           0 .No
+           1 .Yes
+
+FPLMP      1      
+    Complete plumbing facilities allocation
+           0 .No
+           1 .Yes
+
+FRMSP      1      
+    Rooms allocation
+           0 .No
+           1 .Yes
+
+FRNTMP     1      
+    Meals included in rent allocation
+           0 .No
+           1 .Yes
+
+FRNTP      1      
+    Monthly rent allocation
+           0 .No
+           1 .Yes
+
+FSMP       1      
+    Second mortgage payment allocation
+           0 .No
+           1 .Yes
+
+FSMXHP     1      
+    Home equity loan status allocation
+           0 .No
+           1 .Yes
+
+FSMXSP     1      
+    Second mortgage status allocation
+           0 .No
+           1 .Yes
+
+FTAXP      1      
+    Taxes on property allocation
+           0 .No
+           1 .Yes
+
+FTELP      1      
+    Telephones in house allocation
+           0 .No
+           1 .Yes
+
+FTENP      1      
+    Tenure allocation
+           0 .No
+           1 .Yes
+
+FVACSP     1      
+    Vacancy status allocation
+           0 .No
+           1 .Yes 
+
+FVALP      1      
+    Value allocation
+           0 .No
+           1 .Yes 
+
+FVEHP      1      
+    Vehicles available allocation
+           0 .No
+           1 .Yes
+
+FWATP      1      
+    Water (yearly cost) allocation
+           0 .No
+           1 .Yes 
+
+FYBLP      1      
+    When structure first built allocation
+           0 .No
+           1 .Yes
+
+WGTP1      4
+    Housing Weight replicate 1
+           0001..9999 .Integer weight of housing unit
+
+WGTP2      4
+    Housing Weight replicate 2
+           0001..9999 .Integer weight of housing unit
+
+WGTP3      4
+    Housing Weight replicate 3
+           0001..9999 .Integer weight of housing unit
+
+WGTP4      4
+    Housing Weight replicate 4
+           0001..9999 .Integer weight of housing unit
+
+WGTP5      4
+    Housing Weight replicate 5
+           0001..9999 .Integer weight of housing unit
+
+WGTP6      4
+    Housing Weight replicate 6
+           0001..9999 .Integer weight of housing unit
+
+WGTP7      4
+    Housing Weight replicate 7
+           0001..9999 .Integer weight of housing unit
+
+WGTP8      4
+    Housing Weight replicate 8
+           0001..9999 .Integer weight of housing unit
+
+WGTP9      4
+    Housing Weight replicate 9
+           0001..9999 .Integer weight of housing unit
+
+WGTP10     4
+    Housing Weight replicate 10
+           0001..9999 .Integer weight of housing unit
+
+WGTP11     4
+    Housing Weight replicate 11
+           0001..9999 .Integer weight of housing unit
+
+WGTP12     4
+    Housing Weight replicate 12
+           0001..9999 .Integer weight of housing unit
+
+WGTP13     4
+    Housing Weight replicate 13
+           0001..9999 .Integer weight of housing unit
+
+WGTP14     4
+    Housing Weight replicate 14
+           0001..9999 .Integer weight of housing unit
+
+WGTP15     4
+    Housing Weight replicate 15
+           0001..9999 .Integer weight of housing unit
+
+WGTP16     4
+    Housing Weight replicate 16
+           0001..9999 .Integer weight of housing unit
+
+WGTP17     4
+    Housing Weight replicate 17
+           0001..9999 .Integer weight of housing unit
+
+WGTP18     4
+    Housing Weight replicate 18
+           0001..9999 .Integer weight of housing unit
+
+WGTP19     4
+    Housing Weight replicate 19
+           0001..9999 .Integer weight of housing unit
+
+WGTP20     4
+    Housing Weight replicate 20
+           0001..9999 .Integer weight of housing unit
+
+WGTP21     4
+    Housing Weight replicate 21
+           0001..9999 .Integer weight of housing unit
+
+WGTP22     4
+    Housing Weight replicate 22
+           0001..9999 .Integer weight of housing unit
+
+WGTP23     4
+    Housing Weight replicate 23
+           0001..9999 .Integer weight of housing unit
+
+WGTP24     4
+    Housing Weight replicate 24
+           0001..9999 .Integer weight of housing unit
+
+WGTP25     4
+    Housing Weight replicate 25
+           0001..9999 .Integer weight of housing unit
+
+WGTP26     4
+    Housing Weight replicate 26
+           0001..9999 .Integer weight of housing unit
+
+WGTP27     4
+    Housing Weight replicate 27
+           0001..9999 .Integer weight of housing unit
+
+WGTP28     4
+    Housing Weight replicate 28
+           0001..9999 .Integer weight of housing unit
+
+WGTP29     4
+    Housing Weight replicate 29
+           0001..9999 .Integer weight of housing unit
+
+WGTP30     4
+    Housing Weight replicate 30
+           0001..9999 .Integer weight of housing unit
+
+WGTP31     4
+    Housing Weight replicate 31
+           0001..9999 .Integer weight of housing unit
+
+WGTP32     4
+    Housing Weight replicate 32
+           0001..9999 .Integer weight of housing unit
+
+WGTP33     4
+    Housing Weight replicate 33
+           0001..9999 .Integer weight of housing unit
+
+WGTP34     4
+    Housing Weight replicate 34
+           0001..9999 .Integer weight of housing unit
+
+WGTP35     4
+    Housing Weight replicate 35
+           0001..9999 .Integer weight of housing unit
+
+WGTP36     4
+    Housing Weight replicate 36
+           0001..9999 .Integer weight of housing unit
+
+WGTP37     4
+    Housing Weight replicate 37
+           0001..9999 .Integer weight of housing unit
+
+WGTP38     4
+    Housing Weight replicate 38
+           0001..9999 .Integer weight of housing unit
+
+WGTP39     4
+    Housing Weight replicate 39
+           0001..9999 .Integer weight of housing unit
+
+WGTP40     4
+    Housing Weight replicate 40
+           0001..9999 .Integer weight of housing unit
+
+WGTP41     4
+    Housing Weight replicate 41
+           0001..9999 .Integer weight of housing unit
+
+WGTP42     4
+    Housing Weight replicate 42
+           0001..9999 .Integer weight of housing unit
+
+WGTP43     4
+    Housing Weight replicate 43
+           0001..9999 .Integer weight of housing unit
+
+WGTP44     4
+    Housing Weight replicate 44
+           0001..9999 .Integer weight of housing unit
+
+WGTP45     4
+    Housing Weight replicate 45
+           0001..9999 .Integer weight of housing unit
+
+WGTP46     4
+    Housing Weight replicate 46
+           0001..9999 .Integer weight of housing unit
+
+WGTP47     4
+    Housing Weight replicate 47
+           0001..9999 .Integer weight of housing unit
+
+WGTP48     4
+    Housing Weight replicate 48
+           0001..9999 .Integer weight of housing unit
+
+WGTP49     4
+    Housing Weight replicate 49
+           0001..9999 .Integer weight of housing unit
+
+WGTP50     4
+    Housing Weight replicate 50
+           0001..9999 .Integer weight of housing unit
+
+WGTP51     4
+    Housing Weight replicate 51
+           0001..9999 .Integer weight of housing unit
+
+WGTP52     4
+    Housing Weight replicate 52
+           0001..9999 .Integer weight of housing unit
+
+WGTP53     4
+    Housing Weight replicate 53
+           0001..9999 .Integer weight of housing unit
+
+WGTP54     4
+    Housing Weight replicate 54
+           0001..9999 .Integer weight of housing unit
+
+WGTP55     4
+    Housing Weight replicate 55
+           0001..9999 .Integer weight of housing unit
+
+WGTP56     4
+    Housing Weight replicate 56
+           0001..9999 .Integer weight of housing unit
+
+WGTP57     4
+    Housing Weight replicate 57
+           0001..9999 .Integer weight of housing unit
+
+WGTP58     4
+    Housing Weight replicate 58
+           0001..9999 .Integer weight of housing unit
+
+WGTP59     4
+    Housing Weight replicate 59
+           0001..9999 .Integer weight of housing unit
+
+WGTP60     4
+    Housing Weight replicate 60
+           0001..9999 .Integer weight of housing unit
+
+WGTP61     4
+    Housing Weight replicate 61
+           0001..9999 .Integer weight of housing unit
+
+WGTP62     4
+    Housing Weight replicate 62
+           0001..9999 .Integer weight of housing unit
+
+WGTP63     4
+    Housing Weight replicate 63
+           0001..9999 .Integer weight of housing unit
+
+WGTP64     4
+    Housing Weight replicate 64
+           0001..9999 .Integer weight of housing unit
+
+WGTP65     4
+    Housing Weight replicate 65
+           0001..9999 .Integer weight of housing unit
+
+WGTP66     4
+    Housing Weight replicate 66
+           0001..9999 .Integer weight of housing unit
+
+WGTP67     4
+    Housing Weight replicate 67
+           0001..9999 .Integer weight of housing unit
+
+WGTP68     4
+    Housing Weight replicate 68
+           0001..9999 .Integer weight of housing unit
+
+WGTP69     4
+    Housing Weight replicate 69
+           0001..9999 .Integer weight of housing unit
+
+WGTP70     4
+    Housing Weight replicate 70
+           0001..9999 .Integer weight of housing unit
+
+WGTP71     4
+    Housing Weight replicate 71
+           0001..9999 .Integer weight of housing unit
+
+WGTP72     4
+    Housing Weight replicate 72
+           0001..9999 .Integer weight of housing unit
+
+WGTP73     4
+    Housing Weight replicate 73
+           0001..9999 .Integer weight of housing unit
+
+WGTP74     4
+    Housing Weight replicate 74
+           0001..9999 .Integer weight of housing unit
+
+WGTP75     4
+    Housing Weight replicate 75
+           0001..9999 .Integer weight of housing unit
+
+WGTP76     4
+    Housing Weight replicate 76
+           0001..9999 .Integer weight of housing unit
+
+WGTP77     4
+    Housing Weight replicate 77
+           0001..9999 .Integer weight of housing unit
+
+WGTP78     4
+    Housing Weight replicate 78
+           0001..9999 .Integer weight of housing unit
+
+WGTP79     4
+    Housing Weight replicate 79
+           0001..9999 .Integer weight of housing unit
+
+WGTP80     4
+    Housing Weight replicate 80
+           0001..9999 .Integer weight of housing unit
+
