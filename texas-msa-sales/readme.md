@@ -1,1 +1,18 @@
-Data download from the [Real estate centre](http://recenter.tamu.edu/Data/datahs.html), Texas A&M University
+Texas real estate sales data
+============================
+
+Variables
+
+* sales, total number of houses sold
+* volume, total value of house sold
+* price_avg, average house price
+* price_med, median house price
+* listings, number of houses listed
+* inventory, average number of months listed
+
+Broken down by:
+
+* month, from Jan 1990 to April 2009.
+* metropolitan area, as defined by the real estate centre (does not correspond to census definition).  `msa-codes.csv` matches the msa code to the name of the city/region.
+
+Data download from the [real estate centre](http://recenter.tamu.edu/Data/datahs.html), Texas A&M University.
