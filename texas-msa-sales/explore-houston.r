@@ -42,3 +42,9 @@ qplot(year + month / 12, inventory_ds, data = hlist, geom = "line")
 # Positive correlation between sales and average price?!
 qplot(sales, price_avg, data = hlist)
 qplot(sales_ds, price_avg_ds, data = hlist)
+
+
+# Explore price distributions ------------------------------------------------
+
+qplot(price_rng, value, data = hdist, geom = "line") + facet_wrap(~ year)
+qplot(year, value, data = hdist, geom = "line") + facet_wrap(~ price_rng)
