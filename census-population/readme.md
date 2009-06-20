@@ -1,7 +1,7 @@
 Census: Population
 =====================
 
-Cleaned Data set contains information regarding population:
+The cleaned data set contains information regarding population:
 
 * Population estimate
 * Numeric in resident total population change
@@ -9,7 +9,7 @@ Cleaned Data set contains information regarding population:
 * Deaths
 * Natural Incline
 * International, Domestic, and Net Migration
-* Residule
+* Residual (i.e. change not explained by the other factors)
 
 Data set also includes yearly rates (2001-2008) for all of the above categories. 
 
@@ -17,10 +17,9 @@ All of this information is organized by:
 
 * State
 * County
-* Year (2000-2008)
+* Year (2001-2008)
 
 Data downloaded from:
 
-[General Website](http://www.census.gov/popest/datasets.html)
-
-[Data Set](http://www.census.gov/popest/counties/files/CO-EST2008-ALLDATA.csv)
+* [General website](http://www.census.gov/popest/datasets.html)
+* [Data set](http://www.census.gov/popest/counties/files/CO-EST2008-ALLDATA.csv)
