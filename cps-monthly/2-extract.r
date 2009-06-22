@@ -5,7 +5,7 @@ vars <- c(
   start = 4,
   end = 4
 )
-to_extract <- read.fwf("variables.txt", vars, 
+to_extract <- read.fwf("variables.csv", vars, 
   strip.white = TRUE, stringsAsFactors = FALSE)
 names(to_extract) <- names(vars)
 
