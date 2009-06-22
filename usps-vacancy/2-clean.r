@@ -8,63 +8,125 @@
 library(foreign)
 library(plyr)
 
-dir.create("cleaned")
-dir.create("cleaned/by-quarter")
-dir.create("cleaned/by-year")
+options(stringsAsFactors = FALSE)
 
-data_names <- c("vacancy-2008-01","vacancy-2008-02","vacancy-2008-03","vacancy-2008-04","vacancy-2009-01")
-
-for(i in 1:length(data_names))
+clean_file <- function(fileName, lessThan2008 = FALSE)
 {
-
-  vac <- read.dbf(paste("original/", data_names[i], ".dbf", sep="", collapse=""))
+  
+  vac <- read.dbf(fileName)
   names(vac) <- tolower(names(vac))
-
-  vac$fips <- as.character(substr(vac$geoid, 0, 5))
-  vac$stateFIPS <- substr(vac$fips,1,2)
-  vac$countyFIPS <- substr(vac$fips,3,5)
   
-  
-  length(table(vac$fips))
-  # 3219 = 3141 USA counties + 78 Pueto Rico Municipios
   
   # Only interested in residental data
-  
-  res <- vac[, c("stateFIPS", "countyFIPS", "ams_res", "res_vac", "avg_vac_r", "nostat_res", "avg_ns_res")]
-  names(res) <- c("stateFIPS","countyFIPS", "total", "vac","vac_avg", "nostat", "nostat_avg")
+  #print(head(vac))
+  d <- NULL
+  if(!lessThan2008)
+  {
+    #print("greaterThan")
+    res <- vac[, c("geoid", "ams_res", "res_vac", "avg_vac_r", "nostat_res", "avg_ns_res")]
+    bus <- vac[, c("geoid", "ams_bus", "bus_vac", "avg_vac_b", "nostat_bus", "avg_ns_bus")]
+    names(res) <- c("geoid", "total", "vac","vac_avg", "nostat", "nostat_avg")
+    names(bus) <- c("geoid", "total", "vac","vac_avg", "nostat", "nostat_avg")
+    
+    type <- rep("3", nrow(bus))
+    bus <- cbind(bus, type)
+    #print(head(bus))
+    type <- rep("2", nrow(res))
+    res <- cbind(res, type)
+    #print(head(res))
+    
+    all <- list(
+      geoid = vac[, "geoid"] , 
+      total = res[,"total"] + res[,"total"], 
+      vac = res[,"vac"]+ bus[,"vac"],
+      vac_avg = (res[,"vac_avg"] * res[,"total"] + bus[,"vac_avg"] * bus[,"total"]) / (res[,"total"] + bus[,"total"]),
+      nostat = res[,"nostat"] + bus[,"nostat"] ,
+      nostat_avg = (res[,"nostat_avg"] * res[,"total"] + bus[,"nostat_avg"] * bus[,"total"]) / (res[,"total"] + bus[,"total"]),
+      type = rep("1", nrow(res))
+    )
+    #print(head(all))    
+    d <- rbind(res, bus, all)
+      #print(head(d))
+  }
+  else
+  {
+    #print("greaterThan")
+    d <- vac[, c("geoid","ams","vac","avg_vac","nostat","avg_nostat")]  
+    names(d) <- c("geoid","total","vac","vac_avg","nostat","nostat_avg")
+    type <- rep("1", nrow(d))
+    d <- cbind(d, type)
+
+  }
+  #print("done making d")
+  d <- d[,c("geoid", "total", "type","vac","vac_avg", "nostat", "nostat_avg")]
   
   # Convert average days to total number of days so can aggregate into fips
-  res <- transform(res, 
+  #print("start transform")
+  d <- transform(d, 
     vac_days  =   round(vac * vac_avg),
     nostat_days = round(nostat * nostat_avg),
     vac_avg = NULL,
     nostat_avg = NULL
   )
+  #print("end transform")  
   
+  fips <- as.character(substr(d[,"geoid"], 0, 5))
+  statefips <- as.numeric(substr(fips,1,2))
+  countyfips <- as.numeric(substr(fips,3,5))
+  fips <- d[,"geoid"] <- NULL
+  d <- cbind(countyfips, statefips, d[,colnames(d) != "geoid"])
+  #print(head(d))
   
-  county <- ddply(res, .(stateFIPS, countyFIPS), numcolwise(sum), .progress = "text")
-  
-  write.table(county, paste("cleaned/by-quarter/", data_names[i], ".csv", sep="", collapse=""), sep = ",", row = F)
+  county <- ddply( d, .(statefips, countyfips, type), numcolwise(sum), .progress = "text")
+#print(head(county))  
+
+  county
 }
 
 
-
-make_year_csv <- function(newName, namesData)
+clean_qtr <- function(qtr, year, lessThan2008)
 {
-  data_year <- NULL
+  path <- paste("original/vacancy-", year,"-",qtr, ".dbf", sep="", collapse="")
+  if(!file.exists(path)) 
+    return()
   
-  for(i in 1:length(namesData))
-  {
-    quarter <- read.csv(paste("cleaned/by-quarter/", namesData[i], ".csv", sep="", collapse = ""))
-    data_year <- rbind(data_year, quarter)
-    
-  }
+  d <- NULL  
+  d <- clean_file(path, lessThan2008)
+  
+  quarter <- rep(as.numeric(qtr), nrow(d))
+  
+  d <- cbind(quarter, d)
+  
+  d
+}
 
-  write.table(data_year, paste("cleaned/by-year/", newName, ".csv", sep = "", collapse=""), sep = ",", row = F)
-  
+clean_year <- function(yr)
+{
+  cat("\nYear = ", yr,"\n")
+  quarter<- c("01", "02", "03", "04")
+
+  d <- ldply(quarter, year = yr, lessThan2008 = yr < 2008, clean_qtr, .progress = "text")
+
+  year <- rep(yr, nrow(d))
+  d <- cbind(year, d)
+  d
 }
 
 
-data_names_2008 <- c("vacancy-2008-01","vacancy-2008-02","vacancy-2008-03","vacancy-2008-04")
-make_year_csv("vacancy-2008",data_names_2008)
-make_year_csv("vacancy-2009","vacancy-2009-01")
+all <- ldply(2006:2009, clean_year)
+colnames(all) <- tolower(colnames(all))
+#print(head(all))  
+
+all <- all[,c("year", "quarter", "statefips", "countyfips", colnames(all)[!colnames(all) %in% c("year", "quarter", "statefips", "countyfips", "fips", "geoid")])]
+
+write.table(all, "try.txt", sep = ",", row = F)
+
+#all <- apply(all, MARGIN = 2, FUN = as.numeric)
+all <- as.data.frame(all)
+cat("\nALL\n")
+  all[,"type"] <-  factor((all[,"type"]),labels = c("all","residential","business"), levels = c(1,2,3))
+print(head(all))
+
+write.table(all, gzfile("new-vacancy.csv.gz"), sep = ",", row = F)
+#write.table(all, "new-vacancy.txt", sep = ",", row = F)
+
