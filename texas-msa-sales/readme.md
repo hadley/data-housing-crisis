@@ -16,3 +16,8 @@ Broken down by:
 * metropolitan area, as defined by the real estate centre (does not correspond to census definition).  `msa-codes.csv` matches the msa code to the name of the city/region.
 
 Data download from the [real estate centre](http://recenter.tamu.edu/Data/datahs.html), Texas A&M University.
+
+Locations
+---------
+
+Since the real estate centre does not use standard census place coding, and the places are a mix of metropolitan areas and counties, it was necessary to manually find locations using a (geocode)[http://www.batchgeocode.com/].  (Thanks to Patrick Hausmann for the suggestion!)
