@@ -1,16 +1,5 @@
-options(na.action = "na.omit")
 library(ggplot2)
-library(MASS)
-library(mgcv)
-
-# Helper functions ----------------------------------------------------------
-index <- function(x) x / x[1]
-deseas <- function(var, month) {
-  resid(rlm(var ~ factor(month))) + mean(var, na.rm = TRUE)
-}
-smooth <- function(var, date) {
-  predict(gam(var ~ s(date)))
-}
+source("explore-helper.r")
 
 # Focus on recent trends
 list <- subset(read.csv("texas-listings.csv"), year >= 2000 & msa != 800)
@@ -54,3 +43,5 @@ qplot(date, sales_sm_ind, data = list, geom = "line") + facet_wrap(~ city)
 # Why are these cities different?
 # Always a good idea to go back to the raw data and double-check
 qplot(date, sales_ind, data = list, geom = "line") + facet_wrap(~ city)
+
+# Why are some cities missing?
