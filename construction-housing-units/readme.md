@@ -13,4 +13,4 @@ Clean data contains information regarding new construction is metro areas. The d
 * Housing Units 
 * Valuation 
 
-Data can be found at [Census](http://www.census.gov/const/C40/Table3/tb3v0009.txt)
+Data can be found at [Census](http://www.census.gov/const/C40/Table3/) plus the file name.
