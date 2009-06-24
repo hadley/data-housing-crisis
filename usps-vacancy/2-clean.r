@@ -70,9 +70,10 @@ clean_file <- function(fileName, lessThan2008 = FALSE)
   )
   #print("end transform")  
   
-  fips <- as.character(substr(d[,"geoid"], 0, 5))
-  statefips <- as.numeric(substr(fips,1,2))
-  countyfips <- as.numeric(substr(fips,3,5))
+  fips <- substr(as.character(d[,"geoid"]), 0, 5)
+  print(head(fips))
+  statefips <- substr(fips,1,2)
+  countyfips <- substr(fips,3,5)
   fips <- d[,"geoid"] <- NULL
   d <- cbind(countyfips, statefips, d[,colnames(d) != "geoid"])
   #print(head(d))
@@ -114,6 +115,7 @@ clean_year <- function(yr)
 
 
 all <- ldply(2006:2009, clean_year)
+
 colnames(all) <- tolower(colnames(all))
 #print(head(all))  
 
