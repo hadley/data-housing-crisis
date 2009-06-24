@@ -45,7 +45,6 @@ for(i in uniCities)
 dataCitySelect <- dataTmp[dataTmp[,"city"] %in% uniCities[GoodCities], ]
 
 
-
 #p <- qplot(time, housing_units, data = dataTmp, group = city, geom = "line") + facet_grid(bedrooms ~ state, scales = "free")
 #p <- qplot(time, housing_units, data = dataTmp, group = city, geom = "line") + facet_grid(bedrooms ~ state, scales = "free")
 #p <- qplot(time, housing_units, data = dataTmp, group = city, geom = "line") + facet_grid(bedrooms ~ state, scales = "free")
@@ -81,4 +80,10 @@ if(TRUE)
   pdf("exports/Trend of AZ, CA, FL, NY, OR.pdf", width = 10, height = 8)
     print(majorstatesgoodcities)
   dev.off()
+ 
+  pdf("exports/Merced.pdf", width = 10, height = 8)
+  merc <- data[data$city == "Merced", ]
+  Merced <- qplot(time, housing_units, data = merc, geom = "line") + facet_wrap(~bedrooms, scales = "free")
+  dev.off()
+  
 }
