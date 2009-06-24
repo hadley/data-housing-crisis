@@ -42,6 +42,6 @@ qplot(date, sales_sm_ind, data = list, geom = "line") + facet_wrap(~ city)
 # Palestine, Harlingen, Killeen-Fort Hood, El Paso
 # Why are these cities different?
 # Always a good idea to go back to the raw data and double-check
-qplot(date, sales_ind, data = list, geom = "line") + facet_wrap(~ city)
+qplot(date, sales, data = list, geom = "line") + facet_wrap(~ city)
 
 # Why are some cities missing?

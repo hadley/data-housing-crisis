@@ -12,14 +12,18 @@ qplot(date, sales, data = hlist, geom = "line")
 qplot(date, sales / listings, data = hlist, geom = "line")
 qplot(date, inventory, data = hlist, geom = "line")
 
+
 # So we'll remove the linear trend with a robust linear model
-library(MASS)
 hlist <- transform(hlist,
   sales_ds = deseas(sales, month), 
   listings_ds = deseas(listings, month),
   inventory_ds = deseas(inventory, month),
   price_avg_ds = deseas(price_avg, month)
 )
+
+qplot(month, sales, data = hlist, geom = "line", group = year)
+qplot(month, sales_ds, data = hlist, geom = "line", group = year)
+
 
 # Findings -------------------------------------------------------------------
 
