@@ -4,6 +4,8 @@ options(stringsAsFactors = FALSE)
 data <- read.csv(gzfile("new-construction.csv.gz"))
 closeAllConnections()
 
+print(unique(data[,"state"]))
+
 data[,"month"] <- factor(data[,"month"], levels = c("jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec") ) 
 
 #print(str(data))

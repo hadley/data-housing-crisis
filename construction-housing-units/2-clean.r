@@ -1,5 +1,4 @@
-
-library(plyr)
+library(ggplot2)
 library(R.oo)
 
 make_num_vector<- function(numstring)
@@ -57,7 +56,11 @@ clean_file <- function(fileName, columnNames)
           lineNum <- lineNum + 1
           line2 <- trim(readLines(fileName, n = lineNum)[lineNum])
      
-          line <- paste(trim(line)," ", line2, sep = "", collapse = "")
+          seper = " "
+          if(substr(line, nchar(line), nchar(line)) == "-" | substr(line2, 1, 1) == "-")
+            seper = ""
+            
+          line <- paste(trim(line), line2, sep = seper, collapse = "")
 
           if(nchar(trim(line)) > 70 )
             Repeat <- FALSE
@@ -80,7 +83,10 @@ clean_file <- function(fileName, columnNames)
       cityState <- trim(substr(line,1,pos-1))
       
       # remove "*" replace with space
-      cityState <- paste(strsplit(cityState,"\\*")[[1]], sep = "", collapse = " ")
+      cityState <- gsub("\\*", " ", cityState)
+      cityState <- gsub("CMSA", "", cityState)
+      cityState <- trim(gsub("MSA", "", cityState))
+
 
       city <- NULL
       state <- NULL
@@ -111,12 +117,14 @@ clean_file <- function(fileName, columnNames)
           }
           else
           {
-            city <- paste(cs[1:(length(cs) - 2)], sep = "", collapse = " ")
-            state <- paste(cs[(length(cs) - 2):length(cs)], sep = "", collapse = " ")
+            city <- paste(cs[1:(length(cs) - 1)], sep = "", collapse = " ")
+            state <- paste(cs[length(cs)], sep = "", collapse = " ")
           }
         }
       }
           
+          
+      state <- trim(gsub("-Texarkana", "", state))
           
       if(!skipLine)
       {
@@ -125,30 +133,36 @@ clean_file <- function(fileName, columnNames)
         numbers <- make_num_vector( substr( line, pos, nchar(line))) 
         
         ## collect the info
-        vect <- c(  city, state , numbers)
-        if(any(is.na(vect)))
-        {
-          cat("\n")
-          print(vect)
-          stop("\nVect\nLine:\t", lineNum)
-        }
+        stateSplit <- strsplit(state,"-")[[1]]
         
-        if( length(dataSet) > 2)
-          if(length(vect) != ncol(dataSet))
+        for(i in 1:length(stateSplit))
+        {
+          
+          vect <- c(  trim(city), trim(stateSplit[i]), numbers)  
+  
+          if(any(is.na(vect)))
           {
             cat("\n")
             print(vect)
-            stop("\nLength\nLine:\t",lineNum)
+            stop("\nVect\nLine:\t", lineNum)
           }
-
-        ## store and repeat
-        dataSet <- rbind(dataSet,vect)
-        if(any(is.na(dataSet)))
-        {
-          print(vect)
-          stop("\nDataSet\nLine:\t", lineNum)
-        }
-        
+          
+          if( length(dataSet) > 2)
+            if(length(vect) != ncol(dataSet))
+            {
+              cat("\n")
+              print(vect)
+              stop("\nLength\nLine:\t",lineNum)
+            }
+  
+          ## store and repeat
+          dataSet <- rbind(dataSet,vect)
+          if(any(is.na(dataSet)))
+          {
+            print(vect)
+            stop("\nDataSet\nLine:\t", lineNum)
+          }
+        }        
         
       }
     } # end if != "   "
@@ -173,117 +187,8 @@ clean_file <- function(fileName, columnNames)
   
 }
 
-
-#clean_and_save <- function(fileName, saveName)
-#{
-#  Names <- c("City", "State", "Total", "Units_1", "Units_2", "Units_3-4", "Units_5-Inf", "Units_Stucture_5-Inf", "Monthly_Coverage_Percent") 
-#    
-#  cat("\n",saveName)
-#
-#  write.csv( clean_file(fileName, Names), saveName, row.names = FALSE)
-#}
-
-
-
-#file_names <- c(
-#                paste(
-#                  rep(2000:2008,each = 12) ,
-#                  c("jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"), 
-#                  sep=""
-#                ),
-#                paste(
-#                  "2009",
-#                  c("jan", "feb", "mar", "apr"), 
-#                  sep=""
-#                )
-#              )
               
 options(stringsAsFactors = FALSE)
-
-#dir.create("cleaned")
-#dir.create("cleaned/by_year")
-#dir.create("cleaned/by_month")
-#dir.create("cleaned/by_year/valuation")
-#dir.create("cleaned/by_year/housing_units")
-#dir.create("cleaned/by_month/valuation")
-#dir.create("cleaned/by_month/housing_units")
-#
-#
-#for( folder in c("housing_units/", "valuation/"))
-#for(i in 1:length(file_names))
-#{
-#  clean_and_save(paste("original/", folder, file_names[i], ".txt", sep = "", collapse = ""), paste("cleaned/by_month/", folder, file_names[i], ".csv", sep = "", collapse = "") )
-#}
-#
-#cat("\n")
-#dataNew <- NULL
-#for(folder in c("valuation/","housing_units/"))
-#for( i in 1:(9*12))
-#{
-#  cat(i%%12,", ") 
-#  month <- read.csv( paste("cleaned/by_month/", folder, file_names[i], ".csv", sep = "", collapse = ""))
-#  Month <- NULL
-#  if(i %% 12 == 0)
-#    Month <- rep(12, nrow(month))
-#  else
-#    Month <- rep(i%%12,nrow(month))
-#    
-#  dataNew <- rbind(dataNew, cbind(month[,1:7],Month))
-#  if(i %% 12 == 0)
-#  {
-#    fileName <- paste("cleaned/by_year/", folder,substr(file_names[i], 1, 4),".csv", sep = "", collapse = "")
-#    cat("File Saved: ",fileName,"\n")
-#    write.csv(dataNew, fileName, row.names = FALSE)
-#    dataNew <- NULL
-#  }
-#}
-#
-#dataNew <- NULL
-#for(folder in c("valuation/", "housing_units/"))
-#{
-#  for( i in 1:4 + 9*12)
-#  {
-#    cat(i%%12,", ") 
-#    month <- read.csv( paste("cleaned/by_month/", folder, file_names[i], ".csv", sep = "", collapse = ""))
-#    Month <- NULL
-#    if(i %% 12 == 0)
-#      Month <- rep(12, nrow(month))
-#    else
-#      Month <- rep(i%%12,nrow(month))
-#
-#    dataNew <- rbind(dataNew, cbind(month[,1:7], Month))
-#    
-#  }
-#  fileName <- paste("cleaned/by_year/", folder,substr(file_names[length(file_names)], 1, 4),".csv", sep = "", collapse = "")
-#  cat("File Saved: ",fileName,"\n")
-#  write.csv(dataNew, fileName, row.names = FALSE)
-#}
-#
-#
-#for(folder in c("valuation", "housing_units"))
-#{
-#  dataNew <- NULL
-#  for(i in 2000:2009)
-#  {
-#    cat(i,", ")
-#    year <- read.csv( paste("cleaned/by_year/", folder,"/", i, ".csv", sep = "", collapse = ""))
-#    Year <- rep(i, nrow(year))
-#    dataTmp <- cbind(year, Year)
-#    #print(head(dataTmp))
-#    dataNew <- rbind(dataNew, dataTmp)
-#  }
-#  cat("File Saved: ",folder,".csv\n")
-#  write.csv(dataNew, paste(folder, ".csv", sep = "", collapse = ""), row.names = FALSE)
-#  
-#}
-#
-
-
-
-
-
-
-
 
 clean_month <- function(month, year, type)
 {
@@ -326,9 +231,12 @@ all <- ldply(2000:2009, clean_all)
 colnames(all) <- tolower(colnames(all))
 all <- all[,c("year","month","city","state","bedrooms","housing_units","valuation")]
 
+
 write.table(all, gzfile("new-construction.csv.gz"), sep = ",", row = F)
 closeAllConnections()
 
+#write.table(all, "tmp.txt", sep = ",", row = F)
+#print(unique(all$state))
 
 
 
