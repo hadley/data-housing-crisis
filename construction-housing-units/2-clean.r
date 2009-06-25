@@ -214,7 +214,7 @@ clean_year <- function(year, type)
   d <- melt(ldply(months, year = year, type = type, clean_month, .progress = "text"), id = c("month", "City", "State"))
   year <- rep(year, nrow(d))
   d <- cbind(year, d)
-  colnames(d)[colnames(d) == "variable"] <- "bedrooms"
+  colnames(d)[colnames(d) == "variable"] <- "units"
   colnames(d)[colnames(d) == "value"] <- type
   d
 }
@@ -229,15 +229,17 @@ clean_all <- function(year)
 
 all <- ldply(2000:2009, clean_all)
 colnames(all) <- tolower(colnames(all))
-all <- all[,c("year","month","city","state","bedrooms","housing_units","valuation")]
+all <- all[,c("year","month","city","state","units","housing_units","valuation")]
 
+# Convert month to a number
+all$month <- as.numeric(factor(all$month, levels = c("jan", "feb", "mar", 
+  "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec")))
+
+# Removed unneeded units prefix
+all$units <- gsub("Units_", "", all$units)
+
+# Remove totals
+all <- subset(all, units != "Total")
 
 write.table(all, gzfile("new-construction.csv.gz"), sep = ",", row = F)
 closeAllConnections()
-
-#write.table(all, "tmp.txt", sep = ",", row = F)
-#print(unique(all$state))
-
-
-
-
