@@ -81,9 +81,18 @@ if(TRUE)
     print(majorstatesgoodcities)
   dev.off()
  
-  pdf("exports/Merced.pdf", width = 10, height = 8)
+
+  library(mgcv)
+  
   merc <- data[data$city == "Merced", ]
-  Merced <- qplot(time, housing_units, data = merc, geom = "line") + facet_wrap(~bedrooms, scales = "free")
+  smooth <- function(var, date)
+    predict(gam(var ~ s(date)))
+  merc <- ddply(merc, "bedrooms", transform, 
+    housing_units_sm = smooth(housing_units, time))
+
+  pdf("exports/Merced.pdf", width = 10, height = 8)
+    Merced <- qplot(time, housing_units_sm, data = merc[merc$bedrooms == "Total", ], geom = "line", xlab = "Time", ylab = "Housing Units", main = "Merced, CA") + facet_wrap(~bedrooms, scales = "free")
+  print(Merced)
   dev.off()
   
 }
