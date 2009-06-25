@@ -6,7 +6,7 @@ New residential construction in residential areas, broken down by:
 * Year (2000-2003)
 * Month
 * Metropolian area, and state
-* Number of bedrooms
+* Number of units in complex
 
 And has data on
 
