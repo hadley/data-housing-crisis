@@ -1,16 +1,19 @@
 New Housing Construction 
 ==============================
 
-Use 1-download.r to download the data set.
+New residential construction in residential areas, broken down by:
 
-Clean data contains information regarding new construction is metro areas. The data is organized by:
-
-* Year (00-03)
+* Year (2000-2003)
 * Month
-* City
-* State
-* Bedrooms
-* Housing Units 
-* Valuation 
+* Metropolian area, and state
+* Number of bedrooms
 
-Data can be found at [Census](http://www.census.gov/const/C40/Table3/) plus the file name.
+And has data on
+
+* Number of housing units 
+* Total value
+
+Data source
+-------------
+
+Data comes from [building permits](http://www.census.gov/const/www/permitsindex.html).  This data set is generated from data listed on http://www.census.gov/const/www/C40/table3.html.   `1-download.r` to download the raw data.
