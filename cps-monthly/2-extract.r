@@ -1,13 +1,8 @@
-vars <- c(
-  abbr = 13,
-  length = 2,
-  desc = 44,
-  start = 4,
-  end = 4
-)
-to_extract <- read.fwf("variables.csv", vars, 
-  strip.white = TRUE, stringsAsFactors = FALSE)
-names(to_extract) <- names(vars)
+vars_that_I_want <- c("PEMLR", "GTCBSA", "PRDTIND1", "PRMJIND1")
+
+all_vars <- read.csv("variables.csv", header = TRUE, stringsAsFactors = FALSE)
+
+to_extract <- all_vars[all_vars$abbr %in% vars_that_I_want,]
 
 parse_line <- function(line, fields) {
   substring(line, fields$start, fields$start + fields$length - 1)  
@@ -44,4 +39,5 @@ all_months <- expand.grid(
   year = 2000:2009,
   month = 1:12
 )
+dir.create("clean")
 m_ply(all_months, parse_year)
