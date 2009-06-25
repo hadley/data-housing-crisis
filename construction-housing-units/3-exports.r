@@ -24,6 +24,11 @@ dataTmp[,"state"] <- substr(dataTmp[,"state"], 1, 2)
 
 
 
+  merc <- data[data$city == "Merced", ]
+  smooth <- function(var, date)
+    predict(gam(var ~ s(date)))
+  merc <- ddply(merc, "bedrooms", transform, 
+    housing_units_sm = smooth(housing_units, time))
 
 
 #p <- qplot(time, housing_units, data = dataTmp, group = city, geom = "line", colour = state) + facet_grid(bedrooms ~ ., scales = "free")
@@ -84,11 +89,6 @@ if(TRUE)
 
   library(mgcv)
   
-  merc <- data[data$city == "Merced", ]
-  smooth <- function(var, date)
-    predict(gam(var ~ s(date)))
-  merc <- ddply(merc, "bedrooms", transform, 
-    housing_units_sm = smooth(housing_units, time))
 
   pdf("exports/Merced.pdf", width = 10, height = 8)
     Merced <- qplot(time, housing_units_sm, data = merc[merc$bedrooms == "Total", ], geom = "line", xlab = "Time", ylab = "Housing Units", main = "Merced, CA") + facet_wrap(~bedrooms, scales = "free")
