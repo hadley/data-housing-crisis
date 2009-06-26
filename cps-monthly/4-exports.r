@@ -170,3 +170,21 @@ hlist$sales_ds <- deseas("sales")
 hlist$listings_ds <- deseas("listings")
 hlist$inventory_ds <- deseas("inventory")
 hlist$price_avg_ds <- deseas("price_avg")
+
+
+# Merced Query
+# _____________________________________________
+merced <- read.csv("merced_data.csv", header = T)
+
+get_gdp <- function(df){
+	c(education = nrow(df[df$prdtind1 == 40,]),
+	total = nrow(df))
+}
+
+merced_ed <- ddply(merced, .(year, month), get_gdp)
+
+qplot(year + month/12, education, data = merced_ed, geom = "line", main = "Number of people employed in educational services, Merced, CA") + opts(legend.position = "none")
+ggsave("exports/mercededno.pdf", width = 6, height = 6)
+
+qplot(year + month/12, education/total * 100, data = merced_ed, geom = "line", main = "Percent of people employed in educational services, Merced, CA") + opts(legend.position = "none")
+ggsave("exports/mercededper.pdf", width = 6, height = 6)

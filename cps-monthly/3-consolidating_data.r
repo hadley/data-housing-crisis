@@ -61,3 +61,27 @@ cbs_data <- ddply(all_months, .(year, month), make_all)
 key <- data.frame( city = c("Orlando", "Myrtle Beach", "Miami", "Las Vegas", "Honolulu", "Oklahoma City", "Sacramento", "Scranton", "Worcester", "Amarillo"), gtcbsa = c(hot_cbsa, not_cbsa))
 
 cbs_data <- merge(key, cbs_data, by = "gtcbsa")
+
+
+# Merced Query
+# _______________________________________________
+
+make_merced <- function (df) {
+	path <- paste("clean/", df$year, "-", sprintf("%02i", df$month), ".csv.gz", sep = "")
+	
+	message("Processing ", path)
+	df <- read.csv(gzfile(path), header = T)
+	closeAllConnections()
+	
+	new <- df[df$gtcbsa == 32900,]
+	new
+}
+
+all_months <- expand.grid(
+  year = 2004:2009,
+  month = 1:12
+)[-c(1, 7, 13, 19, 30, 36, 42, 48, 54, 60, 66, 72),]
+
+merced <- ddply(all_months, .(year, month), make_merced)
+
+write.table(merced, "merced_data.csv", sep = ",", row = F)
