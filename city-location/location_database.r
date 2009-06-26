@@ -20,6 +20,7 @@ county <- county[county$fips_place != 0,]
 county <- county[,c(3,15,16)]
 names(county) <- c("county", "fips_st", "fips_place")
 
+
 # merging with city data
 location <- merge(city, county, by = c("fips_st", "fips_place"), all.x = T)
 
@@ -174,7 +175,7 @@ for (i in 1:nrow(location)){
 # making the data pretty
 location <-location[,c(4,5,13, 6,7,3,12,2,10,1,9)]
 names(location)[8:9] <- c("fips_cbsa", "fips_csa")
-
+location <- unique(location)
 
 # saving database
 write.table(location, "location_database2007.csv", sep =",", row = F)
