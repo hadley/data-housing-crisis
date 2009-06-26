@@ -85,9 +85,96 @@ names(msa) <- c("msa_name", "cbsa")
 # merging cbsa codes with msa names
 cbsa <- merge(msa, cbsa, by = "cbsa")
 
-#merging cbsa with cities
+# merging cbsa with cities
 location <- merge(location, cbsa, by = c("fips_st", "fips_place"), all.x = T)
 
 
+# Source 3 (CSA codes): http://www.census.gov/population/www/metroareas/lists/2007/List6.txt
+
+download.file("http://www.census.gov/population/www/metroareas/lists/2007/List6.txt", "csacodes2007-11.txt")
+csa <- read.fwf("csacodes2007-11.txt", width = c(3,7), skip = 11, strip.white = T)
+csa <- na.omit(csa)
+names(csa) <- c("csa", "cbsa")
+csa$csa <- as.numeric(csa$csa)
+csa$cbsa <- as.numeric(csa$cbsa)
+
+# merging csa codes to city data
+location <- merge(location, csa, by = c("cbsa"), all.x = T)
+
+
+
+# Source 4 (fips county codes): http://www.census.gov/population/www/metroareas/lists/2007/List4.txt
+
+# and http://www.census.gov/population/www/metroareas/lists/2007/List5.txt
+
+download.file("http://www.census.gov/population/www/metroareas/lists/2007/List4.txt", "metrocounties2007-11.csv")
+download.file("http://www.census.gov/population/www/metroareas/lists/2007/List5.txt", "microcounties2007-11.csv")
+
+metro <- read.csv("metrocounties2007-11.csv", sep = "@", skip = 11, header = F)
+micro <- read.csv("microcounties2007-11.csv", sep = "@", skip = 11, header = F)
+
+# extracting codes
+micro$cbsa <- as.numeric(substr(micro[,1], 1,5))
+micro$fips_st <- as.numeric(substr(micro[,1], 9, 10))
+micro$fips_county <- as.numeric(substr(micro[,1], 11, 13))
+micro <- micro[!is.na(micro$fips_st),]
+
+metro$cbsa <- as.numeric(substr(metro[,1], 1,5))
+metro <- metro[-c(1562:1565),]
+metro$fips_st <- as.numeric(substr(metro[,1], 17, 18))
+metro$fips_county <- as.numeric(substr(metro[,1], 19, 21))
+metro <- metro[!is.na(metro$fips_st),]
+
+# removing spanish names that confuse R
+metro <-metro[metro$cbsa != 10380,]
+metro <-metro[metro$cbsa != 32420,]
+metro <-metro[metro$cbsa != 38660,]
+metro <-metro[metro$cbsa != 41900,]
+metro <-metro[metro$cbsa != 41980,]
+metro <-metro[metro$cbsa != 49500,]
+
+# isolating counties
+for (i in 1:nrow(micro)){
+	micro[i,1] <- trim(gsub(micro$cbsa[i], "", micro[i,1]))
+	micro[i,1] <- trim(gsub(micro$fips_county[i], "", micro[i,1]))
+	micro[i,1] <- trim(gsub(micro$fips_st[i], "", micro[i,1]))
+	micro[i,1] <- trim(gsub("0", "", micro[i,1]))
+	micro[i,1] <- strsplit(micro[i,1], ", ")[[1]][1]
+	micro[i,1] <- strsplit(micro[i,1], " Parish")[[1]][1]
+	micro[i,1] <- strsplit(micro[i,1], " County")[[1]][1]
+}
+names(micro)[1] <- "county"
+
+metro$remove <- substr(metro[,1], 1, 21)
+for (i in 1:nrow(metro)){
+	metro[i,1] <- trim(gsub(metro$remove[i], "", metro[i,1]))
+	metro[i,1] <- strsplit(metro[i,1], ", ")[[1]][1]
+	metro[i,1] <- strsplit(metro[i,1], " Parish")[[1]][1]
+	metro[i,1] <- strsplit(metro[i,1], " County")[[1]][1]
+}
+names(metro)[1] <- "county"
+metro$remove <- NULL
+
+# combining metropolitan and micropolitan data bases
+county_code <- rbind(metro, micro)
+
+# adding county codes to location database
+
+location <- merge(location, county_code, by = c("fips_st", "cbsa"), all.x = T)
+
+# consolidating county name data
+for (i in 1:nrow(location)){
+	if (!is.na(location$county.x)) {
+		location$county <- location$county.x
+	} else {
+		location$county <- location$county.y
+	}
+}
+
+# making the data pretty
+location <-location[,c(4,5,13, 6,7,3,12,2,10,1,9)]
+names(location)[8:9] <- c("fips_cbsa", "fips_csa")
+
+
 # saving database
-write.table(location, "location_database.csv", sep =",", row = F)
+write.table(location, "location_database2007.csv", sep =",", row = F)
