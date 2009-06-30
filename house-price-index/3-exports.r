@@ -76,7 +76,7 @@ findmerced <- ggplot(data= maximum_hpi, aes(x=time, y=percent_change, label= sub
 	mercedMax <- data.frame(x = 2006.25, y = 321.29, label = "321.29")
 	merced09 <- data.frame(x = 2009, y = 140.4, label = "140.4")
 	mercedgraph <- qplot(x= time, y= hpi, data= merced, geom= "line", main = "Merced, CA") + 
-	  ylim(c(0,350)) + 
+	  ylim(c(100,350)) + 
 	  opts(legend.position = "none") + 
 	  geom_point(data = mercedMax, aes(x, y), size= 2) + 
 	  geom_text(data = mercedMax, aes(x, y+5), label = "321.29", vjust = 0) + 
