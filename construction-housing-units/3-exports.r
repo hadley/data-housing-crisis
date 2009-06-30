@@ -76,7 +76,7 @@ cat("printing\n")
   florida <- qplot(time, housing_units, data = dataCitySelect[dataCitySelect[,"state"] == "FL", ], main = "Florida", group = city, geom = "line", colour = city) + facet_wrap(~ units , scales = "free")
   majorstatesgoodcities <- qplot(time, housing_units, data = dataCitySelect, group = city, geom = "line", colour = city) + facet_grid(units ~ state, scales = "free")
   
-  Merced <- qplot(time, n, data = merc, geom = "line", xlab = "Time", ylab = "Housing Units", main = "Merced, CA") + geom_line(aes(y = n_sm)) + geom_vline(aes(xintercept = 2006), colour = I("red"), size = 2)
+  Merced <- qplot(time, n, data = merc, geom = "line", xlab = "Time", ylab = "Housing Units", main = "Merced, CA") + geom_line(aes(y = n_sm)) + geom_vline(aes(xintercept = 2006.25), colour = I("red"), size = 2)
 
   
   
