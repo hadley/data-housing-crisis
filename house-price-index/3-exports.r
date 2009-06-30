@@ -59,7 +59,7 @@ maximum_hpi$percent_change <- maximum_hpi$hpi / maximum_hpi$hpi_2009 * 100 - 100
 
 #ggplot(data= maximum_hpi, aes(x=time, y=change, label= state, colour=state)) + geom_point() + geom_text(angle=45, hjust= 0, size= 5) + opts(legend.position="none")
 
-findmerced <- ggplot(data= maximum_hpi, aes(x=time, y=percent_change, label= substr(state, 1, 2), colour=state)) + geom_text( hjust = .5, vjust = .5, size= 5) + opts(legend.position="none", title = "Peak HPI vs. Time")+ ylim(c(0,140))
+findmerced <- ggplot(data= maximum_hpi, aes(x=time, y=percent_change, label= substr(state, 1, 2), colour=state)) + geom_text( hjust = .5, vjust = .5, size= 5) + opts(legend.position="none", title = "Percent Change vs. Peak HPI Time")+ ylim(c(0,140))
 
 
 
