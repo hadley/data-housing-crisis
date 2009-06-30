@@ -70,11 +70,62 @@ findmerced <- ggplot(data= maximum_hpi, aes(x=time, y=percent_change, label= sub
 #subset(maximum_hpi, city %in% c("Merced"))
 
 #subset(maximum_hpi, state %in% c("CA"))
-
-
 	merced <- subset(hpi, city %in% c("Merced"))
 	mercedMax <- data.frame(x = 2006.25, y = 321.29, label = "321.29")
 	merced09 <- data.frame(x = 2009, y = 140.4, label = "140.4")
+
+
+makeExplanation <- function(data )
+{
+
+  dummy <- data
+  
+  minHeight <- min(c(100,dummy$hpi))
+  
+  dummyMax <- data.frame(
+    x = dummy[dummy$hpi == max(dummy$hpi), "time"], 
+    y = max(dummy$hpi), 
+    label = as.character(dummy$hpi),
+    colour = I("blue")
+  )
+	
+  dummy09 <- data.frame(
+    x = max(dummy$time), 
+    y = dummy[dummy$time == max(dummy$time), "hpi"], 
+    label = as.character(dummy[dummy$time == max(dummy$time), "hpi"]),
+    colour = I("red")
+  )
+  
+  ratio <- format(max(dummyMax$y) / max(dummy09$y), digits = 3)
+  
+  dummyDiff <- data.frame(x = 2000, xtext = 2000.125, y1 = max(dummyMax$y), y2 = max(dummy09$y), text = paste("Peak HPI / Current HPI = ", ratio ,"\n(ratio) \n\n\nMeans that in it's maximum HPI year,\nit was ", ratio," times bigger\nthan it is today.", sep = "", collapse = ""), colour = I("darkgreen") )
+  
+	dummygraph <- qplot(x= time, y= hpi, data= dummy, geom= "blank", main = paste("Explanation Graph for ", dummy[1,"city"],", ",dummy[1,"state"], sep = "", collapse = ""), xlab = "Time", ylab = "HPI") + 
+    geom_line(size = 2) +
+	  xlim(c(2000, 2009)) + 
+	  ylim(c(minHeight,350)) + 
+	  opts(legend.position = "none") + 
+	  geom_segment(data = dummyMax, aes(x = 2000, xend = x, y = y, yend = y), colour = dummyMax$colour, size= 1) + 
+	  geom_segment(data = dummyMax, aes(x = x, xend = x, y = minHeight, yend = y), colour = dummyMax$colour, size= 1) + 
+	  geom_text(data = dummyMax, aes((x - 2000) / 2 + 2000, y+2), colour = dummyMax$colour, label = "Peak HPI Value", vjust = 0, size = 3) + 
+	  geom_text(data = dummyMax, aes(x - 1/8, (y - minHeight) * 3/4 + minHeight), colour = dummyMax$colour, label = "Peak HPI Time", vjust = 0, angle = 90, size = 3) + 
+
+	  geom_text(data = dummy09, aes((x - 2000) / 3 + 2000, y+2), colour = dummy09$colour, label = "Current HPI Value", vjust = 0, size = 3) +
+	  geom_text(data = dummy09, aes(x - 1/8, (y - minHeight)/ 2 + minHeight), colour = dummy09$colour, label = "Current Time", vjust = 0, angle = 90, size = 3) +
+	  geom_segment(data = dummy09, aes(x = 2000, xend = x, y = y, yend = y), colour = dummy09$colour, size= 1) + 
+	  geom_segment(data = dummy09, aes(x = x, xend = x, y = minHeight, yend = y), colour = dummy09$colour, size= 1) +
+	  
+#	  geom_segment(data = dummyDiff, aes(x = x, xend = x, y = y1, yend = y2), colour = dummyDiff$colour, size = 1) + 
+	  geom_text(data = dummyDiff, aes(x = xtext , y = (y1 + y2) / 2, label = text), size = 3, hjust = 0)
+
+  dummygraph
+}
+
+
+  StocktonExplain <- makeExplanation(subset(hpi, city %in% c("Stockton")))
+  MercedExplain <- makeExplanation(subset(hpi, city %in% c("Merced")))
+  HonoluluExplain <- makeExplanation(subset(hpi, city %in% c("Honolulu")))
+
 	mercedgraph <- qplot(x= time, y= hpi, data= merced, geom= "line", main = "Merced, CA") + 
 	  ylim(c(100,350)) + 
 	  opts(legend.position = "none") + 
@@ -115,6 +166,11 @@ if(TRUE)
 	 print(qplot(time, hpi, data = hpi, colour = city, label = city_state,  geom = c("path","point","text"), main = "HPI vs. Time") + opts(legend.position = "none"))
 	dev.off()
 
+	pdf("exports/Explanations.pdf", width = 8, height = 6)
+	 print(StocktonExplain)
+	 print(MercedExplain)
+	 print(HonoluluExplain)
+	dev.off()
 	 
 }
 	 
