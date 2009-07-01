@@ -19,7 +19,7 @@ time <- data[,"year"] + (as.numeric(data[,"month"]) - 1/12) / 12
 
 data <- cbind(time, data)
 
-#print(head(data))
+print(head(data))
 
 States <- c("CA","CA MSA","FL","FL MSA","NV","NV MSA","NY","NY MSA","AZ","AZ MSA","OR","OR MSA")
 stat <- States[nchar(States) > 0]
@@ -31,18 +31,27 @@ print(head(dataTmp))
 #  merc <- ldply( merc[,], .(time, city, state), numcolwise(sum))
   dataTotal <- ddply(data, c("state","city", "time"), summarise, n = sum(housing_units), value = sum(valuation), .progress = "text")
 
+  
+
   merc <- dataTotal[dataTotal$city == "Merced", ]
   head(merc)
-  smooth <- function(var, date)
+  smoothNew <- function(var, date)
     predict(gam(var ~ s(date)))
     
   print(head(merc))
-  merc$n_sm <- smooth(merc$n, merc$time)
-  merc$value_sm <- smooth(merc$value, merc$time)
+  merc$n_sm <- smoothNew(merc$n, merc$time)
+  merc$value_sm <- smoothNew(merc$value, merc$time)
   print(head(merc))
 
+mercedFive <- data[data$city == "Merced" & data$units == "apts",]
+mercedFive$hu_smo <- smoothNew(mercedFive$housing_units, mercedFive$time)
+mercedFive$value_smo <- smoothNew(mercedFive$valuation, mercedFive$time)
 
-#p <- qplot(time, housing_units, data = dataTmp, group = city, geom = "line", colour = state) + facet_grid(units ~ ., scales = "free")
+
+MercedFive <- qplot(time, housing_units, data = mercedFive, geom = "line", main = "Merced, CA: Five or More Housing Units", ylab = "Housing Units", xlab = "Time") + 
+  geom_line(aes(y = hu_smo)) + 
+  geom_vline(aes(xintercept = 2006.25), colour = I("red"), size = 2)
+
 
 
 
@@ -104,4 +113,7 @@ if(TRUE)
     print(Merced)
   dev.off()
   
+  pdf("exports/Merced Five Units.pdf", width = 8, height = 6)
+    print(MercedFive)
+  dev.off()
 }
