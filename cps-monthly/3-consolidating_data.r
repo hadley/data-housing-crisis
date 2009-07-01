@@ -73,12 +73,12 @@ make_merced <- function (df) {
 	df <- read.csv(gzfile(path), header = T)
 	closeAllConnections()
 	
-	new <- df[df$gtcbsa == 32900,]
+	new <- df[df$gtco == 047 & df$gestfips == 06,]
 	new
 }
 
 all_months <- expand.grid(
-  year = 2004:2009,
+  year = 2000:2009,
   month = 1:12
 )[-c(1, 7, 13, 19, 30, 36, 42, 48, 54, 60, 66, 72),]
 

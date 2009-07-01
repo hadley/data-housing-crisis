@@ -12,6 +12,10 @@ parse_month <- function(year, month) {
 	path <- paste("raw/", year, "-", sprintf("%02i", month), ".txt.gz", sep = "")
 	out_path <- paste("clean/", year, "-", sprintf("%02i", month), ".csv.gz", sep = "")
 	
+	
+	if (!file.exists(path)) return() # Skip if file doesn't exist
+	if (file.exists(out_path)) return() # Skip if already processed
+	
 	message("Processing ", path)
 	lines <- readLines(gzfile(path))
 	closeAllConnections()
