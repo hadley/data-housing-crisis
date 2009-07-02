@@ -1,4 +1,4 @@
-vars_that_I_want <- c("PEMLR", "GTCBSA", "PRDTIND1", "PRMJIND1")
+vars_that_I_want <- c("GTCO", "GESTFIPS", "PEMLR", "GTCBSA", "PRDTIND1", "PRMJIND1")
 
 all_vars <- read.csv("variables.csv", header = TRUE, stringsAsFactors = FALSE)
 
@@ -41,7 +41,6 @@ parse_month <- function(year, month) {
 
 
 all_months <- expand.grid(
-  year = 2000:2009,
-  month = 1:12
-)[-c(50, 60, 70, 80, 90, 100, 110, 120),]
+  year = 2003:2009,
+  month = 1:12)
 m_ply(all_months, parse_month)

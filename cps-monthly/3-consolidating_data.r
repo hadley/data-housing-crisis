@@ -78,9 +78,9 @@ make_merced <- function (df) {
 }
 
 all_months <- expand.grid(
-  year = 2000:2009,
+  year = 2003:2009,
   month = 1:12
-)[-c(1, 7, 13, 19, 30, 36, 42, 48, 54, 60, 66, 72),]
+)[-c(84, 77, 70, 63, 56, 49, 42, 35),]
 
 merced <- ddply(all_months, .(year, month), make_merced)
 
