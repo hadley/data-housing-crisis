@@ -6,7 +6,7 @@
 	options(stringsAsFactors= FALSE)
 
 hpi <- read.csv("HPI-metro-areas.csv")
-time <- hpi[,"year"] + (hpi[,"quarter"] - 1) / 4
+time <- hpi[,"year"] + hpi[,"quarter"] / 4 -.5
 hpi <- cbind(hpi,time)
 hpi$city_state <- paste(hpi$city, hpi$state, sep= ", ")
 
@@ -54,6 +54,8 @@ maximum_hpi <- merge(MaxHPI, HPI09[,1:3])
 
 
 maximum_hpi$percent_change <- maximum_hpi$hpi / maximum_hpi$hpi_2009 * 100 - 100
+  write.csv(maximum_hpi, gzfile("Max HPI.csv.gz"), row.names = FALSE)
+  closeAllConnections()
 
 #findings: the housing bubble- cities whoes HPI hit a peak in 2006,changed the most by 2009
 
@@ -71,8 +73,8 @@ findmerced <- ggplot(data= maximum_hpi, aes(x=time, y=percent_change, label= sub
 
 #subset(maximum_hpi, state %in% c("CA"))
 	merced <- subset(hpi, city %in% c("Merced"))
-	mercedMax <- data.frame(x = 2006.25, y = 321.29, label = "321.29")
-	merced09 <- data.frame(x = 2009, y = 140.4, label = "140.4")
+	mercedMax <- data.frame(x = 2006.375, y = 321.29, label = "321.29")
+	merced09 <- data.frame(x = 2009.125, y = 140.4, label = "140.4")
 
 
 makeExplanation <- function(data )

@@ -15,7 +15,7 @@ data$units <- c("1" = "house", "2" = "duplex", "3-4" = "townhouse", "5-Inf" = "a
 #print(str(data))
 #print(head(data))
 
-time <- data[,"year"] + (as.numeric(data[,"month"]) - 1/12) / 12
+time <- data[,"year"] + as.numeric(data[,"month"]) / 12 - 1/24
 
 data <- cbind(time, data)
 
@@ -28,9 +28,14 @@ dataTmp[,"state"] <- substr(dataTmp[,"state"], 1, 2)
 
 print(head(dataTmp))
 
-#  merc <- ldply( merc[,], .(time, city, state), numcolwise(sum))
+
   dataTotal <- ddply(data, c("state","city", "time"), summarise, n = sum(housing_units), value = sum(valuation), .progress = "text")
 
+ write.csv(dataTotal, gzfile("Total Contruction.csv.gz"), row.names = FALSE)
+ closeAllConnections()
+
+  dataTotal <- read.csv(gzfile("Total Contruction.csv.gz"))
+  closeAllConnections()
   
 
   merc <- dataTotal[dataTotal$city == "Merced", ]
@@ -50,7 +55,7 @@ mercedFive$value_smo <- smoothNew(mercedFive$valuation, mercedFive$time)
 
 MercedFive <- qplot(time, housing_units, data = mercedFive, geom = "line", main = "Merced, CA: Five or More Housing Units", ylab = "Housing Units", xlab = "Time") + 
   geom_line(aes(y = hu_smo)) + 
-  geom_vline(aes(xintercept = 2006.25), colour = I("red"), size = 2)
+  geom_vline(aes(xintercept = 2006.375), colour = I("red"), size = 2)
 
 
 
@@ -85,7 +90,7 @@ cat("printing\n")
   florida <- qplot(time, housing_units, data = dataCitySelect[dataCitySelect[,"state"] == "FL", ], main = "Florida", group = city, geom = "line", colour = city) + facet_wrap(~ units , scales = "free")
   majorstatesgoodcities <- qplot(time, housing_units, data = dataCitySelect, group = city, geom = "line", colour = city) + facet_grid(units ~ state, scales = "free")
   
-  Merced <- qplot(time, n, data = merc, geom = "line", xlab = "Time", ylab = "Housing Units", main = "Merced, CA") + geom_line(aes(y = n_sm)) + geom_vline(aes(xintercept = 2006.25), colour = I("red"), size = 2)
+  Merced <- qplot(time, n, data = merc, geom = "line", xlab = "Time", ylab = "Housing Units", main = "Merced, CA") + geom_line(aes(y = n_sm)) + geom_vline(aes(xintercept = 2006.375), colour = I("red"), size = 2)
 
   
   
