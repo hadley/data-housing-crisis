@@ -2,7 +2,7 @@ library(mgcv)
 library(ggplot2)
 options(stringsAsFactors = FALSE)
 
-data <- read.csv(gzfile("new-construction.csv.gz"))
+data <- read.csv(gzfile("construction-housing-units.csv.gz"))
 closeAllConnections()
 data$size <- c("1" = "single", "2" = "multi", "3-4" = "multi", "5-Inf" = "multi")[data$units]
 data$units <- c("1" = "house", "2" = "duplex", "3-4" = "townhouse", "5-Inf" = "apts")[data$units]
