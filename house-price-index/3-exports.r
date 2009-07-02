@@ -5,7 +5,7 @@
 	library(ggplot2)
 	options(stringsAsFactors= FALSE)
 
-hpi <- read.csv("HPI-metro-areas.csv")
+hpi <- read.csv("house-price-index-msa.csv")
 time <- hpi[,"year"] + (hpi[,"quarter"] - 1) / 4
 hpi <- cbind(hpi,time)
 hpi$city_state <- paste(hpi$city, hpi$state, sep= ", ")
