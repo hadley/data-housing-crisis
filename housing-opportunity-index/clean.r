@@ -45,4 +45,4 @@ cast_new$year <- as.numeric(cast_new$year)
 names(cast_new) <- c( names(cast_new)[1:5], "count", "hoi", "int_rate", "med_inc", "med_price", "national_rank", "regional_rank")
 
 # saving
-write.table(cast_new, "hoi-clean.csv", sep = ",", row = FALSE)
+write.table(cast_new, "housing-opportunity-index.csv", sep = ",", row = FALSE)
