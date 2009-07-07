@@ -35,13 +35,15 @@ clean_file <- function(fileName, columnNames)
     ## read the lines of data in and only keep the last one
     ## essentially only reading one line at a time
     #prevLine <- readLines(fileName, n = lineNum-1)[lineNum -1]
-    line <- readLines(fileName, n = lineNum)[lineNum]
+    lines <- readLines(fileName, n = lineNum)[(lineNum-1):lineNum] 
+    prevLine <- lines[1]
+    line <- lines[2]
     
     ## end of data, so stop
     if(nchar(line) < 2)
       break()
     
-    if(substr(line, 1, 3) != "   ")
+    if(substr(line, 1, 3) != "   " & !all(c(nchar(trim(prevLine)) < 60, substr(prevLine, 1, 4) != "    ")))
     {
     #print(lineNum)
     #print(line)
@@ -84,6 +86,16 @@ clean_file <- function(fileName, columnNames)
       
       # remove "*" replace with space
       cityState <- gsub("\\*", " ", cityState)
+      cityState <- gsub("\"", "", cityState)
+      cityState <- gsub("--", "-", cityState)
+      cityState <- gsub("- ", "-", cityState)
+      cityState <- gsub(" -", "-", cityState)
+      if(gregexpr("-Texarkana", cityState)[[1]] != -1)
+      {
+        cityState <- gsub("-Texarkana, ", "-", cityState)
+        cityState <- gsub("-Texarkana  ", "-", cityState)
+        cityState <- gsub("-Texarkana", "", cityState)
+      }
       cityState <- gsub("CMSA", "", cityState)
       cityState <- trim(gsub("MSA", "", cityState))
 
@@ -124,8 +136,6 @@ clean_file <- function(fileName, columnNames)
       }
           
           
-      state <- trim(gsub("-Texarkana", "", state))
-          
       if(!skipLine)
       {
         #cat(".")
@@ -138,7 +148,7 @@ clean_file <- function(fileName, columnNames)
         for(i in 1:length(stateSplit))
         {
           
-          vect <- c(  trim(city), trim(stateSplit[i]), numbers)  
+          vect <- c(  trim(city), toupper(trim(stateSplit[i])), numbers)  
   
           if(any(is.na(vect)))
           {
@@ -239,7 +249,7 @@ all$month <- as.numeric(factor(all$month, levels = c("jan", "feb", "mar",
 all$units <- gsub("Units_", "", all$units)
 
 # Remove totals
-all <- subset(all, units != "Total")
+#all <- subset(all, units != "Total")
 
 write.table(all, gzfile("construction-housing-units.csv.gz"), sep = ",", row = F)
 closeAllConnections()

@@ -28,12 +28,6 @@ clean_file <- function(fileName, lessThan2008 = FALSE)
     names(res) <- c("geoid", "total", "vac","vac_avg", "nostat", "nostat_avg")
     names(bus) <- c("geoid", "total", "vac","vac_avg", "nostat", "nostat_avg")
     
-    type <- rep("3", nrow(bus))
-    bus <- cbind(bus, type)
-    #print(head(bus))
-    type <- rep("2", nrow(res))
-    res <- cbind(res, type)
-    #print(head(res))
     
     all <- list(
       geoid = vac[, "geoid"] , 
@@ -41,11 +35,11 @@ clean_file <- function(fileName, lessThan2008 = FALSE)
       vac = res[,"vac"]+ bus[,"vac"],
       vac_avg = (res[,"vac_avg"] * res[,"total"] + bus[,"vac_avg"] * bus[,"total"]) / (res[,"total"] + bus[,"total"]),
       nostat = res[,"nostat"] + bus[,"nostat"] ,
-      nostat_avg = (res[,"nostat_avg"] * res[,"total"] + bus[,"nostat_avg"] * bus[,"total"]) / (res[,"total"] + bus[,"total"]),
-      type = rep("1", nrow(res))
+      nostat_avg = (res[,"nostat_avg"] * res[,"total"] + bus[,"nostat_avg"] * bus[,"total"]) / (res[,"total"] + bus[,"total"])
     )
     #print(head(all))    
-    d <- rbind(res, bus, all)
+#    d <- rbind(res, bus, all)
+    d <- rbind(all)
       #print(head(d))
   }
   else
@@ -53,12 +47,10 @@ clean_file <- function(fileName, lessThan2008 = FALSE)
     #print("greaterThan")
     d <- vac[, c("geoid","ams","vac","avg_vac","nostat","avg_nostat")]  
     names(d) <- c("geoid","total","vac","vac_avg","nostat","nostat_avg")
-    type <- rep("1", nrow(d))
-    d <- cbind(d, type)
 
   }
   #print("done making d")
-  d <- d[,c("geoid", "total", "type","vac","vac_avg", "nostat", "nostat_avg")]
+  d <- d[,c("geoid", "total", "vac", "vac_avg", "nostat", "nostat_avg")]
   
   # Convert average days to total number of days so can aggregate into fips
   #print("start transform")
@@ -78,7 +70,7 @@ clean_file <- function(fileName, lessThan2008 = FALSE)
   d <- cbind(countyfips, statefips, d[,colnames(d) != "geoid"])
   #print(head(d))
   
-  county <- ddply( d, .(statefips, countyfips, type), numcolwise(sum), .progress = "text")
+  county <- ddply( d, .(statefips, countyfips), numcolwise(sum), .progress = "text")
 #print(head(county))  
 
   county
@@ -121,12 +113,9 @@ colnames(all) <- tolower(colnames(all))
 
 all <- all[,c("year", "quarter", "statefips", "countyfips", colnames(all)[!colnames(all) %in% c("year", "quarter", "statefips", "countyfips", "fips", "geoid")])]
 
-write.table(all, "try.txt", sep = ",", row = F)
-
 #all <- apply(all, MARGIN = 2, FUN = as.numeric)
 all <- as.data.frame(all)
 cat("\nALL\n")
-  all[,"type"] <-  factor((all[,"type"]),labels = c("all","residential","business"), levels = c(1,2,3))
 print(head(all))
 
 write.table(all, gzfile("new-vacancy.csv.gz"), sep = ",", row = F)
