@@ -5,7 +5,7 @@
 	library(ggplot2)
 	options(stringsAsFactors= FALSE)
 
-hpi <- read.csv("house-price-index-msa.csv")
+hpi <- read.csv("fhfa-house-price-index-msa.csv")
 time <- hpi[,"year"] + (hpi[,"quarter"] - 1) / 4
 
 hpi <- cbind(hpi,time)

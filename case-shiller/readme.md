@@ -12,4 +12,4 @@ Clean data is organized by:
 
 Data was dowloaded from [S&P/Case-Shiller Indices](http://www.macromarkets.com/csi_housing/data_download.asp)
 
-For information regarding the difference between Case-Shiller and [Federal Housing Finance Agency](../FHFA-housing-price-index) housing price indices please see [Notes](../NOTES)
+For information regarding the difference between Case-Shiller and Federal Housing Finance Agency (listed as fhfa-house-price-index) housing price indices please see NOTES.

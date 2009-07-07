@@ -12,7 +12,7 @@ print(unique(new [,"yr"]))
 
 names(new)[2:5] <- c("year","quarter","HPI_not_seasonally_adjusted","HPI_seasonally_adjusted")
 
-write.table(new, "house-price-index-state.csv", sep = ",", row = FALSE)
+write.table(new, "fhfa-house-price-index-state.csv", sep = ",", row = FALSE)
 
 
 ##########################
@@ -31,7 +31,7 @@ new <- a[a[,"year"] %in% 2000:2009, ]
 print(unique(new [,"year"]))
 
 
-write.table(new, "house-price-index-msa.csv", sep = ",", row = FALSE)
+write.table(new, "fhfa-house-price-index-msa.csv", sep = ",", row = FALSE)
 
 
 
