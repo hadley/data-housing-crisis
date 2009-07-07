@@ -54,7 +54,7 @@ library(ggplot2)
 qplot(year, rent, data = countym, geom = "line", colour = bedrooms, facets = ~ state)
 
 # Finally we save out the cleaned file to a fresh csv file
-write.table(countym, "rent-county.csv", sep = ",", row = FALSE)
+write.table(countym, "market-rents-county.csv", sep = ",", row = FALSE)
 
 
 # Area data ------------------------------------------------------------------
@@ -76,4 +76,4 @@ aream <- melt(area, id = c("year", "cbsasub", "state"))
 names(aream) <- c("year", "cbsasub", "state", "bedrooms", "rent")
 aream$bedrooms <- as.numeric(gsub("rent50_", "", aream$bedrooms))
 
-write.table(aream, "rent-area.csv", sep = ",", row = FALSE)
+write.table(aream, "market-rents-area.csv", sep = ",", row = FALSE)

@@ -16,4 +16,4 @@ qf$statecounty <- NULL
 # Remove state and overall aggregates
 qf2 <- subset(qf, county != 0)
 
-write.table(qf2, "quickfacts-clean.csv", sep = ",", row = FALSE)
+write.table(qf2, "census-quickfacts-clean.csv", sep = ",", row = FALSE)

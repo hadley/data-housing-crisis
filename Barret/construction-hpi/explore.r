@@ -1,0 +1,152 @@
+library(ggplot2)
+library(MASS)
+library(mgcv)
+options(na.action = "na.exclude")
+options(stringsAsFactors = FALSE)
+
+
+# Helper functions ----------------------------------------------------------
+savePlot <- function(..., plot= TRUE)
+{
+  cat("\nPrinting plot ", substitute(...),".pdf in folder 'exports'", sep ="")
+  if(plot)
+    ggsave(..., file=paste("exports/", substitute(...),".pdf",sep = "", collapse = ""), width=8, height=6)
+  else
+    cat("\nJust Kidding!!!\n")
+  cat("\n")
+}
+index <- function(x) x / x[1]
+
+
+deseas <- function(var, month) {
+  # var - ave(var, month, mean, na.rm = TRUE) + mean(var, na.rm = TRUE)
+  resid(rlm(var ~ factor(month))) + mean(var, na.rm = TRUE)
+}
+qdeseas <-  failwith(NA, deseas, quiet =T)
+
+smooth <- function(var, date)
+  predict(gam(var ~ s(date)))
+
+log_smooth <- function(var, date)
+{
+  var[var==0] <- 1  
+  smooth(log(var), date)
+}
+
+
+returnMaxCon <- function(d, maxcolumn)
+	unique(d[d[,maxcolumn] == max(d[,maxcolumn]), c(maxcolumn,"time")])
+
+returnMinTimeCon <- function(d, column)
+  d[d$time == min(d$time), c(column, "time")]
+
+#containsAllTime <- function(d)
+#  all(seq(from = 2000 + 1/8, to =2009, by = 1/4) %in% d$time)
+getTimeLen <- function(d) 
+  length(unique(d$time))
+
+hasAllTime <- function(d) 
+  getTimeLen(d) == max(getTimeLen(con))
+
+
+
+
+conAll <- read.csv(gzfile("../../construction-housing-units/construction-housing-units.csv.gz"))
+hpiMax <- read.csv(gzfile("../../house-price-index/Max HPI.csv.gz"))
+
+closeAllConnections()
+
+conAll$size <- c("1" = "single", "2" = "multi", "3-4" = "multi", "5-Inf" = "multi", "Total" = "Total")[conAll$units]
+
+colnames(conAll)[colnames(conAll) == "housing_units"] <- "n"
+colnames(conAll)[colnames(conAll) == "valuation"] <- "value"
+
+#conAll$month <- (conAll$time %% 1 + 1/24) * 12
+conAll$time <- conAll$year + conAll$month / 12 - 1/24
+print(head(conAll))
+
+con <- conAll[conAll$size == "Total", ]
+
+allTimeCon <- ddply(con, .(state,city) , hasAllTime, .progress = "text")
+colnames(allTimeCon) <- c("state", "city", "good")
+print(head(allTimeCon))
+
+
+
+
+conGood <- merge(con, allTimeCon)
+conGood <- conGood[conGood$good, - c((ncol(conGood)-1):ncol(conGood)) ]
+conGood$time <- conGood$year + conGood$month / 12 - 1/24
+print(head(conGood))
+
+conGood$city_state <- paste(conGood$city, ", ", conGood$state, sep = "")
+#conGood <- ddply(conGood, c("city_state"), transform, n_ds = qdeseas(n, (time %% 1 + 1/24) *12), .progress = "text")
+conGood <- ddply(conGood, c("city_state"), transform, n_ds = qdeseas(n, month), .progress = "text")
+conGood <- ddply(conGood, c("city_state"), transform, n_sm = smooth(n, time), .progress = "text")
+
+conGood <- ddply(conGood, c("city_state"), transform, n_log_sm = log_smooth(n, time), .progress = "text")
+
+print(head(conGood))
+
+
+
+
+
+
+#maxCon <- ddply(con, .(state,city) , returnMaxCon, maxcolumn = "n", .progress = "text")
+#colnames(maxCon) <- c("state", "city", "max_n", "max_time")
+#print(head(maxCon))
+#minTimeCon <- ddply(con, .(state,city) , returnMinTimeCon, column = "n", .progress = "text")
+#colnames(minTimeCon) <- c("state", "city", "n_2000", "time_2000")
+#print(head(minTimeCon))
+#conMax <- merge(maxCon, merge(minTimeCon, allTimeCon))
+#print(head(conMax))
+#conMax <- conMax[conMax$good, - c((ncol(conMax)-1):ncol(conMax)) ]
+#conMax$percent_change <- conMax$max_n / conMax$n_2000 * 100
+#print(head(conMax))
+#ca <- conMax[conMax$state == "CA", ]
+#qplot(max_time, max_n, data= ca, geom = "text", label = city)
+#qplot(max_time, max_n, data= conMax, geom = "text", label = city)
+#qplot(max_time, data= conMax, geom = "histogram")
+#qplot(max_time, percent_change, data= conMax, geom = "text", label = city)
+#qplot(max_time, percent_change, data= conMax, geom = "text", label = city, log = "y")
+
+qplot(time, n, data= con[con$city == "Bismarck", ], geom = "line")
+Bismark <- qplot(time, n, data= conGood[conGood$city == "Bismarck", ], geom = "line", main = "Bismark, ND") + geom_line(aes(y=n_sm), colour = I("red")) + geom_line(aes(y=n_ds), colour = I("blue"))
+Bismark
+savePlot(Bismark)
+
+florence <- conGood[conGood$city == "Florence", ]
+qplot(time, n, data= florence, geom = "line")
+Florence <- qplot(time, n, data= florence, geom = "line", main = "Florence, SC") + geom_line(aes(y=n_sm), colour = I("red")) + geom_line(aes(y=n_ds), colour = I("blue"))
+Florence
+savePlot(Florence)
+
+Deseas_Data_by_State <- qplot(time, n_ds, data = conGood, geom = "line", colour = city_state) + facet_wrap( ~ state, scales = "free") + opts(legend.position = "none")
+savePlot(Deseas_Data_by_State)
+
+Smooth_by_State <- qplot(time, n_sm, data = conGood, geom = "line", colour = city_state) + facet_wrap( ~ state) + opts(legend.position = "none")
+savePlot(Smooth_by_State)
+
+Smooth_by_City <- qplot(time, n_sm, data = conGood, geom = "line") + facet_wrap( ~ city_state) + opts(legend.position = "none")
+savePlot(Smooth_by_City)
+
+Smooth_by_State_Log <- qplot(time, n_log_sm, data = conGood, geom = "line", colour = city_state) + facet_wrap( ~ state) + opts(legend.position = "none")
+savePlot(Smooth_by_State_Log)
+
+Smooth_by_City_Log <- qplot(time, n_log_sm, data = conGood, geom = "line") + facet_wrap( ~ city_state) + opts(legend.position = "none")
+savePlot(Smooth_by_City_Log)
+
+
+
+qplot(time, n, data = con[con$state %in% c("NJ","NY","PA"),], colour = city, geom = "line") + facet_wrap(~state, scales = "free") + opts(legend.position = "none")
+qplot(time, n, data = con[con$state %in% c("NJ","NY","PA"),], colour = city, geom = "line") + facet_wrap(~state, scales = "free")
+qplot(time, n, data = con[con$state %in% c("NJ","NY","PA") & con$n > 1000,], colour = city, geom = "line") + facet_wrap(~state, scales = "free")
+#found that there was a HUGE spike in 2008 in Long Island NY/PA/NJ
+# the data in each state is the same
+
+
+
+
+
+

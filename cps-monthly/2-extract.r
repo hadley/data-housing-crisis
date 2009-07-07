@@ -1,4 +1,4 @@
-vars_that_I_want <- c("PEMLR", "GTCBSA", "PRDTIND1", "PRMJIND1")
+vars_that_I_want <- c("GTCO", "GESTFIPS", "PEMLR", "GTCBSA", "PRDTIND1", "PRMJIND1")
 
 all_vars <- read.csv("variables.csv", header = TRUE, stringsAsFactors = FALSE)
 
@@ -11,6 +11,10 @@ parse_line <- function(line, fields) {
 parse_month <- function(year, month) {
 	path <- paste("raw/", year, "-", sprintf("%02i", month), ".txt.gz", sep = "")
 	out_path <- paste("clean/", year, "-", sprintf("%02i", month), ".csv.gz", sep = "")
+	
+	
+	if (!file.exists(path)) return() # Skip if file doesn't exist
+	if (file.exists(out_path)) return() # Skip if already processed
 	
 	message("Processing ", path)
 	lines <- readLines(gzfile(path))
@@ -37,7 +41,6 @@ parse_month <- function(year, month) {
 
 
 all_months <- expand.grid(
-  year = 2000:2009,
-  month = 1:12
-)[-c(50, 60, 70, 80, 90, 100, 110, 120),]
+  year = 2003:2009,
+  month = 1:12)
 m_ply(all_months, parse_month)

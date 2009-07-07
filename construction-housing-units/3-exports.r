@@ -2,7 +2,7 @@ library(mgcv)
 library(ggplot2)
 options(stringsAsFactors = FALSE)
 
-data <- read.csv(gzfile("new-construction.csv.gz"))
+data <- read.csv(gzfile("construction-housing-units.csv.gz"))
 closeAllConnections()
 data$size <- c("1" = "single", "2" = "multi", "3-4" = "multi", "5-Inf" = "multi")[data$units]
 data$units <- c("1" = "house", "2" = "duplex", "3-4" = "townhouse", "5-Inf" = "apts")[data$units]
@@ -15,11 +15,11 @@ data$units <- c("1" = "house", "2" = "duplex", "3-4" = "townhouse", "5-Inf" = "a
 #print(str(data))
 #print(head(data))
 
-time <- data[,"year"] + (as.numeric(data[,"month"]) - 1/12) / 12
+time <- data[,"year"] + as.numeric(data[,"month"]) / 12 - 1/24
 
 data <- cbind(time, data)
 
-#print(head(data))
+print(head(data))
 
 States <- c("CA","CA MSA","FL","FL MSA","NV","NV MSA","NY","NY MSA","AZ","AZ MSA","OR","OR MSA")
 stat <- States[nchar(States) > 0]
@@ -28,21 +28,35 @@ dataTmp[,"state"] <- substr(dataTmp[,"state"], 1, 2)
 
 print(head(dataTmp))
 
-#  merc <- ldply( merc[,], .(time, city, state), numcolwise(sum))
+
   dataTotal <- ddply(data, c("state","city", "time"), summarise, n = sum(housing_units), value = sum(valuation), .progress = "text")
+
+ write.csv(dataTotal, gzfile("Total Contruction.csv.gz"), row.names = FALSE)
+ closeAllConnections()
+
+  dataTotal <- read.csv(gzfile("Total Contruction.csv.gz"))
+  closeAllConnections()
+  
 
   merc <- dataTotal[dataTotal$city == "Merced", ]
   head(merc)
-  smooth <- function(var, date)
+  smoothNew <- function(var, date)
     predict(gam(var ~ s(date)))
     
   print(head(merc))
-  merc$n_sm <- smooth(merc$n, merc$time)
-  merc$value_sm <- smooth(merc$value, merc$time)
+  merc$n_sm <- smoothNew(merc$n, merc$time)
+  merc$value_sm <- smoothNew(merc$value, merc$time)
   print(head(merc))
 
+mercedFive <- data[data$city == "Merced" & data$units == "apts",]
+mercedFive$hu_smo <- smoothNew(mercedFive$housing_units, mercedFive$time)
+mercedFive$value_smo <- smoothNew(mercedFive$valuation, mercedFive$time)
 
-#p <- qplot(time, housing_units, data = dataTmp, group = city, geom = "line", colour = state) + facet_grid(units ~ ., scales = "free")
+
+MercedFive <- qplot(time, housing_units, data = mercedFive, geom = "line", main = "Merced, CA: Five or More Housing Units", ylab = "Housing Units", xlab = "Time") + 
+  geom_line(aes(y = hu_smo)) + 
+  geom_vline(aes(xintercept = 2006.375), colour = I("red"), size = 2)
+
 
 
 
@@ -76,7 +90,7 @@ cat("printing\n")
   florida <- qplot(time, housing_units, data = dataCitySelect[dataCitySelect[,"state"] == "FL", ], main = "Florida", group = city, geom = "line", colour = city) + facet_wrap(~ units , scales = "free")
   majorstatesgoodcities <- qplot(time, housing_units, data = dataCitySelect, group = city, geom = "line", colour = city) + facet_grid(units ~ state, scales = "free")
   
-  Merced <- qplot(time, n, data = merc, geom = "line", xlab = "Time", ylab = "Housing Units", main = "Merced, CA") + geom_line(aes(y = n_sm)) + geom_vline(aes(xintercept = 2006.25), colour = I("red"), size = 2)
+  Merced <- qplot(time, n, data = merc, geom = "line", xlab = "Time", ylab = "Housing Units", main = "Merced, CA") + geom_line(aes(y = n_sm)) + geom_vline(aes(xintercept = 2006.375), colour = I("red"), size = 2)
 
   
   
@@ -104,4 +118,7 @@ if(TRUE)
     print(Merced)
   dev.off()
   
+  pdf("exports/Merced Five Units.pdf", width = 8, height = 6)
+    print(MercedFive)
+  dev.off()
 }
