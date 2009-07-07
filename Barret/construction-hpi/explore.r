@@ -6,11 +6,14 @@ options(stringsAsFactors = FALSE)
 
 
 # Helper functions ----------------------------------------------------------
-savePlot <- function(..., plot= TRUE)
+savePlot <- function(..., plot= FALSE, big = TRUE)
 {
   cat("\nPrinting plot ", substitute(...),".pdf in folder 'exports'", sep ="")
   if(plot)
-    ggsave(..., file=paste("exports/", substitute(...),".pdf",sep = "", collapse = ""), width=8, height=6)
+    if(big)
+      ggsave(..., file=paste("exports/", substitute(...),"_BIG.pdf",sep = "", collapse = ""), width=20, height=15)    
+    else
+      ggsave(..., file=paste("exports/", substitute(...),".pdf",sep = "", collapse = ""), width=8, height=6)
   else
     cat("\nJust Kidding!!!\n")
   cat("\n")
@@ -27,12 +30,16 @@ qdeseas <-  failwith(NA, deseas, quiet =T)
 smooth <- function(var, date)
   predict(gam(var ~ s(date)))
 
-log_smooth <- function(var, date)
+log_d <- function(var)
 {
-  var[var==0] <- 1  
-  smooth(log(var), date)
+  var[var==0] <- 1
+  log(var)
 }
 
+log_smooth <- function(var, date)
+  smooth(log_d(var), date)
+log_deseas <- function(var, date)
+  smooth(log_d(var), date)
 
 returnMaxCon <- function(d, maxcolumn)
 	unique(d[d[,maxcolumn] == max(d[,maxcolumn]), c(maxcolumn,"time")])
@@ -82,8 +89,9 @@ print(head(conGood))
 conGood$city_state <- paste(conGood$city, ", ", conGood$state, sep = "")
 #conGood <- ddply(conGood, c("city_state"), transform, n_ds = qdeseas(n, (time %% 1 + 1/24) *12), .progress = "text")
 conGood <- ddply(conGood, c("city_state"), transform, n_ds = qdeseas(n, month), .progress = "text")
+conGood <- ddply(conGood, c("city_state"), transform, n_log_ds = log_deseas(n, month), .progress = "text")
 conGood <- ddply(conGood, c("city_state"), transform, n_sm = smooth(n, time), .progress = "text")
-
+conGood <- ddply(conGood, c("city_state"), transform, n_log = log_d(n), .progress = "text")
 conGood <- ddply(conGood, c("city_state"), transform, n_log_sm = log_smooth(n, time), .progress = "text")
 
 print(head(conGood))
@@ -122,8 +130,16 @@ Florence <- qplot(time, n, data= florence, geom = "line", main = "Florence, SC")
 Florence
 savePlot(Florence)
 
-Deseas_Data_by_State <- qplot(time, n_ds, data = conGood, geom = "line", colour = city_state) + facet_wrap( ~ state, scales = "free") + opts(legend.position = "none")
-savePlot(Deseas_Data_by_State)
+Deseas_by_State <- qplot(time, n_ds, data = conGood, geom = "line", colour = city_state) + facet_wrap( ~ state, scales = "free") + opts(legend.position = "none")
+savePlot(Deseas_by_State)
+
+
+Deseas_by_City_Log <- qplot(time, n_log_ds, data = conGood, geom = "line", colour = city_state) + facet_wrap( ~ city) + opts(legend.position = "none")
+savePlot(Deseas_by_City_Log)
+
+Deseas_by_State_Log <- qplot(time, n_log_ds, data = conGood, geom = "line") + facet_wrap( ~ state) + opts(legend.position = "none")
+savePlot(Deseas_by_State_Log)
+
 
 Smooth_by_State <- qplot(time, n_sm, data = conGood, geom = "line", colour = city_state) + facet_wrap( ~ state) + opts(legend.position = "none")
 savePlot(Smooth_by_State)
@@ -137,6 +153,11 @@ savePlot(Smooth_by_State_Log)
 Smooth_by_City_Log <- qplot(time, n_log_sm, data = conGood, geom = "line") + facet_wrap( ~ city_state) + opts(legend.position = "none")
 savePlot(Smooth_by_City_Log)
 
+Raw_by_City_Log <- qplot(time, n_log, data = conGood, geom = "line") + facet_wrap( ~ city_state) + opts(legend.position = "none")
+savePlot(Raw_by_City_Log)
+
+Raw_and_Smooth_by_City_Log <- qplot(time, n_log, data = conGood, geom = "line") + geom_line(aes(y = n_log_sm), colour = ("blue")) + facet_wrap( ~ city_state) + opts(legend.position = "none")
+savePlot(Raw_and_Smooth_by_City_Log)
 
 
 qplot(time, n, data = con[con$state %in% c("NJ","NY","PA"),], colour = city, geom = "line") + facet_wrap(~state, scales = "free") + opts(legend.position = "none")
