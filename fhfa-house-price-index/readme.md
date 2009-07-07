@@ -14,3 +14,5 @@ Source can be downloaded from [States through 2009Q1](http://www.fhfa.gov/Defaul
 The HPI serves as a timely, accurate indicator of house price trends at various geographic levels.  Because of the breadth of the sample, it provides more information than is available in other house price indexes. It also provides housing economists with an improved analytical tool that is useful for estimating changes in the rates of mortgage defaults, prepayments and housing affordability in specific geographic areas."
 
 This source can be found at [FHFA-About HPI](http://www.fhfa.gov/Default.aspx?Page=81)
+
+For information regarding the difference between Case-Shiller and Federal Housing Finance Agency housing price indices please see NOTES.
