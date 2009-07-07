@@ -118,6 +118,6 @@ all <- as.data.frame(all)
 cat("\nALL\n")
 print(head(all))
 
-write.table(all, gzfile("new-vacancy.csv.gz"), sep = ",", row = F)
-#write.table(all, "new-vacancy.txt", sep = ",", row = F)
+write.table(all, gzfile("usps-vacancy.csv.gz"), sep = ",", row = F)
+
 

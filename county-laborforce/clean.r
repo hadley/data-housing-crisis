@@ -50,4 +50,4 @@ bothall<-merge(both7,lf08,by=c("state","county"),all=T)
 save(bothall,file="laborforce00-08.rdata")
 load(file="laborforce00-08.rdata")
 
-write.table(bothall, "laborforce00-08-clean.csv", sep = ",", row = FALSE)
+write.table(bothall, "county-laborforce.csv", sep = ",", row = FALSE)
