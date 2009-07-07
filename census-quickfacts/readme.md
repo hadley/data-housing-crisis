@@ -5,6 +5,7 @@ Census QuickFacts
 Clean data includes basic demographic information for all states and counties, and for cities and towns with more than 25,000 people.
 
 Inforamation is organized by:
+
 * State fips code
 * County fip code 
 * All other variable abbreviations can be found in data-dictionary.csv
