@@ -119,6 +119,7 @@ print(head(conGood))
 #qplot(max_time, percent_change, data= conMax, geom = "text", label = city)
 #qplot(max_time, percent_change, data= conMax, geom = "text", label = city, log = "y")
 
+
 qplot(time, n, data= con[con$city == "Bismarck", ], geom = "line")
 Bismark <- qplot(time, n, data= conGood[conGood$city == "Bismarck", ], geom = "line", main = "Bismark, ND") + geom_line(aes(y=n_sm), colour = I("red")) + geom_line(aes(y=n_ds), colour = I("blue"))
 Bismark
