@@ -60,7 +60,7 @@ spcsim <- merge(spcsim, abbr, by = "abbr")
 qplot(date, spcsi, data = spcsim, geom = "line", group = city, facets = ~ state)
 
 # Finally, we save out the cleaned file to a fresh csv file
-write.table(spcsim, "spcsim-clean.csv", sep = ",", row = FALSE)
+write.table(spcsim, "case-shiller.csv", sep = ",", row = FALSE)
 
 # You should alway check that you code is fully reproducible by exiting R
 # and then running source("clean.r").  This is like copying and pasting the 
