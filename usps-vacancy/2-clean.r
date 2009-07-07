@@ -31,7 +31,7 @@ clean_file <- function(fileName, lessThan2008 = FALSE)
     
     all <- list(
       geoid = vac[, "geoid"] , 
-      total = res[,"total"] + res[,"total"], 
+      total = res[,"total"] + bus[,"total"], 
       vac = res[,"vac"]+ bus[,"vac"],
       vac_avg = (res[,"vac_avg"] * res[,"total"] + bus[,"vac_avg"] * bus[,"total"]) / (res[,"total"] + bus[,"total"]),
       nostat = res[,"nostat"] + bus[,"nostat"] ,
