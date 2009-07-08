@@ -18,12 +18,14 @@ clean_file <- function(fileName, columnNames)
   dataSet <- NULL
   numVect <- c("1","2","3","4","5","6","7","8","9","0")
   
+  lines <- readLines(fileName)
+
+  
+  
   ## loop to find the first line of the data
   while(TRUE)
   {
-    line <- readLines(fileName, n = lineNum)[lineNum]
-    
-    if(nchar(line) > 1 & substr(line,2,2) != " ")
+    if(nchar(lines[lineNum]) > 1 & substr(lines[lineNum],2,2) != " ")
       break()
       
     lineNum <- lineNum + 1
@@ -35,9 +37,8 @@ clean_file <- function(fileName, columnNames)
     ## read the lines of data in and only keep the last one
     ## essentially only reading one line at a time
     #prevLine <- readLines(fileName, n = lineNum-1)[lineNum -1]
-    lines <- readLines(fileName, n = lineNum)[(lineNum-1):lineNum] 
-    prevLine <- lines[1]
-    line <- lines[2]
+    prevLine <- lines[lineNum - 1]
+    line <- lines[lineNum]
     
     ## end of data, so stop
     if(nchar(line) < 2)
@@ -56,7 +57,7 @@ clean_file <- function(fileName, columnNames)
         while(Repeat)
         {
           lineNum <- lineNum + 1
-          line2 <- trim(readLines(fileName, n = lineNum)[lineNum])
+          line2 <- lines[lineNum]
      
           seper = " "
           if(substr(line, nchar(line), nchar(line)) == "-" | substr(line2, 1, 1) == "-")
