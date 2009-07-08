@@ -1,7 +1,9 @@
 Historical US Averages for ARM and Mortgage Rates
 =================================================
 
-Data downloaded from [Mortgage-X](http://mortgage-x.com/)
+Data downloaded from [Mortgage-X](http://mortgage-x.com/general/indexes/default.asp)
+
+
 
 Clean data made into pictures using ggplot2
 
