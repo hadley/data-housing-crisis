@@ -1,4 +1,5 @@
 library(ggplot2)
+options(stringsAsFactors = FALSE)
 
 pop <- read.csv("CO-EST2008-ALLDATA.csv", stringsAsFactors = FALSE)
 names(pop) <- tolower(names(pop))
@@ -31,6 +32,7 @@ write.table(clean, "census-population.csv", sep = ",", row = FALSE)
 
 
 met <- read.csv("CBSA-EST2008-ALLDATA.csv", skip = 4, stringsAsFactors = FALSE)
+met <- met[ -((nrow(met) - 1):nrow(met)), ]
 names(met) <- tolower(strsplit(readLines("CBSA-EST2008-ALLDATA.csv")[1], ",")[[1]])
 
 # Remove non-yearly variables 
@@ -50,7 +52,18 @@ metm$variable <- substr(metm$variable, 1, nc - 4)
 metm <- subset(metm, year != 2000)
 
 # Cast into desired output and save as csv
-cleanMet <- cast(metm, year + cbsa + mdiv + stcou + name + lsad ~ variable)
+#cleanMet <- cast(metm, year + cbsa + mdiv + stcou + name + lsad ~ variable)
+#cleanMet <- cast(metm)  # didn't work.  Weird
+
+d <- metm
+names(d)
+conNames <- names(d)[! names(d) %in% c("variable", "value")]
+uniVariable <- unique(d$variable)
+uniD <- d[d$variable == uniVariable[1],conNames]
+for(i in uniVariable)
+	uniD[, i] <- d[d$variable == i, "value"]
+
+cleanMet <- d
 write.table(cleanMet, "census-population-by-metro.csv", sep = ",", row = FALSE)
 
 
