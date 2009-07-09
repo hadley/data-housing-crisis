@@ -6,7 +6,7 @@ options(stringsAsFactors = FALSE)
 
 
 # Helper functions ----------------------------------------------------------
-savePlot <- function(..., plot= FALSE, big = TRUE)
+savePlot <- function(..., plot= TRUE, big = TRUE)
 {
   cat("\nPrinting plot ", substitute(...),".pdf in folder 'exports'", sep ="")
   if(plot)
@@ -59,7 +59,7 @@ hasAllTime <- function(d)
 
 
 conAll <- read.csv(gzfile("../../construction-housing-units/construction-housing-units.csv.gz"))
-hpiMax <- read.csv(gzfile("../../house-price-index/Max HPI.csv.gz"))
+#hpiMax <- read.csv(gzfile("../../fhfa-house-price-index/Max HPI.csv.gz"))
 
 closeAllConnections()
 
@@ -70,34 +70,47 @@ colnames(conAll)[colnames(conAll) == "valuation"] <- "value"
 
 #conAll$month <- (conAll$time %% 1 + 1/24) * 12
 conAll$time <- conAll$year + conAll$month / 12 - 1/24
-print(head(conAll))
+#print(head(conAll))
+
+
 
 con <- conAll[conAll$size == "Total", ]
+msa <- read.csv("../../msa-name-over-time/msa_codes.csv")
+#print(head(con))
+con$name <- paste(con$city, ", ", con$state, sep = "")
 
-allTimeCon <- ddply(con, .(state,city) , hasAllTime, .progress = "text")
-colnames(allTimeCon) <- c("state", "city", "good")
-print(head(allTimeCon))
+con <- merge(con, msa)#, all.y = TRUE)
+con$city_state <- con$name
+con$name <- NULL
+#print(head(con))
+
+allTimeCon <- ddply(con, .(msa_code) , hasAllTime, .progress = "text")
+colnames(allTimeCon) <- c("msa_code", "good")
+#print(head(allTimeCon))
 
 
 
 
 conGood <- merge(con, allTimeCon)
-conGood <- conGood[conGood$good, - c((ncol(conGood)-1):ncol(conGood)) ]
-conGood$time <- conGood$year + conGood$month / 12 - 1/24
-print(head(conGood))
+conGood <- conGood[conGood$good, colnames(conGood) != "good"]
 
-conGood$city_state <- paste(conGood$city, ", ", conGood$state, sep = "")
 #conGood <- ddply(conGood, c("city_state"), transform, n_ds = qdeseas(n, (time %% 1 + 1/24) *12), .progress = "text")
-conGood <- ddply(conGood, c("city_state"), transform, n_ds = qdeseas(n, month), .progress = "text")
-conGood <- ddply(conGood, c("city_state"), transform, n_log_ds = log_deseas(n, month), .progress = "text")
-conGood <- ddply(conGood, c("city_state"), transform, n_sm = smooth(n, time), .progress = "text")
-conGood <- ddply(conGood, c("city_state"), transform, n_log = log_d(n), .progress = "text")
-conGood <- ddply(conGood, c("city_state"), transform, n_log_sm = log_smooth(n, time), .progress = "text")
+conGood <- ddply(conGood, c("msa_code"), transform, n_ds = qdeseas(n, month), .progress = "text")
+conGood <- ddply(conGood, c("msa_code"), transform, n_log_ds = log_deseas(n, month), .progress = "text")
+conGood <- ddply(conGood, c("msa_code"), transform, n_sm = smooth(n, time), .progress = "text")
+conGood <- ddply(conGood, c("msa_code"), transform, n_log = log_d(n), .progress = "text")
+conGood <- ddply(conGood, c("msa_code"), transform, n_log_sm = log_smooth(n, time), .progress = "text")
 
+
+getAllCities <- function(d)
+  rep(paste(unique(d), sep ="", collapse = "\n"), length(d))
+
+conGood <- ddply(conGood, c("msa_code"), transform, stripName = getAllCities(city_state), .progress = "text")
+cat("\n\nconGood\n")
 print(head(conGood))
 
 
-
+stop()
 
 
 
@@ -131,34 +144,38 @@ Florence <- qplot(time, n, data= florence, geom = "line", main = "Florence, SC")
 Florence
 savePlot(Florence)
 
-Deseas_by_State <- qplot(time, n_ds, data = conGood, geom = "line", colour = city_state) + facet_wrap( ~ state, scales = "free") + opts(legend.position = "none")
+Deseas_by_State <- qplot(time, n_ds, data = conGood, geom = "line", colour = msa_code) + facet_wrap( ~ state, scales = "free") + opts(legend.position = "none")
 savePlot(Deseas_by_State)
 
 
-Deseas_by_City_Log <- qplot(time, n_log_ds, data = conGood, geom = "line", colour = city_state) + facet_wrap( ~ city) + opts(legend.position = "none")
-savePlot(Deseas_by_City_Log)
+Deseas_by_MSA_Log <- qplot(time, n_log_ds, data = conGood, geom = "line") + facet_wrap( ~ msa_code) + opts(legend.position = "none")
+savePlot(Deseas_by_MSA_Log)
 
 Deseas_by_State_Log <- qplot(time, n_log_ds, data = conGood, geom = "line") + facet_wrap( ~ state) + opts(legend.position = "none")
 savePlot(Deseas_by_State_Log)
 
 
-Smooth_by_State <- qplot(time, n_sm, data = conGood, geom = "line", colour = city_state) + facet_wrap( ~ state) + opts(legend.position = "none")
+Smooth_by_State <- qplot(time, n_sm, data = conGood, geom = "line", colour = msa_code) + facet_wrap( ~ state) + opts(legend.position = "none")
 savePlot(Smooth_by_State)
 
-Smooth_by_City <- qplot(time, n_sm, data = conGood, geom = "line") + facet_wrap( ~ city_state) + opts(legend.position = "none")
-savePlot(Smooth_by_City)
+Smooth_by_MSA <- qplot(time, n_sm, data = conGood, geom = "line") + facet_wrap( ~ msa_code) + opts(legend.position = "none")
+savePlot(Smooth_by_MSA)
 
-Smooth_by_State_Log <- qplot(time, n_log_sm, data = conGood, geom = "line", colour = city_state) + facet_wrap( ~ state) + opts(legend.position = "none")
+Smooth_by_State_Log <- qplot(time, n_log_sm, data = conGood, geom = "line", colour = msa_code) + facet_wrap( ~ state) + opts(legend.position = "none")
 savePlot(Smooth_by_State_Log)
 
-Smooth_by_City_Log <- qplot(time, n_log_sm, data = conGood, geom = "line") + facet_wrap( ~ city_state) + opts(legend.position = "none")
-savePlot(Smooth_by_City_Log)
+Smooth_by_MSA_Log <- qplot(time, n_log_sm, data = conGood, geom = "line") + facet_wrap( ~ msa_code) + opts(legend.position = "none")
+savePlot(Smooth_by_MSA_Log)
 
-Raw_by_City_Log <- qplot(time, n_log, data = conGood, geom = "line") + facet_wrap( ~ city_state) + opts(legend.position = "none")
-savePlot(Raw_by_City_Log)
+Raw_by_MSA_Log <- qplot(time, n_log, data = conGood, geom = "line") + facet_wrap( ~ msa_code) + opts(legend.position = "none")
+savePlot(Raw_by_MSA_Log)
 
-Raw_and_Smooth_by_City_Log <- qplot(time, n_log, data = conGood, geom = "line") + geom_line(aes(y = n_log_sm), colour = ("blue")) + facet_wrap( ~ city_state) + opts(legend.position = "none")
-savePlot(Raw_and_Smooth_by_City_Log)
+Raw_and_Smooth_by_MSA_Log <- qplot(time, n_log, data = conGood, geom = "line") + geom_line(aes(y = n_log_sm), colour = ("blue")) + facet_wrap( ~ msa_code) + opts(legend.position = "none")
+Raw_and_Smooth_by_MSA_Log2 <- qplot(time, n_log, data = conGood, geom = "line") + geom_line(aes(y = n_log_sm), colour = ("blue")) + facet_wrap( ~ stripName) + opts(legend.position = "none")
+savePlot(Raw_and_Smooth_by_MSA_Log)
+
+
+
 
 
 qplot(time, n, data = con[con$state %in% c("NJ","NY","PA"),], colour = city, geom = "line") + facet_wrap(~state, scales = "free") + opts(legend.position = "none")
