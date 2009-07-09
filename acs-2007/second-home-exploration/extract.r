@@ -67,6 +67,11 @@ years[[3]] <- get_data(7)
 # combining data
 shomes <- do.call("rbind", years)
 
+states <-unique(states[,c(2,10)])
+shomes <- merge(states, shomes, by = "fips_st", all.x = T)
+shomes <- st_shomes[order(shomes$state, shomes$year),]
+
+
 # save data
 write.table(shomes, "data/shomes.csv", row = F, sep = ",")
 
