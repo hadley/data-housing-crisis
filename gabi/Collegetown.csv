@@ -1,0 +1,332 @@
+state, city, university
+AL,Auburn,Auburn University    
+AL,Jacksonville,Jacksonville State University    
+AL,Livingston,University of West Alabama    
+AL,Montevallo,University of Montevallo    
+AL,Troy,Troy University    
+AL,Tuscaloosa,University of Alabama
+AL,Tuskegee,Tuskegee University
+AK,Fairbanks,University of Alaska Fairbanks    
+AZ,Flagstaff,Arizona State University
+AR,Arkadelphia,Henderson State University    
+AR,Conway,University of Central Arkansas    
+AR,Fayetteville,University of Arkansas
+AR,Jonesboro,Arkansas State University
+AR,Magnolia,Southern Arkansas University    
+AR,Monticello,University of Arkansas at Monticello    
+AR,Russellville,Arkansas Tech University    
+AR,Searcy,Harding University
+CA,Angwin,Pacific Union College    
+CA,Arcata,Humboldt State University
+CA,Berkeley,University of California Berkeley
+CA,Chico,California State University Chico    
+CA,Claremont,Claremont Colleges
+CA,Davis,University of California Davis    
+CA,Isla Vista,University of California Santa Barbara    
+CA,Palo Alto,Stanford University
+CA,Pomona,Cal Poly Pomona
+CA,Redlands,University of Redlands
+CA,Santa Cruz,University of California Santa Cruz    
+CO,Alamosa,Adams State College    
+CO,Boulder,University of Colorado at Boulder
+CO,Durango,Fort Lewis College    
+CO,Fort Collins,Colorado State University
+CO,Gunnison,Western State College    
+CT,New Haven,Yale University
+CT,Storrs,University of Connecticut    
+CT,Willimantic,Eastern Connecticut State University    
+DE,Newark,University of Delaware    
+FL,De Land,Stetson University
+FL,Gainesville,University of Florida
+FL,Tallahassee,Florida State University
+GA,Athens,University of Georgia
+GA,Carrollton,University of West Georgia    
+GA,Dahlonega,North Georgia College & State University    
+GA,Demorest,Piedmont College    
+GA,Fort Valley,Fort Valley State University    
+GA,Milledgeville,Georgia College & State University    
+GA,Mount Vernon,Brewton-Parker College    
+GA,Statesboro,Georgia Southern University
+GA,Valdosta,Valdosta State University    
+GA,Waleska,Reinhardt College    
+ID,Moscow,University of Idaho    
+ID,Pocatello,Idaho State University    
+IL,Carbondale,Southern Illinois University Carbondale
+IL,Champaign-Urbana,University of Illinois at Urbana-Champaign
+IL,Charleston,Eastern Illinois University    
+IL,DeKalb,Northern Illinois University    
+IL,Edwardsville,Southern Illinois University Edwardsville    
+IL,Evanston,Northwestern University
+IL,Lebanon,McKendree University    
+IL,Macomb,Western Illinois University    
+IL,Normal,Illinois State University    
+IN,Bloomington,Indiana University Bloomington
+IN,Greencastle,DePauw University
+IN,Hanover,Hanover College    
+IN,Marion,Indiana Wesleyan University    
+IN,Muncie,Ball State University    
+IN,Notre Dame,University of Notre Dame    
+IN,Oakland City,Oakland City University    
+IN,Terre Haute,Indiana State University    
+IN,Upland,Taylor University    
+IN,West Lafayette,Purdue University    
+IA,Ames,Iowa State University    
+IA,Cedar Falls,University of Northern Iowa    
+IA,Decorah,Luther College
+IA,Fayette,Upper Iowa University    
+IA,Grinnell,Grinnell College
+IA,Iowa City,University of Iowa
+IA,Lamoni,Graceland University    
+IA,Orange City,Northwestern College    
+IA,Sioux Center,Dordt College    
+IA,Storm Lake,Buena Vista University    
+IA,Waverly,Wartburg College    
+KS,Baldwin City,Baker University
+KS,Emporia,Emporia State University    
+KS,Hays,Fort Hays State University    
+KS,Lawrence,University of Kansas
+KS,Manhattan,Kansas State University
+KS,Pittsburg,Pittsburg State University    
+KY,Bowling Green,Western Kentucky University    
+KY,Columbia,Lindsey Wilson College    
+KY,Morehead,Morehead State University    
+KY,Murray,Murray State University
+KY,Richmond,Eastern Kentucky University    
+KY,Williamsburg,University of the Cumberlands    
+KY,Wilmore,Asbury College  
+LA,Baton Rouge,Louisiana State University
+LA,Grambling,Grambling State University
+LA,Hammond,Southeastern Louisiana University    
+LA,Natchitoches,Northwestern State University    
+LA,Ruston,Louisiana Tech University    
+LA,Thibodaux,Nicholls State University    
+ME,Augusta,University of Maine at Augusta    
+ME,Farmington,University of Maine at Farmington    
+ME,Fort Kent,University of Maine at Fort Kent
+ME,Gorham,University of Southern Maine    
+ME,Orono,University of Maine    
+MD,Chestertown,Washington College    
+MD,College Park,University of Maryland College Park
+MD,Emmitsburg,Mount St. Mary's University    
+MD,Frostburg,Frostburg State University
+MD,Princess Anne,University of Maryland Eastern Shore
+MD,Salisbury,Salisbury University    
+MA,Amherst,Amherst College
+MA,Bridgewater,Bridgewater State College    
+MA,Cambridge,Harvard University
+MA,Williamstown,Williams College
+MI,Ann Arbor,University of Michigan    
+MI,Berrien Springs,Andrews University    
+MI,Big Rapids,Ferris State University    
+MI,East Lansing,Michigan State University    
+MI,Houghton,Michigan Technological University
+MI,Kalamazoo,Western Michigan University  
+MI,Marquette,Northern Michigan University    
+MI,Mount Pleasant,Central Michigan University    
+MI,Olivet,Olivet College    
+MI,Spring Arbor,Spring Arbor University    
+MI,Ypsilanti,Eastern Michigan University    
+MN,Bemidji,Bemidji State University    
+MN,Crookston,University of Minnesota Crookston    
+MN,Mankato,Minnesota State University Mankato    
+MN,Marshall,Southwest Minnesota State University    
+MN,Moorhead,Minnesota State University
+MN,Morris,University of Minnesota Morris    
+MN,Northfield,Carleton College
+MN,St. Cloud,St. Cloud State University    
+MN,St. Joseph,College of St. Benedict    
+MN,St. Peter,Gustavus Adolphus College    
+MN,Winona,Winona State University 
+MS,Cleveland,Delta State University    
+MS,Hattiesburg,University of Southern Mississippi
+MS,Itta Bena,Mississippi Valley State University    
+MS,Oxford,University of Mississippi    
+MS,Starkville,Mississippi State University    
+MO,Bolivar,Southwest Baptist University    
+MO,Cape Girardeau,Southeast Missouri State University    
+MO,Columbia,University of Missouri
+MO,Fayette,Central Methodist University    
+MO,Fulton,Westminster College 
+MO,Kirksville,Truman State University   
+MO,Maryville,Northwest Missouri State University    
+MO,Rolla,Missouri University of Science and Technology    
+MO,Warrensburg,University of Central Missouri
+MT,Bozeman,Montana State University    
+MT,Dillon,University of Montana Western    
+MT,Missoula,University of Montana
+ME,Chadron,Chadron State College
+ME,Crete,Doane College    
+ME,Kearney,University of Nebraska at Kearney    
+ME,Peru,Peru State College    
+ME,Seward,Concordia University    
+ME,Wayne,Wayne State College    
+NH,Durham,University of New Hampshire    
+NH,Hanover,Dartmouth College
+NH,Keene,Keene State College    
+NH,Plymouth,Plymouth State University    
+NJ,Glassboro,Rowan University    
+NJ,New Brunswick,Rutgers University
+NJ,Princeton,Princeton University
+NM,Hobbs,University of the Southwest    
+NM,Las Cruces,New Mexico State University    
+NM,Las Vegas,New Mexico Highlands University    
+NM,Portales,Eastern New Mexico University    
+NM,Silver City,Western New Mexico University    
+NY,Alfred,Alfred University    
+NY,Albany,SUNY Albany
+NY,Aurora,Wells College
+NY,Binghamton,Binghamton University    
+NY,Brockport,SUNY Brockport
+NY,Canton,St. Lawrence University    
+NY,Clinton,Hamilton College    
+NY,Cobleskill,SUNY Cobleskill    
+NY,Delhi,SUNY Delhi    
+NY,Fredonia,SUNY Fredonia    
+NY,Geneseo,SUNY Geneseo    
+NY,Hamilton,Colgate University    
+NY,Ithaca,Cornell University    
+NY,New Paltz,SUNY New Paltz    
+NY,Oneonta,SUNY Oneonta    
+NY,Oswego,SUNY Oswego    
+NY,Plattsburgh,SUNY Plattsburgh    
+NY,Potsdam,SUNY Potsdam   
+NY,Poughkeepsie,Vassar College   
+NY,Saratoga Springs,Skidmore College    
+NC,Boiling Springs,Gardner-Webb University    
+NC,Boone,Appalachian State University    
+NC,Buies Creek,Campbell University    
+NC,Chapel Hill,University of North Carolina at Chapel Hill
+NC,Cullowhee,Western Carolina University    
+NC,Davidson,Davidson
+NC,Durham,Duke University
+NC,Elon,Elon University    
+NC,Greenville,East Carolina University    
+NC,Mars Hill,Mars Hill College    
+NC,Misenheimer,Pfeiffer University
+NC,Mount Olive,Mount Olive College    
+NC,Pembroke,University of North Carolina at Pembroke    
+NC,Wingate,Wingate University    
+ND,Fargo,North Dakota State University
+ND,Grand Forks,University of North Dakota
+OH,Ada,Ohio Northern University    
+OH,Ashland,Ashland University    
+OH,Athens,Ohio University    
+OH,Bluffton,Bluffton University    
+OH,Bowling Green,Bowling Green State University    
+OH,Cedarville,Cedarville University    
+OH,Gambier,Kenyon College    
+OH,Granville,Denison University    
+OH,Hiram,Hiram College    
+OH,Kent,Kent State University    
+OH,New Concord,Muskingum College    
+OH,Oberlin,Oberlin College
+OH,Oxford,Miami University
+OH,Rio Grande,University of Rio Grande    
+OH,Wilberforce,Wilberforce University    
+OK,Ada,East Central University    
+OK,Alva,Northwestern Oklahoma State University    
+OK,Durant,Southeastern Oklahoma State University    
+OK,Edmond,University of Central Oklahoma    
+OK,Goodwell,Oklahoma Panhandle State University    
+OK,Langston,Langston University
+OK,Norman,University of Oklahoma    
+OK,Stillwater,Oklahoma State University
+OK,Tahlequah,Northeastern State University    
+OK,Weatherford,Southwestern Oklahoma State University
+OR,Ashland,Southern Oregon University    
+OR,Corvallis,Oregon State University
+OR,Eugene,University of Oregon
+OR,La Grande,Eastern Oregon University    
+OR,Monmouth,Western Oregon University    
+PA,Annville,Lebanon Valley College    
+PA,Bloomsburg,Bloomsburg University of Pennsylvania    
+PA,CA,California University of Pennsylvania    
+PA,Clarion,Clarion University of Pennsylvania    
+PA,East Stroudsburg,East Stroudsburg University of Pennsylvania    
+PA,Edinboro,Edinboro University of Pennsylvania    
+PA,Gettysburg,Gettysburg College    
+PA,Grove City,Grove City College    
+PA,IN,Indiana University of Pennsylvania    
+PA,Kutztown,Kutztown University of Pennsylvania    
+PA,Lewisburg,Bucknell University
+PA,Lock Haven,Lock Haven University of Pennsylvania    
+PA,Loretto,St. Francis University    
+PA,Mansfield,Mansfield University of Pennsylvania    
+PA,Millersville,Millersville University of Pennsylvania    
+PA,New Wilmington,Westminster College    
+PA,Selinsgrove,Susquehanna University    
+PA,Shippensburg,Shippensburg University of Pennsylvania    
+PA,Slippery Rock,Slippery Rock University of Pennsylvania    
+PA,State College,Pennsylvania State University
+PA,Waynesburg,Waynesburg University
+PA,Williamsport,Pennsylvania College of Technology    
+RI,Kingston,University of Rhode Island    
+SC,Central,Southern Wesleyan University    
+SC,Clemson,Clemson University    
+SC,Columbia,University of South Carolina
+SC,Orangeburg,South Carolina State University    
+SD,Brookings,South Dakota State University    
+SD,Madison,Dakota State University
+SD,Spearfish,Black Hills State University
+SD,Vermillion,University of South Dakota
+TN,Cookeville,Tennessee Technological University    
+TN,Harrogate,Lincoln Memorial University    
+TN,Henderson,Freed-Hardeman University    
+TN,Martin,University of Tennessee at Martin    
+TN,Murfreesboro,Middle Tennessee State University    
+TN,Sewanee,Sewanee: the University of the South    
+TX,Abilene,Abilene Christian University
+TX,Alpine,Sul Ross State University    
+TX,Waco,Baylor University    
+TX,Canyon,West Texas A&M University    
+TX,College Station,Texas A&M University
+TX,Commerce,Texas A&M University-Commerce    
+TX,Denton,University of North TX    
+TX,Huntsville,Sam Houston State University    
+TX,Keene,Southwestern Adventist University    
+TX,Kingsville,Texas A&M University-Kingsville    
+TX,Nacogdoches,Stephen F. Austin State University    
+TX,Plainview,Wayland Baptist University    
+TX,Prairie View,Prairie View A&M University    
+TX,San Marcos,Texas State University
+TX,Stephenville,Tarleton State University    
+UT,Cedar City,Southern Utah University    
+UT,Logan,Utah State University    
+UT,Provo,Brigham Young University
+VT,Burlington,The University of Vermont    
+VT,Castleton,Castleton State College    
+VT,Johnson,Johnson State College    
+VT,Lyndonville,Lyndon State College    
+VT,Middlebury,Middlebury College    
+VT,Northfield,Norwich University    
+VA,Blacksburg,Virginia Polytechnic Institute and State University
+VA,Bridgewater,Bridgewater College    
+VA,Charlottesville,University of Virginia
+VA,Farmville,Longwood University    
+VA,Fredericksburg,University of Mary Washington    
+VA,Harrisonburg,James Madison University   
+VA,Lexington,Washington and Lee University   
+VA,Radford,Radford University    
+VA,Williamsburg,The College of William & Mary    
+VA,Wise,University of Virginia's College at Wise    
+WA,Bellingham,Western Washington University
+WA,Cheney,Eastern Washington University    
+WA,Ellensburg,Central Washington University
+WA,Pullman,Washington State University
+WV,Athens,Concord University    
+WV,Buckhannon,West Virginia Wesleyan College    
+WV,Fairmont,Fairmont State University    
+WV,Glenville,Glenville State College    
+WV,Huntington,Marshall University    
+WV,Montgomery,West Virginia University Institute of Technology    
+WV,Morgantown,West Virginia University    
+WV,Shepherdstown,Shepherd University    
+WV,West Liberty,West Liberty State College    
+WI,La Crosse,University of Wisconsin-La Crosse    
+WI,Madison,University of Wisconsin-Madison    
+WI,Menomonie,University of Wisconsin-Stout    
+WI,Platteville,University of Wisconsin-Platteville    
+WI,River Falls,University of Wisconsin-River Falls    
+WI,Stevens Point,University of Wisconsin-Stevens Point    
+WI,Whitewater,University of Wisconsin-Whitewater    
+WY,Laramie,University of Wyoming
