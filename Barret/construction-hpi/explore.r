@@ -1,3 +1,4 @@
+
 library(ggplot2)
 library(MASS)
 library(mgcv)
@@ -53,9 +54,10 @@ getTimeLen <- function(d)
   length(unique(d$time))
 
 hasAllTime <- function(d) 
-  getTimeLen(d) == max(getTimeLen(con))
+  hasPercentTime(d, 1)
 
-
+hasPercentTime(d, percent)
+  getTimeLen(d) / max(getTimeLen(con)) >= percent)
 
 
 conAll <- read.csv(gzfile("../../construction-housing-units/construction-housing-units.csv.gz"))
@@ -88,7 +90,9 @@ allTimeCon <- ddply(con, .(msa_code) , hasAllTime, .progress = "text")
 colnames(allTimeCon) <- c("msa_code", "good")
 #print(head(allTimeCon))
 
-
+con50 <- ddply(con, .(msa_code) , hasPercentTime, percent = .50, .progress = "text")
+colnames(con50) <- c("msa_code", "good")
+con50 <- merge(con, con50)
 
 
 conGood <- merge(con, allTimeCon)

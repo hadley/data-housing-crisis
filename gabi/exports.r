@@ -5,8 +5,10 @@ options(stringsAsFactors = FALSE)
 # Helper functions ----------------------------------------------------------
 savePlot <- function(..., plot= TRUE, big = TRUE)
 {
-nameOfPlot <- substitue(...)
+nameOfPlot <- substitute(...)
 nameOfPlot <- gsub("_", "-", nameOfPlot)
+
+  dir.create("exports/", showWarnings = FALSE)
 
   cat("\nPrinting plot ", nameOfPlot,".pdf in folder 'exports'", sep ="")
   if(plot)
@@ -30,7 +32,8 @@ both<- read.csv("college-hpi.csv")
 hpi$time <- hpi$year + (hpi$quarter - 1) / 4
 hpi$city_state <- paste(hpi$city, hpi$state, sep = ", ")
 
-hpi_by_city_state <- qplot(x=time, y=hpi,data=both, facets=~city_state, geom="line")
+hpi_by_citystate <- qplot(x=time, y=hpi,data=both, facets=~city_state, geom="line")
+savePlot(hpi_by_citystate)
 
 # I'd suggest plotting all cities facetted by state, with an overlaid average for each state (so you can see if they were better or worse off)
 
@@ -43,6 +46,59 @@ both <- merge(both, unique(hpi[, c("state", "time", "state_mean") ]))
 
 hpi_by_state <- qplot(x=time, y=hpi,data=both, group = city_state, facets=~state, geom="line") + geom_line(aes(y = state_mean), colour = I("red"))
 
-hpiCA <- qplot(x=time, y=hpi,data=hpi[hpi$state == "CA", ], group = city_state, facets=~state, geom="line") + geom_line(aes(y = state_mean), colour = I("red")) + geom_line(data = hpi[hpi$state == "CA" & hpi$city %in% both$city, ] , colour = I("blue"))
+hpiCA <- qplot(x=time, y=hpi,data=hpi[hpi$state == "CA", ], group = city_state, facets=~state, geom="line") + geom_line(aes(y = state_mean), colour = I("red")) + geom_line(data = both[both$state == "CA", ] , colour = I("blue"))
+
+#Makes a plot of each state with the cities, mean, and college towns.
+#pdf("exports/all-states.pdf", width = 16, height = 12)
+#  for(i in unique(both$state))
+#    print(qplot(x=time, y=hpi,data=hpi[hpi$state == i, ], group = city_state, facets=~state, geom="line") + geom_line(aes(y = state_mean), colour = I("red")) + geom_line(data = both[both$state == i, ] , colour = I("blue")))
+#dev.off()
 
 
+# Make a super data set that contains the state mean, each city's hpi and the college towns.  Fun!
+types <- c("Cities", "College Towns", "Mean of All Cities")
+
+d <- hpi[nchar(hpi$state) < 3 & hpi$state %in% both$state , ]
+
+m <- d[, c("state", "time", "state_mean", "city_state")]
+m$type <- rep(types[3], nrow(m))
+m$color <- rep("red", nrow(m))
+m$city_state <- paste("b",m$state, sep = "") # helps with order (2nd)
+names(m) <- c("state", "time", "hpi", "city_state", "type", "color")
+m <- unique(m)
+
+d <- d[, c("state", "time", "hpi", "city_state") ]
+d$type <- rep(types[1], nrow(d))
+d$color <- rep("black", nrow(d))
+d$city_state <- paste("a",d$city_state, sep = "") # helps with order (1st)
+
+
+b <- both[, c("state", "time", "hpi", "city_state") ]
+b$type <- rep(types[2], nrow(both))
+b$color <- rep("green", nrow(b))
+b$city_state <- paste("c",b$city_state, sep = "") # helps with order (3rd)
+
+data <- rbind( d, m, b)
+
+data$type <- factor(data$type, levels = types)
+  
+hpi_All_States <- qplot(
+    x = time, 
+    y = hpi, 
+    data = data, 
+    colour = type, 
+    group = city_state, 
+    facets = ~state, 
+    geom = "line", 
+    log = "y"
+  ) + 
+  scale_colour_manual( 
+    breaks = types, 
+    values = c(
+      "Cities" = "black", 
+      "College Towns" = "green", 
+      "Mean of All Cities" = "red"
+    )
+  ) 
+  
+savePlot(hpi_All_States)
