@@ -63,7 +63,7 @@ uniD <- d[d$variable == uniVariable[1],conNames]
 for(i in uniVariable)
 	uniD[, i] <- d[d$variable == i, "value"]
 
-cleanMet <- d
+cleanMet <- uniD
 write.table(cleanMet, "census-population-by-metro.csv", sep = ",", row = FALSE)
 
 
