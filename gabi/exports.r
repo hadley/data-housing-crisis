@@ -3,7 +3,7 @@ options(stringsAsFactors = FALSE)
 
 
 # Helper functions ----------------------------------------------------------
-savePlot <- function(..., plot= TRUE, big = TRUE)
+savePlot <- function(..., plot= FALSE, big = TRUE)
 {
 nameOfPlot <- substitute(...)
 nameOfPlot <- gsub("_", "-", nameOfPlot)
@@ -61,36 +61,37 @@ types <- c("Cities", "College Towns", "Mean of All Cities")
 d <- hpi[nchar(hpi$state) < 3 & hpi$state %in% both$state , ]
 
 m <- d[, c("state", "time", "state_mean", "city_state")]
-m$type <- rep(types[3], nrow(m))
-m$color <- rep("red", nrow(m))
+m$Type <- rep(types[3], nrow(m))
 m$city_state <- paste("b",m$state, sep = "") # helps with order (2nd)
-names(m) <- c("state", "time", "hpi", "city_state", "type", "color")
+names(m) <- c("state", "time", "hpi", "city_state", "Type")
 m <- unique(m)
 
+
 d <- d[, c("state", "time", "hpi", "city_state") ]
-d$type <- rep(types[1], nrow(d))
-d$color <- rep("black", nrow(d))
+d$Type <- rep(types[1], nrow(d))
 d$city_state <- paste("a",d$city_state, sep = "") # helps with order (1st)
 
 
 b <- both[, c("state", "time", "hpi", "city_state") ]
-b$type <- rep(types[2], nrow(both))
-b$color <- rep("green", nrow(b))
+b$Type <- rep(types[2], nrow(both))
 b$city_state <- paste("c",b$city_state, sep = "") # helps with order (3rd)
 
 data <- rbind( d, m, b)
 
-data$type <- factor(data$type, levels = types)
+data$Type <- factor(data$Type, levels = types)
   
 hpi_All_States <- qplot(
     x = time, 
     y = hpi, 
     data = data, 
-    colour = type, 
+    colour = Type, 
     group = city_state, 
-    facets = ~state, 
+    facets = ~ state, 
     geom = "line", 
-    log = "y"
+    log = "y",
+    main = "HPI Comparison for College Towns",
+    ylab = "log(Housing Price Index)",
+    xlab = "Time"
   ) + 
   scale_colour_manual( 
     breaks = types, 
@@ -102,3 +103,7 @@ hpi_All_States <- qplot(
   ) 
   
 savePlot(hpi_All_States)
+
+
+
+
