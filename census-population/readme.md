@@ -16,7 +16,7 @@ Data set also includes yearly rates (2001-2008) for all of the above categories.
 All of this information is organized by:
 
 * State
-* County
+* CBSA or County
 * Year (2001-2008)
 
 Data downloaded from:
