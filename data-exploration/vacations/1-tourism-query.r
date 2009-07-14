@@ -20,9 +20,9 @@
 # importing data
 options(stringsAsFactors = F)
 gdp <- read.csv("Documents/git/data-housing-crisis/gdp-metro/clean-data.csv", header= T)
-fips <- read.csv("Documents/git/data-housing-crisis/gdp-metro/fips_dictionary.csv", header = T)
+fips <- read.csv("Documents/git/data-housing-crisis/gdp-metro/fips-dictionary.csv", header = T)
 fips <- fips[1:365,]
-latitude <- read.csv("Documents/git/data-housing-crisis/city_latitude_longitude/latlng.csv", header= T)
+latitude <- read.csv("Documents/git/data-housing-crisis/city-location/latlng.csv", header= T)
 
 
 
@@ -90,7 +90,7 @@ gdp_w_cs <- merge(new_gdp, fips, by.x = "fips", by.y = "fips", all.x = T)
 
 # adding latitude and longitude information to gdp
 gdp_final <- merge(gdp_w_cs, latitude, by.x = c("city", "state"), by.y = c("city", "state"), all.x = T)			
-write.table(gdp_final, "tourism_and_growth.csv", sep = ",", row = F)
+write.table(gdp_final, "tourism-and-growth.csv", sep = ",", row = F)
 
 # NOTE: 3 cities shared a name with two cities in the latitude longitude data base. They'll get plotted twice - once in each location - since I haven't gone through to delete the incorrect location.
 

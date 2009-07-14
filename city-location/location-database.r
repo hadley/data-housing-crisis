@@ -178,4 +178,4 @@ names(location)[8:9] <- c("fips_cbsa", "fips_csa")
 location <- unique(location)
 
 # saving database
-write.table(location, "location_database2007.csv", sep =",", row = F)
+write.table(location, "location-database2007.csv", sep =",", row = F)

@@ -21,8 +21,8 @@ move <- subset(cps08, nxtres != 0 & gtcbsa != 0)
 	
 Reasonsall <- rbind(reasons05,reasons06, reasons07, reasons08)
 
-dir.create("separate_vars")
-write.table(Reasonsall, "separate_vars/CBSAreasonformove05-08.csv", sep = ",", row = FALSE)
+dir.create("separate-vars")
+write.table(Reasonsall, "separate-vars/CBSAreasonformove05-08.csv", sep = ",", row = FALSE)
 
 
 # 

@@ -130,6 +130,6 @@ data$tmp <- NULL
 data <- data[,c("msa_code", "name")]
 
 
-write.csv(data, "msa_codes.csv", row.names= FALSE)
+write.csv(data, "msa-codes.csv", row.names= FALSE)
 
 

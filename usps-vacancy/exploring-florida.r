@@ -7,7 +7,7 @@ all <- read.csv(gzfile("new-vacancy.csv.gz"))
 
 # states with big bubbles have larger amounts of vacancies
 qplot(year + quarter/4, vac + nostat, data = all, facets = ~ statefips, main = "Number of vacant addresses")
-ggsave("all_states.pdf")
+ggsave("all-states.pdf")
 
 florida <- all[all$statefips == 12,]
 index <- function(x) x / x[1]

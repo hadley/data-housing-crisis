@@ -23,7 +23,7 @@ write.table(new, "fhfa-house-price-index-state.csv", sep = ",", row = FALSE)
 # rename to 1q09hpi_cbsa_Ver2.csv
 
 
-a <- read.csv("Original/1q09hpi_cbsa_Ver2.csv")
+a <- read.csv("Original/1q09hpi-cbsa-Ver2.csv")
 names(a) <- c("city", "state", "fips_msa", "year", "quarter", "hpi", "error")
 
 new <- a[a[,"year"] %in% 2000:2009, ]

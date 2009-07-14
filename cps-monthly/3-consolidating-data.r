@@ -84,4 +84,4 @@ all_months <- expand.grid(
 
 merced <- ddply(all_months, .(year, month), make_merced)
 
-write.table(merced, "merced_data.csv", sep = ",", row = F)
+write.table(merced, "merced-data.csv", sep = ",", row = F)
