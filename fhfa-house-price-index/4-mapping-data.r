@@ -37,7 +37,7 @@ names(locations)[2] <- "cs"
 msa_hpi <- merge(mhpi, locations, by = c("cs"))
 
 # with city-location data we get 643 extra rows because the msa's break out into cities
-location <- read.csv("../city-location/location_database2007.csv", header = T)
+location <- read.csv("../city-location/location-database2007.csv", header = T)
 cities <- unique(location[,c(1,2,4,5,8)])
 city_hpi <- merge(mhpi, cities, by = c("fips_cbsa", "state"))
 # removing hawaii and alaska for graphing purposes
@@ -53,6 +53,7 @@ geo_rate <- qplot(longitude, latitude, data = city_hpi, colour =   drop_rate, si
 geo_rate
 ggsave("exports/ratemap.pdf")
 
-geo_time <- qplot(longitude, latitude, data = city_hpi, colour =   time, main = "When the HPI peaked where")
-geo_time + scale_colour_gradientn(colour = rainbow(5))
+city_hpi$year <- as.factor(city_hpi$time)
+geo_time <- qplot(longitude, latitude, data = na.omit(city_hpi), colour =   year, main = "When the HPI peaked where")
+geo_time + scale_colour_manual(value = c("dark violet", "red", "orange", "lime green", "sky blue"))
 ggsave("exports/timemap.pdf")
