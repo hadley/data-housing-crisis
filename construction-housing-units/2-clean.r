@@ -232,7 +232,7 @@ clean_year <- function(year, type)
 
 clean_all <- function(year)
 {
-  house <- clean_year(year, "housing_units")
+  house <- clean_year(year, "housing-units")
   val <- clean_year(year, "valuation")
 
   merge(house, val, all = TRUE)

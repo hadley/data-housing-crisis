@@ -7,19 +7,25 @@ options(stringsAsFactors = FALSE)
 
 
 # Helper functions ----------------------------------------------------------
-savePlot <- function(..., plot= TRUE, big = TRUE)
+savePlot <- function(..., plot= FALSE, big = TRUE)
 {
-  cat("\nPrinting plot ", substitute(...),".pdf in folder 'exports'", sep ="")
+nameOfPlot <- substitute(...)
+nameOfPlot <- gsub("_", "-", nameOfPlot)
+
+  dir.create("exports/", showWarnings = FALSE)
+
+  cat("\nPrinting plot ", nameOfPlot,".pdf in folder 'exports'", sep ="")
   if(plot)
     if(big)
-      ggsave(..., file=paste("exports/", substitute(...),"_BIG.pdf",sep = "", collapse = ""), width=20, height=15)    
+      ggsave(..., file=paste("exports/", nameOfPlot,"_BIG.pdf",sep = "", collapse = ""), width=20, height=15)    
     else
-      ggsave(..., file=paste("exports/", substitute(...),".pdf",sep = "", collapse = ""), width=8, height=6)
+      ggsave(..., file=paste("exports/", nameOfPlot,".pdf",sep = "", collapse = ""), width=8, height=6)
   else
     cat("\nJust Kidding!!!\n")
   cat("\n")
 }
-index <- function(x) x / x[1]
+
+index_with_time <- function(column, time) abs(column / column[time == min(time)] * 100)
 
 
 deseas <- function(var, month) {
@@ -39,8 +45,11 @@ log_d <- function(var)
 
 log_smooth <- function(var, date)
   smooth(log_d(var), date)
+
 log_deseas <- function(var, date)
-  smooth(log_d(var), date)
+  deseas(log_d(var), date)
+log_qdeseas <- failwith(NA, deseas, quiet = T)
+
 
 returnMaxCon <- function(d, maxcolumn)
 	unique(d[d[,maxcolumn] == max(d[,maxcolumn]), c(maxcolumn,"time")])
@@ -56,14 +65,26 @@ getTimeLen <- function(d)
 hasAllTime <- function(d) 
   hasPercentTime(d, 1)
 
-hasPercentTime(d, percent)
-  getTimeLen(d) / max(getTimeLen(con)) >= percent)
+hasPercentTime <- function(d, percent)
+  (getTimeLen(d) / max(getTimeLen(con))) >= percent
+  
+getAllCities <- function(d)
+  rep(paste(unique(d), sep ="", collapse = "\n"), length(d))
+
 
 
 conAll <- read.csv(gzfile("../../construction-housing-units/construction-housing-units.csv.gz"))
-#hpiMax <- read.csv(gzfile("../../fhfa-house-price-index/Max HPI.csv.gz"))
+hpi <- read.csv("../../fhfa-house-price-index/fhfa-house-price-index-msa.csv")
+
 
 closeAllConnections()
+
+hpi$time <- hpi[,"year"] + (hpi[,"quarter"] - .5) / 4
+hpi$city_state <- paste(hpi$city, hpi$state, sep = ", ")
+colnames(hpi)[colnames(hpi) == "fips_msa"] <- "msa_code"
+
+hpi <- ddply(hpi, c("msa_code"), transform, stripName = getAllCities(city_state), .progress = "text")
+
 
 conAll$size <- c("1" = "single", "2" = "multi", "3-4" = "multi", "5-Inf" = "multi", "Total" = "Total")[conAll$units]
 
@@ -72,6 +93,7 @@ colnames(conAll)[colnames(conAll) == "valuation"] <- "value"
 
 #conAll$month <- (conAll$time %% 1 + 1/24) * 12
 conAll$time <- conAll$year + conAll$month / 12 - 1/24
+conAll$month <- conAll$year <- NULL
 #print(head(conAll))
 
 
@@ -93,26 +115,57 @@ colnames(allTimeCon) <- c("msa_code", "good")
 con50 <- ddply(con, .(msa_code) , hasPercentTime, percent = .50, .progress = "text")
 colnames(con50) <- c("msa_code", "good")
 con50 <- merge(con, con50)
+con50 <- con50[con50$good, colnames(con50) != "good"]
+
 
 
 conGood <- merge(con, allTimeCon)
 conGood <- conGood[conGood$good, colnames(conGood) != "good"]
 
+conGood$month <- (conGood$time %% 1 + 1/24) * 12
 #conGood <- ddply(conGood, c("city_state"), transform, n_ds = qdeseas(n, (time %% 1 + 1/24) *12), .progress = "text")
+conGood <- ddply(conGood, c("msa_code"), transform, stripName = getAllCities(city_state), .progress = "text")
 conGood <- ddply(conGood, c("msa_code"), transform, n_ds = qdeseas(n, month), .progress = "text")
-conGood <- ddply(conGood, c("msa_code"), transform, n_log_ds = log_deseas(n, month), .progress = "text")
+conGood <- ddply(conGood, c("msa_code"), transform, n_log_ds = log_qdeseas(n, month), .progress = "text")
 conGood <- ddply(conGood, c("msa_code"), transform, n_sm = smooth(n, time), .progress = "text")
 conGood <- ddply(conGood, c("msa_code"), transform, n_log = log_d(n), .progress = "text")
 conGood <- ddply(conGood, c("msa_code"), transform, n_log_sm = log_smooth(n, time), .progress = "text")
+conGood$month <- NULL
 
 
-getAllCities <- function(d)
-  rep(paste(unique(d), sep ="", collapse = "\n"), length(d))
-
-conGood <- ddply(conGood, c("msa_code"), transform, stripName = getAllCities(city_state), .progress = "text")
 cat("\n\nconGood\n")
 print(head(conGood))
 
+
+con50 <- ddply(con50, c("msa_code"), transform, stripName = getAllCities(city_state), .progress = "text")
+con50 <- ddply(con50, c("msa_code"), transform, n_sm = smooth(n, time), .progress = "text")
+con50 <- ddply(con50, c("msa_code"), transform, n_log = log_d(n), .progress = "text")
+
+
+
+
+
+cat("\n\ncon50\n")
+print(head(con50))
+con50RawAndSmooth <- qplot(time, n_log, data = conGood, geom = "line") + geom_line(aes(y = n_log_sm), colour = ("blue")) + facet_wrap( ~ stripName) + opts(legend.position = "none")
+savePlot(con50RawAndSmooth)
+
+
+
+construction <- conGood[,c("msa_code", "stripName", "time", "n")]
+#construction$type <- rep("construction", nrow(construction))
+hpindex <- hpi[, c("msa_code", "time", "hpi")]
+#hpindex$type <- rep("hpi", nrow(hpindex))
+
+
+both <- merge(construction, hpindex)
+both <- ddply(both, c("stripName"), transform, n_x = index_with_time(n, time), .progress = "text")
+both <- ddply(both, c("stripName"), transform, n_sm = smooth(n, time), .progress = "text")
+both <- ddply(both, c("stripName"), transform, n_smx = index_with_time(n_sm, time), .progress = "text")
+both$hpi_log <- log_d(both$hpi)
+both$n_smx_log <- log_d(both$n_smx)
+
+bothPlot <- ggplot(data = both, aes(x = time)) + geom_line(aes(y = n_smx_log), colour = I("red")) + geom_line(aes(y = hpi_log), colour = I("blue")) + facet_wrap(~stripName)
 
 stop()
 

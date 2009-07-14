@@ -75,7 +75,7 @@ cbs_data <- within(cbs_data, tourism <- leisure + arts + accomodations)
 
 num_tourism <- qplot(year + month/12, tourism, data = cbs_data, geom = "line", colour = city, facets = ~ destination, main = "Number of responders who work in tourism fields")
 num_tourism
-ggsave("exports/num_tourism.pdf")
+ggsave("exports/num-tourism.pdf")
 # vacation spots seem higher. strong distinction
 # stron seasonal trend that seems to reverse in 2007
 
@@ -111,7 +111,7 @@ sc_tourism
 
 spc_tourism <- qplot(year, tourism_sc_p, data = sc_data, geom = "line", colour = city, facets = ~ destination, main = "Seasonal percent change of tourism jobs")
 spc_tourism
-ggsave("exports/spc_tourism.pdf")
+ggsave("exports/spc-tourism.pdf")
 # almost nil for vacation spots except (myrtle beach)
 
 sc_leisure <- qplot(year, leisure_sc, data = sc_data, geom = "line", colour = city, facets = ~ destination, main = "Seasonal number change of leisure jobs")
@@ -121,7 +121,7 @@ sc_leisure
 
 spc_leisure <- qplot(year, leisure_sc_p, data = sc_data, geom = "line", colour = city, facets = ~ destination, main = "Seasonal percent change of leisure jobs")
 spc_leisure
-ggsave("exports/spc_leisure.pdf")
+ggsave("exports/spc-leisure.pdf")
 # smaller for all vacation spots except myrtle beach
 
 sc_acco <- qplot(year, accomodations_sc, data = sc_data, geom = "line", colour = city, facets = ~ destination, main = "Seasonal number change of accomodations jobs")
