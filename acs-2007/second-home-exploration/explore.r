@@ -63,3 +63,61 @@ savePlot(florida)
 # the percent of second homes fluctuates among pumas.  The highest rates occur in and near downtown Miami (4009, 4010) and downtown Orlando (2204). Implying that our measure of second homes measures rental properties more than vacation homes.
 
 
+# combining with hpi data
+hpi <- read.csv(file.choose(), header = T)
+hpi$time <- hpi$year + hpi$quarter/4
+hpi <- na.omit(hpi)
+get_max <- function(df){
+	max_hpi <- max(df$hpi)
+	time <- df[df$hpi == max_hpi, 8]
+	change <- df[df$year == 2009, 6] - max_hpi
+	c(city = df$city[1],
+		state = df$state[1],
+		max_hpi = max_hpi,
+		max_time = time)}
+		,
+		change = change)
+}
+
+get_max <- function(df){
+	hpi2009 <- df$hpi[df$time == 2009]
+	df <- df[df$hpi == max(df$hpi),]
+	df$change <- hpi2009 - df$hpi
+	df
+} 
+
+maxhpi <- ddply(hpi, .(fips_msa), get_max)
+maxhpi <- maxhpi[,c(1,2,3,6,8,9)]
+names(maxhpi)[3] <- "cbsa"
+
+convert <- read.csv(file.choose(),header = T)
+convert$fips_st <- as.numeric(convert$state)
+convert$fips_puma <- as.numeric(convert$puma5)
+convert$cbsa <- as.numeric(convert$cbsa)
+names(convert)[2] <- "fips_puma"
+convert <- convert[-1,c(3,7,8,9)]
+
+shomes <- merge(shomes, convert, by = c("fips_st", "fips_puma"))
+shomes <- merge(shomes, maxhpi, by = "cbsa", all.x = T)
+
+shomes2006 <- shomes[shomes$year == 2006,]
+shomes2006$afact <- as.numeric(shomes2006$afact)
+
+make_puma_hpi <- function(df){
+	df$max_hpi <- df$afact * df$hpi
+	df$ptime <- df$afact * df$time
+	df$pchange <- df$afact * df$change
+	c(per_owner = df$per_owner[1],
+		max_hpi = sum(df$max_hpi),
+		time = sum(df$ptime),
+		change = sum(df$pchange),
+		state = df$state[1],
+		city = df$city[1])
+}
+shomes2006 <- ddply(shomes2006, .(fips_st, fips_puma), make_puma_hpi)
+
+write.table(shomes2006, "shomes2006.csv", sep = ",", row = F)
+
+		
+	
+
