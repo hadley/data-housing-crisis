@@ -6,7 +6,7 @@
 
 dir.create("original/")
 dir.create("original/valuation")
-dir.create("original/housing_units")
+dir.create("original/housing-units")
 
 get_txt <- function(filenum, name) {
   download.file(
@@ -68,6 +68,6 @@ save_names <- c(
 
 for(i in 1:length(file_namesU))
 {
-  get_txt(file_namesU[i], paste("housing_units/",save_names[i],sep="",collapse=""))
+  get_txt(file_namesU[i], paste("housing-units/",save_names[i],sep="",collapse=""))
   get_txt(file_namesV[i], paste("valuation/",save_names[i],sep="",collapse=""))
 }

@@ -75,10 +75,10 @@ for(i in uniCities)
 dataCitySelect <- dataTmp[dataTmp[,"city"] %in% uniCities[GoodCities], ]
 
 
-#p <- qplot(time, housing_units, data = dataTmp, group = city, geom = "line") + facet_grid(units ~ state, scales = "free")
-#p <- qplot(time, housing_units, data = dataTmp, group = city, geom = "line") + facet_grid(units ~ state, scales = "free")
-#p <- qplot(time, housing_units, data = dataTmp, group = city, geom = "line") + facet_grid(units ~ state, scales = "free")
-#p <- qplot(time, housing_units, data = dataTmp, group = city, geom = "line") + facet_grid(units ~ state, scales = "free")
+#p <- qplot(time, housing-units, data = dataTmp, group = city, geom = "line") + facet_grid(units ~ state, scales = "free")
+#p <- qplot(time, housing-units, data = dataTmp, group = city, geom = "line") + facet_grid(units ~ state, scales = "free")
+#p <- qplot(time, housing-units, data = dataTmp, group = city, geom = "line") + facet_grid(units ~ state, scales = "free")
+#p <- qplot(time, housing-units, data = dataTmp, group = city, geom = "line") + facet_grid(units ~ state, scales = "free")
 
 #p <- p + scale_y_log10()
 
