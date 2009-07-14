@@ -1,4 +1,3 @@
-
 library(ggplot2)
 library(MASS)
 library(mgcv)
@@ -7,7 +6,7 @@ options(stringsAsFactors = FALSE)
 
 
 # Helper functions ----------------------------------------------------------
-savePlot <- function(..., plot= FALSE, big = TRUE)
+savePlot <- function(..., plot= TRUE, big = TRUE)
 {
 nameOfPlot <- substitute(...)
 nameOfPlot <- gsub("_", "-", nameOfPlot)
@@ -25,7 +24,7 @@ nameOfPlot <- gsub("_", "-", nameOfPlot)
   cat("\n")
 }
 
-index_with_time <- function(column, time) abs(column / column[time == min(time)] * 100)
+index_with_time <- function(column, time) column / abs(column[time == min(time)]) * 100
 
 
 deseas <- function(var, month) {
@@ -39,7 +38,8 @@ smooth <- function(var, date)
 
 log_d <- function(var)
 {
-  var[var==0] <- 1
+  var[var < 1 ] <- 1
+#  var[var==0] <- 1
   log(var)
 }
 
@@ -164,8 +164,119 @@ both <- ddply(both, c("stripName"), transform, n_sm = smooth(n, time), .progress
 both <- ddply(both, c("stripName"), transform, n_smx = index_with_time(n_sm, time), .progress = "text")
 both$hpi_log <- log_d(both$hpi)
 both$n_smx_log <- log_d(both$n_smx)
+both <- ddply(both, c("stripName"), transform, above150 = mean(n) > 150, .progress = "text")
 
-bothPlot <- ggplot(data = both, aes(x = time)) + geom_line(aes(y = n_smx_log), colour = I("red")) + geom_line(aes(y = hpi_log), colour = I("blue")) + facet_wrap(~stripName)
+
+pop <- read.csv("../../census-population/census-population-by-metro.csv")
+
+pop <- pop[, c("cbsa", "year", "popestimate")]
+pop$time <- pop$year + 0.125
+pop$msa_code <- pop$cbsa
+pop$cbsa <- pop$year <- NULL
+pop <- ddply(pop, c("msa_code", "time"), transform, pop = mean(popestimate), .progress = "text")
+pop$estimate <- NULL
+pop <- ddply(pop, c("msa_code"), transform, popx = index_with_time(pop, time), .progress = "text")
+
+tri <- merge(both, pop)
+
+plotTri <- function(data)
+{
+  p <- ggplot(data = data , aes(x = time)) + 
+      geom_line(aes(y = n_smx, colour = "Housing Units (Smoothed Index)"))  + 
+      geom_line(aes(y = hpi, colour = "Housing Price Index")) + 
+      geom_line(aes(y = popx, colour = "Population Estimate Index")) + 
+      facet_wrap(~stripName) +   
+      scale_colour_manual( name = "Line Type", 
+        values = c("Housing Price Index" = "blue", "Housing Units (Smoothed Index)" = "red", "Population Estimate Index" = "green") 
+      ) + 
+      labs(x = "Time", y = "Index Value")
+  p
+}
+
+
+
+Merced <- tri[tri$msa_code == "32900", ]
+MercedPlot <- plotTri(Merced)
+savePlot(MercedPlot)
+
+bothPlotLog <- ggplot(data = both[both$above150,] , aes(x = time)) + geom_line(aes(y = n_smx_log, colour = "Housing Units (smooth)")) + geom_line(aes(y = hpi_log, colour = "HPI")) + facet_wrap(~stripName) +   scale_colour_manual( name = "Line Type", values = c("HPI" = "blue", "Housing Units (smooth)" = "red") )
+savePlot(bothPlotLog)
+
+bothPlot <- ggplot(data = both[both$above150,] , aes(x = time)) + geom_line(aes(y = n_smx, colour = "Housing Units (smooth)")) + geom_line(aes(y = hpi, colour = "HPI")) + facet_wrap(~stripName) +   scale_colour_manual( name = "Line Type", values = c("HPI" = "blue", "Housing Units (smooth)" = "red") )
+savePlot(bothPlot)
+
+bothPlotRaw <- ggplot(data = both[both$above150,] , aes(x = time)) + geom_line(aes(y = n, colour = "Housing Units (smooth)")) + geom_line(aes(y = hpi, colour = "HPI")) + facet_wrap(~stripName, scales = "free") +   scale_colour_manual( name = "Line Type", values = c("HPI" = "blue", "Housing Units (smooth)" = "red") )
+savePlot(bothPlotRaw)
+
+
+# Removed due to having low housing unit construction
+#Pittsfield <- tri[tri$stripName == "Pittsfield, MA", ]
+#PittsfieldPlot <- plotTri(Pittsfield)
+#PittsfieldPlot
+
+Missoula <- both[both$stripName == "Missoula, MT", ]
+MissoulaPlot <- ggplot(data = Missoula, aes(x = time)) + geom_line(aes(y = n, colour = "Housing Units (smooth)")) + geom_line(aes(y = hpi, colour = "HPI")) + facet_wrap(~stripName) +   scale_colour_manual( name = "Line Type", values = c("HPI" = "blue", "Housing Units (smooth)" = "red") )
+savePlot(MissoulaPlot)
+
+
+
+triPlot <- plotTri(tri[tri$above150,]) + opts(title = "Larger Towns' Indexes")
+savePlot(triPlot)
+# When wanting to combine data sets, HPI, Construction and Population was a logical choice.  We wanted to see if there was any correlation between them.
+# Figure X is a combination of the FHFA Housing Price Index, Census Construction, and Census Population data sets.  It shows that population does not change, while the Construction seems to be the magnet for the Housing Price Index.
+
+
+mix1 <- con[,c("msa_code", "time", "n")]
+colnames(mix1)[3] <- "value"
+mix1$type <- rep("Construction", nrow(mix1))
+
+
+mix2 <- hpi[, c("msa_code", "time", "hpi")]
+colnames(mix2)[3] <- "value"
+mix2$type <- rep("HPI", nrow(mix2))
+
+mix3 <- pop[, c("msa_code", "time", "pop")]
+colnames(mix3)[3] <- "value"
+mix3$type <- rep("Population", nrow(mix3))
+
+mix <- rbind(mix1, mix2, mix3)
+mix$value_log <- log_d(mix$value)
+mix <- merge(msa, mix)
+mix <- ddply(mix, c("msa_code"), transform, stripName = getAllCities(name), .progress = "text")
+mix$name <- NULL
+
+bigMSA <- unique(tri[tri$above150, "msa_code"])
+
+
+mixPlot <- qplot(x = time, y = value_log, data = mix[mix$msa_code %in% bigMSA & mix$type != "Population", ], geom = "line", facets = ~stripName, colour = type) +
+    scale_colour_manual( name = "Line Type", 
+        values = c("HPI" = "blue", "Construction" = "red", "Population" = "green") 
+      ) + 
+      labs(x = "Time", y = "Value")
+      
+mixPlotSelect <- qplot(x = time, y = value_log, data = mix[mix$msa_code %in% bigMSA & mix$type != "Population", ], geom = "line", colour = type) + facet_wrap(~stripName, scales = "free") +
+    scale_colour_manual( name = "Line Type", 
+        values = c("HPI" = "blue", "Construction" = "red", "Population" = "green") 
+      ) + 
+      labs(x = "Time", y = "Value")
+# the above "mix" stuff didn't pan out how I wanted it to.  I wanted to show a more realistic raw with more time points, but did didn't work.
+
+triPlotRawLog <-  ggplot(data = tri[tri$above150,], aes(x = time)) + 
+      geom_line(aes(y = log_d(n), colour = "Housing Units (Smoothed Index)"))  + 
+      geom_line(aes(y = log_d(hpi), colour = "Housing Price Index")) + 
+      geom_line(aes(y = log_d(pop), colour = "Population Estimate Index")) + 
+      facet_wrap(~stripName) +   
+      scale_colour_manual( name = "Line Type", 
+        values = c("Housing Price Index" = "blue", "Housing Units (Smoothed Index)" = "red", "Population Estimate Index" = "green") 
+      ) + 
+      labs(x = "Time", y = "Index Value")
+savePlot(triPlotRawLog)
+
+
+
+
+
+
 
 stop()
 
