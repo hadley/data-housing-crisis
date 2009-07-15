@@ -24,15 +24,15 @@ Data Set Overview
 * **Metropolitan Gross Domestic Product (GDP):** This data set is from the U.S. Bureau of Economic Analysis. Data records how much money has been made from specific industries such as agriculture and manufacturing. The data covers Metropolitan Statistical Areas and is collected yearly (2001-2006).
 * **Market Rents:** Data is from U.S. Department of Housing and Urban Development. It records the median monthly rent for Metropolitan Statistical Areas and counties.  This data covers years 2003 through 2009.
 * **Texas MSA Sales:** This data was downloaded from Texas A&M University real estate center. Data includes housing variables such as total number of houses sold, average house price, and average number of houses listed. Covers only Texas metropolitan areas as defines by the real estate center. We have matched this to census Metropolitan Statistical Areas as best as possible. This data was collected monthly from January 1990 to April 2009.
-* **United States Postal Service (USPS ) Vacancy:** This data was downloaded from the U.S. Department of Housing and Urban Development. Data includes total number of addresses and number of residential and business vacancies. This data was collected quarterly and covers all states and counties for years 2006 through 2009.   
+* **United States Postal Service (USPS ) Vacancy:** This data was downloaded from the U.S. Department of Housing and Urban Development. Data includes total number of addresses and number of residential and business vacancies. This data was collected quarterly and covers all states and counties for years 2006 through 2009.
 
 Terms
 ======================
 
-Locations:
+**Locations:**
 
-* MSA (Metropolitan Statistical Area): The Census Bureau defines an MSA as one or more counties that has a population of at least 50,000 people, plus adjacent territory that has a high degree of social and economic similarities.  
-* CBSA (Core Based Statistical Area): CBSA contains both MSAs and new created micropolitan areas.  
+* MSA (Metropolitan Statistical Area): The Census Bureau defines an MSA as one or more counties that has a population of at least 50,000 people, plus adjacent territory that has a high degree of social and economic similarities.
+* CBSA (Core Based Statistical Area): CBSA contains both MSAs and new created micropolitan areas.
 * Micropolitan Area: Census Bureau defines micropolitan areas as urban clusters of at least 10,000 and fewer than 50,000 people.
 * PUMA (Public Use Microdata Area): PUMA consists of 5% of the population
 
