@@ -3,7 +3,7 @@ options(stringsAsFactors = FALSE)
 
 
 # Helper functions ----------------------------------------------------------
-savePlot <- function(..., plot= FALSE, big = TRUE)
+savePlot <- function(..., plot= TRUE, big = TRUE)
 {
 nameOfPlot <- substitute(...)
 nameOfPlot <- gsub("_", "-", nameOfPlot)
@@ -89,7 +89,7 @@ hpi_All_States <- qplot(
     facets = ~ state, 
     geom = "line", 
     log = "y",
-    main = "HPI Comparison for College Towns",
+    main = "Housing Price Index\nComparison for College Towns",
     ylab = "log(Housing Price Index)",
     xlab = "Time"
   ) + 
