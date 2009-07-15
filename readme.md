@@ -43,7 +43,6 @@ Terms
 * CBSA (Core Based Statistical Area): CBSA contains both MSAs and new created micropolitan areas.
 * Micropolitan Area: Census Bureau defines micropolitan areas as urban clusters of at least 10,000 and fewer than 50,000 people.
 * PUMA (Public Use Microdata Area): PUMA consists of 5% of the population.
-
 * **House Price Index:** A scale representing the average value of specified prices as compared with some reference figure. In our data set this reference figure is usually the value of the first recorded HPI. (HPI Current / HPI index date)*100  
 
 * **Gross Domestic Product:** Amount of money a city's economy generates from a certain industry.  
