@@ -29,7 +29,7 @@ Terms
 ======================
 
 Location:
-	MSA (Metropolitan Statistical Area)- The Census Bureau defines an MSA as one or more 	  counties that has a population of at least 50,000 people, plus adjacent territory that has a high degree of social and economic similarities.  
+	MSA (Metropolitan Statistical Area)- The Census Bureau defines an MSA as one or more counties that has a population of at least 50,000 people, plus adjacent territory that has a high degree of social and economic similarities.  
 	CBSA (Core Based Statistical Area): CBSA contains both MSAs and new created micropolitan areas.  
 	Micropolitan Area- Census Bureau defines micropolitan areas as urban clusters of at least 10,000 and fewer than 50,000 people.
 	PUMA (Public Use Microdata Area)- PUMA consists of 5% of the population
