@@ -182,12 +182,12 @@ tri <- merge(both, pop)
 plotTri <- function(data)
 {
   p <- ggplot(data = data , aes(x = time)) + 
-      geom_line(aes(y = n_smx, colour = "Housing Units (Smoothed Index)"))  + 
+      geom_line(aes(y = n_smx, colour = "Construction (Smoothed and Indexed)"))  + 
       geom_line(aes(y = hpi, colour = "Housing Price Index")) + 
       geom_line(aes(y = popx, colour = "Population Estimate Index")) + 
       facet_wrap(~stripName) +   
       scale_colour_manual( name = "Line Type", 
-        values = c("Housing Price Index" = "blue", "Housing Units (Smoothed Index)" = "red", "Population Estimate Index" = "green") 
+        values = c("Housing Price Index" = "blue", "Construction (Smoothed and Indexed)" = "red", "Population Estimate Index" = "green") 
       ) + 
       labs(x = "Time", y = "Index Value")
   p
