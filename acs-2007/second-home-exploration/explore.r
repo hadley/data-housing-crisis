@@ -1,6 +1,7 @@
 library(ggplot2)
 library(MASS)
 library(mgcv)
+library(R.oo)
 options(na.action = "na.exclude")
 options(stringsAsFactors = FALSE)
 
@@ -67,17 +68,7 @@ savePlot(florida)
 hpi <- read.csv(file.choose(), header = T)
 hpi$time <- hpi$year + hpi$quarter/4
 hpi <- na.omit(hpi)
-get_max <- function(df){
-	max_hpi <- max(df$hpi)
-	time <- df[df$hpi == max_hpi, 8]
-	change <- df[df$year == 2009, 6] - max_hpi
-	c(city = df$city[1],
-		state = df$state[1],
-		max_hpi = max_hpi,
-		max_time = time)}
-		,
-		change = change)
-}
+
 
 get_max <- function(df){
 	hpi2009 <- df$hpi[df$time == 2009]
@@ -118,6 +109,21 @@ shomes2006 <- ddply(shomes2006, .(fips_st, fips_puma), make_puma_hpi)
 
 write.table(shomes2006, "shomes2006.csv", sep = ",", row = F)
 
-		
-	
+qplot(data = shomes2006, per_owner, max_hpi, colour = state)
+qplot(data = shomes2006, change, max_hpi, colour = state)
+# it seems like you couldn't have a large max_hpi without a large change
 
+shomes2006$per_change <- with(shomes2006, change / max_hpi)
+qplot(data = shomes2006, max_hpi, per_change, colour = state, geom = "text", label = state) + opts(legend.position = "none")
+	
+maxhpi$rate <- with(maxhpi,change/(2009.25 - time))
+maxhpi <- within(maxhpi, per_change <- change/hpi)
+maxhpi <- within(maxhpi, per_rate <- rate / hpi)
+maxhpi <- within(maxhpi, state <- as.character(state))
+for (i in 1:nrow(maxhpi))
+	maxhpi$state[i] <- trim(gsub("MSAD", "", maxhpi$state[i]))
+
+
+outcome <- qplot(data = maxhpi, hpi, per_rate, colour = state, geom = "text", label = state, main = "Max HPI vs. outcome", ylab = "Rate of change per year (as percentage of max HPI)", xlab = "Maximum HPI (2005-2009)") + opts(legend.position = "none")
+savePlot(outcome)
+ggsave(file="exports/outcome-by-max-price.pdf", width=8, height=6)
