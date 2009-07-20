@@ -22,10 +22,13 @@ cat("\n")
 
 
 
-hpi <- read.csv("../fhfa-house-price-index/fhfa-house-price-index-msa.csv", header = T)
+hpi <- read.csv(file.choose(), header = T)
+#"../fhfa-house-price-index/fhfa-house-price-index-msa.csv"
 hpi$time <- hpi$year + hpi$quarter/4
 hpi <- na.omit(hpi)
 
+# qplot(data = hpi, year, hpi, geom = "line") + facet_wrap(~ city) + opts(legend.position = "none")
+# ggsave(file="all_hpi.pdf", width=20, height=15) 
 
 get_max <- function(df){
 	hpi2009 <- df$hpi[df$time == 2009]
