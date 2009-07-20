@@ -4,52 +4,7 @@ library(mgcv)
 options(na.action = "na.exclude")
 options(stringsAsFactors = FALSE)
 
-
-# Helper functions ----------------------------------------------------------
-savePlot <- function(..., plot= TRUE, big = TRUE)
-{
-nameOfPlot <- substitute(...)
-nameOfPlot <- gsub("_", "-", nameOfPlot)
-
-  dir.create("exports/", showWarnings = FALSE)
-
-  cat("\nPrinting plot ", nameOfPlot,".pdf in folder 'exports'", sep ="")
-  if(plot)
-    if(big)
-      ggsave(..., file=paste("exports/", nameOfPlot,"_BIG.pdf",sep = "", collapse = ""), width=20, height=15)    
-    else
-      ggsave(..., file=paste("exports/", nameOfPlot,".pdf",sep = "", collapse = ""), width=8, height=6)
-  else
-    cat("\nJust Kidding!!!\n")
-  cat("\n")
-}
-
-index_with_time <- function(column, time) column / abs(column[time == min(time)]) * 100
-
-
-deseas <- function(var, month) {
-  # var - ave(var, month, mean, na.rm = TRUE) + mean(var, na.rm = TRUE)
-  resid(rlm(var ~ factor(month))) + mean(var, na.rm = TRUE)
-}
-qdeseas <-  failwith(NA, deseas, quiet =T)
-
-smooth <- function(var, date)
-  predict(gam(var ~ s(date)))
-
-log_d <- function(var)
-{
-  var[var < 1 ] <- 1
-#  var[var==0] <- 1
-  log(var)
-}
-
-log_smooth <- function(var, date)
-  smooth(log_d(var), date)
-
-log_deseas <- function(var, date)
-  deseas(log_d(var), date)
-log_qdeseas <- failwith(NA, deseas, quiet = T)
-
+source("helper.r")
 
 returnMaxCon <- function(d, maxcolumn)
 	unique(d[d[,maxcolumn] == max(d[,maxcolumn]), c(maxcolumn,"time")])
@@ -99,7 +54,7 @@ conAll$month <- conAll$year <- NULL
 
 
 con <- conAll[conAll$size == "Total", ]
-msa <- read.csv("../../msa-name-over-time/msa_codes.csv")
+msa <- read.csv("../../msa-name-over-time/msa-codes.csv")
 #print(head(con))
 con$name <- paste(con$city, ", ", con$state, sep = "")
 
@@ -133,8 +88,8 @@ conGood <- ddply(conGood, c("msa_code"), transform, n_log_sm = log_smooth(n, tim
 conGood$month <- NULL
 
 
-cat("\n\nconGood\n")
-print(head(conGood))
+#cat("\n\nconGood\n")
+#print(head(conGood))
 
 
 con50 <- ddply(con50, c("msa_code"), transform, stripName = getAllCities(city_state), .progress = "text")
@@ -145,8 +100,8 @@ con50 <- ddply(con50, c("msa_code"), transform, n_log = log_d(n), .progress = "t
 
 
 
-cat("\n\ncon50\n")
-print(head(con50))
+#cat("\n\ncon50\n")
+#print(head(con50))
 con50RawAndSmooth <- qplot(time, n_log, data = conGood, geom = "line") + geom_line(aes(y = n_log_sm), colour = ("blue")) + facet_wrap( ~ stripName) + opts(legend.position = "none")
 savePlot(con50RawAndSmooth)
 
