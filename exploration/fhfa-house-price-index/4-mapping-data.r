@@ -1,7 +1,26 @@
+library(plyr)
+library(ggplot2)
+library(R.oo)
+options(stringsAsFactors = F)
+savePlot <- function(..., plot= TRUE, big = FALSE)
+{
+nameOfPlot <- substitute(...)
+nameOfPlot <- gsub("_", "-", nameOfPlot)
+cat("\nPrinting plot ", nameOfPlot,".pdf in folder 'exports'", sep ="")
+if(plot)
+if(big)
+ggsave(..., file=paste("exports/", nameOfPlot,"-BIG.pdf",sep = "", collapse = ""), width=20, height=15) 
+else
+ggsave(..., file=paste("exports/", nameOfPlot,".pdf",sep = "", collapse = ""), width=10, height=6)
+else
+cat("\nJust Kidding!!!\n")
+cat("\n")
+}
+
 # making countrywide plot of housing price drops
 # below from 3-exports.r
 
-hpi <- read.csv("fhfa-house-price-index-msa.csv")
+hpi <- read.csv("../../data/fhfa-house-price-index/fhfa-house-price-index-msa.csv")
 time <- hpi[,"year"] + (hpi[,"quarter"] - 1) / 4
 hpi <- cbind(hpi,time)
 hpi$city_state <- paste(hpi$city, hpi$state, sep= ", ")
@@ -37,23 +56,25 @@ names(locations)[2] <- "cs"
 msa_hpi <- merge(mhpi, locations, by = c("cs"))
 
 # with city-location data we get 643 extra rows because the msa's break out into cities
-location <- read.csv("../city-location/location-database2007.csv", header = T)
+location <- read.csv("../../data/city-location/location-database2007.csv", header = T)
 cities <- unique(location[,c(1,2,4,5,8)])
 city_hpi <- merge(mhpi, cities, by = c("fips_cbsa", "state"))
 # removing hawaii and alaska for graphing purposes
 city_hpi <- city_hpi[city_hpi$state != "HI" & city_hpi$state != "AK",]
 
 
-geo_change <- qplot(longitude, latitude, data = city_hpi, colour =   change, size = change, main = "Map of cumulative drop in HPI")
+dropmap <- qplot(longitude, latitude, data = city_hpi, colour =   change, size = change, main = "Map of cumulative drop in HPI")
 geo_change
-ggsave("exports/changemap.pdf")
+savePlot(dropmap)
 
 city_hpi$drop_rate <- with(city_hpi, change / (2009 - time))
-geo_rate <- qplot(longitude, latitude, data = city_hpi, colour =   drop_rate, size = drop_rate, main = "Map of drop rates in HPI")
-geo_rate
-ggsave("exports/ratemap.pdf")
 
-city_hpi$year <- as.factor(city_hpi$time)
-geo_time <- qplot(longitude, latitude, data = na.omit(city_hpi), colour =   year, main = "When the HPI peaked where")
-geo_time + scale_colour_manual(value = c("dark violet", "red", "orange", "lime green", "sky blue"))
-ggsave("exports/timemap.pdf")
+ratemap <- qplot(longitude, latitude, data = city_hpi, colour =   drop_rate, size = drop_rate, main = "Map of drop rates in HPI")
+ratemap
+savePlot(ratemap)
+
+city_hpi$year <- as.factor(trunc(city_hpi$time))
+
+
+timemap <- qplot(longitude, latitude, data = na.omit(city_hpi), colour =   year, size = change, main = "When the HPI peaked where") + scale_colour_manual(value = c("dark violet", "red", "orange", "lime green", "sky blue"))
+savePlot(timemap)
