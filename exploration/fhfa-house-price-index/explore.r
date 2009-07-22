@@ -49,8 +49,8 @@ for (i in 1:nrow(maxhpi))
 	maxhpi$state[i] <- trim(gsub("MSAD", "", maxhpi$state[i]))
 	
 outcome <- qplot(data = maxhpi, hpi, per_rate, colour = state, geom = "text", label = state, main = "Max HPI vs. outcome", ylab = "Rate of change per year (as percentage of max HPI)", xlab = "Maximum HPI (2005-2009)") + opts(legend.position = "none")
+outcome
 savePlot(outcome)
-ggsave(file="exports/outcome-by-max-price.pdf", width=6, height=6)
 
 pop <- read.csv("pop-cbsa.csv", header = T)
 pop <- pop[-c(1,2),c(1,3)]
@@ -198,4 +198,3 @@ calhpi2 <- merge(calhpi2, pop, by = "cbsa", all.x = T)
 
 # qplot(data = calhpi2, time, hpi, geom = "line", group = cbsa, colour = pop2k, main = "California HPI by region")
 
-qplot(data = calhpi2, time, hpi, geom = "line", group = region, colour = region, main = "California HPI by region")

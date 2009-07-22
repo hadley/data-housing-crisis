@@ -65,7 +65,7 @@ savePlot(florida)
 
 
 # combining with hpi data
-hpi <- read.csv(file.choose(), header = T)
+hpi <- read.csv("../../data/fhfa-house-price-index/fhfa-house-price-index-msa.csv", header = T)
 hpi$time <- hpi$year + hpi$quarter/4
 hpi <- na.omit(hpi)
 
@@ -81,7 +81,7 @@ maxhpi <- ddply(hpi, .(fips_msa), get_max)
 maxhpi <- maxhpi[,c(1,2,3,6,8,9)]
 names(maxhpi)[3] <- "cbsa"
 
-convert <- read.csv(file.choose(),header = T)
+convert <- read.csv("../../geo-convert/puma-cbsa.txt",header = T)
 convert$fips_st <- as.numeric(convert$state)
 convert$fips_puma <- as.numeric(convert$puma5)
 convert$cbsa <- as.numeric(convert$cbsa)
@@ -109,7 +109,22 @@ shomes2006 <- ddply(shomes2006, .(fips_st, fips_puma), make_puma_hpi)
 
 write.table(shomes2006, "shomes2006.csv", sep = ",", row = F)
 
-qplot(data = shomes2006, per_owner, max_hpi, colour = state)
+occupancy_hpi <- qplot(data = shomes2006, per_owner, max_hpi, colour = state, main = "Max HPI vs. Owner Occupancy rate")
+occupancy_hpi
+savePlot(occupancy_hpi)
+# no relation between second homes and max hpi
+
+occupancy_change <- qplot(data = shomes2006, per_owner, per_change/time, colour = state, main = "Max HPI vs. Owner Occupancy rate")
+occupancy_change
+savePlot(occupancy_change)
+# no clear relation between second homes and price change
+
+occupancy_time <- qplot(data = shomes2006, time, per_owner, colour = state, main = "Max HPI vs. Owner Occupancy rate")
+occupancy_time
+savePlot(occupancy_time)
+# no clear relation between second homes and time of peak
+
+
 qplot(data = shomes2006, change, max_hpi, colour = state)
 # it seems like you couldn't have a large max_hpi without a large change
 
@@ -126,4 +141,4 @@ for (i in 1:nrow(maxhpi))
 
 outcome <- qplot(data = maxhpi, hpi, per_rate, colour = state, geom = "text", label = state, main = "Max HPI vs. outcome", ylab = "Rate of change per year (as percentage of max HPI)", xlab = "Maximum HPI (2005-2009)") + opts(legend.position = "none")
 savePlot(outcome)
-ggsave(file="exports/outcome-by-max-price.pdf", width=8, height=6)
+# ggsave(file="exports/outcome-by-max-price.pdf", width=8, height=6)
