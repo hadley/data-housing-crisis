@@ -22,10 +22,13 @@ cat("\n")
 
 
 
-hpi <- read.csv("../fhfa-house-price-index/fhfa-house-price-index-msa.csv", header = T)
+hpi <- read.csv("../../data/fhfa-house-price-index/fhfa-house-price-index-msa.csv", header = T)
+#"../fhfa-house-price-index/fhfa-house-price-index-msa.csv"
 hpi$time <- hpi$year + hpi$quarter/4
 hpi <- na.omit(hpi)
 
+# qplot(data = hpi, year, hpi, geom = "line") + facet_wrap(~ city) + opts(legend.position = "none")
+# ggsave(file="all_hpi.pdf", width=20, height=15) 
 
 get_max <- function(df){
 	hpi2009 <- df$hpi[df$time == 2009]
@@ -46,10 +49,10 @@ for (i in 1:nrow(maxhpi))
 	maxhpi$state[i] <- trim(gsub("MSAD", "", maxhpi$state[i]))
 	
 outcome <- qplot(data = maxhpi, hpi, per_rate, colour = state, geom = "text", label = state, main = "Max HPI vs. outcome", ylab = "Rate of change per year (as percentage of max HPI)", xlab = "Maximum HPI (2005-2009)") + opts(legend.position = "none")
+outcome
 savePlot(outcome)
-ggsave(file="exports/outcome-by-max-price.pdf", width=6, height=6)
 
-pop <- read.csv(file.choose(), header = T) #pop_cbsa.csv
+pop <- read.csv("pop-cbsa.csv", header = T)
 pop <- pop[-c(1,2),c(1,3)]
 pop$cbsa <- as.numeric(pop$cbsa)
 pop$pop2k <- as.numeric(pop$pop2k)
@@ -178,3 +181,20 @@ calhpi$region <- c("central valley",
 CalByRegion <- qplot(data = calhpi, hpi, per_rate, colour = region,  geom = "text", label = state,main = "California Max HPI by region vs. outcome", ylab = "Rate of change per year (as percentage of max HPI)", xlab = "Maximum HPI (2005-2009)") 
 CalByRegion
 savePlot(CalByRegion)
+# northern cal vs southern cal doesn't seem to matter.  But the point cloud breaks out into regions. Metropolitan regions appear to the right of agricultural regions (higher hpi).
+
+calhpi2 <- hpi[hpi$state == "CA" | hpi$state == "CA  MSAD",]
+names(calhpi2)[3] <- "cbsa"
+toget <- calhpi[,c(1,14)]
+
+calhpi2 <- merge(calhpi2, toget, by = "cbsa")
+
+CalHpiByRegion <- qplot(data = calhpi2, time, hpi, geom = "line", group = cbsa, colour = region, main = "California HPI by region")
+CalHpiByRegion
+savePlot(CalHpiByRegion)
+# metropolitan curves lie above agricultural curves
+
+calhpi2 <- merge(calhpi2, pop, by = "cbsa", all.x = T)
+
+# qplot(data = calhpi2, time, hpi, geom = "line", group = cbsa, colour = pop2k, main = "California HPI by region")
+
