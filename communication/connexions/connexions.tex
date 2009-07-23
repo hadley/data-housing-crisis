@@ -67,7 +67,7 @@ To facilitate sharing data, we have conducted both data cleaning and analysis wi
 \begin{enumerate}
 \item First we start with ``dirty'' data. (Fig. \ref{fig:dirtydata})
 
-\begin{figure}[h]
+\begin{figure}[htp]
 \begin{centering}
 \includegraphics[scale=1]{download.pdf}
 \caption{Snapshot of ``dirty'' data.}
@@ -77,7 +77,7 @@ To facilitate sharing data, we have conducted both data cleaning and analysis wi
 
 \item Next we must download the data.  A section of download code is shown below. (Fig. \ref{fig:dirtydataR})
 
-\begin{figure}[h]
+\begin{figure}[htp]
 \begin{centering}
 \includegraphics[scale=1]{download-r.pdf}
 \caption{Snapshot of R code to download the ``dirty'' data.}
@@ -87,7 +87,7 @@ To facilitate sharing data, we have conducted both data cleaning and analysis wi
 
 \item Once we have the data, we clean the data as best we can according to the rules in ``Clean Data Is\ldots''(Sect. \ref{cleandatais}). A section of cleaning code is shown below. (Fig. \ref{fig:cleanR})
 
-\begin{figure}[h]
+\begin{figure}[htp]
 \begin{centering}
 \includegraphics[scale=1]{clean-r.pdf}
 \caption{Snapshot of R code to clean data.}
@@ -97,7 +97,7 @@ To facilitate sharing data, we have conducted both data cleaning and analysis wi
 
 \item Now that the data has been cleaned, it may look like the top part of the data below. (Fig. \ref{fig:clean})
 
-\begin{figure}[h]
+\begin{figure}[htp]
 \begin{centering}
 \includegraphics[scale=1]{clean.pdf}
 \caption{Snapshot of ``clean'' data.}
@@ -108,7 +108,7 @@ To facilitate sharing data, we have conducted both data cleaning and analysis wi
 
 \item With clean data, we are able to explore it.  The code below (Fig. \ref{fig:vizR}) is the command used to produce the plot in figure Fig. \ref{fig:viz}.
 
-\begin{figure}[h]
+\begin{figure}[htp]
 \begin{centering}
 \includegraphics[scale=.5]{vizfl.pdf}
 \caption{Snapshot of R code to produce exploratory graphics.}
@@ -118,7 +118,7 @@ To facilitate sharing data, we have conducted both data cleaning and analysis wi
 
 \item With R code we are able to produce complex plots with minimal amount of code. (Fig. \ref{fig:viz})
 
-\begin{figure}[h]
+\begin{figure}[htp]
 \begin{centering}
 \includegraphics[scale=1]{viz.pdf}
 \caption{Example graphic.  Exploring construction data in Florida.}
@@ -144,7 +144,7 @@ In Figure \ref{fig:usatime}, you can see that both California and Florida peaked
 
 In Figure \ref{fig:hpitime}, every point is a MSA and labeled by state. It graphs the peak HPI time versus the percent change in HPI between then maximum HPI to 2009, quarter 1 HPI. This graph shows that if HPI peaked between 2006 and 2007, then that state typically experienced a much larger percent change in HPI. 
 
-\begin{figure}[h]
+\begin{figure}[htp]
 \begin{centering}
 \includegraphics[scale=0.5]{usatime.pdf}
 \caption{Graphs what year each MSA area reached their maximum housing price index.}
@@ -152,7 +152,7 @@ In Figure \ref{fig:hpitime}, every point is a MSA and labeled by state. It graph
 \end{centering}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[htp]
 \begin{centering}
 \includegraphics[scale=0.5]{hpitime.pdf}
 \caption{Graph showing the percent difference between the maximum housing price index and the 2009 housing price index plotted against the time in which the maximum housing price index occurred.}
@@ -165,7 +165,7 @@ In Figure \ref{fig:hpitime}, every point is a MSA and labeled by state. It graph
 
 The city with the greatest percent change in the FHFA HPI was Merced, CA. This observation is very unusual of small cities. Further research into Merced showed that University California of Merced has finished construction in late 2005. Using both Figure \ref{fig:merchpi} and \ref{fig:merccon}, we hypothesize that the construction increased due to the necessity of housing for UC Merced students and employees. 
 
-\begin{figure}[h]
+\begin{figure}[htp]
 \begin{centering}
 \includegraphics[scale=0.5]{merchpi.pdf}
 \caption{Merced, California's housing price index over time, with the maximum and 2009 time points highlighted.}
@@ -173,7 +173,7 @@ The city with the greatest percent change in the FHFA HPI was Merced, CA. This o
 \end{centering}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[htp]
 \begin{centering}
 \includegraphics[scale=0.5]{merccon.pdf}
 \caption{Total construction of housing units built over time in Merced, California. The red line is the year Merced’s HPI peaked.}
@@ -184,7 +184,7 @@ The city with the greatest percent change in the FHFA HPI was Merced, CA. This o
 \subsection{Myth Busters}
 After discovering Merced, CA we decided to look more closely at college towns. Contrary to belief, college towns were not greatly impacted by the housing crisis.  They were affected more by the location that they were in, rather than being a ``college town''. (Fig \ref{fig:college})
 
-\begin{figure}[h]
+\begin{figure}[htp]
 \begin{centering}
 \includegraphics[scale=0.5]{college.pdf}
 \caption{HPI for cities, college towns, and the average. Besides a few special cases, the HPI for college towns seem to fall close to the average HPI.}
@@ -426,17 +426,11 @@ We would like to develop a website that will allow users to easily access the da
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Please leave this Acknowlegement to VIGRE in your modules
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Acknowledgements}
+\section{Acknowledgements}
 
 This Connexions module describes work conducted as part of Rice 
 University's VIGRE program, supported by National Science Foundation
 grant DMS--0739420.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Here "mybibfile" refers to the file "mybibfile.bib" in the local directory.
-% Replace "mybibfile" with the name of your bibliography file.
-
-\bibliography{connexionsbib}
-\bibliographystyle{plain}
 
 \end{document}
