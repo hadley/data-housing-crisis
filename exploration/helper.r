@@ -29,7 +29,7 @@ deseas <- function(var, month) {
 }
 qdeseas <-  failwith(NA, deseas, quiet =T)
 
-smooth <- function(var, date)
+smoothhelp <- function(var, date)
   predict(gam(var ~ s(date)))
 
 log_d <- function(var)
@@ -45,3 +45,4 @@ log_smooth <- function(var, date)
 log_deseas <- function(var, date)
   deseas(log_d(var), date)
 log_qdeseas <- failwith(NA, deseas, quiet = T)
+qsmooth <- failwith(NA, smoothhelp, quiet = T)
