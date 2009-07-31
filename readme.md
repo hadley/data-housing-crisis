@@ -1,14 +1,11 @@
 Project Overview
 ==================
 
-This research group is a collaboration between Rice University undergrads, graduate students, and professor from the Statistics Department. It is funded by the NSF's VIGRE (Vertically Integrated Grants for Research and Education in Mathematical Sciences) program. We hope to foster research of the US housing crisis by creating an easily accessible repository of data and findings. We also hope to pioneer efficient ways to display information collected from data, as well as to inspire others to contribute data and analysis ideas.  
+The US housing crisis has undermined the world economy in far reaching and poorly understood ways. Although there is a lot of speculation over the causes and the effects of the housing crisis, most hypotheses are not backed up by data. We hope to promote well-informed policy and discussion, and aid exploration and analysis, by making creating an accessible and reproducible repository of data and analysis
 
-Data related to the housing crisis exists in large, independent, and often messy data sets. So far, we have worked with subsets as large as 10 GB. The variety and size of the data creates an obstacle for effective analysis.  Our first task after locating a new data source is to make it consistent with our existing data structures. We must also screen it for correctness, completeness, and conciseness. To facilitate sharing data, we have conducted both data cleaning and analysis with the open source statistical software R, which is available free of charge at (www.r-project.org). We've made both the data and programming code available to the public through the website (www.github.com). We hope that by keeping the code transparent and self-replicating, others are able to easily build off our work.  
+Data related to the housing crisis exists in large (up to 10 gb), independent, and often messy data sets. The variety and inconsistency of data creates an obstacle for analysis, and we are working to provide views of this data that are consistent, concise and complete. To ensure that all manipulation is transparent, both data cleaning and analysis have been carried out with the source statistical software R, available free of charge from [www.r-project.org](http://www.r-project.org). Both code and data are freely licensed and made available on [github](http://www.github.com/hadley/data-housing-crisis). To date we have cleaned and organised 13 data sets related to the housing crisis, and by keeping the code transparent and reproducible, we hope to inspire others to contribute.
 
-We would like to develop a website that will allow users to easily access the data they are interested in, which would otherwise be a daunting task for those who wish to use a data set of this size. Because our analysis and findings also involve large amounts of information, (such as construction price time series for each US metropolitan area) we are exploring interactive graphical methods for displaying this information.  
-
-The US housing crisis has undermined the world economy in wide reaching and poorly understood ways.  Although there is a lot of speculation over the causes and the effects of the housing crisis, most of these ideas come from opinionated blogs or news articles that do not list their sources.  This lack of data becomes perilous as the US government invests trillions of dollars based on untested hypotheses concerning the crisis. We hope to promote well-informed policy and discussion by making it easy to collect useful information about the housing crisis.
-
+This research project is a collaboration between Rice University undergrads, graduate students, and Hadley Wickham, an Assistant Professor of Statistics. It is funded by the NSF's Vertically Integrated Grants for Research and Education in Mathematical Sciences (VIGRE) program, NSF grant DMS-0739420. 
 
 Data Set Overview
 ======================
@@ -40,14 +37,8 @@ Data Set Overview
 * **United States Postal Service (USPS ) Vacancy:** This data was downloaded from the U.S. Department of Housing and Urban Development. Data includes total number of addresses and number of residential and business vacancies. This data was collected quarterly and covers all states and counties for years 2006 through 2009.  
 
 Terms
-======================
+=====
 
-**Locations:**
-
-* MSA (Metropolitan Statistical Area): The Census Bureau defines an MSA as one or more counties that has a population of at least 50,000 people, plus adjacent territory that has a high degree of social and economic similarities.
-* CBSA (Core Based Statistical Area): CBSA contains both MSAs and new created micropolitan areas.
-* Micropolitan Area: Census Bureau defines micropolitan areas as urban clusters of at least 10,000 and fewer than 50,000 people.
-* PUMA (Public Use Microdata Area): PUMA consists of 5% of the population.
 * **House Price Index:** A scale representing the average value of specified prices as compared with some reference figure. In our data set this reference figure is usually the value of the first recorded HPI. (HPI Current / HPI index date)*100  
 
 * **Gross Domestic Product:** Amount of money a city's economy generates from a certain industry.  
@@ -56,21 +47,16 @@ Terms
 
 * **FIPS Code:** "Federal Information Processing Standard" Every state, county, and region has a FIPS code.  
 
+Locations
+----------
 
-**How does the HPI differ from the S&P/Case-Shiller® Home Price indexes?**
-
-Although both indexes employ the same fundamental repeat-valuations approach, there are a number of data and methodology differences. Among the dissimilarities:**
-
-a. The S&P/Case-Shiller indexes only use purchase prices in index calibration, while the all-transactions HPI also includes refinance appraisals. FHFA’s purchase only series is restricted to purchase prices, as are the S&P/Case-Shiller indexes.
-
-b. FHFA’s valuation data are derived from conforming, conventional mortgages provided by Fannie Mae and Freddie Mac. The S&P/Case-Shiller indexes use information obtained from county assessor and recorder offices.
-
-c. The S&P/Case-Shiller indexes are value-weighted, meaning that price trends for more expensive homes have greater influence on estimated price changes than other homes. FHFA’s index weights price trends equally for all properties.
-
-d. The geographic coverage of the indexes differs. The S&P/Case-Shiller National Home Price Index, for example, does not have valuation data from 13 states. FHFA’s U.S. index is calculated using data from all states.
-
-For details concerning these and other differences, consult the [HPI Technical Description](http:**//www.fhfa.gov/webfiles/896/hpi_tech.pdf) and the [S&P/Case-Shiller methodology materials](http:**//www.macromarkets.com/csi_housing/documents/tech_discussion.pdf)
-
--Information above is taken directly from [FHFA Questions](http:**//www.fhfa.gov/Default.aspx?Page=196)
+* MSA (Metropolitan Statistical Area): The Census Bureau defines an MSA as one or more counties that has a population of at least 50,000 people, plus adjacent territory that has a high degree of social and economic similarities.
+* CBSA (Core Based Statistical Area): CBSA contains both MSAs and new created micropolitan areas.
+* Micropolitan Area: Census Bureau defines micropolitan areas as urban clusters of at least 10,000 and fewer than 50,000 people.
+* PUMA (Public Use Microdata Area): PUMA consists of 5% of the population.
 
 
+Future plans
+============
+
+We would like to develop a website that will allow users to easily access the data they are interested in, which would otherwise be a daunting task for those who wish to use a data set of this size. Because our analysis and findings also involve large amounts of information, (such as construction price time series for each US metropolitan area) we are exploring interactive graphical methods for displaying this information.  
