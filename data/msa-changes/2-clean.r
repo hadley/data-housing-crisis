@@ -3,7 +3,7 @@ library(R.oo)
 options(stringsAsFactors = FALSE)
 
 
-get_file <- function(fileName)
+get_file <- function(fileName) 
 {
   
   linePos <- 1
