@@ -1,47 +1,47 @@
-msa,city
-110,Abilene
-120,Amarillo
-130,Arlington
-140,Austin
-145,Bay Area
-150,Beaumont
-160,Brazoria County
-170,Brownsville
-180,Bryan-College Station
-186,Collin County
-190,Corpus Christi
-200,Dallas
-212,Denton County
-220,El Paso
-230,Fort Bend
-240,Fort Worth
-250,Galveston
-260,Garland
-270,Harlingen
-280,Houston
-292,Irving
-300,Killeen-Fort Hood
-315,Laredo
-320,Longview-Marshall
-330,Lubbock
-340,Lufkin
-350,McAllen
-355,Midland
-360,Montgomery County
-370,Nacogdoches
-390,NE Tarrant County
-395,Odessa
-410,Palestine
-420,Paris
-440,Port Arthur
-450,San Angelo
-460,San Antonio
-475,San Marcos
-480,Sherman-Denison
-490,Temple-Belton
-500,Texarkana
-520,Tyler
-530,Victoria
-540,Waco
-550,Wichita Falls
-800,Texas Totals
+msa,city,msa_code
+110,Abilene,10180
+120,Amarillo,11100
+130,Arlington,19100
+140,Austin,12420
+145,Bay Area,13060
+150,Beaumont,13140
+160,Brazoria County,
+170,Brownsville,15180
+180,Bryan-College Station,17780
+186,Collin County,
+190,Corpus Christi,18580
+200,Dallas,19100
+212,Denton County,19100
+220,El Paso,21340
+230,Fort Bend,26420
+240,Fort Worth,19100
+250,Galveston,26420
+260,Garland,
+270,Harlingen,15180
+280,Houston,26420
+292,Irving,19100
+300,Killeen-Fort Hood,28660
+315,Laredo,29700
+320,Longview-Marshall,30980
+330,Lubbock,31180
+340,Lufkin,31260
+350,McAllen,32580
+355,Midland,33260
+360,Montgomery County,26420
+370,Nacogdoches,34860
+390,NE Tarrant County,19100
+395,Odessa,36220
+410,Palestine,37300
+420,Paris,37580
+440,Port Arthur,
+450,San Angelo,41660
+460,San Antonio,41700
+475,San Marcos,
+480,Sherman-Denison,43300
+490,Temple-Belton,28660
+500,Texarkana,48140
+520,Tyler,46340
+530,Victoria,47020
+540,Waco,47380
+550,Wichita Falls,48660
+800,Texas Totals,

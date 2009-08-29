@@ -21,3 +21,5 @@ Locations
 ---------
 
 Since the real estate centre does not use standard census place coding, and the places are a mix of metropolitan areas and counties, it was necessary to manually find locations using a (geocode)[http://www.batchgeocode.com/].  (Thanks to Patrick Hausmann for the suggestion!)
+
+The msa codes in `msa-names.csv` are my best guess at the true msa for each location.  Note that the real estate centre has broken up some MSAs (particuarly Houston and Dallas) into multiple pieces.
