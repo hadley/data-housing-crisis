@@ -1,7 +1,7 @@
 library(ggplot2)
 options(stringsAsFactors = FALSE)
 
-pop <- read.csv("CO-EST2008-ALLDATA.csv", stringsAsFactors = FALSE)
+pop <- read.csv("raw-county.csv", stringsAsFactors = FALSE)
 names(pop) <- tolower(names(pop))
 pop <- rename(pop, c("gqestimatesbase2000" = "gqestimates2000"))
 
@@ -23,17 +23,16 @@ popm <- subset(popm, year != 2000)
 
 # Cast into desired output and save as csv
 clean <- cast(popm, state + county + year ~ variable)
-write.table(clean, "census-population.csv", sep = ",", row = FALSE)
+write.table(clean, "population-county.csv", sep = ",", row = FALSE)
 
 
 ########################################################################
 ########################################################################
 ########################################################################
 
-
-met <- read.csv("CBSA-EST2008-ALLDATA.csv", skip = 4, stringsAsFactors = FALSE)
+met <- read.csv("raw-cbsa.csv", skip = 4, stringsAsFactors = FALSE)
 met <- met[ -((nrow(met) - 1):nrow(met)), ]
-names(met) <- tolower(strsplit(readLines("CBSA-EST2008-ALLDATA.csv")[1], ",")[[1]])
+names(met) <- tolower(strsplit(readLines("raw-cbsa.csv", 1), ",")[[1]])
 
 # Remove non-yearly variables 
 met$census2000pop <- NULL
@@ -51,21 +50,18 @@ metm$variable <- substr(metm$variable, 1, nc - 4)
 # Remove 2001 because numbers are only for April-July
 metm <- subset(metm, year != 2000)
 
-# Cast into desired output and save as csv
-#cleanMet <- cast(metm, year + cbsa + mdiv + stcou + name + lsad ~ variable)
-#cleanMet <- cast(metm)  # didn't work.  Weird
+# Focus on just MSAs
+msa <- subset(metm, lsad == "Metropolitan Statistical Area")
+msa$lsad <- NULL
+msa$stcou <- NULL
+msa$mdiv <- NULL
 
-d <- metm
-names(d)
-conNames <- names(d)[! names(d) %in% c("variable", "value")]
-uniVariable <- unique(d$variable)
-uniD <- d[d$variable == uniVariable[1],conNames]
-for(i in uniVariable)
-	uniD[, i] <- d[d$variable == i, "value"]
+msa2 <- cast(msa, name + year ~ variable)
 
-cleanMet <- uniD
-write.table(cleanMet, "census-population-by-metro.csv", sep = ",", row = FALSE)
+msa_codes <- read.csv("../msa-changes/msa-codes.csv")
+msa2$city <- gsub(",| /1", "", msa2$name)
+msa2$name <- NULL
+msa3 <- merge(msa2, msa_codes, by = "city", all.x = TRUE)
 
-
-
+write.table(msa3, "population-msa.csv", sep = ",", row = FALSE)
 
