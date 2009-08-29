@@ -73,29 +73,29 @@ clean_both <- function(year) {
 }
 
 
-# all <- ldply(2000:2009, clean_both, .progress = "text")
 fix_names <- function(name) {
   
   name <- trim(name)
   name <- gsub("[*,]", " ", name)
   name <- gsub(" (CMSA|MSA|PMSA|P MSA|PM SA|PMS|PMS A)", "", name)
-  name <- gsub("--|- | -", "-", name)
+  name <- gsub("- | -", "-", name)
   name <- gsub(" {2,}", " ", name)
 
   # Random fixes
   name <- gsub("Bea ch", "Beach", name)
   name <- gsub("Bernar dino", "Bernardino", name)
+  name <- gsub("dAlene|d\"Alene", "d'Alene", name)
+  name <- gsub("Murfreesboro-Franklin", "Murfreesboro--Franklin", name)
   
   name
 }
 
-all$city2 <- fix_names(all$city)
+all <- ldply(2000:2009, clean_both, .progress = "text")
+all$city <- fix_names(all$city)
 
 msa <- read.csv("../msa-changes/msa-codes.csv")
-msa$name <- gsub(",", "", msa$name)
-labelled <- merge(all, msa, by.x = "city2", by.y = "name", all.x = TRUE)
+labelled <- merge(all, msa, by = "city", all.x = TRUE)
 
-
-table(labelled$city2[is.na(labelled$msa_code)])
-
-# write.table(all, "construction-housing-units.csv", sep = ",", row = F)
+table(labelled$year, is.na(labelled$msa_code))
+with(labelled, table(city[is.na(msa_code)]))
+write.table(labelled, "construction-housing-units.csv", sep = ",", row = F)
