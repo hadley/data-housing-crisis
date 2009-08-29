@@ -38,7 +38,7 @@ states <- strsplit(substr(msa$city, divider + 1, 100), "-")
 lengths <- sapply(states, length)
 rep <- rep(1:nrow(msa), lengths)
 citystate <- data.frame(
-  city = cities[rep], 
+  city = city[rep], 
   state = unlist(states), 
   msa_code = msa$msa_code[rep]
 )
