@@ -1,0 +1,18 @@
+The housing crisis: data challenges & opportunities.
+
+The US housing crisis has had widespread effect on the US and worldwide economies, generating much speculation about the causes and potential cures. Unfortunately much speculation is largely uninformed, due, in part, to the difficulty of finding, cleaning and analysing data relevant to the housing crisis.
+
+In this talk, I'll discuss the efforts of my team of VIGRE researchers (Gabi Quart, Barret Schloerke, Dexter Gannon, Garrett Grolemund and myself) to overcome these problems. In particular, I'll use local examples from Houston (and other parts of Texas) to illustrate:
+
+ * The effort necessary to find, clean and reorganise some of the many data
+   sources useful for understand the housing cris.process and integrate
+   diverse sources of data into a unified whole.  
+
+ * Problems with data quality, completeness and accuracy, and the challenges
+   of matching diverse data sources.
+
+ * Exploration strategies to generate hypotheses about the trajectory of the 
+   crisis, posit potential leading indicators and speculate on variables that 
+   explain differences between different regions.
+
+All of the data and code related to this project are made freely available under open licenses so that other researchers can use the data in their work: http://www.github.com/hadley/data-housing-crisis.  This work has been supported by NSF grant DMS-0739420.
