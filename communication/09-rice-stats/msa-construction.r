@@ -1,6 +1,7 @@
 library(plyr)
 library(ggplot2)
 library(MASS)
+library(mgcv)
 options(stringsAsFactors = FALSE)
 
 msa <- read.csv("../../data/msa-changes/msa-states.csv")
@@ -27,8 +28,8 @@ listings <- read.csv("../../data/texas-msa-sales/texas-listings.csv")
 listings <- subset(listings, year >= 2000)
 recenter_msa <- read.csv("../../data/texas-msa-sales/msa-names.csv")
 
-listings_raw$city <- NULL
 listings_raw <- merge(listings, recenter_msa, by = "msa")
+listings_raw$city <- NULL
 
 listings <- ddply(listings_raw, c("msa_code", "year", "month"), summarise,
   volume = sum(volume, na.rm = T), 
@@ -98,7 +99,7 @@ all <- subset(all, !is.na(city))
 
 index <- function(x) x / x[1]
 smooth <- function(var, data) {
-  try_default(predict(mgcv::gam(var ~ s(data), na.action = na.exclude)), NA)
+  try_default(predict(gam(var ~ s(data), na.action = na.exclude)), NA)
 }
 
 smoothes <- ddply(all, "city", summarise,
