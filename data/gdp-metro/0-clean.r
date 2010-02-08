@@ -8,6 +8,9 @@ all_m <- melt(all, m = paste("X", 2001:2008, sep = ""))
 all_m$year <- as.numeric(str_replace(all_m$variable, "X", ""))
 all_m$variable <- NULL
 
+# Focus only on gdp in millions of current dollars
+all_m <- subset(all_m, component_name == "GDP by Metropolitan Area (millions of current dollars)")
+
 gdp <- all_m[c("FIPS", "industry_id", "year", "value")]
 names(gdp) <- c("fips", "indust", "year", "gdp")
 
