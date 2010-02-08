@@ -3,8 +3,7 @@ library(ggplot2)
 
 gdp <- read.csv("../../data/gdp-metro/gdp-metro.csv")
 
-selected <- subset(gdp, fips %in% c("35620", "31100","26420", "37980","38060", "41700", "41740", "19100", "41940",  "19820",  "26900",  "27260", "41860", "18140",  "12420", "32820", "12580") & indust %in% c("11", "3", "10", "12", "36", "45", "58", "63", "62", "66", "78", "67", "55", "12","71", "50", "6", "74", "100","104"))
-selected$X <- NULL
+selected <- subset(gdp, fips %in% c(35620, 31100,26420, 37980,38060, 41700, 41740, 19100, 41940, 19820, 26900, 27260, 41860, 18140, 12420, 32820, 12580) & indust %in% c(11, 3, 10, 12, 36, 45, 58, 63, 62, 66, 78, 67, 55, 12, 71, 50, 6, 74, 100, 104))
 
 # Match with industry and city labels
 
@@ -25,7 +24,7 @@ selected$Metropolitan.Area <- NULL
 selected <- selected[!is.na(selected$gdp), ]
 
 
-qplot(year, gdp, data = selected, colour = industry, geom="line", facets=~ metro, log = "y")x
+qplot(year, gdp, data = selected, colour = industry, geom="line", facets=~ metro, log = "y")
 qplot(year, gdp, data = selected, colour = metro, geom="line", facets=~ industry, log = "y")
 
 # need to group by the industry as well as color it by industry.
@@ -47,17 +46,16 @@ qplot(start, growth, data = growth)
 
 # Next: remove suspiciously low starting values
 # Merge with population, index by populatio
-pop <- read.csv("data/census-population/population-msa.csv")
+pop <- read.csv("../../data/census-population/population-msa.csv")
 names(pop)[12] <- "fips"
 
-withpop <- merge(selected, pop, by = c("fips","year"))
-
-index.gdp <- withpop[,"gdp"] / withpop[,"popestimate"]
-
-gdp2 <- cbind(withpop,index.gdp)
+withpop <- merge(selected, pop[c("fips","year", "popestimate")], 
+  by = c("fips","year"))
+withpop$index.gdp <- withpop$gdp / withpop$popestimate
 
 #decided to look at only construction
 
-construction <-subset(gdp2, industry== "Cnstrctn")
+construction <- subset(withpop, industry== "Cnstrctn")
 
-qplot(year, gdp, data = construction, colour = industry, geom="line", facets=~ fips, log = "y")
+qplot(year, gdp, data = construction, geom="line", facets=~ metro)
+qplot(year, index.gdp, data = construction, geom="line", facets=~ metro)
