@@ -46,4 +46,18 @@ qplot(growth, metro, data = growth) +
 qplot(start, growth, data = growth)
 
 # Next: remove suspiciously low starting values
-# 
+# Merge with population, index by populatio
+pop <- read.csv("data/census-population/population-msa.csv")
+names(pop)[12] <- "fips"
+
+withpop <- merge(selected, pop, by = c("fips","year"))
+
+index.gdp <- withpop[,"gdp"] / withpop[,"popestimate"]
+
+gdp2 <- cbind(withpop,index.gdp)
+
+#decided to look at only construction
+
+construction <-subset(gdp2, industry== "Cnstrctn")
+
+qplot(year, gdp, data = construction, colour = industry, geom="line", facets=~ fips, log = "y")
