@@ -61,3 +61,4 @@ gdp2 <- cbind(withpop,index.gdp)
 construction <-subset(gdp2, industry== "Cnstrctn")
 
 qplot(year, gdp, data = construction, colour = industry, geom="line", facets=~ fips, log = "y")
+
