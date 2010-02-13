@@ -5,13 +5,11 @@ Cleaned data set has information regarding large metropolitan areas. The data is
 
 Variables:
 
-*Year (2001-2006)
-*Industry
-*FIPS
-*GDP (in millions of current dollars)
+* Year (2001-2008)
+* Industry (see indust-dictionary.csv)
+* FIPS (see fips-dictionary.csv)
+* GDP (in millions of current dollars)
 
-Data source:
+[Data description](http://www.bea.gov/regional/gdpmetro/)
 
-[General Website](http://www.bea.gov/regional/gdpmetro/)
-
-Link for data in zip file at bottom of the page.
+[Data download](http://www.bea.gov/regional/zip/GDPMetro.zip) - from that zip file the single allgmp.csv file was extracted.
