@@ -23,17 +23,25 @@ selected$Metropolitan.Area <- NULL
 
 selected <- selected[!is.na(selected$gdp), ]
 
+# Merge with population, index by population
+pop <- read.csv("../../data/census-population/population-msa.csv")
+names(pop)[12] <- "fips"
 
-qplot(year, gdp, data = selected, colour = industry, geom="line", facets=~ metro, log = "y")
-qplot(year, gdp, data = selected, colour = metro, geom="line", facets=~ industry, log = "y")
+withpop <- merge(selected, pop[c("fips","year","popestimate")], 
+  by = c("fips","year"))
+withpop$index.gdp <- withpop$gdp / withpop$popestimate
+
+
+qplot(year, index.gdp, data = withpop, colour = industry, geom="line", facets=~ metro, log = "y")
+qplot(year, index.gdp, data = withpop, colour = metro, geom="line", facets=~ industry, log = "y")
 
 # need to group by the industry as well as color it by industry.
 
-one <- subset(selected, fips == 12420 & indust == 36)
-lm(log(gdp) ~ I(year - 2001), data = one)
+one <- subset(withpop, fips == 12420 & indust == 36)
+lm(log(index.gdp) ~ I(year - 2001), data = one)
 
-growth <- ddply(selected, c("industry", "metro"), function(df) {
-  exp(coef(lm(log(gdp) ~ I(year - 2001), data = df)))
+growth <- ddply(withpop, c("industry", "metro"), function(df) {
+  exp(coef(lm(log(index.gdp) ~ I(year - 2001), data = df)))
 })
 names(growth)[3:4] <- c("start", "growth")
 
@@ -44,18 +52,4 @@ qplot(growth, metro, data = growth) +
   
 qplot(start, growth, data = growth)
 
-# Next: remove suspiciously low starting values
-# Merge with population, index by populatio
-pop <- read.csv("../../data/census-population/population-msa.csv")
-names(pop)[12] <- "fips"
 
-withpop <- merge(selected, pop[c("fips","year", "popestimate")], 
-  by = c("fips","year"))
-withpop$index.gdp <- withpop$gdp / withpop$popestimate
-
-#decided to look at only construction
-
-construction <- subset(withpop, industry== "Cnstrctn")
-
-qplot(year, gdp, data = construction, geom="line", facets=~ metro)
-qplot(year, index.gdp, data = construction, geom="line", facets=~ metro)
