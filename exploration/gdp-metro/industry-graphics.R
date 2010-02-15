@@ -32,24 +32,45 @@ withpop <- merge(selected, pop[c("fips","year","popestimate")],
 withpop$index.gdp <- withpop$gdp / withpop$popestimate
 
 
+qplot(year, gdp, data = selected, colour = industry, geom="line", facets=~ metro, log = "y")
 qplot(year, index.gdp, data = withpop, colour = industry, geom="line", facets=~ metro, log = "y")
-qplot(year, index.gdp, data = withpop, colour = metro, geom="line", facets=~ industry, log = "y")
 
-# need to group by the industry as well as color it by industry.
+# Compare industries across cities ------------------------------------------
+# Get rid of all city-industry combinations with < 3 points
+selected2 <- ddply(selected, c("industry", "metro"), transform, 
+  n = length(metro))
+selected2 <- subset(selected2, n >= 4)
 
-one <- subset(withpop, fips == 12420 & indust == 36)
-lm(log(index.gdp) ~ I(year - 2001), data = one)
+qplot(year, gdp, data = selected2, group = metro, geom="line", facets=~ industry, log = "y")
+# Industries do seem share common patterns across cities, but it's difficult
+# to compare within an industry because the geometric growth dominates smaller
+# deviations
+
+# Look at just geometric growth 
 
 growth <- ddply(withpop, c("industry", "metro"), function(df) {
-  exp(coef(lm(log(index.gdp) ~ I(year - 2001), data = df)))
+  exp(coef(lm(log(gdp) ~ I(year - 2001), data = df)))
 })
 names(growth)[3:4] <- c("start", "growth")
 
-qplot(growth, industry, data = growth) + 
+growth <- subset(growth, !is.na(growth))
+
+qplot(growth, reorder(industry, growth), data = growth) + 
   geom_vline(xintercept = 1, colour = "grey50")
 qplot(growth, metro, data = growth) + 
   geom_vline(xintercept = 1, colour = "grey50")
   
 qplot(start, growth, data = growth)
 
+# Remove geometric growth and just look at deviations
 
+deviations <- ddply(selected2, c("industry", "metro"), function(df) {
+  mod <- lm(log(gdp) ~ I(year - 2001), data = df)
+  d <- resid(mod)
+  
+  data.frame(year = df$year, dev = d)
+})
+qplot(year, exp(dev), data = deviations, group = metro, geom="line", 
+  facets = ~ industry)
+qplot(year, exp(dev), data = deviations, group = metro, geom="line", 
+  facets = ~ industry) + ylim(0.8, 1.2) + geom_smooth(aes(group = 1))
