@@ -77,6 +77,6 @@ selected <-subset(gdp_hpi, rank<=10 | rank > 310)
 qplot(year, gdp, data = selected, colour = rank, geom="line", facets=~ metro, log = "y")
 
 
-
+#was the percent change supposed to be with the population indexed GDP?
 
 #subset top and bottom, color rank, gdp, time
