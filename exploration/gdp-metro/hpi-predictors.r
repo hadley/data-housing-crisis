@@ -7,76 +7,43 @@
 # subset(,  rank <= 10 | rank > 900)
 
 library(ggplot2)
-options(stringsAsFactors= FALSE)
-library(stringr)
+gdp <- read.csv("gdp-selected.csv")
+gdp_growth <- read.csv("gdp-growth.csv")
+hpi_peaks <- read.csv("hpi-peaks.csv") 
+names(hpi_peaks)[1] <- "fips" 
 
-hpi <- read.csv("../../data/fhfa-house-price-index/fhfa-house-price-index-msa.csv")
-hpi$time <- hpi[,"year"] + (hpi[,"quarter"] - 1) / 4
+# Explore cities that peaked in 2009 -----------------------------------------
+peak2009 <- subset(maximum_hpi, percent_change == 0)
+peak2009_hpi <- subset(hpi, fips_msa %in% peak2009$fips_msa)
+table(peak2009_hpi$state) / 37
 
-hpi$city_state <- paste(hpi$city, hpi$state, sep= ", ")
+qplot(time, hpi, data = peak2009_hpi, geom = "line") + facet_wrap(~ city_state)
 
-#calculating max change and date of max
+# Combine gdp and hpi --------------------------------------------------------
 
-returnMaxTimeHPI <- function(d, maxcolumn)
-	unique(d[d[,maxcolumn] == max(d[,maxcolumn]), c("hpi","time")])
+gdp_hpi <- merge(hpi_peaks, gdp, by = "fips", all.x = TRUE)
+selected <- subset(gdp_hpi, rank <= 10 | rank > 310)
 
+qplot(year, gdp, data = selected, colour = rank, geom="line", group = metro, facets=~ industry, log = "y")
 
-MaxHPI <- ddply(hpi, .(fips_msa) , returnMaxTimeHPI, maxcolumn = "hpi")
-
-
-HPI09 <- ddply(hpi[ hpi[,"year"] >= 2009 ,], .(fips_msa) , returnMaxTimeHPI, maxcolumn = "hpi")
-
-
-names(HPI09)[2] <- "hpi_2009" 
-names(MaxHPI)[c(2,3)]<- c("max_hpi","max_time")
-
-maximum_hpi <- merge(MaxHPI, HPI09, by= "fips_msa")
-
-maximum_hpi$percent_change<- maximum_hpi$max_hpi / maximum_hpi$hpi_2009 * 100 - 100
-
-#Rankings the percent change, and finding the top 10 and bottom ten cities
-
-maximum_hpi$rank <- rank(-maximum_hpi["percent_change"], ties="first")
-
-#Anything that was ranked 310 and higher had a percent change of 0, didn't think that finding bottom ten was sufficient
-
-subset(maximum_hpi, rank <= 10 | rank > 310)
-
-#merge gdp data set with maximum_hpi by fips_msa
-
-gdp <- read.csv("../../data/gdp-metro/gdp-metro.csv")
-
-indust <- read.csv("../../data/gdp-metro/indust-dictionary.csv")
-fips <-  read.csv("../../data/gdp-metro/fips-dictionary.csv")
-
-top_indust <- subset(gdp, indust %in% c(11, 3, 10, 12, 36, 45, 58, 63, 62, 66, 78, 67, 55, 12, 71, 50, 6, 74, 100, 104))
-
-gdp<- merge(top_indust, indust, by = "indust")
-gdp <- merge(gdp, fips, by = "fips")
-
-# Make industry and city labels small enough to plot
-
-gdp$industry <- abbreviate(gdp$Industry, 8)
-gdp$Industry <- NULL
-
-gdp$metro <- str_replace(gdp$Metropolitan.Area, " \\(MSA\\)", "")
-gdp$metro <- abbreviate(gdp$metro, 15)
-gdp$Metropolitan.Area <- NULL
-
-gdp <- gdp[!is.na(gdp$gdp), ]
-
-#Running into problem- the merged information does not contain any rank of less thank 10... i don't know what happend?
-
-names(maximum_hpi)[1] <- "fips" 
+# Agriculture, foresty & fishing
+#  - interesting! the low ranking towns have (on average) much higher values
+qplot(year, gdp, data = subset(selected, indust == 3), 
+  colour = rank, geom="line", group = metro, log = "y")
 
 
-gdp_hpi <- merge(gdp, maximum_hpi, by="fips")
+# Just look at construction
+qplot(year, gdp, data = subset(selected, indust == 11), 
+  colour = rank, geom="line", group = metro, log = "y")
 
-selected <-subset(gdp_hpi, rank<=10 | rank > 310)
+# Combine gdp growth and hpi -------------------------------------------------
 
-qplot(year, gdp, data = selected, colour = rank, geom="line", facets=~ metro, log = "y")
+growth_hpi <- merge(hpi_peaks, gdp_growth, by = "fips", all.x = TRUE)
 
+qplot(start, industry, data = growth_hpi, colour = percent_change, log = "x")
 
-#was the percent change supposed to be with the population indexed GDP?
+qplot(start, percent_change, data = growth_hpi, log = "x") + facet_wrap(~ industry)
+qplot(growth, percent_change, data = growth_hpi) + facet_wrap(~ industry) + xlim(0.8, 1.2)
 
-#subset top and bottom, color rank, gdp, time
+qplot(cut_number(percent_change, 4), growth, data = subset(growth_hpi, !is.na(percent_change) & !is.na(industry)), geom = "boxplot") + facet_wrap(~ industry)
+

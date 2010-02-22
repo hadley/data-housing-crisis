@@ -48,12 +48,14 @@ qplot(year, gdp, data = selected2, group = metro, geom="line", facets=~ industry
 
 # Look at just geometric growth 
 
-growth <- ddply(withpop, c("industry", "metro"), function(df) {
+growth <- ddply(selected, c("industry", "metro"), function(df) {
   exp(coef(lm(log(gdp) ~ I(year - 2001), data = df)))
-})
+}, .progress = "text")
 names(growth)[3:4] <- c("start", "growth")
 
 growth <- subset(growth, !is.na(growth))
+write.table(growth, "gdp-growth.csv", sep = ",", row = F)
+
 
 qplot(growth, reorder(industry, growth), data = growth) + 
   geom_vline(xintercept = 1, colour = "grey50")
