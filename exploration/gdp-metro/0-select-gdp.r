@@ -22,6 +22,15 @@ gdp$Metropolitan.Area <- NULL
 
 gdp <- gdp[!is.na(gdp$gdp), ]
 
+# Merge with population, index gdp by population
+
+pop <- read.csv("../../data/census-population/population-msa.csv")
+names(pop)[12] <- "fips"
+
+gdp <- merge(gdp, pop[c("fips","year","popestimate")], 
+  by = c("fips","year"))
+gdp$index.gdp <- gdp$gdp / gdp$popestimate
+
 write.table(gdp, "gdp-selected.csv", sep = ",", row = F)
 
 # Calculate and save summary statistics
