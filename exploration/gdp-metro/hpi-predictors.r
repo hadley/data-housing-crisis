@@ -14,7 +14,7 @@ names(hpi_peaks)[1] <- "fips"
 
 # Explore cities that peaked in 2009 -----------------------------------------
 peak2009 <- subset(maximum_hpi, percent_change == 0)
-peak2009_hpi <- subset(hpi, fips_msa %in% peak2009$fips_msa)
+peak2009_hpi <- subset(hpi, fip %in% peak2009$fips)
 table(peak2009_hpi$state) / 37
 
 qplot(time, hpi, data = peak2009_hpi, geom = "line") + facet_wrap(~ city_state)
@@ -25,13 +25,21 @@ gdp_hpi <- merge(hpi_peaks, gdp, by = "fips", all.x = TRUE)
 selected <- subset(gdp_hpi, rank <= 10 | rank > 310)
 
 qplot(year, gdp, data = selected, colour = rank, geom="line", group = metro, facets=~ industry, log = "y")
+qplot(year, index.gdp, data = selected, colour = rank, geom="line", group = metro, facets=~ industry, log = "y")
 
 # Agriculture, foresty & fishing
 #  - interesting! the low ranking towns have (on average) much higher values
 qplot(year, gdp, data = subset(selected, indust == 3), 
   colour = rank, geom="line", group = metro, log = "y")
+qplot(year, index.gdp, data = subset(selected, indust == 3), 
+  colour = rank, geom="line", group = metro, log = "y" )
+qplot(year, index.gdp, data = subset(gdp_hpi, indust == 3), 
+  colour = rank, geom="line", group = metro, log = "y" )
+
+#look at initial hpi vs hpi change for Agriculture industry
 
 
+  
 # Just look at construction
 qplot(year, gdp, data = subset(selected, indust == 11), 
   colour = rank, geom="line", group = metro, log = "y")
