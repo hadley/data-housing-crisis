@@ -9,9 +9,9 @@ qplot(year, index.gdp, data = gdp, colour = industry, geom="line", facets=~ metr
 
 # Compare industries across cities ------------------------------------------
 # Get rid of all city-industry combinations with < 3 points
-selected2 <- ddply(selected, c("industry", "metro"), transform, 
+gdp <- ddply(gdp, c("industry", "metro"), transform, 
   n = length(metro))
-selected2 <- subset(selected2, n >= 4)
+selected <- subset(gdp, n >= 4)
 
 qplot(year, gdp, data = selected2, group = metro, geom="line", facets=~ industry, log = "y")
 # Industries do seem share common patterns across cities, but it's difficult
