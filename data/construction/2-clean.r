@@ -7,7 +7,7 @@ load_file <- function(path) {
   # Find first line of data: the second line which has at least one character
   # and a character in the second column
   first <- which(nchar(raw) > 1 & substr(raw, 2, 2) != " ")[2]
-  # First the last line of data: the first line after the start which has less
+  # Find the last line of data: the first line after the start which has less
   # than two characters
   last <- which(nchar(raw[-seq_len(first)]) < 2)[1] + first - 1
   
