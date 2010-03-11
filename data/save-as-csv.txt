@@ -1,0 +1,53 @@
+Sub save_all_csv()
+oldName = ThisWorkbook.FullName
+curpath = ThisWorkbook.Path
+
+ For Each ws In ActiveWorkbook.Worksheets
+  ws.SaveAs Filename:=curpath & "\" & ws.Name & ".csv", FileFormat:=xlCSV, CreateBackup:=False
+Next
+'bring old file back
+Workbooks.Open Filename:=oldName
+ThisWorkbook.Close savechanges:=False
+End Sub
+
+
+
+Dim xl As New Excel.Application
+Dim wk As New Excel.Workbook
+Dim s As Excel.Worksheet
+Dim fso As New FileSystemObject ' You need set the Microsoft Scripting Runtime in References
+Dim a As File
+Dim f As Folder
+Dim pathDir, pathDirOut As String
+
+' Set dir of the files
+pathDir = "C:/xls/"
+
+' Set out dir
+pathDirOut = "C:/xls/out/"
+
+
+Set f = fso.GetFolder(pathDir)
+
+For Each a In f.Files
+    Set wk = xl.Workbooks.Open(a)
+       xl.DisplayAlerts = False
+       
+       ' Look for all sheets in the workbook
+       For Each s In wk.Sheets
+         ' If is there values in the sheet, save as...
+         If xl.WorksheetFunction.CountA(s.Range("A1:A65536")) > 0 Then
+            s.SaveAs pathDirOut & s.Name & Replace(a.Name, ".xls", ".csv"), FileFormat:=xlCSV
+         End If
+       Next
+       
+       wk.Close
+       xl.DisplayAlerts = True
+       xl.Quit
+    Set xl = Nothing
+    Set wk = Nothing
+DoEvents
+Next
+
+
+End Sub
