@@ -37,9 +37,13 @@ qplot(growth, metro, data = growth) +
   
 qplot(start, growth, data = growth)
 
+#look into agriculture
+qplot(start, growth, data = subset(growth, industry=Affah))
+
+
 # Remove geometric growth and just look at deviations
 
-deviations <- ddply(selected2, c("industry", "metro"), function(df) {
+deviations <- ddply(selected, c("industry", "metro"), function(df) {
   mod <- lm(log(gdp) ~ I(year - 2001), data = df)
   d <- resid(mod)
   
@@ -49,3 +53,9 @@ qplot(year, exp(dev), data = deviations, group = metro, geom="line",
   facets = ~ industry)
 qplot(year, exp(dev), data = deviations, group = metro, geom="line", 
   facets = ~ industry) + ylim(0.8, 1.2) + geom_smooth(aes(group = 1))
+
+#look at agriculture only
+  
+qplot(year, exp(dev), data = subset(deviations, industry==Affah), group = metro, geom="line", 
+  facets = ~ industry) + ylim(0.8, 1.2) + geom_smooth(aes(group = 1))
+
