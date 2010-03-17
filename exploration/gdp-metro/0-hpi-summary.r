@@ -21,9 +21,9 @@ names(MaxHPI)[c(2,3)]<- c("max_hpi","max_time")
 
 maximum_hpi <- merge(MaxHPI, HPI09, by= "fips_msa")
 
-maximum_hpi$percent_change<- maximum_hpi$max_hpi / maximum_hpi$hpi_2009 * 100 - 100
+maximum_hpi$percent_change <- maximum_hpi$max_hpi / maximum_hpi$hpi_2009 * 100 - 100
 
-#Rankings the percent change, and finding the top 10 and bottom ten cities
+# Rank the percent change
 
 maximum_hpi$rank <- rank(-maximum_hpi["percent_change"], ties="first")
 maximum_hpi <- maximum_hpi[order(-maximum_hpi$percent_change), ]

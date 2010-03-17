@@ -1,7 +1,7 @@
 library(stringr)
 library(ggplot2)
 
-gdp <- read.csv("gdp-selected.csv")
+gdp <- read.csv("gdp-summary.csv")
 
 
 qplot(year, gdp, data = gdp, colour = industry, geom="line", facets=~ metro, log = "y")
