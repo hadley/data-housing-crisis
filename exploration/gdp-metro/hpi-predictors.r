@@ -7,7 +7,7 @@
 # subset(,  rank <= 10 | rank > 900)
 
 library(ggplot2)
-gdp <- read.csv("gdp-selected.csv")
+gdp <- read.csv("gdp-summary.csv")
 gdp_growth <- read.csv("gdp-growth.csv")
 hpi_peaks <- read.csv("hpi-peaks.csv") 
 names(hpi_peaks)[1] <- "fips" 
@@ -17,7 +17,8 @@ peak2009 <- subset(maximum_hpi, percent_change == 0)
 peak2009_hpi <- subset(hpi, fip %in% peak2009$fips)
 table(peak2009_hpi$state) / 37
 
-qplot(time, hpi, data = peak2009_hpi, geom = "line") + facet_wrap(~ city_state)
+qplot(time, hpi, data = peak2009_hpi, geom = "line") + 
+  facet_wrap(~ city_state)
 
 # Combine gdp and hpi --------------------------------------------------------
 
@@ -35,10 +36,6 @@ qplot(year, index.gdp, data = subset(selected, indust == 3),
   colour = rank, geom="line", group = metro, log = "y" )
 qplot(year, index.gdp, data = subset(gdp_hpi, indust == 3), 
   colour = rank, geom="line", group = metro, log = "y" )
-
-#look at initial hpi vs hpi change for Agriculture industry
-
-
   
 # Just look at construction
 qplot(year, gdp, data = subset(selected, indust == 11), 
