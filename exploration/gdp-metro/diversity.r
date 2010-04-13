@@ -35,7 +35,7 @@ hpi_peaks <- read.csv("hpi-peaks.csv")
 diversity <- ddply(subset(gdp, year == 2006), c("fips", "year"), summarise, 
   d1 = sum((gdp.prop - overall.prop)^2 / overall.prop),
   d2 = sd(gdp.prop),
-  d3 = (1 - 1/19) - sum((gdp.prop - 1 / 19) ^ 2),
+  d3 = sum((gdp.prop - 1 / 19) ^ 2),
   biggest.gdp = max(gdp.prop),
   n.big = sum(gdp.prop > 0.1)
 )
