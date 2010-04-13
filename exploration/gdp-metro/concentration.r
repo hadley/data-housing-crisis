@@ -32,3 +32,5 @@ ggplot(selected, aes(gdp.prop, yearly_change)) +
   facet_wrap(~ industry) +
   xlab("Average proportion of spending (2006-2008)") +
   ylab("Average yearly change in HPI (2006-2009)")
+
+ggsave("concentration.pdf", width = 10, height = 6)

@@ -28,19 +28,23 @@ cons <- subset(hpi.gdp, indust == 11 & year < 2008)
 qplot(gdp.prop, gdp.delta, data = cons) + facet_wrap(~ year)
 qplot(gdp, gdp.delta, data = cons) + facet_wrap(~ year)
 
-# Pull out cities with > 50% change
+# Remove cities with > 50% change
 big.delta <- subset(cons, abs(gdp.delta) > 0.5)
 
 cons.safe <- subset(cons, !(fips %in% big.delta$fips))
+cons.safe$cafl <- with(cons.safe, 
+  ifelse(state %in% c("CA", "FL"), as.character(state), "other"))
 
 ggplot(cons.safe, aes(hpi.delta, gdp.delta)) +
  geom_vline(xintercept = 0, colour = "grey50") + 
  geom_hline(yintercept = 0, colour = "grey50") +
- geom_point(aes(colour= state)) + 
- facet_wrap(~ year, nrow = 2) + 
- coord_equal()
+ geom_point(aes(colour= cafl, order = -xtfrm(cafl))) + 
+ facet_wrap(~ year, nrow = 1) + 
+ coord_equal() + 
+ scale_colour_manual(values = c("CA" = "#F8766D", "FL" = "#00BFC4", "other" = "grey50")) + 
+ xlab("Change in HPI") + ylab("Change in GDP")
 
-ggsave(..., file=paste("exports/", nameOfPlot,".pdf",sep = "", collapse = ""), width=8, height=6)
+ggsave("yearly-gdp-hpi.pdf", width = 12, height = 4)
 
 # Look at changes in individual cities ----------------------------------
 # Is there a consistent pattern?
