@@ -12,8 +12,7 @@ hpi_peaks <- ddply(hpi, .(fips_msa), summarise,
   peak_time = time[which.max(hpi)],
   peak_hpi = max(hpi),
   prop_change = max(hpi) / hpi[time == 2009],
-  yearly_change = (hpi[time == 2009] - hpi[time == 2006]) / 
-    hpi[time == 2006] / 3
+  yearly_change = (hpi[time == 2009] / hpi[time == 2006]) ^ (1 / 3) - 1
 )
 
 names(hpi_peaks)[1] <- "fips"
