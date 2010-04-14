@@ -44,7 +44,43 @@ ggplot(cons.safe, aes(hpi.delta, gdp.delta)) +
  scale_colour_manual(values = c("CA" = "#F8766D", "FL" = "#00BFC4", "other" = "grey50")) + 
  xlab("Change in HPI") + ylab("Change in GDP")
 
-ggsave("yearly-gdp-hpi.pdf", width = 12, height = 4)
+ggsave("yearly-gdp-hpi.pdf", width = 20, height = 4)
+
+#Look at 2004, 2006, 2007
+
+ggplot(subset(cons.safe, year==2004), aes(hpi.delta, gdp.delta)) +
+ geom_vline(xintercept = 0, colour = "grey50") + 
+ geom_hline(yintercept = 0, colour = "grey50") +
+ geom_point(aes(colour= cafl, order = -xtfrm(cafl))) + 
+ coord_equal() + 
+ scale_colour_manual(values = c("CA" = "#F8766D", "FL" = "#00BFC4", "other" = "grey50")) + 
+ xlab("Change in HPI") + ylab("Change in GDP") 
+
+ggsave("gdp-hpi2004.pdf", width = 5, height = 5)
+
+
+ggplot(subset(cons.safe, year==2006), aes(hpi.delta, gdp.delta)) +
+ geom_vline(xintercept = 0, colour = "grey50") + 
+ geom_hline(yintercept = 0, colour = "grey50") +
+ geom_point(aes(colour= cafl, order = -xtfrm(cafl))) + 
+ coord_equal() + 
+ scale_colour_manual(values = c("CA" = "#F8766D", "FL" = "#00BFC4", "other" = "grey50")) + 
+ xlab("Change in HPI") + ylab("Change in GDP") 
+
+ggsave("gdp-hpi2006.pdf", width = 5, height = 5)
+
+ggplot(subset(cons.safe, year==2010), aes(hpi.delta, gdp.delta)) +
+ geom_vline(xintercept = 0, colour = "grey50") + 
+ geom_hline(yintercept = 0, colour = "grey50") +
+ geom_point(aes(colour= cafl, order = -xtfrm(cafl))) + 
+ coord_equal() + 
+ scale_colour_manual(values = c("CA" = "#F8766D", "FL" = "#00BFC4", "other" = "grey50")) + 
+ xlab("Change in HPI") + ylab("Change in GDP") 
+
+ggsave("gdp-hpi2007.pdf", width = 5, height = 5)
+
+
+
 
 # Look at changes in individual cities ----------------------------------
 # Is there a consistent pattern?

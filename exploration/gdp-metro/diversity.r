@@ -56,5 +56,6 @@ qplot(biggest.gdp, prop_change, data = diversity)
 
 qplot(d1, yearly_change, data = diversity)
 qplot(d2, yearly_change, data = diversity)
-qplot(d3, yearly_change, data = diversity)
+qplot(d3, yearly_change, data = diversity, xlab= "Industrial Diversity", ylab= "HPI Annual Growth Rate")
+ggsave("diversity.pdf", width = 10, height = 6)
 qplot(biggest.gdp, yearly_change, data = diversity)
